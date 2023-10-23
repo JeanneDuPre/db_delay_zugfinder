@@ -1,4 +1,4 @@
-## Projekt 'Umgestaltung des Berliner Hauptbahnhofs
+## Projekt: Umgestaltung des Berliner Hauptbahnhofs
 
 Die Umgestaltung des Berliner Hauptbahnhofs aufgrund des gestiegenen Fahrgastaufkommens dürfte kaum dazu beitragen, das Problem auf der Stadtlinie zu bewältigen, wie meine Abbildung zeigt. Dezentralisierung sollte das Maß aller Dinge sein. Die Nord-Süd-Achse weist Potential auf.
 (https://lnkd.in/etmmT9YU)
