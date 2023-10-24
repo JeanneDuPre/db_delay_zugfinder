@@ -40,43 +40,50 @@ def scrape_and_save_data(bahnhof, zug, date):
         length = len(mydata)
         mydata.loc[length] = row
 
-    output_dir = "../data"
-    # Ensure the output directory exists
-    os.makedirs(output_dir, exist_ok=True)
+    return mydata
 
-    # Export to csv
+
+def save_to_csv(df, bahnhof, zug, date):
+    output_dir = "data"
+    os.makedirs(output_dir, exist_ok=True)
     csv_filename = f"{bahnhof}_{zug}_{date}.csv"
     csv_path = os.path.join(output_dir, csv_filename)
-    mydata.to_csv(csv_path, index=False)
+    df.to_csv(csv_path, index=False)
 
 
-berlin_bahnhöfe = [
-    "Berlin_Lichterfelde_Ost",
-    "Berlin_Charlottenburg",
-    "Berlin_Alexanderplatz",
-    "Berlin_Friedrichstr",
-    "Berlin_Gesundbrunnen",
-    "Berlin_Hbf_(Tief)",
-    "Berlin_Hbf",
-    "Berlin_Hohensch%C3%B6nhausen",
-    "Berlin_Jungfernheide",
-    "Berlin_Jungfernheide",
-    "Berlin_Karow",
-    "Berlin_Lichtenberg",
-    "Berlin_Lichterfelde_Ost",
-    "Berlin_Ostbahnhof",
-    "Berlin_Ostkreuz",
-    "Berlin_Potsdamer_Platz",
-    "Berlin_S%C3%BCdkreuz",
-    "Berlin_Spandau",
-    "Berlin_Zoologischer_Garten",
-]
+def main():
+    berlin_bahnhöfe = [
+        "Berlin_Lichterfelde_Ost",
+        "Berlin_Charlottenburg",
+        "Berlin_Alexanderplatz",
+        "Berlin_Friedrichstr",
+        "Berlin_Gesundbrunnen",
+        "Berlin_Hbf_(Tief)",
+        "Berlin_Hbf",
+        "Berlin_Hohensch%C3%B6nhausen",
+        "Berlin_Jungfernheide",
+        "Berlin_Jungfernheide",
+        "Berlin_Karow",
+        "Berlin_Lichtenberg",
+        "Berlin_Lichterfelde_Ost",
+        "Berlin_Ostbahnhof",
+        "Berlin_Ostkreuz",
+        "Berlin_Potsdamer_Platz",
+        "Berlin_S%C3%BCdkreuz",
+        "Berlin_Spandau",
+        "Berlin_Zoologischer_Garten",
+    ]
 
-züge = ["arr-Regio", "dep-Regio"]
+    züge = ["arr-Regio", "dep-Regio"]
 
-new_date_str = get_new_date()
+    new_date_str = get_new_date()
 
-# Scraping and saving data for each station and train type
-for bahnhof in berlin_bahnhöfe:
-    for zug in züge:
-        scrape_and_save_data(bahnhof, zug, new_date_str)
+    # Scraping and saving data for each station and train type
+    for bahnhof in berlin_bahnhöfe:
+        for zug in züge:
+            data = scrape_and_save_data(bahnhof, zug, new_date_str)
+            save_to_csv(data, bahnhof, zug, new_date_str)
+
+
+if __name__ == "__main__":
+    main()
