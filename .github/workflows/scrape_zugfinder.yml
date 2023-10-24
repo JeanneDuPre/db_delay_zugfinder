@@ -13,7 +13,10 @@ jobs:
     - uses: actions/setup-python@v3
       with:
         python-version: '3.9'
-    - run: pip install pytankerkoenig
+    - run: |
+        pip install pandas
+        pip install requests
+        pip install beautifulsoup4
     - name: Run scraper
       env: 
         API_KEY: ${{ secrets.API_KEY }}
