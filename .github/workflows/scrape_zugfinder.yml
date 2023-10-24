@@ -1,0 +1,29 @@
+name: Zugfinder Berliner Bahnhöfe der DB
+
+on:
+  schedule:
+    - cron: "0 8 * * *" # 8:00 AM every day
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - uses: actions/setup-python@v3
+      with:
+        python-version: '3.9'
+    - run: pip install pytankerkoenig
+    - name: Run scraper
+      env: 
+        API_KEY: ${{ secrets.API_KEY }}
+      run: python scrape_zugfinder.py
+    - name: Add and commit	
+      run: |-	
+        git add .	
+        git config user.name "Automated"	
+        git config user.email "actions@users.noreply.github.com"	
+        timestamp=$(date -u)
+        git commit -m "Latest data: ${timestamp}" || exit 0 	
+    - name: Push	
+      run: git push
