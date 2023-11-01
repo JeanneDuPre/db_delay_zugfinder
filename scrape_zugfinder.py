@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import os
 from datetime import datetime, timedelta
+import logging
 
 
 def get_new_date():
@@ -21,34 +22,42 @@ def get_new_date():
 
 def scrape_and_save_data(bahnhof, zug, date):
     url = f"https://www.zugfinder.net/de/bahnhofstafel-{bahnhof}-{date}-{zug}"
+    try:
+        # Create object page
+        page = requests.get(url)
+        soup = BeautifulSoup(page.text, "lxml")
+        table1 = soup.find("table", id="zugdaten")
+        if table1 is not None: 
+            # Obtain every title of columns with tag <th>
+            headers = [i.text for i in table1.find_all("th")]
 
-    # Create object page
-    page = requests.get(url)
-    soup = BeautifulSoup(page.text, "lxml")
-    table1 = soup.find("table", id="zugdaten")
+            # Create a dataframe
+            mydata = pd.DataFrame(columns=headers)
 
-    # Obtain every title of columns with tag <th>
-    headers = [i.text for i in table1.find_all("th")]
+            # Create a for loop to fill mydata
+            for j in table1.find_all("tr")[1:]:
+                row_data = j.find_all("td")
+                row = [i.text for i in row_data]
+                length = len(mydata)
+                mydata.loc[length] = row
 
-    # Create a dataframe
-    mydata = pd.DataFrame(columns=headers)
-
-    # Create a for loop to fill mydata
-    for j in table1.find_all("tr")[1:]:
-        row_data = j.find_all("td")
-        row = [i.text for i in row_data]
-        length = len(mydata)
-        mydata.loc[length] = row
-
-    return mydata
+            return mydata
+    except requests.exceptions.RequestException as e: 
+        logging.error(f"Request failed for {url} : {e}")
+    except Exception as e: 
+        logging.error(f"An error occurred: {e}")
+    return None
 
 
 def save_to_csv(df, bahnhof, zug, date):
-    output_dir = "data"
-    os.makedirs(output_dir, exist_ok=True)
-    csv_filename = f"{bahnhof}_{zug}_{date}.csv"
-    csv_path = os.path.join(output_dir, csv_filename)
-    df.to_csv(csv_path, index=False)
+    if df is not None: 
+        output_dir = "data"
+        os.makedirs(output_dir, exist_ok=True)
+        csv_filename = f"{bahnhof}_{zug}_{date}.csv"
+        csv_path = os.path.join(output_dir, csv_filename)
+        df.to_csv(csv_path, index=False)
+    else: 
+        print(f"Data is None for {bahnhof}, {zug}, {date}. Skipping CSV saving.")
 
 
 def main():
