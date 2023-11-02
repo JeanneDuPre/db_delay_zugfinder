@@ -54,7 +54,7 @@ Ankunft,Zugnr.,von (Abfahrt),Ankunftsbhf.
 07:56 (+2),FEX19812,Flughafen BER - Terminal 1-2 (ab 07:28),Berlin Gesundbrunnen
 07:57,FEX19821,Berlin Hbf (tief) (ab 07:51),Berlin Gesundbrunnen
 08:03,RE 93505,Stralsund Hbf (ab 05:02),Berlin Gesundbrunnen
-08:10 (+46),ICE 698,München Hbf (ab 21:51),Berlin Gesundbrunnen
+08:10 (+44),ICE 698,München Hbf (ab 21:51),Berlin Gesundbrunnen
 08:17 (+1),IC 2173,Rostock Hbf (ab 06:21),Berlin Gesundbrunnen
 08:21 (+5),RE 3343,Schwedt(Oder) (ab 07:06),Berlin Gesundbrunnen
 08:26,FEX19823,Berlin Hbf (tief) (ab 08:21),Berlin Gesundbrunnen
@@ -66,7 +66,7 @@ Ankunft,Zugnr.,von (Abfahrt),Ankunftsbhf.
 08:56,FEX19825,Berlin Hbf (tief) (ab 08:51),Berlin Gesundbrunnen
 09:03,RE 4355,Rostock Hbf (ab 06:34),Berlin Gesundbrunnen
 09:03,RE 93355,Rostock Hbf (ab 06:34),Berlin Gesundbrunnen
-09:07 (+1),ICE 1731,Eisenach Hbf (ab 06:38),Berlin Gesundbrunnen
+09:07 (+1),ICE 1731,Eisenach (ab 06:38),Berlin Gesundbrunnen
 09:22 (+3),RE 3305,Stralsund Hbf (ab 06:17),Berlin Gesundbrunnen
 09:26,FEX19827,Berlin Hbf (tief) (ab 09:21),Berlin Gesundbrunnen
 09:27 (+3),FEX19818,Flughafen BER - Terminal 1-2 (ab 08:58),Berlin Gesundbrunnen
@@ -195,7 +195,7 @@ Ankunft,Zugnr.,von (Abfahrt),Ankunftsbhf.
 18:03 (+3),RE 3515,Stralsund Hbf (ab 15:02),Berlin Gesundbrunnen
 18:03,RE 93515,Stralsund Hbf (ab 15:02),Berlin Gesundbrunnen
 18:17 (+3),IC 2273,Rostock Hbf (ab 16:21),Berlin Gesundbrunnen
-18:18,ICE 1055,Berlin Hbf (ab 18:14),Berlin Gesundbrunnen
+18:18,ICE 1055,Berlin Hbf (tief) (ab 18:14),Berlin Gesundbrunnen
 18:18,RE 51055,Berlin Hbf (tief) (ab 18:14),Berlin Gesundbrunnen
 18:22 (+6),RE 3353,Schwedt(Oder) (ab 17:06),Berlin Gesundbrunnen
 18:26,FEX19863,Berlin Hbf (tief) (ab 18:21),Berlin Gesundbrunnen

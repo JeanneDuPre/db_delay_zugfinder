@@ -15,7 +15,7 @@ Abfahrt,Zugnr.,nach (Ankunft),Abfahrtsbhf.
 01:47,RE 3150,Falkenberg(Elster) (an 12:35),Berlin Zoologischer Garten
 02:21,RE 62047,Berlin-Spandau (an 02:31),Berlin Zoologischer Garten
 02:21,RE 92757,Nauen (an 02:56),Berlin Zoologischer Garten
-02:39,RE 62046,Flughafen BER - Terminal 1-2 (an 03:16),Berlin Zoologischer Garten
+02:39,RE 62046,Flughafen BER (an 03:16),Berlin Zoologischer Garten
 03:09,FEX19801,Flughafen BER - Terminal 1-2 (an 03:46),Berlin Zoologischer Garten
 03:21,RE 92743,Berlin-Charlottenburg (an 03:24),Berlin Zoologischer Garten
 03:23,FEX19803,Flughafen BER - Terminal 1-2 (an 04:00),Berlin Zoologischer Garten
@@ -336,7 +336,7 @@ Abfahrt,Zugnr.,nach (Ankunft),Abfahrtsbhf.
 23:05,RB 18177,Flughafen BER - Terminal 1-2 (an 23:47),Berlin Zoologischer Garten
 23:05,RB 94169,Flughafen BER - Terminal 1-2 (an 23:47),Berlin Zoologischer Garten
 23:25 (+1),RE 62039,Wittenberge (an 00:56),Berlin Zoologischer Garten
-23:33,RE 62036,Flughafen BER - Terminal 1-2 (an 00:15),Berlin Zoologischer Garten
+23:33,RE 62036,Flughafen BER (an 00:15),Berlin Zoologischer Garten
 23:40,RE 3740,Berlin Ostbahnhof (an 23:56),Berlin Zoologischer Garten
 23:40,RE 94740,Berlin Ostbahnhof (an 23:56),Berlin Zoologischer Garten
 23:45 (+1),RE 3138,Cottbus Hbf (an 01:38),Berlin Zoologischer Garten

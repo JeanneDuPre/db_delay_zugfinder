@@ -3,7 +3,7 @@ Abfahrt,Zugnr.,nach (Ankunft),Abfahrtsbhf.
 00:23,RE 62038,Flughafen BER - Terminal 1-2 (an 01:15),Berlin-Spandau
 00:29 (+23),ICE 790,Berlin Ostbahnhof (an 00:56),Berlin-Spandau
 00:35 (+2),RE 3100,Cottbus Hbf (an 02:41),Berlin-Spandau
-02:28,RE 62046,Flughafen BER - Terminal 1-2 (an 03:16),Berlin-Spandau
+02:28,RE 62046,Flughafen BER (an 03:16),Berlin-Spandau
 02:33,RE 92757,Nauen (an 02:56),Berlin-Spandau
 04:25,RE 62048,Flughafen BER - Terminal 1-2 (an 05:14),Berlin-Spandau
 04:29 (+1),RB 18241,Potsdam Hbf (an 05:19),Berlin-Spandau
@@ -382,7 +382,7 @@ Abfahrt,Zugnr.,nach (Ankunft),Abfahrtsbhf.
 19:37 (+10),RE 62031,Wismar (an 22:37),Berlin-Spandau
 19:39,RE 3615,Berlin-Charlottenburg (an 19:46),Berlin-Spandau
 19:40 (+36),ICE 1059,Berlin Ostbahnhof (an 20:08),Berlin-Spandau
-19:44 (+60),IC 2075,Berlin Hbf (an 19:55),Berlin-Spandau
+19:44 (+60),IC 2075,Berlin Hbf (tief) (an 19:55),Berlin-Spandau
 19:46 (+3),ICE 997,Kassel-Wilhelmshöhe (an 22:12),Berlin-Spandau
 19:48 (+4),ICE 504,Hamburg-Altona (an 21:40),Berlin-Spandau
 19:48 (+9),RE 3178,Jüterbog (an 20:56),Berlin-Spandau
@@ -462,7 +462,7 @@ Abfahrt,Zugnr.,nach (Ankunft),Abfahrtsbhf.
 23:18,RE 4471,Hamburg Hbf (an 21:43),Berlin-Spandau
 23:18,RE 91485,Stendal Hbf (an 00:20),Berlin-Spandau
 23:22 (+1),RE 3620,Neuruppin West (an 00:38),Berlin-Spandau
-23:23,RE 62036,Flughafen BER (an 00:15),Berlin-Spandau
+23:23,RE 62036,Flughafen BER - Terminal 1-2 (an 00:15),Berlin-Spandau
 23:26,RB 18536,Nauen (an 23:50),Berlin-Spandau
 23:33,RE 3138,Cottbus Hbf (an 01:38),Berlin-Spandau
 23:33,RE 4255,Brig (an 06:07),Berlin-Spandau
