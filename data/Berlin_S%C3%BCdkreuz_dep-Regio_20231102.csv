@@ -192,7 +192,7 @@ Abfahrt,Zugnr.,nach (Ankunft),Abfahrtsbhf.
 15:44 (+7),RE 3311,Jüterbog (an 16:26),Berlin Südkreuz
 15:48 (+60),ICE 1004,Hamburg-Altona (an 18:22),Berlin Südkreuz
 16:03 (+1),RB 18522,Nauen (an 16:50),Berlin Südkreuz
-16:11 (+1),FLX 1236,Köln Hbf (an 21:55),Berlin Südkreuz
+16:11 (+8),FLX 1236,Köln Hbf (an 21:55),Berlin Südkreuz
 16:11 (+1),ICE 1007,München Hbf (an 20:02),Berlin Südkreuz
 16:14 (+4),RE 3174,Jüterbog (an 16:56),Berlin Südkreuz
 16:23 (+13),RE 3314,Stralsund Hbf (an 19:43),Berlin Südkreuz
@@ -301,7 +301,7 @@ Abfahrt,Zugnr.,nach (Ankunft),Abfahrtsbhf.
 22:38 (+15),RE 4368,Bern (an 12:26),Berlin Südkreuz
 22:40 (+11),RE 3357,Lutherstadt Wittenberg Hbf (an 00:02),Berlin Südkreuz
 22:45 (+22),ICE 2802,Berlin Hbf (tief) (an 22:50),Berlin Südkreuz
-22:45 (+23),ICE 572,Berlin Hbf (an 22:50),Berlin Südkreuz
+22:45 (+23),ICE 572,Berlin Hbf (tief) (an 22:50),Berlin Südkreuz
 22:54 (+3),RE 3185,Stendal Hbf (an 00:20),Berlin Südkreuz
 22:54,RE 4471,Hamburg Hbf (an 21:43),Berlin Südkreuz
 22:54,RE 91485,Stendal Hbf (an 00:20),Berlin Südkreuz

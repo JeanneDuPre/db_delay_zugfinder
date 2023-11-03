@@ -13,7 +13,7 @@ Ankunft,Zugnr.,von (Abfahrt),Ankunftsbhf.
 05:11,RE 62150,Rathenow (ab 04:03),Berlin Südkreuz
 05:19,RE 3340,Falkenberg(Elster) (ab 03:50),Berlin Südkreuz
 05:20,RE 4351,Neustrelitz Hbf (ab 03:49),Berlin Südkreuz
-05:31 (+2),ICE 71,Berlin Hbf (ab 05:26),Berlin Südkreuz
+05:31 (+2),ICE 71,Berlin Hbf (tief) (ab 05:26),Berlin Südkreuz
 05:38,ICE 1701,Berlin Gesundbrunnen (ab 05:20),Berlin Südkreuz
 05:41,RE 3301,Angermünde (ab 04:27),Berlin Südkreuz
 05:44,RE 3167,Magdeburg Hbf (ab 04:19),Berlin Südkreuz
@@ -37,7 +37,7 @@ Ankunft,Zugnr.,von (Abfahrt),Ankunftsbhf.
 06:56,RB 18503,Nauen (ab 06:08),Berlin Südkreuz
 07:02,RE 3331,Stralsund Hbf (ab 03:53),Berlin Südkreuz
 07:02,RE 94461,Pasewalk (ab 05:05),Berlin Südkreuz
-07:06 (+1),EC 171,Berlin Hbf (tief) (ab 07:01),Berlin Südkreuz
+07:06 (+1),EC 171,Berlin Hbf (ab 07:01),Berlin Südkreuz
 07:09 (+1),ICE 573,Berlin Gesundbrunnen (ab 06:51),Berlin Südkreuz
 07:11,RE 3146,Rathenow (ab 06:03),Berlin Südkreuz
 07:11,RE 62154,Rathenow (ab 06:03),Berlin Südkreuz
@@ -69,7 +69,7 @@ Ankunft,Zugnr.,von (Abfahrt),Ankunftsbhf.
 08:34,ICE 505,Hamburg-Altona (ab 06:17),Berlin Südkreuz
 08:39 (+1),RE 3343,Schwedt(Oder) (ab 07:06),Berlin Südkreuz
 08:44 (+2),RE 3149,Falkenberg(Elster) (ab 06:55),Berlin Südkreuz
-08:50,ICE 1731,Eisenach (ab 06:38),Berlin Südkreuz
+08:50,ICE 1731,Eisenach Hbf (ab 06:38),Berlin Südkreuz
 08:55,ICE 2916,München Hbf (ab 12:44),Berlin Südkreuz
 08:55 (+3),ICE 870,Dresden Hbf (ab 06:54),Berlin Südkreuz
 08:56,RB 18507,Nauen (ab 08:08),Berlin Südkreuz
@@ -129,7 +129,7 @@ Ankunft,Zugnr.,von (Abfahrt),Ankunftsbhf.
 11:42,RE 3368,Berlin Hbf (tief) (ab 11:33),Berlin Südkreuz
 11:45 (+2),ICE 1006,München Hbf (ab 07:55),Berlin Südkreuz
 11:55,RB 18513,Nauen (ab 11:07),Berlin Südkreuz
-11:59 (+47),FLX 1233,Köln Hbf (ab 06:45),Berlin Südkreuz
+11:59 (+11),FLX 1233,Köln Hbf (ab 06:45),Berlin Südkreuz
 12:09,ICE 1005,Hamburg-Altona (ab 09:48),Berlin Südkreuz
 12:09 (+1),RE 3170,Frankfurt(Oder) (ab 09:26),Berlin Südkreuz
 12:09,RE 62164,Rathenow (ab 11:07),Berlin Südkreuz
@@ -186,7 +186,7 @@ Ankunft,Zugnr.,von (Abfahrt),Ankunftsbhf.
 14:44,RE 3155,Falkenberg(Elster) (ab 13:14),Berlin Südkreuz
 14:47 (+55),ICE 770,Stuttgart Hbf (ab 09:23),Berlin Südkreuz
 14:52 (+32),EC 174,Praha hl.n. (ab 10:25),Berlin Südkreuz
-14:54 (+3),EC 177,Berlin Hbf (tief) (ab 14:49),Berlin Südkreuz
+14:54 (+3),EC 177,Berlin Hbf (ab 14:49),Berlin Südkreuz
 14:56,RB 18519,Nauen (ab 14:08),Berlin Südkreuz
 15:09 (+1),ICE 771,Berlin Gesundbrunnen (ab 14:51),Berlin Südkreuz
 15:11,RE 3154,Fangschleuse (ab 00:03),Berlin Südkreuz
@@ -197,13 +197,13 @@ Ankunft,Zugnr.,von (Abfahrt),Ankunftsbhf.
 15:20,RE 4361,Rostock Hbf (ab 12:34),Berlin Südkreuz
 15:22 (+65),ICE 508,München Hbf (ab 10:55),Berlin Südkreuz
 15:28,IC 2170,Dresden Hbf (ab 13:18),Berlin Südkreuz
-15:31,ICE 1171,Berlin Hbf (ab 15:26),Berlin Südkreuz
+15:31,ICE 1171,Berlin Hbf (tief) (ab 15:26),Berlin Südkreuz
 15:39 (+8),ICE 709,Hamburg-Altona (ab 13:19),Berlin Südkreuz
 15:42 (+13),RE 3177,Jüterbog (ab 15:03),Berlin Südkreuz
 15:42,RE 3311,Stralsund Hbf (ab 12:17),Berlin Südkreuz
 15:45 (+61),ICE 1004,München Hbf (ab 11:56),Berlin Südkreuz
 15:56,RB 18521,Nauen (ab 15:08),Berlin Südkreuz
-16:07 (+6),FLX 1236,Leipzig Hbf (ab 14:41),Berlin Südkreuz
+16:07,FLX 1236,Leipzig Hbf (ab 14:41),Berlin Südkreuz
 16:09,ICE 1007,Hamburg-Altona (ab 13:51),Berlin Südkreuz
 16:09 (+6),RE 3174,Frankfurt(Oder) (ab 11:26),Berlin Südkreuz
 16:09,RE 62172,Rathenow (ab 15:07),Berlin Südkreuz
@@ -224,7 +224,7 @@ Ankunft,Zugnr.,von (Abfahrt),Ankunftsbhf.
 16:48 (+38),ICE 578,Stuttgart Hbf (ab 11:23),Berlin Südkreuz
 16:53 (+4),EC 378,Praha hl.n. (ab 12:25),Berlin Südkreuz
 16:55,RB 18523,Nauen (ab 16:08),Berlin Südkreuz
-17:06,EC 179,Berlin Hbf (tief) (ab 17:01),Berlin Südkreuz
+17:06,EC 179,Berlin Hbf (ab 17:01),Berlin Südkreuz
 17:09 (+16),ICE 773,Hamburg-Altona (ab 14:37),Berlin Südkreuz
 17:11 (+4),RE 3156,Rathenow (ab 16:03),Berlin Südkreuz
 17:11,RE 62174,Rathenow (ab 16:03),Berlin Südkreuz
@@ -279,7 +279,7 @@ Ankunft,Zugnr.,von (Abfahrt),Ankunftsbhf.
 19:42,RE 62181,Jüterbog (ab 19:03),Berlin Südkreuz
 19:46 (+10),ICE 1002,Garmisch-Partenkirchen (ab 14:15),Berlin Südkreuz
 19:56 (+1),RB 18529,Nauen (ab 19:08),Berlin Südkreuz
-19:57 (+6),FLX 1361,Hamburg Hbf (ab 17:34),Berlin Südkreuz
+19:57 (+5),FLX 1361,Hamburg Hbf (ab 17:34),Berlin Südkreuz
 20:09,ICE 1109,Berlin Gesundbrunnen (ab 19:51),Berlin Südkreuz
 20:09 (+19),RE 3178,Rathenow (ab 19:07),Berlin Südkreuz
 20:15 (+4),ICE 704,München Hbf (ab 15:23),Berlin Südkreuz
@@ -315,7 +315,7 @@ Ankunft,Zugnr.,von (Abfahrt),Ankunftsbhf.
 21:38 (+154),FLX 1239,Köln Hbf (ab 16:14),Berlin Südkreuz
 21:42,RE 3370,Berlin Hbf (tief) (ab 19:41),Berlin Südkreuz
 21:46 (+21),ICE 1000,München Hbf (ab 17:53),Berlin Südkreuz
-21:49 (+72),RJ 256,Graz Hbf (ab 10:25),Berlin Südkreuz
+21:49 (+64),RJ 256,Graz Hbf (ab 10:25),Berlin Südkreuz
 21:56 (+3),RB 18533,Nauen (ab 21:08),Berlin Südkreuz
 21:58 (+2),FEX19877,Berlin Hbf (tief) (ab 21:54),Berlin Südkreuz
 22:15 (+5),ICE 702,München Hbf (ab 17:57),Berlin Südkreuz
