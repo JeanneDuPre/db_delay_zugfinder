@@ -7,6 +7,12 @@ Die Umgestaltung des Berliner Hauptbahnhofs aufgrund des gestiegenen Fahrgastauf
 1. Die Daten wurden von www.zugfinder.com für den Tag 25.09.2023 entnommen.
 2. Die Daten wurden von www.zugfinder.com für einen Monat (24.10.2023-24.11.2023) entnommen.
 
+### Durchführung
+1. Daten wurden gescrapt.
+2. Die Datengewinnung wurde mittels GitHub Action (YAML) automatisiert für jeden Tag.
+3. Datenbereinigung in data.py
+4. Graphikenerstellung in plot.py
+    
 ### Visualisierung 
 #### 23.10.2023
 ![alt text](https://github.com/JeanneDuPre/db_delay_zugfinder/blob/main/images/abfertigungszeiten_berliner_bahnh%C3%B6fe_DB_20231023.png)
