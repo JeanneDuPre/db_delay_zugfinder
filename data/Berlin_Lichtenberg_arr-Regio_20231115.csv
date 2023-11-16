@@ -1,0 +1,72 @@
+Ankunft,Zugnr.,von (Abfahrt),Ankunftsbhf.
+01:00,RE 62041,Flughafen BER - Terminal 1-2 (ab 00:40),Berlin-Lichtenberg
+01:28,RE 73753,Frankfurt(Oder) (ab 00:24),Berlin-Lichtenberg
+04:53 (+1),RB 61101,Berlin Ostkreuz (ab 04:50),Berlin-Lichtenberg
+05:20 (+2),RB 61143,Berlin Ostkreuz (ab 05:17),Berlin-Lichtenberg
+05:24,RB 5150,Küstrin-Kietz (ab 04:10),Berlin-Lichtenberg
+05:36 (+1),RB 5151,Berlin Ostkreuz (ab 05:33),Berlin-Lichtenberg
+05:41,RB 18200,Flughafen BER - Terminal 5 (Schönefeld) (ab 05:19),Berlin-Lichtenberg
+05:53,RB 61103,Berlin Ostkreuz (ab 05:50),Berlin-Lichtenberg
+05:58 (+1),RB 61102,Templin Stadt (ab 04:32),Berlin-Lichtenberg
+06:23 (+1),RB 61145,Berlin Ostkreuz (ab 06:20),Berlin-Lichtenberg
+06:24 (+2),RB 5152,Küstrin-Kietz (ab 05:11),Berlin-Lichtenberg
+06:32 (+2),RB 61144,Werneuchen (ab 06:02),Berlin-Lichtenberg
+06:36 (+2),RB 5153,Berlin Ostkreuz (ab 06:33),Berlin-Lichtenberg
+06:41,RB 18202,Flughafen BER - Terminal 5 (Schönefeld) (ab 06:19),Berlin-Lichtenberg
+06:53 (+1),RB 61105,Berlin Ostkreuz (ab 06:50),Berlin-Lichtenberg
+06:58,RB 61104,Templin Stadt (ab 05:32),Berlin-Lichtenberg
+07:23 (+1),RB 61147,Berlin Ostkreuz (ab 07:20),Berlin-Lichtenberg
+07:24 (+3),RB 5154,Küstrin-Kietz (ab 06:11),Berlin-Lichtenberg
+07:32,RB 61146,Werneuchen (ab 07:02),Berlin-Lichtenberg
+07:36 Ausfall,RB 5155,Berlin Ostkreuz (ab 07:33),Berlin-Lichtenberg
+08:03 (+9),RB 5190,Müncheberg(Mark) (ab 07:19),Berlin-Lichtenberg
+08:23 (+1),RB 61149,Berlin Ostkreuz (ab 08:20),Berlin-Lichtenberg
+08:24 (+3),RB 5156,Küstrin-Kietz (ab 07:08),Berlin-Lichtenberg
+08:32 (+1),RB 61148,Werneuchen (ab 08:02),Berlin-Lichtenberg
+08:53,RB 91759,Berlin Ostkreuz (ab 08:50),Berlin-Lichtenberg
+09:23,RB 61151,Berlin Ostkreuz (ab 09:20),Berlin-Lichtenberg
+09:24 (+2),RB 5158,Küstrin-Kietz (ab 08:11),Berlin-Lichtenberg
+09:32 (+2),RB 61150,Werneuchen (ab 09:02),Berlin-Lichtenberg
+09:36 (+1),RB 5159,Berlin Ostkreuz (ab 09:33),Berlin-Lichtenberg
+09:53 (+1),RB 91761,Berlin Ostkreuz (ab 09:50),Berlin-Lichtenberg
+10:23 (+1),RB 61153,Berlin Ostkreuz (ab 10:20),Berlin-Lichtenberg
+10:24 (+4),RB 5160,Küstrin-Kietz (ab 09:18),Berlin-Lichtenberg
+10:32,RB 61152,Werneuchen (ab 10:02),Berlin-Lichtenberg
+10:53 (+1),RB 91763,Berlin Ostkreuz (ab 10:50),Berlin-Lichtenberg
+11:23,RB 61155,Berlin Ostkreuz (ab 11:20),Berlin-Lichtenberg
+11:24 (+4),RB 5162,Küstrin-Kietz (ab 10:11),Berlin-Lichtenberg
+11:32 (+1),RB 61154,Werneuchen (ab 11:02),Berlin-Lichtenberg
+11:36 (+3),RB 5163,Berlin Ostkreuz (ab 11:33),Berlin-Lichtenberg
+11:53 (+1),RB 91765,Berlin Ostkreuz (ab 11:50),Berlin-Lichtenberg
+12:23 (+1),RB 61157,Berlin Ostkreuz (ab 12:20),Berlin-Lichtenberg
+12:24 (+4),RB 5164,Küstrin-Kietz (ab 11:18),Berlin-Lichtenberg
+12:32,RB 61156,Werneuchen (ab 12:02),Berlin-Lichtenberg
+12:53 (+1),RB 91767,Berlin Ostkreuz (ab 12:50),Berlin-Lichtenberg
+13:23 (+1),RB 61159,Berlin Ostkreuz (ab 13:20),Berlin-Lichtenberg
+13:24 (+3),RB 5166,Küstrin-Kietz (ab 12:11),Berlin-Lichtenberg
+13:32,RB 61158,Werneuchen (ab 13:02),Berlin-Lichtenberg
+13:36 (+1),RB 5167,Berlin Ostkreuz (ab 13:33),Berlin-Lichtenberg
+13:53 (+1),RB 91769,Berlin Ostkreuz (ab 13:50),Berlin-Lichtenberg
+14:23 (+1),RB 61161,Berlin Ostkreuz (ab 14:20),Berlin-Lichtenberg
+14:24 (+1),RB 5168,Küstrin-Kietz (ab 13:18),Berlin-Lichtenberg
+14:32,RB 61160,Werneuchen (ab 14:02),Berlin-Lichtenberg
+14:53 (+1),RB 91831,Berlin Ostkreuz (ab 14:50),Berlin-Lichtenberg
+15:23,RB 61163,Berlin Ostkreuz (ab 15:20),Berlin-Lichtenberg
+15:24,RB 5170,Küstrin-Kietz (ab 14:11),Berlin-Lichtenberg
+15:32,RB 61162,Werneuchen (ab 15:02),Berlin-Lichtenberg
+15:36,RB 5171,Berlin Ostkreuz (ab 15:33),Berlin-Lichtenberg
+15:53 (+1),RB 91833,Berlin Ostkreuz (ab 15:50),Berlin-Lichtenberg
+16:23 (+1),RB 61165,Berlin Ostkreuz (ab 16:20),Berlin-Lichtenberg
+16:24,RB 5172,Küstrin-Kietz (ab 15:18),Berlin-Lichtenberg
+16:32,RB 61164,Werneuchen (ab 16:02),Berlin-Lichtenberg
+16:53 (+1),RB 91835,Berlin Ostkreuz (ab 16:50),Berlin-Lichtenberg
+17:24 (+1),RB 5174,Küstrin-Kietz (ab 16:11),Berlin-Lichtenberg
+17:41,RB 18224,Flughafen BER - Terminal 5 (Schönefeld) (ab 17:19),Berlin-Lichtenberg
+18:41,RB 18226,Flughafen BER - Terminal 5 (Schönefeld) (ab 18:19),Berlin-Lichtenberg
+18:58,RB 61128,Templin Stadt (ab 17:32),Berlin-Lichtenberg
+19:41,RB 18228,Flughafen BER - Terminal 5 (Schönefeld) (ab 19:19),Berlin-Lichtenberg
+20:41,RB 18230,Flughafen BER - Terminal 5 (Schönefeld) (ab 20:19),Berlin-Lichtenberg
+20:53,RB 61133,Berlin Ostkreuz (ab 20:50),Berlin-Lichtenberg
+20:58,RB 61132,Templin Stadt (ab 19:32),Berlin-Lichtenberg
+21:48,RB 61200,Rheinsberg(Mark) (ab 20:26),Berlin-Lichtenberg
+22:47,RB 32945,Eberswalde Hbf (ab 22:07),Berlin-Lichtenberg
