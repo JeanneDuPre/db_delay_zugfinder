@@ -12,20 +12,6 @@ Die Umgestaltung des Berliner Hauptbahnhofs aufgrund des gestiegenen Fahrgastauf
 2. Die Datengewinnung wurde mittels GitHub Action (YAML) automatisiert für jeden Tag.
 3. Datenbereinigung in data.py
 4. Graphikenerstellung in plot.py
-    
-### Visualisierung 
-#### 23.10.2023
-![alt text](https://github.com/JeanneDuPre/db_delay_zugfinder/blob/main/images/abfertigungszeiten_berliner_bahnh%C3%B6fe_DB_20231023.png)
-#### 24.10.2023
-![alt text](https://github.com/JeanneDuPre/db_delay_zugfinder/blob/main/images/abfertigungszeiten_berliner_bahnh%C3%B6fe_DB_20231024.png)
-#### 25.10.2023
-![alt text](https://github.com/JeanneDuPre/db_delay_zugfinder/blob/main/images/abfertigungszeiten_berliner_bahnh%C3%B6fe_DB_20231025.png)
-#### 26.10.2023
-![alt text](https://github.com/JeanneDuPre/db_delay_zugfinder/blob/main/images/abfertigungszeiten_berliner_bahnh%C3%B6fe_DB_20231026.png)
-#### 28.10.2023
-![alt text](https://github.com/JeanneDuPre/db_delay_zugfinder/blob/main/images/abfertigungszeiten_berliner_bahnh%C3%B6fe_DB_20231028.png)
-#### 29.10.2023
-![alt text](https://github.com/JeanneDuPre/db_delay_zugfinder/blob/main/images/abfertigungszeiten_berliner_bahnh%C3%B6fe_DB_20231029.png)
 
-### animierte Visualisierung [2.]
-TODO
+### animierte Visualisierung (23.10.2023 - 16.11.2023)
+![alt text](https://github.com/JeanneDuPre/db_delay_zugfinder/blob/main/images/abfertigungszeiten_berliner_bahnh%C3%B6fe_DB.gif)
