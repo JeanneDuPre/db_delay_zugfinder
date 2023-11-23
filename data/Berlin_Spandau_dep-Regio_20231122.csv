@@ -1,0 +1,473 @@
+Abfahrt,Zugnr.,nach (Ankunft),Abfahrtsbhf.
+00:23,RE 62038,Flughafen BER - Terminal 1-2 (an 01:15),Berlin-Spandau
+00:29 (+1),ICE 790,Berlin Ostbahnhof (an 00:56),Berlin-Spandau
+00:35,RE 3100,Berlin Ostbahnhof (an 01:04),Berlin-Spandau
+00:35,RE 62045,Nauen (an 00:57),Berlin-Spandau
+01:09,RE 3165,Rathenow (an 01:58),Berlin-Spandau
+02:28,RE 62046,Flughafen BER (an 03:16),Berlin-Spandau
+02:28,RE 92746,Flughafen BER - Terminal 5 (Schönefeld) (an 03:06),Berlin-Spandau
+02:33 (+14),RE 92757,Nauen (an 02:56),Berlin-Spandau
+04:25 Ausfall,RE 62048,Flughafen BER - Terminal 1-2 (an 05:14),Berlin-Spandau
+04:29 (+29),RB 18241,Potsdam Hbf (an 05:19),Berlin-Spandau
+04:34,RE 62001,Schwerin Hbf (an 06:58),Berlin-Spandau
+04:34,RE 92021,Wismar (an 07:26),Berlin-Spandau
+04:34,RE 92681,Schwerin Hbf (an 06:58),Berlin-Spandau
+04:40 Ausfall,ICE 646,Düsseldorf Hbf (an 09:08),Berlin-Spandau
+04:49 (+29),RE 3144,Falkenberg(Elster) (an 06:33),Berlin-Spandau
+04:49,RE 62150,Berlin Südkreuz (an 05:11),Berlin-Spandau
+04:56 (+7),RE 3101,Potsdam Hbf (an 05:28),Berlin-Spandau
+05:05 (+9),RE 3102,Berlin Ostbahnhof (an 05:33),Berlin-Spandau
+05:09 Ausfall,RE 3145,Rathenow (an 05:52),Berlin-Spandau
+05:18 Ausfall,RE 62000,Flughafen BER - Terminal 1-2 (an 06:10),Berlin-Spandau
+05:21 (+18),RE 3602,Wittenberge (an 07:55),Berlin-Spandau
+05:25 Ausfall,RB 18500,Nauen (an 05:49),Berlin-Spandau
+05:26 Ausfall,RB 18240,Berlin Gesundbrunnen (an 05:41),Berlin-Spandau
+05:29 Ausfall,RB 18243,Potsdam Hbf (an 06:19),Berlin-Spandau
+05:35 Ausfall,RB 18501,Berlin Südkreuz (an 05:56),Berlin-Spandau
+05:36 (+1),RE 62003,Wismar (an 08:37),Berlin-Spandau
+05:40,ICE 993,Frankfurt(Main)Hbf (an 10:02),Berlin-Spandau
+05:41,ICE 608,Hamburg-Altona (an 07:42),Berlin-Spandau
+05:43 Ausfall,RE 3601,Berlin-Charlottenburg (an 05:56),Berlin-Spandau
+05:47,ICE 946,Düsseldorf Hbf (an 10:07),Berlin-Spandau
+05:47,ICE 956,Köln Hbf (an 10:34),Berlin-Spandau
+05:49 Ausfall,RE 3164,Berlin Zoologischer Garten (an 07:46),Berlin-Spandau
+05:49,RE 4471,Karlsruhe Hbf (an 21:53),Berlin-Spandau
+05:51,ICE 1158,Bonn Hbf (an 10:24),Berlin-Spandau
+05:54 (+2),RB 18601,Berlin Südkreuz (an 06:15),Berlin-Spandau
+05:54,RB 18607,Berlin Südkreuz (an 06:15),Berlin-Spandau
+05:56 Ausfall,RE 3103,Nauen (an 06:23),Berlin-Spandau
+06:02 Ausfall,RB 18600,Nauen (an 06:33),Berlin-Spandau
+06:05 Ausfall,RE 3104,Magdeburg Hbf (an 06:47),Berlin-Spandau
+06:05,RE 4255,Brig (an 06:07),Berlin-Spandau
+06:09 Ausfall,RE 3167,Frankfurt(Oder) (an 07:31),Berlin-Spandau
+06:21,RE 3622,Wittenberge (an 08:55),Berlin-Spandau
+06:23,RE 62002,Flughafen BER - Terminal 1-2 (an 07:15),Berlin-Spandau
+06:26 Ausfall,RB 18242,Berlin Gesundbrunnen (an 06:39),Berlin-Spandau
+06:29 Ausfall,RB 18245,Potsdam Hbf (an 07:19),Berlin-Spandau
+06:35 Ausfall,RB 18503,Berlin Südkreuz (an 06:56),Berlin-Spandau
+06:37,RE 62005,Wittenberge (an 07:57),Berlin-Spandau
+06:38 Ausfall,RE 3621,Berlin-Charlottenburg (an 06:46),Berlin-Spandau
+06:48,ICE 2918,Hamburg-Altona (an 08:40),Berlin-Spandau
+06:48,ICE 808,Hamburg-Altona (an 08:40),Berlin-Spandau
+06:49 (+26),RE 3146,Falkenberg(Elster) (an 08:35),Berlin-Spandau
+06:49,RE 62154,Berlin Südkreuz (an 07:11),Berlin-Spandau
+06:50 (+32),IC 240,Amsterdam Centraal (an 13:00),Berlin-Spandau
+06:54,RB 18603,Berlin Südkreuz (an 07:15),Berlin-Spandau
+06:54,RB 18609,Berlin Südkreuz (an 07:15),Berlin-Spandau
+06:56 (+6),RE 3105,Potsdam Hbf (an 07:48),Berlin-Spandau
+07:01 (+8),ICE 644,Salzburg Hbf (an 15:49),Berlin-Spandau
+07:02,RB 18602,Nauen (an 07:33),Berlin-Spandau
+07:05 (+8),RE 3106,Magdeburg Hbf (an 07:47),Berlin-Spandau
+07:09 (+3),RE 3147,Rathenow (an 07:56),Berlin-Spandau
+07:12 (+38),ICE 701,München Hbf (an 12:12),Berlin-Spandau
+07:15 Ausfall,ICE 1152,Köln Hbf (an 12:12),Berlin-Spandau
+07:17 (+28),IC 2070,Neumünster (an 10:01),Berlin-Spandau
+07:21,RE 3604,Wittenberge (an 09:54),Berlin-Spandau
+07:23,RE 62004,Flughafen BER - Terminal 1-2 (an 08:15),Berlin-Spandau
+07:26 Ausfall,RB 18244,Berlin Gesundbrunnen (an 07:39),Berlin-Spandau
+07:26 (+1),RB 18504,Nauen (an 07:50),Berlin-Spandau
+07:29 Ausfall,RB 18247,Potsdam Hbf (an 08:19),Berlin-Spandau
+07:30 (+5),ICE 649,Berlin Ostbahnhof (an 08:01),Berlin-Spandau
+07:35 (+2),RB 18505,Berlin Südkreuz (an 07:56),Berlin-Spandau
+07:37,RE 62007,Wismar (an 10:37),Berlin-Spandau
+07:38 (+9),RE 3603,Berlin-Charlottenburg (an 07:45),Berlin-Spandau
+07:44,ICE 1003,München Hbf (an 12:02),Berlin-Spandau
+07:48 (+3),ICE 1606,Hamburg-Altona (an 09:39),Berlin-Spandau
+07:48,ICE 791,Frankfurt(Main)Hbf (an 12:03),Berlin-Spandau
+07:49 (+18),RE 3166,Jüterbog (an 08:56),Berlin-Spandau
+07:54 (+3),RB 18605,Berlin Südkreuz (an 08:15),Berlin-Spandau
+07:56 (+9),RE 3107,Frankfurt(Oder) (an 10:03),Berlin-Spandau
+08:00,ICE 2910,Hamburg Dammtor (an 22:52),Berlin-Spandau
+08:00,ICE 944,Düsseldorf Hbf (an 12:07),Berlin-Spandau
+08:00,ICE 954,Köln Hbf (an 12:21),Berlin-Spandau
+08:02 (+2),RB 18604,Nauen (an 08:33),Berlin-Spandau
+08:05,RE 3108,Magdeburg Hbf (an 08:47),Berlin-Spandau
+08:09 (+1),RE 3169,Rathenow (an 08:53),Berlin-Spandau
+08:10,ICE 2919,Berlin Südkreuz (an 08:34),Berlin-Spandau
+08:10 (+4),ICE 505,München Hbf (an 13:02),Berlin-Spandau
+08:13 (+7),ICE 841,Berlin Ostbahnhof (an 08:37),Berlin-Spandau
+08:14,ICE 1150,Köln Hbf (an 13:19),Berlin-Spandau
+08:15,IC 2074,Hamburg-Altona (an 10:21),Berlin-Spandau
+08:21 (+1),RE 3624,Wittenberge (an 10:55),Berlin-Spandau
+08:23,RE 62006,Flughafen BER - Terminal 1-2 (an 09:15),Berlin-Spandau
+08:26 (+1),RB 18246,Berlin Gesundbrunnen (an 08:40),Berlin-Spandau
+08:26 (+3),RB 18506,Nauen (an 08:50),Berlin-Spandau
+08:29 (+1),RB 18249,Potsdam Hbf (an 09:19),Berlin-Spandau
+08:35 (+6),RB 18507,Berlin Südkreuz (an 08:56),Berlin-Spandau
+08:37,RE 62009,Wittenberge (an 09:57),Berlin-Spandau
+08:38 (+18),RE 3623,Berlin-Charlottenburg (an 08:45),Berlin-Spandau
+08:40 (+62),ICE 753,Berlin Ostbahnhof (an 09:09),Berlin-Spandau
+08:46,EC 173,Sturovo (an 19:24),Berlin-Spandau
+08:48 (+8),ICE 806,Hamburg-Altona (an 10:38),Berlin-Spandau
+08:49 (+1),RE 3148,Falkenberg(Elster) (an 10:35),Berlin-Spandau
+08:49,RE 62158,Berlin Südkreuz (an 09:11),Berlin-Spandau
+08:50,IC 2908,Amsterdam Centraal (an 15:00),Berlin-Spandau
+08:56 (+6),ICE 541,Berlin Ostbahnhof (an 09:27),Berlin-Spandau
+08:56 (+3),RE 3109,Frankfurt(Oder) (an 11:03),Berlin-Spandau
+09:01 (+1),ICE 642,Düsseldorf Hbf (an 13:08),Berlin-Spandau
+09:03 (+2),RB 18606,Nauen (an 09:33),Berlin-Spandau
+09:05 (+2),RE 3110,Berlin Ostbahnhof (an 09:33),Berlin-Spandau
+09:08 (+1),IC 2241,Berlin Ostbahnhof (an 09:36),Berlin-Spandau
+09:09 (+43),RE 3149,Rathenow (an 09:56),Berlin-Spandau
+09:12 (+8),ICE 703,München Hbf (an 14:02),Berlin-Spandau
+09:15 (+2),ICE 1058,Köln Hbf (an 14:25),Berlin-Spandau
+09:16 (+12),ICE 2946,Berlin Ostbahnhof (an 09:40),Berlin-Spandau
+09:16 (+13),ICE 876,Berlin Ostbahnhof (an 09:40),Berlin-Spandau
+09:17 (+5),ICE 870,Hamburg-Altona (an 11:28),Berlin-Spandau
+09:21,RE 3606,Wittenberge (an 11:54),Berlin-Spandau
+09:23,RE 62008,Flughafen BER - Terminal 1-2 (an 10:15),Berlin-Spandau
+09:26 (+2),RB 18248,Berlin Gesundbrunnen (an 09:38),Berlin-Spandau
+09:26 (+8),RB 18508,Nauen (an 09:50),Berlin-Spandau
+09:29,RB 18251,Potsdam Hbf (an 10:19),Berlin-Spandau
+09:35 (+4),RB 18509,Berlin Südkreuz (an 09:56),Berlin-Spandau
+09:37,RE 62011,Wismar (an 12:37),Berlin-Spandau
+09:37,RE 92010,Schwerin Hbf (an 11:57),Berlin-Spandau
+09:39 (+7),RE 3605,Berlin-Charlottenburg (an 09:46),Berlin-Spandau
+09:44 (+17),ICE 1093,München Hbf (an 15:18),Berlin-Spandau
+09:44 (+16),ICE 93,Wien Hbf (an 17:47),Berlin-Spandau
+09:47,ICE 2911,Göttingen (an 11:49),Berlin-Spandau
+09:47,ICE 793,Frankfurt(Main)Hbf (an 14:03),Berlin-Spandau
+09:48 (+1),ICE 1604,Hamburg-Altona (an 11:39),Berlin-Spandau
+09:48 (+1),ICE 1704,Hamburg-Altona (an 11:39),Berlin-Spandau
+09:49 (+4),RE 3168,Jüterbog (an 10:56),Berlin-Spandau
+09:49,RE 62160,Berlin Südkreuz (an 10:09),Berlin-Spandau
+09:56 (+2),RE 3111,Frankfurt(Oder) (an 12:03),Berlin-Spandau
+10:00,ICE 2942,Hamm(Westf)Hbf (an 12:48),Berlin-Spandau
+10:00 (+26),ICE 843,Berlin Ostbahnhof (an 10:27),Berlin-Spandau
+10:00 (+26),ICE 853,Berlin Ostbahnhof (an 10:27),Berlin-Spandau
+10:00 (+2),ICE 942,Düsseldorf Hbf (an 14:07),Berlin-Spandau
+10:00 (+2),ICE 952,Köln Hbf (an 14:27),Berlin-Spandau
+10:02,RB 18608,Nauen (an 10:33),Berlin-Spandau
+10:05 (+2),RE 3112,Magdeburg Hbf (an 10:47),Berlin-Spandau
+10:06 (+37),ICE 1155,Berlin Südkreuz (an 10:24),Berlin-Spandau
+10:09 (+8),RE 3171,Rathenow (an 10:53),Berlin-Spandau
+10:10 (+9),ICE 2907,Nürnberg Hbf (an 13:52),Berlin-Spandau
+10:10 (+9),ICE 507,München Hbf (an 15:03),Berlin-Spandau
+10:15,ICE 1008,Hamburg-Altona (an 12:03),Berlin-Spandau
+10:16 (+17),ICE 996,Berlin Ostbahnhof (an 10:39),Berlin-Spandau
+10:21,RE 3626,Wittenberge (an 12:55),Berlin-Spandau
+10:23,RE 62010,Flughafen BER - Terminal 1-2 (an 11:15),Berlin-Spandau
+10:26 (+1),RB 18250,Berlin Gesundbrunnen (an 10:40),Berlin-Spandau
+10:26 (+2),RB 18510,Nauen (an 10:50),Berlin-Spandau
+10:29 (+1),RB 18253,Potsdam Hbf (an 11:19),Berlin-Spandau
+10:35 (+3),RB 18511,Berlin Südkreuz (an 10:56),Berlin-Spandau
+10:37 (+3),RE 62013,Wittenberge (an 11:57),Berlin-Spandau
+10:38 (+1),RE 3625,Berlin-Charlottenburg (an 10:45),Berlin-Spandau
+10:46 (+4),EC 379,Praha hl.n. (an 15:35),Berlin-Spandau
+10:48 (+1),ICE 804,Kiel Hbf (an 13:43),Berlin-Spandau
+10:49,RE 3150,Falkenberg(Elster) (an 12:35),Berlin-Spandau
+10:49,RE 62162,Berlin Südkreuz (an 11:11),Berlin-Spandau
+10:50,IC 146,Amsterdam Centraal (an 16:49),Berlin-Spandau
+10:54,RB 18611,Berlin Südkreuz (an 11:15),Berlin-Spandau
+10:56 (+14),ICE 543,Berlin Ostbahnhof (an 11:27),Berlin-Spandau
+10:56,RE 3113,Frankfurt(Oder) (an 13:03),Berlin-Spandau
+11:01 (+7),ICE 640,Düsseldorf Hbf (an 15:07),Berlin-Spandau
+11:02 (+1),RB 18610,Nauen (an 11:33),Berlin-Spandau
+11:05 (+2),RE 3114,Magdeburg Hbf (an 11:47),Berlin-Spandau
+11:09 (+7),IC 245,Berlin Ostbahnhof (an 11:36),Berlin-Spandau
+11:09 (+2),RE 3151,Rathenow (an 11:55),Berlin-Spandau
+11:12 (+5),ICE 705,München Hbf (an 16:13),Berlin-Spandau
+11:21,RE 3608,Wittenberge (an 13:54),Berlin-Spandau
+11:23,RE 62012,Flughafen BER - Terminal 1-2 (an 12:15),Berlin-Spandau
+11:26 (+1),RB 18252,Berlin Gesundbrunnen (an 11:40),Berlin-Spandau
+11:26 (+2),RB 18512,Nauen (an 11:50),Berlin-Spandau
+11:29,RB 18255,Potsdam Hbf (an 12:19),Berlin-Spandau
+11:34,RB 18513,Berlin Südkreuz (an 11:55),Berlin-Spandau
+11:38 (+1),RE 3607,Berlin-Charlottenburg (an 11:45),Berlin-Spandau
+11:44 (+12),ICE 1005,München Hbf (an 16:01),Berlin-Spandau
+11:44,ICE 795,Frankfurt(Main)Hbf (an 16:02),Berlin-Spandau
+11:49,RE 3170,Jüterbog (an 12:56),Berlin-Spandau
+11:49,RE 62164,Berlin Südkreuz (an 12:09),Berlin-Spandau
+11:50 (+1),ICE 602,Hamburg-Altona (an 13:40),Berlin-Spandau
+11:52 (+3),ICE 1156,Bonn-Bad Godesberg (an 16:39),Berlin-Spandau
+11:54,RB 18613,Berlin Südkreuz (an 12:15),Berlin-Spandau
+11:56,RE 3115,Frankfurt(Oder) (an 14:03),Berlin-Spandau
+12:00 (+38),ICE 845,Berlin Ostbahnhof (an 12:27),Berlin-Spandau
+12:00 (+38),ICE 855,Berlin Ostbahnhof (an 12:27),Berlin-Spandau
+12:00 (+1),ICE 940,Düsseldorf Hbf (an 16:06),Berlin-Spandau
+12:00 (+1),ICE 950,Köln Hbf (an 16:25),Berlin-Spandau
+12:02 (+3),RB 18612,Nauen (an 12:32),Berlin-Spandau
+12:05,RE 3116,Magdeburg Hbf (an 12:47),Berlin-Spandau
+12:09,RE 3173,Rathenow (an 12:53),Berlin-Spandau
+12:10 (+2),ICE 509,München Hbf (an 17:01),Berlin-Spandau
+12:14,ICE 774,Hamburg-Altona (an 14:15),Berlin-Spandau
+12:16 (+34),ICE 994,Berlin Ostbahnhof (an 12:39),Berlin-Spandau
+12:20 (+3),ICE 1006,Hamburg-Altona (an 14:39),Berlin-Spandau
+12:22 (+2),RE 3628,Wittenberge (an 14:55),Berlin-Spandau
+12:23,RE 62014,Flughafen BER - Terminal 1-2 (an 13:15),Berlin-Spandau
+12:26,RB 18254,Berlin Gesundbrunnen (an 12:40),Berlin-Spandau
+12:26 (+5),RB 18514,Nauen (an 12:50),Berlin-Spandau
+12:29,RB 18257,Potsdam Hbf (an 13:19),Berlin-Spandau
+12:35,RB 18515,Berlin Südkreuz (an 12:56),Berlin-Spandau
+12:37 (+18),RE 62017,Wittenberge (an 13:57),Berlin-Spandau
+12:38 (+4),RE 3627,Berlin-Charlottenburg (an 12:45),Berlin-Spandau
+12:40 (+4),ICE 1545,Berlin Ostbahnhof (an 13:09),Berlin-Spandau
+12:46 (+1),EC 175,Praha hl.n. (an 17:35),Berlin-Spandau
+12:48 (+4),ICE 802,Hamburg-Altona (an 14:38),Berlin-Spandau
+12:49 (+3),RE 3152,Falkenberg(Elster) (an 14:35),Berlin-Spandau
+12:49,RE 62166,Berlin Südkreuz (an 13:11),Berlin-Spandau
+12:50,IC 2914,Amsterdam Centraal (an 19:00),Berlin-Spandau
+12:54 (+1),RB 18615,Berlin Südkreuz (an 13:15),Berlin-Spandau
+12:56 (+22),ICE 545,Berlin Ostbahnhof (an 13:27),Berlin-Spandau
+12:56 (+2),RE 3117,Nauen (an 13:23),Berlin-Spandau
+13:01,ICE 548,Düsseldorf Hbf (an 17:06),Berlin-Spandau
+13:02 (+1),RB 18614,Nauen (an 13:33),Berlin-Spandau
+13:05,RE 3118,Berlin Ostbahnhof (an 13:33),Berlin-Spandau
+13:09 (+13),IC 141,Berlin Ostbahnhof (an 13:36),Berlin-Spandau
+13:09 (+1),RE 3153,Rathenow (an 13:56),Berlin-Spandau
+13:12 (+2),ICE 707,München Hbf (an 18:03),Berlin-Spandau
+13:16 (+3),ICE 1050,Köln Hbf (an 18:17),Berlin-Spandau
+13:17,EC 176,Hamburg-Altona (an 15:26),Berlin-Spandau
+13:22,RE 3610,Wittenberge (an 15:54),Berlin-Spandau
+13:22,RE6,Karlsruhe Hbf (an 21:54),Berlin-Spandau
+13:23 (+5),RE 62016,Flughafen BER - Terminal 1-2 (an 14:15),Berlin-Spandau
+13:26 (+1),RB 18256,Berlin Gesundbrunnen (an 13:38),Berlin-Spandau
+13:26,RB 18516,Nauen (an 13:50),Berlin-Spandau
+13:29 (+1),RB 18259,Potsdam Hbf (an 14:19),Berlin-Spandau
+13:35 (+1),RB 18517,Berlin Südkreuz (an 13:56),Berlin-Spandau
+13:39,RE 3609,Berlin-Charlottenburg (an 13:46),Berlin-Spandau
+13:40 (+1),ICE 757,Berlin Ostbahnhof (an 14:09),Berlin-Spandau
+13:44 Ausfall,ICE 1707,München Hbf (an 19:35),Berlin-Spandau
+13:44,ICE 2939,München Hbf (an 19:35),Berlin-Spandau
+13:45,ICE 797,Frankfurt(Main)Hbf (an 18:01),Berlin-Spandau
+13:49 (+1),RE 3172,Jüterbog (an 14:56),Berlin-Spandau
+13:49,RE 62168,Berlin Südkreuz (an 14:09),Berlin-Spandau
+13:51 (+2),ICE 1600,Hamburg-Altona (an 15:39),Berlin-Spandau
+13:54,RB 18617,Berlin Südkreuz (an 14:15),Berlin-Spandau
+13:56,RE 3119,Nauen (an 14:23),Berlin-Spandau
+14:00 (+107),ICE 847,Berlin Ostbahnhof (an 14:27),Berlin-Spandau
+14:00 (+1),ICE 848,Köln Hbf (an 18:32),Berlin-Spandau
+14:00 (+107),ICE 857,Berlin Ostbahnhof (an 14:27),Berlin-Spandau
+14:00 (+1),ICE 858,Köln Hbf (an 18:22),Berlin-Spandau
+14:02 (+16),RB 18616,Nauen (an 14:33),Berlin-Spandau
+14:05,RE 3120,Magdeburg Hbf (an 14:47),Berlin-Spandau
+14:09,RE 3175,Rathenow (an 14:53),Berlin-Spandau
+14:10 (+8),ICE 1601,München Hbf (an 19:03),Berlin-Spandau
+14:15,ICE 1706,Hamburg-Altona (an 16:23),Berlin-Spandau
+14:16 (+13),ICE 992,Berlin Ostbahnhof (an 14:39),Berlin-Spandau
+14:21,RE 3630,Wittenberge (an 16:55),Berlin-Spandau
+14:23 (+1),RE 62018,Flughafen BER - Terminal 1-2 (an 15:15),Berlin-Spandau
+14:26 (+1),RB 18258,Berlin Gesundbrunnen (an 14:40),Berlin-Spandau
+14:26,RB 18518,Nauen (an 14:50),Berlin-Spandau
+14:29 (+1),RB 18261,Potsdam Hbf (an 15:19),Berlin-Spandau
+14:35,RB 18519,Berlin Südkreuz (an 14:56),Berlin-Spandau
+14:37,RE 62021,Wittenberge (an 15:57),Berlin-Spandau
+14:38 (+1),RE 3629,Berlin-Charlottenburg (an 14:45),Berlin-Spandau
+14:39 (+1),ICE 759,Stralsund Hbf (an 18:06),Berlin-Spandau
+14:39,RE 4756,Lutherstadt Wittenberg Hbf (an 18:02),Berlin-Spandau
+14:39,RE 50759,Prenzlau (an 16:30),Berlin-Spandau
+14:48,ICE 800,Hamburg-Altona (an 16:38),Berlin-Spandau
+14:49 (+1),RE 3154,Falkenberg(Elster) (an 16:35),Berlin-Spandau
+14:49,RE 62170,Berlin Südkreuz (an 15:11),Berlin-Spandau
+14:50,IC 142,Amsterdam Centraal (an 21:00),Berlin-Spandau
+14:54,RB 18619,Berlin Südkreuz (an 15:15),Berlin-Spandau
+14:56 (+20),ICE 547,Berlin Ostbahnhof (an 15:27),Berlin-Spandau
+14:56 (+1),RE 3121,Nauen (an 15:23),Berlin-Spandau
+15:01 (+1),ICE 546,Koblenz Hbf (an 22:18),Berlin-Spandau
+15:02,RB 18618,Nauen (an 15:33),Berlin-Spandau
+15:05,RE 3122,Berlin Ostbahnhof (an 15:33),Berlin-Spandau
+15:09 (+51),IC 143,Berlin Ostbahnhof (an 15:36),Berlin-Spandau
+15:09,RE 3155,Rathenow (an 15:56),Berlin-Spandau
+15:12,ICE 709,München Hbf (an 21:06),Berlin-Spandau
+15:15 (+1),ICE 1546,Aachen Hbf (an 20:52),Berlin-Spandau
+15:17,EC 174,Flensburg (an 19:07),Berlin-Spandau
+15:21,RE 3612,Wittenberge (an 17:54),Berlin-Spandau
+15:23 (+8),RE 62020,Flughafen BER - Terminal 1-2 (an 16:15),Berlin-Spandau
+15:26 (+1),RB 18260,Berlin Gesundbrunnen (an 15:38),Berlin-Spandau
+15:26,RB 18520,Nauen (an 15:50),Berlin-Spandau
+15:29,RB 18263,Potsdam Hbf (an 16:19),Berlin-Spandau
+15:35 (+4),RB 18521,Berlin Südkreuz (an 15:56),Berlin-Spandau
+15:38 (+3),RE 3611,Berlin-Charlottenburg (an 15:45),Berlin-Spandau
+15:44 (+7),ICE 1007,München Hbf (an 20:02),Berlin-Spandau
+15:47,ICE 799,Frankfurt(Main)Hbf (an 20:03),Berlin-Spandau
+15:49 (+4),RE 3174,Jüterbog (an 16:56),Berlin-Spandau
+15:49,RE 62172,Berlin Südkreuz (an 16:09),Berlin-Spandau
+15:51 (+8),ICE 508,Hamburg-Altona (an 17:40),Berlin-Spandau
+15:54 (+2),RB 18621,Berlin Südkreuz (an 16:15),Berlin-Spandau
+15:56 (+8),RE 3123,Frankfurt(Oder) (an 18:03),Berlin-Spandau
+15:59 (+78),ICE 849,Berlin Ostbahnhof (an 16:27),Berlin-Spandau
+15:59 (+78),ICE 859,Berlin Ostbahnhof (an 16:27),Berlin-Spandau
+16:00 (+5),ICE 846,Mönchengladbach Hbf (an 20:42),Berlin-Spandau
+16:00 (+5),ICE 856,Köln Hbf (an 20:24),Berlin-Spandau
+16:02 (+6),RB 18620,Nauen (an 16:33),Berlin-Spandau
+16:05 (+26),ICE 1157,Berlin Hbf (tief) (an 16:13),Berlin-Spandau
+16:05,RE 3124,Magdeburg Hbf (an 16:47),Berlin-Spandau
+16:09 (+3),RE 3177,Rathenow (an 16:54),Berlin-Spandau
+16:10 (+1),ICE 2937,Nürnberg Hbf (an 19:52),Berlin-Spandau
+16:10 (+1),ICE 603,München Hbf (an 21:03),Berlin-Spandau
+16:12,ICE 14,Oberhausen Hbf (an 20:27),Berlin-Spandau
+16:12 (+3),ICE 754,Düsseldorf Hbf (an 21:15),Berlin-Spandau
+16:15 (+1),ICE 1004,Hamburg-Altona (an 18:22),Berlin-Spandau
+16:16,ICE 798,Berlin Ostbahnhof (an 16:39),Berlin-Spandau
+16:21,RE 3632,Wittenberge (an 18:55),Berlin-Spandau
+16:23 (+1),RE 62022,Flughafen BER - Terminal 1-2 (an 17:15),Berlin-Spandau
+16:26 (+2),RB 18262,Berlin Gesundbrunnen (an 16:40),Berlin-Spandau
+16:26,RB 18522,Nauen (an 16:50),Berlin-Spandau
+16:29 (+2),RB 18265,Potsdam Hbf (an 17:19),Berlin-Spandau
+16:35 (+2),RB 18523,Berlin Südkreuz (an 16:55),Berlin-Spandau
+16:37,RE 62025,Wittenberge (an 17:57),Berlin-Spandau
+16:38 (+1),RE 3631,Berlin-Charlottenburg (an 16:45),Berlin-Spandau
+16:39 (+1),FLX76336,Stendal Hbf (an 17:15),Berlin-Spandau
+16:46,ICE 773,Stuttgart Hbf (an 22:55),Berlin-Spandau
+16:48 (+16),ICE 708,Hamburg-Altona (an 18:39),Berlin-Spandau
+16:49 (+4),RE 3156,Falkenberg(Elster) (an 18:35),Berlin-Spandau
+16:49,RE 62174,Berlin Südkreuz (an 17:11),Berlin-Spandau
+16:50 (+38),IC 140,Amsterdam Centraal (an 23:00),Berlin-Spandau
+16:50 (+37),ICE 683,Amsterdam Centraal (an 23:00),Berlin-Spandau
+16:54 (+2),RB 18623,Berlin Südkreuz (an 17:15),Berlin-Spandau
+16:56 (+1),RE 3125,Nauen (an 17:23),Berlin-Spandau
+16:59 (+12),ICE 549,Berlin Ostbahnhof (an 17:27),Berlin-Spandau
+17:01 (+2),ICE 544,Köln Hbf (an 21:32),Berlin-Spandau
+17:02 (+8),RB 18622,Nauen (an 17:33),Berlin-Spandau
+17:05,RE 18444,Berlin Ostbahnhof (an 17:33),Berlin-Spandau
+17:05 (+1),RE 3126,Berlin Ostbahnhof (an 17:33),Berlin-Spandau
+17:09 Ausfall,IC 145,Berlin Ostbahnhof (an 17:36),Berlin-Spandau
+17:09,IC 2937,Berlin Ostbahnhof (an 17:36),Berlin-Spandau
+17:09 (+10),RE 3157,Rathenow (an 17:56),Berlin-Spandau
+17:12 (+33),ICE 801,München Hbf (an 22:09),Berlin-Spandau
+17:17 (+3),EC 378,Kiel Hbf (an 20:20),Berlin-Spandau
+17:21 (+1),RE 3614,Wittenberge (an 19:55),Berlin-Spandau
+17:23,RE 62024,Flughafen BER - Terminal 1-2 (an 18:15),Berlin-Spandau
+17:26 (+6),RB 18524,Nauen (an 17:50),Berlin-Spandau
+17:27,RB 18264,Berlin Gesundbrunnen (an 17:39),Berlin-Spandau
+17:29 (+2),RB 18267,Potsdam Hbf (an 18:19),Berlin-Spandau
+17:35,RB 18525,Berlin Südkreuz (an 17:55),Berlin-Spandau
+17:38,RE 3613,Berlin-Charlottenburg (an 17:45),Berlin-Spandau
+17:44 (+1),ICE 1009,München Hbf (an 22:01),Berlin-Spandau
+17:48 (+2),ICE 506,Hamburg-Altona (an 19:40),Berlin-Spandau
+17:48 (+1),ICE 995,Frankfurt(Main)Hbf (an 22:03),Berlin-Spandau
+17:49,RE 3176,Jüterbog (an 18:56),Berlin-Spandau
+17:49,RE 62176,Berlin Südkreuz (an 18:09),Berlin-Spandau
+17:51 Ausfall,ICE 1154,Köln Hbf (an 21:50),Berlin-Spandau
+17:54,RB 18625,Berlin Südkreuz (an 18:15),Berlin-Spandau
+17:56,RE 3127,Frankfurt(Oder) (an 20:03),Berlin-Spandau
+18:00 (+2),ICE 844,Köln Hbf (an 22:32),Berlin-Spandau
+18:00 (+2),ICE 854,Köln Hbf (an 22:18),Berlin-Spandau
+18:00 (+44),ICE 941,Berlin Ostbahnhof (an 18:27),Berlin-Spandau
+18:00 (+44),ICE 951,Berlin Ostbahnhof (an 18:27),Berlin-Spandau
+18:02,RB 18624,Nauen (an 18:33),Berlin-Spandau
+18:05,RE 3128,Magdeburg Hbf (an 18:47),Berlin-Spandau
+18:09 (+1),RE 3179,Rathenow (an 18:54),Berlin-Spandau
+18:10 (+1),ICE 1605,München Hbf (an 23:02),Berlin-Spandau
+18:10 (+1),ICE 1705,Jena Paradies (an 20:57),Berlin-Spandau
+18:15 (+2),ICE 92,Hamburg-Altona (an 20:15),Berlin-Spandau
+18:16 Ausfall,ICE 796,Berlin Ostbahnhof (an 18:39),Berlin-Spandau
+18:22,RE 3634,Wittenberge (an 20:55),Berlin-Spandau
+18:24,RE 62026,Flughafen BER - Terminal 1-2 (an 19:15),Berlin-Spandau
+18:26,RB 18266,Berlin Gesundbrunnen (an 18:43),Berlin-Spandau
+18:26 (+1),RB 18526,Nauen (an 18:50),Berlin-Spandau
+18:29 (+1),RB 18269,Potsdam Hbf (an 19:19),Berlin-Spandau
+18:35 (+3),RB 18527,Berlin Südkreuz (an 18:56),Berlin-Spandau
+18:37 (+5),RE 62029,Wittenberge (an 19:57),Berlin-Spandau
+18:38 (+1),RE 3633,Berlin-Charlottenburg (an 18:45),Berlin-Spandau
+18:44 (+4),ICE 1593,Frankfurt(Main)Hbf (an 23:03),Berlin-Spandau
+18:46 (+1),ICE 871,Dresden Hbf (an 21:12),Berlin-Spandau
+18:48 (+1),ICE 706,Hamburg-Altona (an 20:38),Berlin-Spandau
+18:49 (+5),RE 3158,Falkenberg(Elster) (an 20:37),Berlin-Spandau
+18:50 Ausfall,IC 2242,Münster(Westf)Hbf (an 22:25),Berlin-Spandau
+18:50 (+3),IC 2918,Münster(Westf)Hbf (an 22:25),Berlin-Spandau
+18:54,RB 18627,Berlin Südkreuz (an 19:15),Berlin-Spandau
+18:54,RB 18633,Berlin Südkreuz (an 19:15),Berlin-Spandau
+18:56 (+40),ICE 641,Berlin Ostbahnhof (an 19:27),Berlin-Spandau
+18:56 (+2),RE 3129,Frankfurt(Oder) (an 21:03),Berlin-Spandau
+19:01 (+1),ICE 542,Köln Hbf (an 23:31),Berlin-Spandau
+19:02 (+1),RB 18626,Nauen (an 19:33),Berlin-Spandau
+19:05,RE 3130,Berlin Ostbahnhof (an 19:33),Berlin-Spandau
+19:05,RE 62198,Berlin Ostbahnhof (an 19:33),Berlin-Spandau
+19:09,IC 147,Berlin Ostbahnhof (an 19:36),Berlin-Spandau
+19:09,RE 3159,Rathenow (an 19:56),Berlin-Spandau
+19:12 (+1),ICE 2913,München Hbf (an 21:41),Berlin-Spandau
+19:12 (+3),ICE 803,Nürnberg Hbf (an 23:10),Berlin-Spandau
+19:17 (+16),EC 172,Hamburg-Altona (an 21:34),Berlin-Spandau
+19:21,RE 3616,Wittenberge (an 21:54),Berlin-Spandau
+19:23 (+2),RE 62028,Flughafen BER - Terminal 1-2 (an 20:15),Berlin-Spandau
+19:26 (+1),RB 18268,Berlin Gesundbrunnen (an 19:38),Berlin-Spandau
+19:26,RB 18528,Nauen (an 19:50),Berlin-Spandau
+19:29,RB 18271,Potsdam Hbf (an 20:19),Berlin-Spandau
+19:35 (+3),RB 18529,Berlin Südkreuz (an 19:56),Berlin-Spandau
+19:39 (+1),RE 3615,Berlin-Charlottenburg (an 19:46),Berlin-Spandau
+19:40 (+16),ICE 1059,Berlin Ostbahnhof (an 20:08),Berlin-Spandau
+19:44 (+4),IC 2075,Berlin Hbf (an 19:55),Berlin-Spandau
+19:46 (+1),ICE 997,Kassel-Wilhelmshöhe (an 22:12),Berlin-Spandau
+19:48 (+1),ICE 504,Hamburg-Altona (an 21:40),Berlin-Spandau
+19:48 (+1),RE 3178,Jüterbog (an 20:56),Berlin-Spandau
+19:54,RB 18629,Berlin Südkreuz (an 20:15),Berlin-Spandau
+19:54,RB 18635,Berlin Südkreuz (an 20:15),Berlin-Spandau
+19:56 (+1),RE 3131,Nauen (an 20:23),Berlin-Spandau
+20:00 (+10),ICE 2912,Köln Hbf (an 12:12),Berlin-Spandau
+20:00 (+1),ICE 842,Köln Hbf (an 00:56),Berlin-Spandau
+20:00 (+33),ICE 943,Berlin Ostbahnhof (an 20:27),Berlin-Spandau
+20:00 (+33),ICE 953,Berlin Ostbahnhof (an 20:27),Berlin-Spandau
+20:02,RB 18628,Nauen (an 20:33),Berlin-Spandau
+20:05,RE 3132,Magdeburg Hbf (an 20:47),Berlin-Spandau
+20:09 (+4),RE 3181,Rathenow (an 20:53),Berlin-Spandau
+20:10 (+12),ICE 1607,Erfurt Hbf (an 22:29),Berlin-Spandau
+20:15 (+134),ICE 1002,Hamburg-Altona (an 22:14),Berlin-Spandau
+20:16,ICE 794,Berlin Ostbahnhof (an 20:39),Berlin-Spandau
+20:21 Ausfall,RE 3636,Wittenberge (an 22:54),Berlin-Spandau
+20:23 (+4),RE 62030,Flughafen BER - Terminal 1-2 (an 21:15),Berlin-Spandau
+20:26 (+1),RB 18270,Berlin Gesundbrunnen (an 20:43),Berlin-Spandau
+20:26,RB 18530,Nauen (an 20:50),Berlin-Spandau
+20:29,RB 18273,Potsdam Hbf (an 21:19),Berlin-Spandau
+20:35 (+1),RB 18531,Berlin Südkreuz (an 20:56),Berlin-Spandau
+20:37,RE 62033,Wittenberge (an 21:57),Berlin-Spandau
+20:38,RE 3635,Berlin-Charlottenburg (an 20:45),Berlin-Spandau
+20:40 Ausfall,ICE 1151,Berlin Ostbahnhof (an 21:09),Berlin-Spandau
+20:40 (+3),ICE 2941,Berlin Ostbahnhof (an 21:09),Berlin-Spandau
+20:46 (+1),IC 2073,Berlin Südkreuz (an 21:04),Berlin-Spandau
+20:48 (+92),ICE 704,Hamburg-Altona (an 22:38),Berlin-Spandau
+20:49 (+3),RE 3160,Jüterbog (an 21:54),Berlin-Spandau
+20:49,RE 62182,Berlin Südkreuz (an 21:10),Berlin-Spandau
+20:54,RB 18631,Berlin Südkreuz (an 21:15),Berlin-Spandau
+20:54,RB 18637,Berlin Südkreuz (an 21:15),Berlin-Spandau
+20:56 (+28),ICE 643,Berlin Ostbahnhof (an 21:27),Berlin-Spandau
+20:56 (+1),RE 3133,Frankfurt(Oder) (an 23:12),Berlin-Spandau
+21:01,ICE 540,Oldenburg(Oldb)Hbf (an 00:23),Berlin-Spandau
+21:02,RB 18630,Nauen (an 21:31),Berlin-Spandau
+21:05 (+1),RE 3134,Berlin Ostbahnhof (an 21:33),Berlin-Spandau
+21:09 (+8),IC 149,Berlin Ostbahnhof (an 21:36),Berlin-Spandau
+21:09 (+1),RE 3161,Rathenow (an 21:56),Berlin-Spandau
+21:12 (+4),ICE 699,München Hbf (an 07:28),Berlin-Spandau
+21:21,RE 3618,Neuruppin West (an 22:27),Berlin-Spandau
+21:23 (+1),RE 62032,Flughafen BER - Terminal 1-2 (an 22:15),Berlin-Spandau
+21:26,RB 18272,Berlin Gesundbrunnen (an 21:42),Berlin-Spandau
+21:26,RB 18532,Nauen (an 21:50),Berlin-Spandau
+21:29,RB 18275,Potsdam Hbf (an 22:19),Berlin-Spandau
+21:35,RB 18533,Berlin Südkreuz (an 21:56),Berlin-Spandau
+21:38,RE 3617,Berlin-Charlottenburg (an 21:45),Berlin-Spandau
+21:40,ICE 1153,Berlin Ostbahnhof (an 22:09),Berlin-Spandau
+21:42,ICE 2920,Hannover Hbf (an 23:22),Berlin-Spandau
+21:42 Ausfall,ICE 840,Hannover Hbf (an 23:22),Berlin-Spandau
+21:48 (+129),ICE 502,Hamburg-Altona (an 23:49),Berlin-Spandau
+21:48 (+1),RE 3180,Berlin Hbf (tief) (an 21:59),Berlin-Spandau
+21:48,RE 62184,Berlin Hbf (an 21:59),Berlin-Spandau
+21:56 (+4),RE 3135,Nauen (an 22:23),Berlin-Spandau
+22:03 (+1),RB 18535,Berlin Gesundbrunnen (an 22:16),Berlin-Spandau
+22:05 (+10),ICE 1159,Berlin Ostkreuz (an 22:37),Berlin-Spandau
+22:13 (+2),ICE 609,Berlin Südkreuz (an 22:32),Berlin-Spandau
+22:14 (+22),ICE 945,Berlin Ostbahnhof (an 22:38),Berlin-Spandau
+22:14 (+22),ICE 955,Berlin Ostbahnhof (an 22:38),Berlin-Spandau
+22:19 (+10),ICE 792,Berlin Ostbahnhof (an 22:41),Berlin-Spandau
+22:21,RE 3638,Neuruppin West (an 23:37),Berlin-Spandau
+22:23,RE 62034,Flughafen BER - Terminal 1-2 (an 23:15),Berlin-Spandau
+22:26 (+1),RB 18534,Nauen (an 22:50),Berlin-Spandau
+22:33 (+3),RE 3136,Berlin Ostbahnhof (an 23:01),Berlin-Spandau
+22:37 (+12),RE 62037,Wittenberge (an 23:57),Berlin-Spandau
+22:38 (+1),RE 3637,Berlin-Charlottenburg (an 22:45),Berlin-Spandau
+22:48,ICE 2916,Hamburg-Altona (an 00:48),Berlin-Spandau
+22:48,ICE 2924,Ludwigslust (an 23:45),Berlin-Spandau
+22:48 (+1),ICE 700,Hamburg-Altona (an 00:48),Berlin-Spandau
+22:49 (+6),RE 3162,Berlin Hbf (tief) (an 22:59),Berlin-Spandau
+22:56 (+7),ICE 645,Berlin Ostbahnhof (an 23:22),Berlin-Spandau
+22:56 (+1),RE 3137,Nauen (an 23:23),Berlin-Spandau
+23:04 (+1),RB 18537,Berlin Südkreuz (an 23:27),Berlin-Spandau
+23:18 (+2),RE 3185,Stendal Hbf (an 00:20),Berlin-Spandau
+23:18,RE 91485,Stendal Hbf (an 00:20),Berlin-Spandau
+23:22,RE 3620,Neuruppin West (an 00:38),Berlin-Spandau
+23:25,RE 62036,Flughafen BER (an 00:14),Berlin-Spandau
+23:26 (+1),RB 18536,Nauen (an 23:50),Berlin-Spandau
+23:37,RE 62039,Wittenberge (an 00:56),Berlin-Spandau
+23:39 (+1),RE 3619,Berlin-Charlottenburg (an 23:46),Berlin-Spandau
+23:45 (+4),ICE 805,Berlin Hbf (tief) (an 23:53),Berlin-Spandau
+23:49 (+4),RE 3182,Berlin Hbf (tief) (an 23:59),Berlin-Spandau
+23:49,RE 62187,Berlin Hbf (an 23:59),Berlin-Spandau
