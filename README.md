@@ -7,10 +7,10 @@ Die Umgestaltung des Berliner Hauptbahnhofs aufgrund des gestiegenen Fahrgastauf
 Die Daten wurden von www.zugfinder.com für einen Monat (23.10.2023-24.11.2023) entnommen.
 
 ### Durchführung
-1. Daten wurden gescrapt.
+1. Daten wurden gescrapt. (Python, Selenium, BeautifulSoup, error handling)
 2. Die Datengewinnung wurde mittels GitHub Action (YAML) automatisiert für jeden Tag.
-3. Datenbereinigung in data.py
-4. Graphikenerstellung in plot.py
+3. Datenbereinigung in data.py (pandas)
+4. Graphikenerstellung in plot.py (matplotlib)
 
 ### Visualisierung Monat Oktober (23.10.2023 - 31.10.2023)
 ![alt text](https://github.com/JeanneDuPre/db_delay_zugfinder/blob/main/images/abfertigungszeiten_berliner_bahnh%C3%B6fe_DB_20231023_bis_20231031.gif)
