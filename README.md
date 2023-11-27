@@ -8,12 +8,14 @@ Die Daten wurden von www.zugfinder.com für einen Monat (23.10.2023-24.11.2023) 
 
 ### Durchführung
 1. Daten wurden gescrapt. (Python, Selenium, BeautifulSoup, error handling)
-2. Die Datengewinnung wurde mittels GitHub Action (YAML) automatisiert für jeden Tag.
+2. Die Datengewinnung wurde für jeden Tag mittels GitHub Action (YAML) automatisiert.
    [![Zugfinder Berliner Bahnhöfe der DB](https://github.com/JeanneDuPre/db_delay_zugfinder/actions/workflows/scrape_zugfinder.yml/badge.svg)](https://github.com/JeanneDuPre/db_delay_zugfinder/actions/workflows/scrape_zugfinder.yml)
 4. Datenbereinigung in data.py (pandas)
 5. Graphikenerstellung in plot.py (matplotlib)
+6. GIFerstellung auf iloveimg.com
 
 ### Visualisierung Monat Oktober (23.10.2023 - 31.10.2023)
 ![alt text](https://github.com/JeanneDuPre/db_delay_zugfinder/blob/main/images/abfertigungszeiten_berliner_bahnh%C3%B6fe_DB_20231023_bis_20231031.gif)
 ### Visualisierung Monat November (01.11.2023 - 23.11.2023)
 ![alt text](https://github.com/JeanneDuPre/db_delay_zugfinder/blob/main/images/abfertigungszeiten_berliner_bahnh%C3%B6fe_DB_20231101_bis_20231123.gif)
+### Visualisierung Monat Dezember (01.12.2023 - 31.12.2023)
