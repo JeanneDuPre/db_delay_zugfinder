@@ -1,0 +1,578 @@
+Ankunft,Zugnr.,von (Abfahrt),Ankunftsbhf.
+00:12,RE 62045,Berlin Ostbahnhof (ab 00:05),Berlin Friedrichstraße
+00:23,RE 93001,Berlin Ostbahnhof (ab 00:16),Berlin Friedrichstraße
+00:36,RE 73797,Fangschleuse (ab 00:03),Berlin Friedrichstraße
+00:36,RE 73797,Fangschleuse (ab 00:03),Berlin Friedrichstr
+00:36,RE 73797,Frankfurt(Oder) (ab 23:24),Berlin Friedrichstraße
+00:36,RE 73797,Frankfurt(Oder) (ab 23:24),Berlin Friedrichstr
+00:43,RE 62038,Nauen (ab 00:03),Berlin Friedrichstraße
+00:43,RE 92038,Nauen (ab 00:03),Berlin Friedrichstr
+00:44,RE 3141,Lübben(Spreewald) (ab 23:32),Berlin Friedrichstraße
+00:44 Ausfall,RE 3141,Lübben(Spreewald) (ab 23:32),Berlin Friedrichstr
+00:56 (+33),RE 3100,Nauen (ab 00:07),Berlin Friedrichstr
+00:56 (+34),RE 3100,Nauen (ab 00:07),Berlin Friedrichstraße
+01:01,RE 3742,Dessau Hbf (ab 23:18),Berlin Friedrichstraße
+01:01,RE 93042,Berlin Zoologischer Garten (ab 00:52),Berlin Friedrichstraße
+01:23,RE 73794,Magdeburg Hbf (ab 23:22),Berlin Friedrichstraße
+01:23 (+11),RE 73794,Magdeburg Hbf (ab 23:22),Berlin Friedrichstr
+01:36,RE 73753,Frankfurt(Oder) (ab 00:24),Berlin Friedrichstraße
+01:50,RE 62042,Nauen (ab 01:03),Berlin Friedrichstraße
+02:10,RE 92047,Flughafen BER - Terminal 5 (Schönefeld) (ab 01:44),Berlin Friedrichstraße
+02:15 (+8),RE 3703,Berlin Ostkreuz (ab 02:04),Berlin Friedrichstraße
+02:15 (+7),RE 3703,Berlin Ostkreuz (ab 02:04),Berlin Friedrichstr
+02:40,RE 3143,Magdeburg Hbf (ab 00:42),Berlin Friedrichstraße
+02:40,RE 73798,Magdeburg Hbf (ab 00:42),Berlin Friedrichstraße
+02:40 (+9),RE 73798,Magdeburg Hbf (ab 00:42),Berlin Friedrichstr
+02:40,RE 73798,Magdeburg-Neustadt (ab 00:46),Berlin Friedrichstraße
+02:40 (+9),RE 73798,Magdeburg-Neustadt (ab 00:46),Berlin Friedrichstr
+02:47 (+5),RE 62046,Nauen (ab 02:02),Berlin Friedrichstr
+02:47,RE 62046,Nauen (ab 02:02),Berlin Friedrichstraße
+02:47,RE 92046,Nauen (ab 02:02),Berlin Friedrichstraße
+03:03,RE 73755,Berlin Ostkreuz (ab 02:52),Berlin Friedrichstraße
+03:03,RE 73755,Berlin Ostkreuz (ab 02:52),Berlin Friedrichstr
+03:10,RE 62043,Flughafen BER - Terminal 1-2 (ab 02:40),Berlin Friedrichstraße
+03:10,RE 62043,Flughafen BER - Terminal 1-2 (ab 02:40),Berlin Friedrichstr
+03:17 (+1),FEX93302,Berlin-Charlottenburg (ab 03:05),Berlin Friedrichstr
+03:31,FEX19803,Berlin-Charlottenburg (ab 03:20),Berlin Friedrichstraße
+03:31,FEX19803,Berlin-Charlottenburg (ab 03:20),Berlin Friedrichstr
+03:31,FEX19803,Berlin Zoologischer Garten (ab 03:23),Berlin Friedrichstraße
+03:47,RE 62044,Nauen (ab 03:02),Berlin Friedrichstraße
+03:47,RE 62044,Nauen (ab 03:02),Berlin Friedrichstr
+04:13 (+2),RE 73752,Brandenburg Hbf (ab 03:15),Berlin Friedrichstr
+04:13,RE 73752,Brandenburg Hbf (ab 03:15),Berlin Friedrichstraße
+04:14,RE 92001,Flughafen BER - Terminal 5 (Schönefeld) (ab 03:48),Berlin Friedrichstr
+04:14,RE 92001,Flughafen BER - Terminal 5 (Schönefeld) (ab 03:48),Berlin Friedrichstraße
+04:32,RE 3101,Brandenburg Hbf (ab 05:06),Berlin Friedrichstraße
+04:35,RE 73800,Berlin-Charlottenburg (ab 04:23),Berlin Friedrichstraße
+04:35 (+1),RE 73800,Berlin-Charlottenburg (ab 04:23),Berlin Friedrichstr
+04:35,RE 73800,Berlin Zoologischer Garten (ab 04:27),Berlin Friedrichstraße
+04:35 (+1),RE 73800,Berlin Zoologischer Garten (ab 04:27),Berlin Friedrichstr
+04:43 (+1),RE 62048,Nauen (ab 04:01),Berlin Friedrichstr
+04:43,RE 62048,Nauen (ab 04:01),Berlin Friedrichstraße
+04:48,RE 73717,Frankfurt(Oder) (ab 03:27),Berlin Friedrichstr
+04:48,RE 73717,Frankfurt(Oder) (ab 03:27),Berlin Friedrichstraße
+05:09 (+21),RE 93007,Lübbenau(Spreewald) (ab 03:55),Berlin Friedrichstr
+05:09 (+16),RE 93007,Lübbenau(Spreewald) (ab 03:55),Berlin Friedrichstraße
+05:13,RE 3140,Brandenburg Hbf (ab 04:15),Berlin Friedrichstraße
+05:13,RE 73754,Brandenburg Hbf (ab 04:08),Berlin Friedrichstr
+05:13,RE 73754,Brandenburg Hbf (ab 04:08),Berlin Friedrichstraße
+05:13,RE 73754,Kirchmöser (ab 04:16),Berlin Friedrichstr
+05:13,RE 73754,Kirchmöser (ab 04:16),Berlin Friedrichstraße
+05:13,RE 73754,Wusterwitz (ab 04:20),Berlin Friedrichstr
+05:13,RE 73754,Wusterwitz (ab 04:20),Berlin Friedrichstraße
+05:13,RE 73754,Genthin (ab 04:28),Berlin Friedrichstr
+05:13,RE 73754,Genthin (ab 04:28),Berlin Friedrichstraße
+05:13,RE 73754,Güsen(b Genthin) (ab 04:37),Berlin Friedrichstr
+05:13,RE 73754,Burg(Magdeburg) (ab 04:44),Berlin Friedrichstraße
+05:13,RE 73754,Burg(Magdeburg) (ab 04:44),Berlin Friedrichstr
+05:13,RE 73754,Magdeburg Herrenkrug (ab 05:01),Berlin Friedrichstraße
+05:13,RE 73754,Magdeburg Herrenkrug (ab 05:01),Berlin Friedrichstr
+05:14,RE 62003,Flughafen BER - Terminal 1-2 (ab 04:44),Berlin Friedrichstr
+05:14,RE 62003,Flughafen BER - Terminal 1-2 (ab 04:44),Berlin Friedrichstraße
+05:25,RE 3102,Nauen (ab 04:37),Berlin Friedrichstraße
+05:25,RE 3102,Nauen (ab 04:37),Berlin Friedrichstr
+05:25,RE 3102,Brieselang (ab 04:45),Berlin Friedrichstraße
+05:25,RE 3102,Brieselang (ab 04:45),Berlin Friedrichstr
+05:25,RE 3102,Finkenkrug (ab 04:49),Berlin Friedrichstraße
+05:25,RE 3102,Finkenkrug (ab 04:49),Berlin Friedrichstr
+05:25,RE 3102,Falkensee (ab 04:53),Berlin Friedrichstraße
+05:25,RE 3102,Falkensee (ab 04:53),Berlin Friedrichstr
+05:25,RE 3102,Seegefeld (ab 04:56),Berlin Friedrichstraße
+05:25,RE 3102,Seegefeld (ab 04:56),Berlin Friedrichstr
+05:25,RE 3102,Albrechtshof (ab 04:59),Berlin Friedrichstraße
+05:32,RE 3103,Lübben(Spreewald) (ab 04:18),Berlin Friedrichstraße
+05:35 (+3),RE 62000,Wittenberge (ab 04:06),Berlin Friedrichstr
+05:35,RE 62000,Wittenberge (ab 04:06),Berlin Friedrichstraße
+05:36 (+4),RE 93759,Frankfurt(Oder) (ab 04:23),Berlin Friedrichstr
+05:36,RE 93759,Frankfurt(Oder) (ab 04:23),Berlin Friedrichstraße
+05:48 (+7),RE 93004,Berlin Zoologischer Garten (ab 05:40),Berlin Friedrichstr
+05:48,RE 93004,Berlin Zoologischer Garten (ab 05:40),Berlin Friedrichstraße
+05:58,RE 73719,Eisenhüttenstadt (ab 04:26),Berlin Friedrichstr
+05:58,RE 73719,Eisenhüttenstadt (ab 04:26),Berlin Friedrichstraße
+05:58,RE 73719,Frankfurt(Oder) (ab 04:43),Berlin Friedrichstr
+06:14,RE 62005,Flughafen BER - Terminal 1-2 (ab 05:44),Berlin Friedrichstraße
+06:14,RE 62005,Flughafen BER - Terminal 1-2 (ab 05:44),Berlin Friedrichstr
+06:16,RE 3167,Magdeburg Hbf (ab 04:19),Berlin Friedrichstraße
+06:16 (+1),RE 93756,Berlin Zoologischer Garten (ab 06:08),Berlin Friedrichstr
+06:25,RE 3104,Frankfurt(Oder) (ab 03:43),Berlin Friedrichstr
+06:25,RE 3104,Frankfurt(Oder) (ab 03:43),Berlin Friedrichstraße
+06:25,RE 3104,Pillgram (ab 03:53),Berlin Friedrichstr
+06:25,RE 3104,Pillgram (ab 03:53),Berlin Friedrichstraße
+06:25,RE 3104,Jacobsdorf(Mark) (ab 03:56),Berlin Friedrichstr
+06:25,RE 3104,Briesen(Mark) (ab 04:01),Berlin Friedrichstraße
+06:25,RE 3104,Fürstenwalde(Spree) (ab 04:13),Berlin Friedrichstr
+06:25,RE 3104,Hangelsberg (ab 04:19),Berlin Friedrichstraße
+06:25,RE 3104,Fangschleuse (ab 04:24),Berlin Friedrichstr
+06:25,RE 3104,Erkner (ab 04:31),Berlin Friedrichstraße
+06:25,RE 3104,Nauen (ab 05:37),Berlin Friedrichstr
+06:25,RE 3104,Werder(Havel) (ab 05:40),Berlin Friedrichstraße
+06:25,RE 3104,Werder(Havel) (ab 05:40),Berlin Friedrichstr
+06:25,RE 3104,Kirchmöser (ab 06:02),Berlin Friedrichstraße
+06:25,RE 3104,Wusterwitz (ab 06:06),Berlin Friedrichstr
+06:25,RE 3104,Wusterwitz (ab 06:06),Berlin Friedrichstraße
+06:25,RE 3104,Genthin (ab 06:15),Berlin Friedrichstr
+06:25,RE 3104,Burg(Magdeburg) (ab 06:30),Berlin Friedrichstraße
+06:25,RE 3104,Burg(Magdeburg) (ab 06:30),Berlin Friedrichstr
+06:32,RE 3105,Lübben(Spreewald) (ab 05:34),Berlin Friedrichstraße
+06:32 (+13),RE 3105,Lübben(Spreewald) (ab 05:34),Berlin Friedrichstr
+06:32,RE 3105,Magdeburg Hbf (ab 06:19),Berlin Friedrichstraße
+06:32 (+13),RE 3105,Magdeburg-Neustadt (ab 06:23),Berlin Friedrichstr
+06:32,RE 3105,Magdeburg Herrenkrug (ab 06:26),Berlin Friedrichstraße
+06:32 (+13),RE 3105,Magdeburg Herrenkrug (ab 06:26),Berlin Friedrichstr
+06:32,RE 3105,Biederitz (ab 06:29),Berlin Friedrichstraße
+06:32 (+13),RE 3105,Burg(Magdeburg) (ab 06:43),Berlin Friedrichstr
+06:32,RE 3105,Güsen(b Genthin) (ab 06:50),Berlin Friedrichstraße
+06:32 (+13),RE 3105,Güsen(b Genthin) (ab 06:50),Berlin Friedrichstr
+06:32,RE 3105,Genthin (ab 06:59),Berlin Friedrichstraße
+06:32 (+13),RE 3105,Wusterwitz (ab 07:07),Berlin Friedrichstr
+06:32,RE 3105,Wusterwitz (ab 07:07),Berlin Friedrichstraße
+06:32 (+13),RE 3105,Werder(Havel) (ab 07:20),Berlin Friedrichstr
+06:32,RE 3105,Götz (ab 07:27),Berlin Friedrichstraße
+06:32 (+13),RE 3105,Götz (ab 07:27),Berlin Friedrichstr
+06:32,RE 3105,Groß Kreutz (ab 07:31),Berlin Friedrichstraße
+06:32 (+13),RE 3105,Potsdam Park Sanssouci (ab 07:43),Berlin Friedrichstr
+06:32,RE 3105,Potsdam Park Sanssouci (ab 07:43),Berlin Friedrichstraße
+06:32 (+13),RE 3105,Hangelsberg (ab 08:37),Berlin Friedrichstr
+06:32,RE 3105,Hangelsberg (ab 08:37),Berlin Friedrichstraße
+06:36,RE 93761,Frankfurt(Oder) (ab 05:26),Berlin Friedrichstr
+06:43,RE 62002,Wittenberge (ab 05:06),Berlin Friedrichstr
+06:43,RE 62002,Wittenberge (ab 05:06),Berlin Friedrichstraße
+06:48,RE 93006,Berlin Zoologischer Garten (ab 06:40),Berlin Friedrichstr
+06:58,RE 73716,Magdeburg Hbf (ab 05:12),Berlin Friedrichstr
+06:58,RE 73716,Magdeburg Hbf (ab 05:12),Berlin Friedrichstraße
+06:58,RE 73721,Eisenhüttenstadt (ab 05:36),Berlin Friedrichstraße
+06:58 (+1),RE 73721,Eisenhüttenstadt (ab 05:36),Berlin Friedrichstr
+06:58,RE 73721,Frankfurt(Oder) (ab 05:55),Berlin Friedrichstraße
+06:58 (+1),RE 73721,Frankfurt(Oder) (ab 05:55),Berlin Friedrichstr
+07:04 (+2),HBX74516,Berlin Ostbahnhof (ab 06:58),Berlin Friedrichstr
+07:09,RE 93011,Lübben(Spreewald) (ab 06:02),Berlin Friedrichstraße
+07:09 (+1),RE 93011,Lübben(Spreewald) (ab 06:02),Berlin Friedrichstr
+07:09,RE 93011,Eisenach (ab 06:42),Berlin Friedrichstraße
+07:09 (+1),RE 93011,Eisenach (ab 06:42),Berlin Friedrichstr
+07:09,RE 93011,Wutha (ab 06:47),Berlin Friedrichstraße
+07:09 (+1),RE 93011,Wutha (ab 06:47),Berlin Friedrichstr
+07:09,RE 93011,Schönau(Hörsel) (ab 06:49),Berlin Friedrichstraße
+07:09 (+1),RE 93011,Sättelstädt (ab 06:52),Berlin Friedrichstr
+07:09,RE 93011,Mechterstädt (ab 06:55),Berlin Friedrichstraße
+07:09 (+1),RE 93011,Fröttstädt (ab 06:58),Berlin Friedrichstr
+07:09,RE 93011,Fröttstädt (ab 06:58),Berlin Friedrichstraße
+07:09 (+1),RE 93011,Erfurt-Bischleben (ab 07:22),Berlin Friedrichstr
+07:14 (+5),RE 62007,Flughafen BER - Terminal 1-2 (ab 06:44),Berlin Friedrichstr
+07:14,RE 62007,Flughafen BER - Terminal 1-2 (ab 06:44),Berlin Friedrichstraße
+07:25,RE 3106,Eisenhüttenstadt (ab 04:26),Berlin Friedrichstr
+07:25,RE 3106,Eisenhüttenstadt (ab 04:26),Berlin Friedrichstraße
+07:25,RE 3106,Frankfurt(Oder) (ab 04:43),Berlin Friedrichstr
+07:25,RE 3106,Frankfurt(Oder) (ab 04:43),Berlin Friedrichstraße
+07:25,RE 3106,Fürstenwalde(Spree) (ab 05:13),Berlin Friedrichstr
+07:25,RE 3106,Erkner (ab 05:31),Berlin Friedrichstraße
+07:25,RE 3106,Erkner (ab 05:31),Berlin Friedrichstr
+07:25,RE 3106,Nauen (ab 06:37),Berlin Friedrichstraße
+07:32,RE 3107,Lübben(Spreewald) (ab 06:34),Berlin Friedrichstraße
+07:32 (+10),RE 3107,Lübben(Spreewald) (ab 06:34),Berlin Friedrichstr
+07:32,RE 3107,Magdeburg Hbf (ab 07:12),Berlin Friedrichstraße
+07:32 (+10),RE 3107,Magdeburg-Neustadt (ab 07:16),Berlin Friedrichstr
+07:32,RE 3107,Hangelsberg (ab 09:37),Berlin Friedrichstraße
+07:36,RE 93763,Frankfurt(Oder) (ab 06:26),Berlin Friedrichstraße
+07:36,RE 93763,Frankfurt(Oder) (ab 06:26),Berlin Friedrichstr
+07:43,RE 62004,Wismar (ab 04:17),Berlin Friedrichstr
+07:43,RE 62004,Wismar (ab 04:17),Berlin Friedrichstraße
+07:43,RE 62004,Dorf Mecklenburg (ab 04:23),Berlin Friedrichstr
+07:43,RE 62004,Dorf Mecklenburg (ab 04:23),Berlin Friedrichstraße
+07:43,RE 62004,Bad Kleinen (ab 04:31),Berlin Friedrichstr
+07:43,RE 62004,Bad Kleinen (ab 04:31),Berlin Friedrichstraße
+07:43,RE 62004,Lübstorf (ab 04:36),Berlin Friedrichstr
+07:43,RE 62004,Lübstorf (ab 04:36),Berlin Friedrichstraße
+07:43,RE 62004,Konstanz (ab 09:07),Berlin Friedrichstr
+07:43,RE 62004,Konstanz (ab 09:07),Berlin Friedrichstraße
+07:48,RE 93008,Berlin Zoologischer Garten (ab 07:40),Berlin Friedrichstr
+07:58 (+13),RE 73718,Magdeburg Hbf (ab 06:12),Berlin Friedrichstr
+07:58,RE 73718,Magdeburg Hbf (ab 06:12),Berlin Friedrichstraße
+07:58,RE 73723,Frankfurt(Oder) (ab 06:55),Berlin Friedrichstraße
+07:58 (+1),RE 73723,Frankfurt(Oder) (ab 06:55),Berlin Friedrichstr
+08:09,RE 93013,Berlin Ostbahnhof (ab 08:02),Berlin Friedrichstr
+08:14,RE 62009,Flughafen BER - Terminal 1-2 (ab 07:44),Berlin Friedrichstr
+08:14,RE 62009,Flughafen BER - Terminal 1-2 (ab 07:44),Berlin Friedrichstraße
+08:16,RE 73760,Magdeburg Hbf (ab 06:19),Berlin Friedrichstraße
+08:25 (+4),RE 3108,Eisenhüttenstadt (ab 05:36),Berlin Friedrichstraße
+08:25 (+4),RE 3108,Eisenhüttenstadt (ab 05:36),Berlin Friedrichstr
+08:25 (+4),RE 3108,Frankfurt(Oder) (ab 05:55),Berlin Friedrichstraße
+08:25 (+4),RE 3108,Nauen (ab 07:37),Berlin Friedrichstr
+08:32,RE 3109,Lübben(Spreewald) (ab 07:34),Berlin Friedrichstr
+08:32,RE 3109,Lübben(Spreewald) (ab 07:34),Berlin Friedrichstraße
+08:32,RE 3109,Magdeburg Hbf (ab 08:12),Berlin Friedrichstr
+08:32,RE 3109,Magdeburg-Neustadt (ab 08:16),Berlin Friedrichstraße
+08:32,RE 3109,Burg(Magdeburg) (ab 08:28),Berlin Friedrichstr
+08:32,RE 3109,Burg(Magdeburg) (ab 08:28),Berlin Friedrichstraße
+08:32,RE 3109,Güsen(b Genthin) (ab 08:35),Berlin Friedrichstr
+08:32,RE 3109,Güsen(b Genthin) (ab 08:35),Berlin Friedrichstraße
+08:32,RE 3109,Genthin (ab 08:44),Berlin Friedrichstr
+08:32,RE 3109,Genthin (ab 08:44),Berlin Friedrichstraße
+08:32,RE 3109,Wusterwitz (ab 08:53),Berlin Friedrichstr
+08:32,RE 3109,Wusterwitz (ab 08:53),Berlin Friedrichstraße
+08:32,RE 3109,Werder(Havel) (ab 09:20),Berlin Friedrichstr
+08:32,RE 3109,Hangelsberg (ab 10:37),Berlin Friedrichstraße
+08:36,RE 93765,Frankfurt(Oder) (ab 07:26),Berlin Friedrichstraße
+08:36,RE 93765,Frankfurt(Oder) (ab 07:26),Berlin Friedrichstr
+08:43,RE 62006,Wismar (ab 05:22),Berlin Friedrichstraße
+08:43,RE 62006,Wismar (ab 05:22),Berlin Friedrichstr
+08:43,RE 62006,Dorf Mecklenburg (ab 05:28),Berlin Friedrichstraße
+08:43,RE 62006,Dorf Mecklenburg (ab 05:28),Berlin Friedrichstr
+08:43,RE 62006,Bad Kleinen (ab 05:36),Berlin Friedrichstraße
+08:43,RE 62006,Bad Kleinen (ab 05:36),Berlin Friedrichstr
+08:43,RE 62006,Lübstorf (ab 05:41),Berlin Friedrichstraße
+08:43,RE 62006,Lübstorf (ab 05:41),Berlin Friedrichstr
+08:48,RE 93010,Berlin Zoologischer Garten (ab 08:40),Berlin Friedrichstr
+08:58,RE 73720,Magdeburg Hbf (ab 07:12),Berlin Friedrichstraße
+08:58 (+1),RE 73720,Magdeburg Hbf (ab 07:12),Berlin Friedrichstr
+08:58,RE 73725,Eisenhüttenstadt (ab 07:36),Berlin Friedrichstraße
+08:58 (+6),RE 73725,Eisenhüttenstadt (ab 07:36),Berlin Friedrichstr
+08:58,RE 73725,Frankfurt(Oder) (ab 07:55),Berlin Friedrichstraße
+08:58 (+6),RE 73725,Frankfurt(Oder) (ab 07:55),Berlin Friedrichstr
+09:09,RE 93015,Lübben(Spreewald) (ab 08:02),Berlin Friedrichstraße
+09:09,RE 93015,Lübben(Spreewald) (ab 08:02),Berlin Friedrichstr
+09:14,RE 62011,Flughafen BER - Terminal 1-2 (ab 08:44),Berlin Friedrichstr
+09:14,RE 62011,Flughafen BER - Terminal 1-2 (ab 08:44),Berlin Friedrichstraße
+09:25,RE 3110,Nauen (ab 08:37),Berlin Friedrichstr
+09:25,RE 3110,Nauen (ab 08:37),Berlin Friedrichstraße
+09:32,RE 3111,Lübben(Spreewald) (ab 08:34),Berlin Friedrichstraße
+09:32 (+1),RE 3111,Lübben(Spreewald) (ab 08:34),Berlin Friedrichstr
+09:32,RE 3111,Magdeburg Hbf (ab 09:12),Berlin Friedrichstraße
+09:32 (+1),RE 3111,Magdeburg-Neustadt (ab 09:16),Berlin Friedrichstr
+09:32,RE 3111,Burg(Magdeburg) (ab 09:28),Berlin Friedrichstraße
+09:32 (+1),RE 3111,Güsen(b Genthin) (ab 09:35),Berlin Friedrichstr
+09:32,RE 3111,Genthin (ab 09:44),Berlin Friedrichstraße
+09:32 (+1),RE 3111,Wusterwitz (ab 09:53),Berlin Friedrichstr
+09:32,RE 3111,Wusterwitz (ab 09:53),Berlin Friedrichstraße
+09:32 (+1),RE 3111,Werder(Havel) (ab 10:20),Berlin Friedrichstr
+09:32,RE 3111,Werder(Havel) (ab 10:20),Berlin Friedrichstraße
+09:32 (+1),RE 3111,Hangelsberg (ab 11:37),Berlin Friedrichstr
+09:32,RE 3111,Hangelsberg (ab 11:37),Berlin Friedrichstraße
+09:36,RE 93767,Frankfurt(Oder) (ab 08:26),Berlin Friedrichstraße
+09:36,RE 93767,Frankfurt(Oder) (ab 08:26),Berlin Friedrichstr
+09:43,RE 62008,Wittenberge (ab 08:06),Berlin Friedrichstr
+09:43,RE 62008,Wittenberge (ab 08:06),Berlin Friedrichstraße
+09:48,RE 93012,Berlin Zoologischer Garten (ab 09:39),Berlin Friedrichstraße
+09:48,RE 93012,Berlin Zoologischer Garten (ab 09:39),Berlin Friedrichstr
+09:58,RE 73727,Eisenhüttenstadt (ab 08:36),Berlin Friedrichstraße
+09:58,RE 73727,Eisenhüttenstadt (ab 08:36),Berlin Friedrichstr
+09:58,RE 73727,Frankfurt(Oder) (ab 08:55),Berlin Friedrichstraße
+09:58,RE 73727,Frankfurt(Oder) (ab 08:55),Berlin Friedrichstr
+09:59,RE 73722,Magdeburg Hbf (ab 08:12),Berlin Friedrichstraße
+09:59,RE 73722,Magdeburg Hbf (ab 08:12),Berlin Friedrichstr
+10:07 Ausfall,RE 18768,Berlin-Charlottenburg (ab 09:55),Berlin Friedrichstr
+10:07 Ausfall,RE 18768,Berlin-Charlottenburg (ab 09:55),Berlin Friedrichstraße
+10:09,RE 93017,Lübben(Spreewald) (ab 09:02),Berlin Friedrichstr
+10:14,RE 62013,Flughafen BER - Terminal 1-2 (ab 09:44),Berlin Friedrichstr
+10:14,RE 62013,Flughafen BER - Terminal 1-2 (ab 09:44),Berlin Friedrichstraße
+10:25,RE 3112,Eisenhüttenstadt (ab 07:36),Berlin Friedrichstr
+10:25,RE 3112,Eisenhüttenstadt (ab 07:36),Berlin Friedrichstraße
+10:25,RE 3112,Frankfurt(Oder) (ab 07:55),Berlin Friedrichstr
+10:25,RE 3112,Nauen (ab 09:37),Berlin Friedrichstraße
+10:32,RE 3113,Lübben(Spreewald) (ab 09:34),Berlin Friedrichstr
+10:32,RE 3113,Lübben(Spreewald) (ab 09:34),Berlin Friedrichstraße
+10:32,RE 3113,Magdeburg Hbf (ab 10:12),Berlin Friedrichstr
+10:32,RE 3113,Magdeburg Hbf (ab 10:12),Berlin Friedrichstraße
+10:32,RE 3113,Magdeburg-Neustadt (ab 10:16),Berlin Friedrichstr
+10:32,RE 3113,Magdeburg-Neustadt (ab 10:16),Berlin Friedrichstraße
+10:32,RE 3113,Burg(Magdeburg) (ab 10:28),Berlin Friedrichstr
+10:32,RE 3113,Burg(Magdeburg) (ab 10:28),Berlin Friedrichstraße
+10:32,RE 3113,Güsen(b Genthin) (ab 10:35),Berlin Friedrichstr
+10:32,RE 3113,Güsen(b Genthin) (ab 10:35),Berlin Friedrichstraße
+10:32,RE 3113,Genthin (ab 10:44),Berlin Friedrichstr
+10:32,RE 3113,Genthin (ab 10:44),Berlin Friedrichstraße
+10:32,RE 3113,Wusterwitz (ab 10:53),Berlin Friedrichstr
+10:32,RE 3113,Wusterwitz (ab 10:53),Berlin Friedrichstraße
+10:32,RE 3113,Werder(Havel) (ab 11:20),Berlin Friedrichstr
+10:32,RE 3113,Werder(Havel) (ab 11:20),Berlin Friedrichstraße
+10:32,RE 3113,Hangelsberg (ab 12:37),Berlin Friedrichstr
+10:32,RE 3113,Hangelsberg (ab 12:37),Berlin Friedrichstraße
+10:36,RE 93769,Frankfurt(Oder) (ab 09:26),Berlin Friedrichstr
+10:43,RE 62010,Wismar (ab 07:33),Berlin Friedrichstr
+10:43,RE 62010,Wismar (ab 07:33),Berlin Friedrichstraße
+10:48,RE 93014,Berlin Zoologischer Garten (ab 10:40),Berlin Friedrichstraße
+10:48 (+1),RE 93014,Berlin Zoologischer Garten (ab 10:40),Berlin Friedrichstr
+10:50 (+1),RE 3747,Berlin Ostkreuz (ab 10:38),Berlin Friedrichstr
+10:50,RE 3747,Berlin Ostkreuz (ab 10:38),Berlin Friedrichstraße
+10:58,RE 73724,Magdeburg Hbf (ab 09:12),Berlin Friedrichstraße
+10:58 (+1),RE 73724,Magdeburg Hbf (ab 09:12),Berlin Friedrichstr
+10:58,RE 73729,Frankfurt(Oder) (ab 09:55),Berlin Friedrichstr
+10:58,RE 73729,Frankfurt(Oder) (ab 09:55),Berlin Friedrichstraße
+11:09 (+1),RE 93019,Lübben(Spreewald) (ab 10:02),Berlin Friedrichstr
+11:14,RE 62015,Flughafen BER - Terminal 1-2 (ab 10:44),Berlin Friedrichstraße
+11:14,RE 62015,Flughafen BER - Terminal 1-2 (ab 10:44),Berlin Friedrichstr
+11:16,RE 73766,Brandenburg Hbf (ab 10:20),Berlin Friedrichstraße
+11:25,RE 3114,Eisenhüttenstadt (ab 08:36),Berlin Friedrichstraße
+11:25,RE 3114,Eisenhüttenstadt (ab 08:36),Berlin Friedrichstr
+11:25,RE 3114,Nauen (ab 10:37),Berlin Friedrichstraße
+11:25,RE 3114,Nauen (ab 10:37),Berlin Friedrichstr
+11:32,RE 3115,Lübben(Spreewald) (ab 10:34),Berlin Friedrichstr
+11:32,RE 3115,Lübben(Spreewald) (ab 10:34),Berlin Friedrichstraße
+11:32,RE 3115,Magdeburg Hbf (ab 11:12),Berlin Friedrichstr
+11:32,RE 3115,Magdeburg-Neustadt (ab 11:16),Berlin Friedrichstraße
+11:32,RE 3115,Burg(Magdeburg) (ab 11:28),Berlin Friedrichstr
+11:32,RE 3115,Burg(Magdeburg) (ab 11:28),Berlin Friedrichstraße
+11:32,RE 3115,Güsen(b Genthin) (ab 11:35),Berlin Friedrichstr
+11:32,RE 3115,Güsen(b Genthin) (ab 11:35),Berlin Friedrichstraße
+11:32,RE 3115,Genthin (ab 11:44),Berlin Friedrichstr
+11:32,RE 3115,Genthin (ab 11:44),Berlin Friedrichstraße
+11:32,RE 3115,Wusterwitz (ab 11:53),Berlin Friedrichstr
+11:32,RE 3115,Wusterwitz (ab 11:53),Berlin Friedrichstraße
+11:32,RE 3115,Werder(Havel) (ab 12:20),Berlin Friedrichstr
+11:32,RE 3115,Hangelsberg (ab 13:37),Berlin Friedrichstraße
+11:32,RE 3115,Hangelsberg (ab 13:37),Berlin Friedrichstr
+11:36 (+1),RE 93771,Frankfurt(Oder) (ab 10:26),Berlin Friedrichstr
+11:43,RE 62012,Wittenberge (ab 10:06),Berlin Friedrichstr
+11:43,RE 62012,Wittenberge (ab 10:06),Berlin Friedrichstraße
+11:58,RE 73726,Magdeburg Hbf (ab 10:12),Berlin Friedrichstraße
+11:58,RE 73731,Frankfurt(Oder) (ab 10:55),Berlin Friedrichstraße
+12:14,RE 62017,Flughafen BER - Terminal 1-2 (ab 11:44),Berlin Friedrichstraße
+12:25,RE 3116,Frankfurt(Oder) (ab 09:55),Berlin Friedrichstraße
+12:32,RE 3117,Lübben(Spreewald) (ab 11:34),Berlin Friedrichstraße
+12:43,RE 62014,Wismar (ab 09:24),Berlin Friedrichstraße
+12:48,RE 93018,Berlin Zoologischer Garten (ab 12:40),Berlin Friedrichstraße
+12:58,RE 73728,Magdeburg Hbf (ab 11:12),Berlin Friedrichstraße
+12:58,RE 73733,Frankfurt(Oder) (ab 11:55),Berlin Friedrichstraße
+13:09,RE 93023,Lübben(Spreewald) (ab 12:02),Berlin Friedrichstraße
+13:14,RE 62019,Flughafen BER - Terminal 1-2 (ab 12:44),Berlin Friedrichstraße
+13:16,RE 73770,Brandenburg Hbf (ab 12:20),Berlin Friedrichstraße
+13:25,RE 3118,Nauen (ab 12:37),Berlin Friedrichstraße
+13:32,RE 3119,Lübben(Spreewald) (ab 12:34),Berlin Friedrichstraße
+13:43,RE 62016,Wittenberge (ab 12:06),Berlin Friedrichstraße
+13:48,RE 93020,Berlin Zoologischer Garten (ab 13:39),Berlin Friedrichstraße
+13:58,RE 73735,Frankfurt(Oder) (ab 12:55),Berlin Friedrichstraße
+13:59,RE 73730,Magdeburg Hbf (ab 12:12),Berlin Friedrichstraße
+14:09,RE 93025,Lübben(Spreewald) (ab 13:02),Berlin Friedrichstraße
+14:14,RE 62021,Flughafen BER - Terminal 1-2 (ab 13:44),Berlin Friedrichstraße
+14:16,RE 73772,Brandenburg Hbf (ab 13:20),Berlin Friedrichstraße
+14:25,RE 3120,Frankfurt(Oder) (ab 11:55),Berlin Friedrichstraße
+14:32,RE 3121,Lübben(Spreewald) (ab 13:34),Berlin Friedrichstraße
+14:43,RE 62018,Wismar (ab 11:24),Berlin Friedrichstraße
+14:58,RE 73732,Magdeburg Hbf (ab 13:12),Berlin Friedrichstraße
+14:58,RE 73737,Frankfurt(Oder) (ab 13:55),Berlin Friedrichstraße
+15:14,RE 62023,Flughafen BER - Terminal 1-2 (ab 14:44),Berlin Friedrichstr
+15:14,RE 62023,Flughafen BER - Terminal 1-2 (ab 14:44),Berlin Friedrichstraße
+15:16,RE 73774,Brandenburg Hbf (ab 14:20),Berlin Friedrichstraße
+15:25 (+1),RE 3122,Nauen (ab 14:37),Berlin Friedrichstraße
+15:32,RE 3123,Lübben(Spreewald) (ab 14:34),Berlin Friedrichstraße
+15:43,RE 62020,Wittenberge (ab 14:06),Berlin Friedrichstraße
+15:48,RE 93024,Berlin Zoologischer Garten (ab 15:40),Berlin Friedrichstraße
+15:58 (+2),RE 73734,Magdeburg Hbf (ab 14:12),Berlin Friedrichstr
+15:58,RE 73734,Magdeburg Hbf (ab 14:12),Berlin Friedrichstraße
+15:58,RE 73739,Frankfurt(Oder) (ab 14:55),Berlin Friedrichstraße
+15:58 (+1),RE 73739,Frankfurt(Oder) (ab 14:55),Berlin Friedrichstr
+16:09 (+7),RE 93029,Lübben(Spreewald) (ab 15:02),Berlin Friedrichstraße
+16:14,RE 62025,Flughafen BER - Terminal 1-2 (ab 15:44),Berlin Friedrichstr
+16:14,RE 62025,Flughafen BER - Terminal 1-2 (ab 15:44),Berlin Friedrichstraße
+16:25 (+2),RE 3124,Frankfurt(Oder) (ab 13:55),Berlin Friedrichstr
+16:25,RE 3124,Frankfurt(Oder) (ab 13:55),Berlin Friedrichstraße
+16:25 (+2),RE 3124,Fürstenwalde(Spree) (ab 14:13),Berlin Friedrichstr
+16:25,RE 3124,Fürstenwalde(Spree) (ab 14:13),Berlin Friedrichstraße
+16:25 (+2),RE 3124,Hangelsberg (ab 14:19),Berlin Friedrichstr
+16:25,RE 3124,Hangelsberg (ab 14:19),Berlin Friedrichstraße
+16:25 (+2),RE 3124,Fangschleuse (ab 14:24),Berlin Friedrichstr
+16:25,RE 3124,Fangschleuse (ab 14:24),Berlin Friedrichstraße
+16:25 (+2),RE 3124,Erkner (ab 14:31),Berlin Friedrichstr
+16:25,RE 3124,Erkner (ab 14:31),Berlin Friedrichstraße
+16:25 (+2),RE 3124,Nauen (ab 15:37),Berlin Friedrichstr
+16:25,RE 3124,Burg(Magdeburg) (ab 16:30),Berlin Friedrichstraße
+16:32,RE 3125,Lübben(Spreewald) (ab 15:34),Berlin Friedrichstraße
+16:32,RE 3125,Lübben(Spreewald) (ab 15:34),Berlin Friedrichstr
+16:43,RE 62022,Wismar (ab 13:24),Berlin Friedrichstr
+16:43,RE 62022,Wismar (ab 13:24),Berlin Friedrichstraße
+16:48,RE 93026,Berlin Zoologischer Garten (ab 16:40),Berlin Friedrichstraße
+16:48,RE 93026,Berlin Zoologischer Garten (ab 16:40),Berlin Friedrichstr
+16:58 (+2),RE 73736,Magdeburg Hbf (ab 15:12),Berlin Friedrichstr
+16:58,RE 73736,Magdeburg Hbf (ab 15:12),Berlin Friedrichstraße
+16:58,RE 73741,Frankfurt(Oder) (ab 15:55),Berlin Friedrichstraße
+16:58 (+1),RE 73741,Frankfurt(Oder) (ab 15:55),Berlin Friedrichstr
+17:09,RE 93031,Lübben(Spreewald) (ab 16:02),Berlin Friedrichstr
+17:14,RE 62027,Flughafen BER - Terminal 1-2 (ab 16:44),Berlin Friedrichstraße
+17:14,RE 62027,Flughafen BER - Terminal 1-2 (ab 16:44),Berlin Friedrichstr
+17:16,RE 73778,Brandenburg Hbf (ab 16:20),Berlin Friedrichstraße
+17:25,RE 18444,Lausanne (ab 00:51),Berlin Friedrichstraße
+17:25 (+1),RE 3126,Frankfurt(Oder) (ab 14:55),Berlin Friedrichstr
+17:25,RE 3126,Frankfurt(Oder) (ab 14:55),Berlin Friedrichstraße
+17:25 (+1),RE 3126,Fürstenwalde(Spree) (ab 15:13),Berlin Friedrichstr
+17:25,RE 3126,Fürstenwalde(Spree) (ab 15:13),Berlin Friedrichstraße
+17:25 (+1),RE 3126,Hangelsberg (ab 15:19),Berlin Friedrichstr
+17:25,RE 3126,Fangschleuse (ab 15:24),Berlin Friedrichstraße
+17:25 (+1),RE 3126,Erkner (ab 15:31),Berlin Friedrichstr
+17:25,RE 3126,Erkner (ab 15:31),Berlin Friedrichstraße
+17:25 (+1),RE 3126,Nauen (ab 16:37),Berlin Friedrichstr
+17:25,RE 3126,Nauen (ab 16:37),Berlin Friedrichstraße
+17:25 (+1),RE 3126,Burg(Magdeburg) (ab 17:30),Berlin Friedrichstr
+17:25,RE 3126,Burg(Magdeburg) (ab 17:30),Berlin Friedrichstraße
+17:32 (+13),RE 3127,Lübben(Spreewald) (ab 16:34),Berlin Friedrichstr
+17:32,RE 3127,Lübben(Spreewald) (ab 16:34),Berlin Friedrichstraße
+17:32 (+13),RE 3127,Magdeburg Hbf (ab 17:12),Berlin Friedrichstr
+17:32,RE 3127,Magdeburg Hbf (ab 17:12),Berlin Friedrichstraße
+17:32 (+13),RE 3127,Magdeburg-Neustadt (ab 17:16),Berlin Friedrichstr
+17:32,RE 3127,Magdeburg-Neustadt (ab 17:16),Berlin Friedrichstraße
+17:32 (+13),RE 3127,Burg(Magdeburg) (ab 17:28),Berlin Friedrichstr
+17:32,RE 3127,Burg(Magdeburg) (ab 17:28),Berlin Friedrichstraße
+17:32 (+13),RE 3127,Güsen(b Genthin) (ab 17:35),Berlin Friedrichstr
+17:32,RE 3127,Güsen(b Genthin) (ab 17:35),Berlin Friedrichstraße
+17:32 (+13),RE 3127,Genthin (ab 17:44),Berlin Friedrichstr
+17:32,RE 3127,Genthin (ab 17:44),Berlin Friedrichstraße
+17:32 (+13),RE 3127,Wusterwitz (ab 17:53),Berlin Friedrichstr
+17:32,RE 3127,Werder(Havel) (ab 18:20),Berlin Friedrichstraße
+17:32 (+13),RE 3127,Hangelsberg (ab 19:37),Berlin Friedrichstr
+17:32,RE 3127,Hangelsberg (ab 19:37),Berlin Friedrichstraße
+17:36,RE 93783,Frankfurt(Oder) (ab 16:26),Berlin Friedrichstraße
+17:36 (+1),RE 93783,Frankfurt(Oder) (ab 16:26),Berlin Friedrichstr
+17:43,RE 62024,Wittenberge (ab 16:06),Berlin Friedrichstr
+17:43,RE 62024,Wittenberge (ab 16:06),Berlin Friedrichstraße
+17:48,RE 93028,Berlin Zoologischer Garten (ab 17:40),Berlin Friedrichstraße
+17:48,RE 93028,Berlin Zoologischer Garten (ab 17:40),Berlin Friedrichstr
+17:58,RE 73738,Magdeburg Hbf (ab 16:12),Berlin Friedrichstraße
+17:58 (+7),RE 73738,Magdeburg Hbf (ab 16:12),Berlin Friedrichstr
+17:58,RE 73743,Frankfurt(Oder) (ab 16:55),Berlin Friedrichstr
+17:58,RE 73743,Frankfurt(Oder) (ab 16:55),Berlin Friedrichstraße
+18:07 (+2),RE 3746,Bad Belzig (ab 17:03),Berlin Friedrichstr
+18:07,RE 3746,Bad Belzig (ab 17:03),Berlin Friedrichstraße
+18:09 (+9),RE 93033,Lübben(Spreewald) (ab 17:02),Berlin Friedrichstraße
+18:09 (+10),RE 93033,Lübben(Spreewald) (ab 17:02),Berlin Friedrichstr
+18:14,RE 62029,Flughafen BER - Terminal 1-2 (ab 17:44),Berlin Friedrichstraße
+18:14,RE 62029,Flughafen BER - Terminal 1-2 (ab 17:44),Berlin Friedrichstr
+18:25 (+1),RE 3128,Frankfurt(Oder) (ab 15:55),Berlin Friedrichstr
+18:25,RE 3128,Frankfurt(Oder) (ab 15:55),Berlin Friedrichstraße
+18:25 (+1),RE 3128,Fürstenwalde(Spree) (ab 16:13),Berlin Friedrichstr
+18:25,RE 3128,Fürstenwalde(Spree) (ab 16:13),Berlin Friedrichstraße
+18:25 (+1),RE 3128,Hangelsberg (ab 16:19),Berlin Friedrichstr
+18:25,RE 3128,Fangschleuse (ab 16:24),Berlin Friedrichstraße
+18:25 (+1),RE 3128,Erkner (ab 16:31),Berlin Friedrichstr
+18:25,RE 3128,Erkner (ab 16:31),Berlin Friedrichstraße
+18:25 (+1),RE 3128,Nauen (ab 17:37),Berlin Friedrichstr
+18:25,RE 3128,Nauen (ab 17:37),Berlin Friedrichstraße
+18:25 (+1),RE 3128,Burg(Magdeburg) (ab 18:30),Berlin Friedrichstr
+18:25,RE 3128,Burg(Magdeburg) (ab 18:30),Berlin Friedrichstraße
+18:32,RE 3129,Lübben(Spreewald) (ab 17:34),Berlin Friedrichstr
+18:32,RE 3129,Lübben(Spreewald) (ab 17:34),Berlin Friedrichstraße
+18:32,RE 3129,Magdeburg Hbf (ab 18:12),Berlin Friedrichstr
+18:32,RE 3129,Magdeburg Hbf (ab 18:12),Berlin Friedrichstraße
+18:32,RE 3129,Magdeburg-Neustadt (ab 18:16),Berlin Friedrichstr
+18:32,RE 3129,Magdeburg-Neustadt (ab 18:16),Berlin Friedrichstraße
+18:32,RE 3129,Burg(Magdeburg) (ab 18:28),Berlin Friedrichstr
+18:32,RE 3129,Burg(Magdeburg) (ab 18:28),Berlin Friedrichstraße
+18:32,RE 3129,Güsen(b Genthin) (ab 18:35),Berlin Friedrichstr
+18:32,RE 3129,Güsen(b Genthin) (ab 18:35),Berlin Friedrichstraße
+18:32,RE 3129,Genthin (ab 18:44),Berlin Friedrichstr
+18:32,RE 3129,Genthin (ab 18:44),Berlin Friedrichstraße
+18:32,RE 3129,Wusterwitz (ab 18:53),Berlin Friedrichstr
+18:32,RE 3129,Werder(Havel) (ab 19:20),Berlin Friedrichstraße
+18:32,RE 3129,Hangelsberg (ab 20:37),Berlin Friedrichstr
+18:32,RE 3129,Hangelsberg (ab 20:37),Berlin Friedrichstraße
+18:36 (+2),RE 93785,Frankfurt(Oder) (ab 17:26),Berlin Friedrichstr
+18:43 (+3),RE 62026,Wismar (ab 15:24),Berlin Friedrichstr
+18:43,RE 62026,Wismar (ab 15:24),Berlin Friedrichstraße
+18:48 (+5),RE 93030,Berlin Zoologischer Garten (ab 18:40),Berlin Friedrichstr
+18:48,RE 93030,Berlin Zoologischer Garten (ab 18:40),Berlin Friedrichstraße
+18:49 Ausfall,RE 18769,Lübben(Spreewald) (ab 17:53),Berlin Friedrichstr
+18:49 Ausfall,RE 18769,Lübben(Spreewald) (ab 17:53),Berlin Friedrichstraße
+18:58,RE 73740,Magdeburg Hbf (ab 17:12),Berlin Friedrichstraße
+18:58 (+7),RE 73740,Magdeburg Hbf (ab 17:12),Berlin Friedrichstr
+18:58,RE 73745,Frankfurt(Oder) (ab 17:55),Berlin Friedrichstr
+18:58,RE 73745,Frankfurt(Oder) (ab 17:55),Berlin Friedrichstraße
+19:09 (+13),RE 93035,Lübben(Spreewald) (ab 18:02),Berlin Friedrichstraße
+19:09 (+13),RE 93035,Lübben(Spreewald) (ab 18:02),Berlin Friedrichstr
+19:14,RE 62031,Flughafen BER - Terminal 1-2 (ab 18:44),Berlin Friedrichstraße
+19:14 (+2),RE 62031,Flughafen BER - Terminal 1-2 (ab 18:44),Berlin Friedrichstr
+19:25,RE 3130,Nauen (ab 18:37),Berlin Friedrichstraße
+19:25 (+3),RE 3130,Nauen (ab 18:37),Berlin Friedrichstr
+19:32,RE 3131,Lübben(Spreewald) (ab 18:34),Berlin Friedrichstraße
+19:32,RE 3131,Lübben(Spreewald) (ab 18:34),Berlin Friedrichstr
+19:36 (+4),RE 93787,Frankfurt(Oder) (ab 18:26),Berlin Friedrichstr
+19:43,RE 62028,Wittenberge (ab 18:06),Berlin Friedrichstraße
+19:43 (+2),RE 62028,Wittenberge (ab 18:06),Berlin Friedrichstr
+19:48,RE 93032,Berlin Zoologischer Garten (ab 19:40),Berlin Friedrichstraße
+19:48 (+1),RE 93032,Berlin Zoologischer Garten (ab 19:40),Berlin Friedrichstr
+19:58,RE 73742,Magdeburg Hbf (ab 18:12),Berlin Friedrichstraße
+19:58 (+2),RE 73742,Magdeburg Hbf (ab 18:12),Berlin Friedrichstr
+19:58 (+1),RE 73747,Frankfurt(Oder) (ab 18:55),Berlin Friedrichstr
+19:58,RE 73747,Frankfurt(Oder) (ab 18:55),Berlin Friedrichstraße
+20:09,RE 3737,Berlin-Wannsee (ab 20:34),Berlin Friedrichstraße
+20:09,RE 93037,Lübben(Spreewald) (ab 19:02),Berlin Friedrichstraße
+20:09 (+1),RE 93037,Lübben(Spreewald) (ab 19:02),Berlin Friedrichstr
+20:14,RE 62033,Flughafen BER - Terminal 1-2 (ab 19:44),Berlin Friedrichstraße
+20:14 (+1),RE 62033,Flughafen BER - Terminal 1-2 (ab 19:44),Berlin Friedrichstr
+20:25,RE 3132,Nauen (ab 19:37),Berlin Friedrichstr
+20:25,RE 3132,Nauen (ab 19:37),Berlin Friedrichstraße
+20:32 (+8),RE 3133,Lübben(Spreewald) (ab 19:34),Berlin Friedrichstraße
+20:32 (+8),RE 3133,Lübben(Spreewald) (ab 19:34),Berlin Friedrichstr
+20:32 (+8),RE 3133,Magdeburg Hbf (ab 20:12),Berlin Friedrichstraße
+20:32 (+8),RE 3133,Magdeburg-Neustadt (ab 20:16),Berlin Friedrichstr
+20:32 (+8),RE 3133,Burg(Magdeburg) (ab 20:28),Berlin Friedrichstraße
+20:32 (+8),RE 3133,Güsen(b Genthin) (ab 20:35),Berlin Friedrichstr
+20:32 (+8),RE 3133,Güsen(b Genthin) (ab 20:35),Berlin Friedrichstraße
+20:32 (+8),RE 3133,Genthin (ab 20:44),Berlin Friedrichstr
+20:32 (+8),RE 3133,Wusterwitz (ab 20:53),Berlin Friedrichstraße
+20:32 (+8),RE 3133,Werder(Havel) (ab 21:20),Berlin Friedrichstr
+20:32 (+8),RE 3133,Pillgram (ab 23:03),Berlin Friedrichstraße
+20:36,RE 93789,Frankfurt(Oder) (ab 19:26),Berlin Friedrichstr
+20:43,RE 62030,Wismar (ab 17:24),Berlin Friedrichstraße
+20:43 (+2),RE 62030,Wismar (ab 17:24),Berlin Friedrichstr
+20:48,RE 93034,Berlin Zoologischer Garten (ab 20:40),Berlin Friedrichstraße
+20:48,RE 93034,Berlin Zoologischer Garten (ab 20:40),Berlin Friedrichstr
+20:52,HBX74519,Goslar (ab 17:05),Berlin Friedrichstraße
+20:52,HBX74519,Goslar (ab 17:05),Berlin Friedrichstr
+20:52,HBX74535,Thale Hbf (ab 17:17),Berlin Friedrichstraße
+20:58 (+1),RE 73744,Magdeburg Hbf (ab 19:12),Berlin Friedrichstr
+20:58,RE 73744,Magdeburg Hbf (ab 19:12),Berlin Friedrichstraße
+20:58 (+1),RE 73749,Frankfurt(Oder) (ab 19:55),Berlin Friedrichstr
+20:58,RE 73749,Frankfurt(Oder) (ab 19:55),Berlin Friedrichstraße
+21:09 (+8),RE 93039,Lübben(Spreewald) (ab 20:02),Berlin Friedrichstr
+21:14,RE 62035,Flughafen BER - Terminal 1-2 (ab 20:44),Berlin Friedrichstr
+21:14,RE 62035,Flughafen BER - Terminal 1-2 (ab 20:44),Berlin Friedrichstraße
+21:16,RE 73786,Brandenburg Hbf (ab 20:20),Berlin Friedrichstraße
+21:25,RE 3134,Frankfurt(Oder) (ab 18:55),Berlin Friedrichstr
+21:25,RE 3134,Frankfurt(Oder) (ab 18:55),Berlin Friedrichstraße
+21:25,RE 3134,Fürstenwalde(Spree) (ab 19:13),Berlin Friedrichstr
+21:25,RE 3134,Hangelsberg (ab 19:19),Berlin Friedrichstraße
+21:25,RE 3134,Fangschleuse (ab 19:24),Berlin Friedrichstr
+21:25,RE 3134,Erkner (ab 19:31),Berlin Friedrichstraße
+21:25,RE 3134,Nauen (ab 20:37),Berlin Friedrichstr
+21:25,RE 3134,Burg(Magdeburg) (ab 21:30),Berlin Friedrichstraße
+21:25,RE 3134,Burg(Magdeburg) (ab 21:30),Berlin Friedrichstr
+21:32 (+3),RE 3135,Lübben(Spreewald) (ab 20:34),Berlin Friedrichstr
+21:32,RE 3135,Lübben(Spreewald) (ab 20:34),Berlin Friedrichstraße
+21:36 (+3),RE 73791,Frankfurt(Oder) (ab 20:26),Berlin Friedrichstr
+21:36,RE 73791,Frankfurt(Oder) (ab 20:26),Berlin Friedrichstraße
+21:43,RE 62032,Wittenberge (ab 20:06),Berlin Friedrichstraße
+21:43 (+1),RE 62032,Wittenberge (ab 20:06),Berlin Friedrichstr
+21:48,RE 93036,Berlin Zoologischer Garten (ab 21:40),Berlin Friedrichstraße
+21:48,RE 93036,Berlin Zoologischer Garten (ab 21:40),Berlin Friedrichstr
+21:58,RE 73746,Magdeburg Hbf (ab 20:12),Berlin Friedrichstr
+21:58,RE 73746,Magdeburg Hbf (ab 20:12),Berlin Friedrichstraße
+22:09 Ausfall,RE 93041,Lübben(Spreewald) (ab 21:02),Berlin Friedrichstr
+22:14,RE 62037,Flughafen BER - Terminal 1-2 (ab 21:44),Berlin Friedrichstr
+22:14,RE 62037,Flughafen BER - Terminal 1-2 (ab 21:44),Berlin Friedrichstraße
+22:16 (+6),RE 73788,Brandenburg Hbf (ab 21:20),Berlin Friedrichstr
+22:16,RE 73788,Brandenburg Hbf (ab 21:20),Berlin Friedrichstraße
+22:32 (+33),RE 3137,Lübben(Spreewald) (ab 21:34),Berlin Friedrichstr
+22:32 (+33),RE 3137,Lübben(Spreewald) (ab 21:34),Berlin Friedrichstraße
+22:36,RE 73793,Frankfurt(Oder) (ab 21:24),Berlin Friedrichstraße
+22:36,RE 73793,Frankfurt(Oder) (ab 21:24),Berlin Friedrichstr
+22:43,RE 62034,Wismar (ab 19:24),Berlin Friedrichstraße
+22:43,RE 62034,Wismar (ab 19:24),Berlin Friedrichstr
+22:48 Ausfall,RE 93038,Berlin Zoologischer Garten (ab 22:40),Berlin Friedrichstr
+22:48,RE 93038,Berlin Zoologischer Garten (ab 22:40),Berlin Friedrichstraße
+22:53 (+1),RE 3136,Nauen (ab 22:08),Berlin Friedrichstr
+22:53,RE 3136,Nauen (ab 22:08),Berlin Friedrichstraße
+22:57,RE 73827,Fürstenwalde(Spree) (ab 22:13),Berlin Friedrichstr
+22:57,RE 73827,Fürstenwalde(Spree) (ab 22:13),Berlin Friedrichstraße
+22:58 (+1),RE 73748,Magdeburg Hbf (ab 21:06),Berlin Friedrichstr
+22:58,RE 73748,Magdeburg Hbf (ab 21:06),Berlin Friedrichstraße
+23:09 Ausfall,RE 93043,Berlin Ostbahnhof (ab 23:02),Berlin Friedrichstr
+23:32,RE 3139,Genthin (ab 00:02),Berlin Friedrichstraße
+23:36,RE 73795,Frankfurt(Oder) (ab 22:24),Berlin Friedrichstraße
+23:36,RE 73795,Frankfurt(Oder) (ab 22:24),Berlin Friedrichstr
+23:43,RE 62036,Wittenberge (ab 22:06),Berlin Friedrichstraße
+23:43,RE 92036,Wittenberge (ab 22:06),Berlin Friedrichstr
+23:43,RE 92036,Wittenberge (ab 22:06),Berlin Friedrichstraße
+23:48 Ausfall,RE 93040,Berlin Zoologischer Garten (ab 23:40),Berlin Friedrichstr
+23:53 (+1),RE 3138,Nauen (ab 23:08),Berlin Friedrichstr
+23:53 (+2),RE 3138,Nauen (ab 23:08),Berlin Friedrichstraße
+23:58,RE 73750,Magdeburg Hbf (ab 22:06),Berlin Friedrichstr
+23:58,RE 73750,Magdeburg Hbf (ab 22:06),Berlin Friedrichstraße
+23:58,RE 73829,Frankfurt(Oder) (ab 22:55),Berlin Friedrichstr
+23:58,RE 73829,Frankfurt(Oder) (ab 22:55),Berlin Friedrichstraße
