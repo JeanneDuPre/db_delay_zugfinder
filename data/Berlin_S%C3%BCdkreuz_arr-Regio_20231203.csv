@@ -1,0 +1,334 @@
+Ankunft,Zugnr.,von (Abfahrt),Ankunftsbhf.
+00:02,ICE 2915,Frankfurt(Main)Hbf (ab 07:16),Berlin Südkreuz
+00:02 Ausfall,ICE 805,Hamburg-Altona (ab 21:35),Berlin Südkreuz
+00:07,Bus63197,Falkenberg(Elster) (ab 20:20),Berlin Südkreuz
+00:07 (+3),Bus63320,Lutherstadt Wittenberg Hbf (ab 21:00),Berlin Südkreuz
+00:15,RE 3366,Lutherstadt Wittenberg Hbf (ab 22:43),Berlin Südkreuz
+00:21 Ausfall,ICE 1100,München Hbf (ab 19:46),Berlin Südkreuz
+00:54,ICE 376,Interlaken Ost (ab 15:00),Berlin Südkreuz
+00:55,RE 62090,Berlin Hbf (tief) (ab 00:49),Berlin Südkreuz
+01:03,ICE 2927,Essen Hbf (ab 16:53),Berlin Südkreuz
+01:03 (+55),ICE 907,Hamburg-Altona (ab 22:36),Berlin Südkreuz
+01:03,RE 62089,Baruth(Mark) (ab 00:08),Berlin Südkreuz
+01:07 (+6),Bus63163,Falkenberg(Elster) (ab 21:20),Berlin Südkreuz
+01:40 (+110),ICE 600,München Hbf (ab 20:46),Berlin Südkreuz
+01:47,RE 3362,Ludwigsfelde (ab 01:26),Berlin Südkreuz
+03:46 (+58),ICE 4,Zürich HB (ab 18:59),Berlin Südkreuz
+04:52,RE 3369,Eberswalde Hbf (ab 04:04),Berlin Südkreuz
+04:56 (+16),ICE 71,Berlin Hbf (ab 04:51),Berlin Südkreuz
+05:11,RE 18090,Berlin Hbf (tief) (ab 05:01),Berlin Südkreuz
+05:11 Ausfall,RE 3144,Rathenow (ab 04:03),Berlin Südkreuz
+05:11,RE 62150,Rathenow (ab 04:03),Berlin Südkreuz
+05:20,RE 4351,Neustrelitz Hbf (ab 03:49),Berlin Südkreuz
+05:25 Ausfall,ICE 1001,Berlin Gesundbrunnen (ab 05:09),Berlin Südkreuz
+05:41,RE 3301,Angermünde (ab 04:27),Berlin Südkreuz
+05:44 (+1),RE 3167,Magdeburg Hbf (ab 04:19),Berlin Südkreuz
+05:44,RE 4,Ludwigsfelde (ab 05:24),Berlin Südkreuz
+05:44,RE 92101,Jüterbog (ab 05:03),Berlin Südkreuz
+05:50,RE 62054,Berlin Hbf (tief) (ab 05:42),Berlin Südkreuz
+05:56,RB 18501,Nauen (ab 05:08),Berlin Südkreuz
+05:59,RE 62053,Elsterwerda (ab 04:12),Berlin Südkreuz
+06:00,ICE 503,Berlin Hbf (ab 05:51),Berlin Südkreuz
+06:08 (+1),RE 3164,Rathenow (ab 05:03),Berlin Südkreuz
+06:08,RE 62152,Rathenow (ab 05:03),Berlin Südkreuz
+06:20,RE 13050,Neubrandenburg (ab 04:31),Berlin Südkreuz
+06:20,RE 3503,Neubrandenburg (ab 04:27),Berlin Südkreuz
+06:21,RE 3304,Lutherstadt Wittenberg Hbf (ab 05:05),Berlin Südkreuz
+06:21,RJ 257,Berlin Hbf (tief) (ab 06:17),Berlin Südkreuz
+06:25 (+1),IC 2904,Berlin Hbf (ab 06:36),Berlin Südkreuz
+06:25 (+1),IC 94,Fürth(Bay)Hbf (ab 00:33),Berlin Südkreuz
+06:39,RE 3341,Schwedt(Oder) (ab 05:06),Berlin Südkreuz
+06:44 Ausfall,RE 3147,Ludwigsfelde (ab 06:30),Berlin Südkreuz
+06:44,RE 4471,Spaichingen (ab 01:28),Berlin Südkreuz
+06:50 (+4),RE 62056,Berlin Hbf (tief) (ab 06:44),Berlin Südkreuz
+06:52,IC 17,Fürth(Bay)Hbf (ab 00:33),Berlin Südkreuz
+06:56 Ausfall,RB 18503,Nauen (ab 06:08),Berlin Südkreuz
+06:59,ICE 73,Berlin Hbf (ab 06:54),Berlin Südkreuz
+07:02 (+3),RE 62055,Finsterwalde(Niederlausitz) (ab 05:35),Berlin Südkreuz
+07:02,RE3,Biesenthal (ab 00:03),Berlin Südkreuz
+07:02,RE8,Berlin Ostkreuz (ab 00:02),Berlin Südkreuz
+07:06,EC 171,Berlin Hbf (ab 07:01),Berlin Südkreuz
+07:11,RE 18092,Stendal Hbf (ab 05:44),Berlin Südkreuz
+07:11,RE 3146,Stendal Hbf (ab 05:44),Berlin Südkreuz
+07:13 (+117),IC 60401,Frankfurt(Main)Hbf (ab 00:52),Berlin Südkreuz
+07:13 (+125),IC 60409,Zürich HB (ab 19:59),Berlin Südkreuz
+07:13 (+118),NJ 409,Zürich HB (ab 19:59),Berlin Südkreuz
+07:19,RE 3342,Jüterbog (ab 06:33),Berlin Südkreuz
+07:20,RE 13052,Neustrelitz Hbf (ab 06:02),Berlin Südkreuz
+07:20 (+4),RE 4353,Rostock Hbf (ab 04:34),Berlin Südkreuz
+07:22,ICE 1606,Leipzig Hbf (ab 06:16),Berlin Südkreuz
+07:25 Ausfall,IC 2274,Dresden Hbf (ab 05:19),Berlin Südkreuz
+07:25,IC 2914,Dresden Hbf (ab 05:19),Berlin Südkreuz
+07:25 (+22),IC 2916,Dresden Hbf (ab 05:19),Berlin Südkreuz
+07:25 (+7),RE 52274,Elsterwerda (ab 05:56),Berlin Südkreuz
+07:39 (+1),ICE 701,Hamburg-Altona (ab 05:11),Berlin Südkreuz
+07:42,RE 3303,Stralsund Hbf (ab 04:17),Berlin Südkreuz
+07:44,RE 3169,Magdeburg Hbf (ab 05:12),Berlin Südkreuz
+07:48 (+28),ICE 698,München Hbf (ab 21:51),Berlin Südkreuz
+07:50,RE 62058,Berlin Hbf (tief) (ab 07:42),Berlin Südkreuz
+07:56,RB 18505,Nauen (ab 07:08),Berlin Südkreuz
+07:59 (+2),RE 62057,Elsterwerda (ab 06:12),Berlin Südkreuz
+08:01 (+1),ICE 505,Hamburg-Altona (ab 06:17),Berlin Südkreuz
+08:09,RE 3166,Rathenow (ab 07:03),Berlin Südkreuz
+08:15,RB 18605,Nauen (ab 07:18),Berlin Südkreuz
+08:20 (+1),RE 3505,Langhagen (ab 00:41),Berlin Südkreuz
+08:20,RE 93505,Stralsund Hbf (ab 05:02),Berlin Südkreuz
+08:31 (+2),IC 2173,Rostock Hbf (ab 06:21),Berlin Südkreuz
+08:31,RE 52173,Berlin Hbf (tief) (ab 08:26),Berlin Südkreuz
+08:35,ICE 870,Dresden Hbf (ab 06:54),Berlin Südkreuz
+08:40,RE 3343,Schwedt(Oder) (ab 07:06),Berlin Südkreuz
+08:44 (+5),RE 3149,Ludwigsfelde (ab 08:30),Berlin Südkreuz
+08:50,ICE 1731,Eisenach (ab 06:38),Berlin Südkreuz
+08:50,RE 62060,Berlin Hbf (tief) (ab 08:44),Berlin Südkreuz
+08:55 (+6),ICE 806,Eisenach (ab 05:53),Berlin Südkreuz
+08:56 Ausfall,RB 18507,Nauen (ab 08:08),Berlin Südkreuz
+09:02,ICE 75,Berlin Hbf (ab 08:57),Berlin Südkreuz
+09:02 (+3),RE 62059,Finsterwalde(Niederlausitz) (ab 07:27),Berlin Südkreuz
+09:06,EC 173,Hamburg-Altona (ab 06:35),Berlin Südkreuz
+09:06,IC 1073,Hamburg-Altona (ab 06:35),Berlin Südkreuz
+09:09,ICE 703,Hamburg-Altona (ab 07:18),Berlin Südkreuz
+09:11 Ausfall,RE 3148,Rathenow (ab 08:03),Berlin Südkreuz
+09:11,RE 62158,Rathenow (ab 08:03),Berlin Südkreuz
+09:15,RB 18607,Nauen (ab 08:18),Berlin Südkreuz
+09:18,RE 3344,Jüterbog (ab 08:33),Berlin Südkreuz
+09:20 (+23),RE 4355,Rostock Hbf (ab 06:34),Berlin Südkreuz
+09:20,RE 93355,Rostock Hbf (ab 06:34),Berlin Südkreuz
+09:22 Ausfall,ICE 1604,Nürnberg Hbf (ab 05:42),Berlin Südkreuz
+09:22,ICE 1704,Jena Paradies (ab 06:59),Berlin Südkreuz
+09:25 (+8),IC 2272,Chemnitz Hbf (ab 06:26),Berlin Südkreuz
+09:25 (+7),RE 52272,Elsterwerda (ab 08:04),Berlin Südkreuz
+09:42,RE 3171,Ludwigsfelde (ab 09:12),Berlin Südkreuz
+09:42,RE 3305,Stralsund Hbf (ab 06:17),Berlin Südkreuz
+09:42,RE 62161,Ludwigsfelde (ab 09:12),Berlin Südkreuz
+09:50,RE 62062,Berlin Hbf (tief) (ab 09:43),Berlin Südkreuz
+09:56,RB 18509,Nauen (ab 09:08),Berlin Südkreuz
+09:59 Ausfall,RE 62061,Elsterwerda (ab 08:12),Berlin Südkreuz
+10:09 (+58),ICE 1093,Hamburg-Altona (ab 07:49),Berlin Südkreuz
+10:09,ICE 93,Hamburg-Altona (ab 07:49),Berlin Südkreuz
+10:09,RE 3168,Frankfurt(Oder) (ab 08:26),Berlin Südkreuz
+10:09,RE 62160,Rathenow (ab 09:07),Berlin Südkreuz
+10:15 (+27),ICE 804,München Hbf (ab 05:06),Berlin Südkreuz
+10:18,ICE 1044,Stralsund Hbf (ab 07:15),Berlin Südkreuz
+10:18,RE 51044,Prenzlau (ab 08:53),Berlin Südkreuz
+10:24,ICE 1155,Bonn Hbf (ab 05:48),Berlin Südkreuz
+10:29 (+4),RE 3507,Stralsund Hbf (ab 07:02),Berlin Südkreuz
+10:31 (+6),IC 2175,Warnemünde (ab 07:56),Berlin Südkreuz
+10:31,RE 52175,Berlin Hbf (tief) (ab 10:26),Berlin Südkreuz
+10:34,ICE 507,Hamburg-Altona (ab 08:18),Berlin Südkreuz
+10:35 (+3),EC 178,Praha hl.n. (ab 06:25),Berlin Südkreuz
+10:39,RE 3345,Prenzlau (ab 09:04),Berlin Südkreuz
+10:44 Ausfall,RE 3151,Finsterwalde(Niederlausitz) (ab 08:38),Berlin Südkreuz
+10:44,RE 62163,Ludwigsfelde (ab 10:30),Berlin Südkreuz
+10:50 Ausfall,RE 62064,Berlin Hbf (tief) (ab 10:44),Berlin Südkreuz
+10:56 Ausfall,ICE 672,Wiesbaden Hbf (ab 05:00),Berlin Südkreuz
+10:56 Ausfall,RB 18511,Nauen (ab 10:08),Berlin Südkreuz
+10:58 (+3),ICE 77,Berlin Hbf (ab 10:54),Berlin Südkreuz
+11:01 (+3),ICE 705,Hamburg-Altona (ab 08:19),Berlin Südkreuz
+11:02 (+1),RE 62063,Baruth(Mark) (ab 10:08),Berlin Südkreuz
+11:06 (+5),EC 379,Kiel Hbf (ab 07:41),Berlin Südkreuz
+11:11 (+5),RE 3150,Frankfurt(Oder) (ab 00:24),Berlin Südkreuz
+11:11,RE 62162,Rathenow (ab 10:03),Berlin Südkreuz
+11:13,IC 1979,Kiel Hbf (ab 07:41),Berlin Südkreuz
+11:20 (+5),RE 4357,Rostock Hbf (ab 08:34),Berlin Südkreuz
+11:25 (+8),IC 2270,Chemnitz Hbf (ab 08:26),Berlin Südkreuz
+11:25 (+3),RE 52270,Elsterwerda (ab 10:04),Berlin Südkreuz
+11:32,ICE 1043,Dresden Hbf (ab 09:43),Berlin Südkreuz
+11:39 Ausfall,ICE 774,Stuttgart Hbf (ab 05:01),Berlin Südkreuz
+11:42 (+1),RE 3173,Brandenburg Hbf (ab 08:20),Berlin Südkreuz
+11:47,ICE 602,München Hbf (ab 06:56),Berlin Südkreuz
+11:50,RE 62066,Berlin Hbf (tief) (ab 11:42),Berlin Südkreuz
+11:55 Ausfall,RB 18513,Nauen (ab 11:07),Berlin Südkreuz
+11:59 (+3),RE 62065,Elsterwerda (ab 10:12),Berlin Südkreuz
+12:09 (+1),RE 3170,Frankfurt(Oder) (ab 09:26),Berlin Südkreuz
+12:09,RE 62164,Rathenow (ab 11:07),Berlin Südkreuz
+12:15 Ausfall,ICE 802,München Hbf (ab 07:13),Berlin Südkreuz
+12:15,RB 18613,Nauen (ab 11:18),Berlin Südkreuz
+12:20 (+6),RE 3509,Stralsund Hbf (ab 09:02),Berlin Südkreuz
+12:20,RE 93509,Stralsund Hbf (ab 09:02),Berlin Südkreuz
+12:21,RE 3310,Lutherstadt Wittenberg Hbf (ab 10:59),Berlin Südkreuz
+12:25 (+7),ICE 474,Basel Bad Bf (ab 05:08),Berlin Südkreuz
+12:31 Ausfall,IC 2177,Warnemünde (ab 09:56),Berlin Südkreuz
+12:31,RE 52177,Berlin Hbf (tief) (ab 12:26),Berlin Südkreuz
+12:34 Ausfall,ICE 509,Hamburg-Altona (ab 10:17),Berlin Südkreuz
+12:36,IC 1076,Dresden Hbf (ab 10:55),Berlin Südkreuz
+12:37 (+12),EC 176,Praha hl.n. (ab 08:25),Berlin Südkreuz
+12:39,RE 3347,Schwedt(Oder) (ab 11:06),Berlin Südkreuz
+12:44 Ausfall,ICE 1046,Ostseebad Binz (ab 08:19),Berlin Südkreuz
+12:44,ICE 2936,Ostseebad Binz (ab 08:19),Berlin Südkreuz
+12:44 (+10),RE 3153,Ludwigsfelde (ab 12:30),Berlin Südkreuz
+12:44,RE 51046,Prenzlau (ab 10:55),Berlin Südkreuz
+12:44,RE 62167,Ludwigsfelde (ab 12:30),Berlin Südkreuz
+12:50 (+1),RE 62068,Berlin Hbf (tief) (ab 12:44),Berlin Südkreuz
+12:56,RB 18515,Nauen (ab 12:08),Berlin Südkreuz
+12:58 (+3),ICE 79,Berlin Hbf (ab 12:54),Berlin Südkreuz
+13:02 (+11),RE 62067,Baruth(Mark) (ab 12:08),Berlin Südkreuz
+13:06 (+1),EC 175,Flensburg (ab 08:33),Berlin Südkreuz
+13:06,IC 1075,Flensburg (ab 08:33),Berlin Südkreuz
+13:09 (+3),ICE 707,Hamburg-Altona (ab 10:21),Berlin Südkreuz
+13:11 Ausfall,RE 3152,Rathenow (ab 12:03),Berlin Südkreuz
+13:11,RE 62166,Rathenow (ab 12:03),Berlin Südkreuz
+13:17 (+1),RB 18615,Nauen (ab 12:18),Berlin Südkreuz
+13:20 (+7),RE 4359,Rostock Hbf (ab 10:34),Berlin Südkreuz
+13:22 (+46),ICE 1710,München Hbf (ab 08:55),Berlin Südkreuz
+13:22,ICE 2910,München Hbf (ab 08:55),Berlin Südkreuz
+13:26 Ausfall,IC 2178,Dresden Hbf (ab 11:19),Berlin Südkreuz
+13:26,RE 52178,Elsterwerda (ab 11:56),Berlin Südkreuz
+13:30 (+2),ICE 1138,Berlin Hbf (tief) (ab 13:25),Berlin Südkreuz
+13:42,RE 3175,Brandenburg Hbf (ab 09:20),Berlin Südkreuz
+13:42,RE 3309,Stralsund Hbf (ab 10:17),Berlin Südkreuz
+13:45,ICE 1706,München Hbf (ab 08:39),Berlin Südkreuz
+13:50,RE 62070,Berlin Hbf (tief) (ab 13:42),Berlin Südkreuz
+13:56 Ausfall,RB 18517,Nauen (ab 13:08),Berlin Südkreuz
+13:59,RE 62069,Elsterwerda (ab 12:12),Berlin Südkreuz
+14:08 (+46),ICE 1600,München Hbf (ab 08:55),Berlin Südkreuz
+14:09 (+3),RE 3172,Frankfurt(Oder) (ab 10:26),Berlin Südkreuz
+14:09,RE 62168,Rathenow (ab 13:07),Berlin Südkreuz
+14:15 (+1),RB 18617,Nauen (ab 13:18),Berlin Südkreuz
+14:20 (+15),RE 3511,Stralsund Hbf (ab 11:02),Berlin Südkreuz
+14:20,RE 93511,Stralsund Hbf (ab 11:02),Berlin Südkreuz
+14:25 Ausfall,ICE 771,Berlin Gesundbrunnen (ab 13:50),Berlin Südkreuz
+14:25 (+10),ICE 78,Zürich HB (ab 05:59),Berlin Südkreuz
+14:31 Ausfall,IC 2179,Warnemünde (ab 11:56),Berlin Südkreuz
+14:31 (+12),IC 2919,Rostock Hbf (ab 12:20),Berlin Südkreuz
+14:31,RE 52179,Berlin Hbf (tief) (ab 14:26),Berlin Südkreuz
+14:34 (+1),ICE 1601,Hamburg-Altona (ab 11:22),Berlin Südkreuz
+14:34 (+1),ICE 1711,Ostseebad Binz (ab 10:21),Berlin Südkreuz
+14:36 (+4),EC 174,Praha hl.n. (ab 10:25),Berlin Südkreuz
+14:41 (+133),ICE 800,München Hbf (ab 09:48),Berlin Südkreuz
+14:46 (+6),EC 177,Berlin Hbf (tief) (ab 14:49),Berlin Südkreuz
+14:46 Ausfall,RE 3155,Ludwigsfelde (ab 14:33),Berlin Südkreuz
+14:47,ICE 1171,Berlin Hbf (ab 14:40),Berlin Südkreuz
+14:50 (+1),RE 62072,Berlin Hbf (tief) (ab 14:44),Berlin Südkreuz
+14:56,RB 18519,Nauen (ab 14:08),Berlin Südkreuz
+15:02,RE 62071,Baruth(Mark) (ab 14:08),Berlin Südkreuz
+15:09 (+1),ICE 709,Hamburg-Altona (ab 12:15),Berlin Südkreuz
+15:11,RE 18540,Rathenow (ab 14:03),Berlin Südkreuz
+15:11,RE 3154,Fangschleuse (ab 00:03),Berlin Südkreuz
+15:11,RE 62170,Rathenow (ab 14:03),Berlin Südkreuz
+15:15 (+1),RB 18619,Nauen (ab 14:18),Berlin Südkreuz
+15:20 (+11),RE 4361,Rostock Hbf (ab 12:34),Berlin Südkreuz
+15:26 (+1),IC 2176,Dresden Hbf (ab 13:19),Berlin Südkreuz
+15:26,RE 52176,Elsterwerda (ab 13:56),Berlin Südkreuz
+15:31 Ausfall,ICE 1136,Berlin Gesundbrunnen (ab 15:11),Berlin Südkreuz
+15:42,RE 3177,Ludwigsfelde (ab 15:12),Berlin Südkreuz
+15:42,RE 3311,Stralsund Hbf (ab 12:17),Berlin Südkreuz
+15:42,RE 62173,Ludwigsfelde (ab 15:12),Berlin Südkreuz
+15:50,RE 62074,Berlin Hbf (tief) (ab 15:42),Berlin Südkreuz
+15:53 (+1),ICE 603,Hamburg-Altona (ab 13:22),Berlin Südkreuz
+15:56,RB 18521,Nauen (ab 15:08),Berlin Südkreuz
+15:59,RE 62073,Elsterwerda (ab 14:12),Berlin Südkreuz
+16:02 (+68),ICE 508,München Hbf (ab 10:55),Berlin Südkreuz
+16:09,RE 3174,Frankfurt(Oder) (ab 11:26),Berlin Südkreuz
+16:09,RE 62172,Rathenow (ab 15:07),Berlin Südkreuz
+16:15,RB 18621,Berlin Hbf (ab 13:10),Berlin Südkreuz
+16:20 (+18),RE 3513,Stralsund Hbf (ab 13:02),Berlin Südkreuz
+16:20,RE 93513,Stralsund Hbf (ab 13:02),Berlin Südkreuz
+16:28,ICE 1040,Ostseebad Binz (ab 12:19),Berlin Südkreuz
+16:31 (+10),IC 2271,Warnemünde (ab 13:52),Berlin Südkreuz
+16:31,RE 52271,Berlin Hbf (tief) (ab 16:26),Berlin Südkreuz
+16:34 (+54),EC 378,Praha hl.n. (ab 12:25),Berlin Südkreuz
+16:44 (+7),RE 3157,Ludwigsfelde (ab 16:30),Berlin Südkreuz
+16:47 (+108),ICE 708,Leipzig Hbf (ab 05:07),Berlin Südkreuz
+16:50 (+2),RE 62076,Berlin Hbf (tief) (ab 16:44),Berlin Südkreuz
+16:55 (+2),RB 18523,Nauen (ab 16:08),Berlin Südkreuz
+16:56 (+19),ICE 76,Zürich HB (ab 07:59),Berlin Südkreuz
+16:57 (+3),ICE 273,Berlin Gesundbrunnen (ab 16:45),Berlin Südkreuz
+17:02 (+3),ICE 801,Hamburg-Altona (ab 14:19),Berlin Südkreuz
+17:02 (+5),RE 62075,Finsterwalde(Niederlausitz) (ab 15:27),Berlin Südkreuz
+17:06 (+11),EC 179,Berlin Hbf (ab 16:54),Berlin Südkreuz
+17:09 (+5),ICE 773,Hamburg-Altona (ab 14:37),Berlin Südkreuz
+17:11 Ausfall,RE 3156,Rathenow (ab 16:03),Berlin Südkreuz
+17:11,RE 62174,Rathenow (ab 16:03),Berlin Südkreuz
+17:15,RB 18623,Nauen (ab 16:18),Berlin Südkreuz
+17:20 (+24),RE 4363,Rostock Hbf (ab 14:34),Berlin Südkreuz
+17:26 (+6),IC 2174,Dresden Hbf (ab 15:19),Berlin Südkreuz
+17:26 (+6),RE 52174,Elsterwerda (ab 15:56),Berlin Südkreuz
+17:42 (+6),RE 3179,Brandenburg Hbf (ab 11:20),Berlin Südkreuz
+17:42,RE 3313,Stralsund Hbf (ab 14:17),Berlin Südkreuz
+17:50,RE 62078,Berlin Hbf (tief) (ab 17:42),Berlin Südkreuz
+17:55 (+1),RB 18525,Nauen (ab 17:08),Berlin Südkreuz
+17:58 (+2),ICE 1605,Hamburg-Altona (ab 15:18),Berlin Südkreuz
+17:58 (+2),ICE 1705,Hamburg-Altona (ab 15:18),Berlin Südkreuz
+17:59 (+3),RE 62077,Elsterwerda (ab 16:12),Berlin Südkreuz
+18:02 (+26),ICE 506,München Hbf (ab 12:45),Berlin Südkreuz
+18:06 (+3),FLX 1244,Basel Bad Bf (ab 09:11),Berlin Südkreuz
+18:09 (+1),RE 3176,Rathenow (ab 17:07),Berlin Südkreuz
+18:09,RE 62176,Rathenow (ab 17:07),Berlin Südkreuz
+18:15,RB 18625,Nauen (ab 17:18),Berlin Südkreuz
+18:20 (+32),RE 3515,Stralsund Hbf (ab 15:02),Berlin Südkreuz
+18:20,RE 93515,Stralsund Hbf (ab 15:02),Berlin Südkreuz
+18:31 (+1),IC 2273,Warnemünde (ab 15:52),Berlin Südkreuz
+18:31,RE 52273,Bielefeld Hbf (ab 05:24),Berlin Südkreuz
+18:41 Ausfall,EC 172,Budapest-Nyugati (ab 07:29),Berlin Südkreuz
+18:44 Ausfall,RE 3159,Ludwigsfelde (ab 18:30),Berlin Südkreuz
+18:47 (+61),ICE 706,München Hbf (ab 13:54),Berlin Südkreuz
+18:50,RE 62080,Berlin Hbf (tief) (ab 18:44),Berlin Südkreuz
+18:55,ICE 803,Hamburg-Altona (ab 16:17),Berlin Südkreuz
+18:56,RB 18527,Nauen (ab 18:08),Berlin Südkreuz
+18:58 (+2),ICE 74,Graz Hbf (ab 08:25),Berlin Südkreuz
+19:04,RE 62079,Finsterwalde(Niederlausitz) (ab 17:27),Berlin Südkreuz
+19:06,ICE 871,Hamburg-Altona (ab 16:37),Berlin Südkreuz
+19:11,RE 3158,Rathenow (ab 18:03),Berlin Südkreuz
+19:15,RB 18627,Nauen (ab 18:18),Berlin Südkreuz
+19:15,RB 18633,Nauen (ab 18:18),Berlin Südkreuz
+19:20,RE 4365,Rostock Hbf (ab 16:34),Berlin Südkreuz
+19:26,IC 2172,Dresden Hbf (ab 17:19),Berlin Südkreuz
+19:26,RE 4763,Chemnitz Hbf (ab 06:26),Berlin Südkreuz
+19:26,RE 52172,Elsterwerda (ab 17:56),Berlin Südkreuz
+19:41,RE 3315,Stralsund Hbf (ab 16:17),Berlin Südkreuz
+19:42,RE 3181,Ludwigsfelde (ab 19:12),Berlin Südkreuz
+19:46,IC 1174,Hannover Hbf (ab 08:07),Berlin Südkreuz
+19:50,RE 62082,Berlin Hbf (tief) (ab 19:42),Berlin Südkreuz
+19:53 Ausfall,ICE 504,München Hbf (ab 14:51),Berlin Südkreuz
+19:56,RB 18529,Nauen (ab 19:08),Berlin Südkreuz
+19:57 (+2),FLX 1331,Hamburg Hbf (ab 17:45),Berlin Südkreuz
+19:57,FLX 1361,Hamburg Hbf (ab 17:45),Berlin Südkreuz
+19:59,RE 62081,Elsterwerda (ab 18:12),Berlin Südkreuz
+20:09 Ausfall,ICE 1109,Berlin Gesundbrunnen (ab 19:51),Berlin Südkreuz
+20:09 Ausfall,RE 3178,Rathenow (ab 19:07),Berlin Südkreuz
+20:15 Ausfall,RB 18629,Nauen (ab 19:18),Berlin Südkreuz
+20:15,RB 18635,Nauen (ab 19:18),Berlin Südkreuz
+20:20 (+7),RE 3517,Stralsund Hbf (ab 17:02),Berlin Südkreuz
+20:31 Ausfall,IC 2275,Warnemünde (ab 17:52),Berlin Südkreuz
+20:31,RE 52275,Rheda-Wiedenbrück (ab 07:04),Berlin Südkreuz
+20:34 (+6),EC 170,Praha hl.n. (ab 16:25),Berlin Südkreuz
+20:43 (+2),NJ 408,Berlin Hbf (tief) (ab 20:38),Berlin Südkreuz
+20:44 (+3),RE 3161,Ludwigsfelde (ab 20:30),Berlin Südkreuz
+20:44,RE 62183,Ludwigsfelde (ab 20:30),Berlin Südkreuz
+20:47 (+2),ICE 704,München Hbf (ab 15:16),Berlin Südkreuz
+20:50,RE 62084,Berlin Hbf (tief) (ab 20:44),Berlin Südkreuz
+20:56,RB 18531,Nauen (ab 20:08),Berlin Südkreuz
+20:58,IC 60408,Berlin Hbf (tief) (ab 20:38),Berlin Südkreuz
+21:02 (+4),RE 62083,Baruth(Mark) (ab 20:08),Berlin Südkreuz
+21:04,IC 2073,Hamburg-Altona (ab 18:35),Berlin Südkreuz
+21:05 (+19),ICE 699,Hamburg-Altona (ab 18:19),Berlin Südkreuz
+21:05,ICE 72,Basel SBB (ab 13:06),Berlin Südkreuz
+21:10 (+2),RE 3160,Berlin Ostkreuz (ab 05:25),Berlin Südkreuz
+21:10,RE 62182,Rathenow (ab 20:03),Berlin Südkreuz
+21:15 (+3),RB 18631,Nauen (ab 20:18),Berlin Südkreuz
+21:15,RB 18637,Nauen (ab 20:18),Berlin Südkreuz
+21:17,RE 3356,Ludwigsfelde (ab 20:56),Berlin Südkreuz
+21:20 (+11),RE 4367,Rostock Hbf (ab 18:34),Berlin Südkreuz
+21:21 Ausfall,ICE 1733,Frankfurt(Main)Hbf (ab 16:15),Berlin Südkreuz
+21:31 (+12),ICE 1607,Hamburg-Altona (ab 19:20),Berlin Südkreuz
+21:36 (+2),RJ 256,Graz Hbf (ab 10:25),Berlin Südkreuz
+21:38 (+9),FLX 1239,Aachen Hbf (ab 15:26),Berlin Südkreuz
+21:42 Ausfall,RE 3183,Ludwigsfelde (ab 21:12),Berlin Südkreuz
+21:46 (+105),FLX 1246,Stuttgart Hbf (ab 15:29),Berlin Südkreuz
+21:50 (+1),RE 62086,Berlin Hbf (tief) (ab 21:42),Berlin Südkreuz
+21:50 (+2),RJ 256,Graz Hbf (ab 10:25),Berlin Südkreuz
+21:56 (+6),RB 18533,Nauen (ab 21:08),Berlin Südkreuz
+21:58,RE 62085,Elsterwerda (ab 20:04),Berlin Südkreuz
+22:02 (+41),ICE 502,München Hbf (ab 16:50),Berlin Südkreuz
+22:09 (+1),IC 2277,Warnemünde (ab 19:29),Berlin Südkreuz
+22:20,RE 3519,Stralsund Hbf (ab 19:02),Berlin Südkreuz
+22:31 Ausfall,ICE 1000,München Hbf (ab 17:53),Berlin Südkreuz
+22:32,ICE 609,Hamburg-Altona (ab 20:17),Berlin Südkreuz
+22:42 (+102),ICE 702,München Hbf (ab 17:56),Berlin Südkreuz
+22:50,RE 62088,Berlin Hbf (tief) (ab 22:44),Berlin Südkreuz
+22:52,RE 3185,Ludwigsfelde (ab 22:29),Berlin Südkreuz
+22:55 (+50),ICE 70,Chur (ab 12:37),Berlin Südkreuz
+23:04,RE 62087,Baruth(Mark) (ab 22:02),Berlin Südkreuz
+23:27 Ausfall,RB 18537,Nauen (ab 22:38),Berlin Südkreuz
+23:27,RB10,Eberswalde Hbf (ab 04:04),Berlin Südkreuz
+23:52 (+52),ICE 500,München Hbf (ab 18:49),Berlin Südkreuz
