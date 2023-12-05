@@ -1,0 +1,361 @@
+Ankunft,Zugnr.,von (Abfahrt),Ankunftsbhf.
+00:00 (+1),RE 62045,Berlin Alexanderplatz (ab 00:09),Berlin Ostkreuz
+00:05,RE 3138,Nauen (ab 23:08),Berlin Ostkreuz
+00:06,RE 18799,Lübben(Spreewald) (ab 23:04),Berlin Ostkreuz
+00:10,RE 73750,Magdeburg Hbf (ab 22:06),Berlin Ostkreuz
+00:18 (+1),FEX19878,Flughafen BER - Terminal 1-2 (ab 00:02),Berlin Ostkreuz
+00:23 (+6),RE 73797,Frankfurt(Oder) (ab 23:24),Berlin Ostkreuz
+00:27 (+6),RE 3141,Cottbus Hbf (ab 23:02),Berlin Ostkreuz
+00:55 (+1),RE 62038,Wismar (ab 21:25),Berlin Ostkreuz
+00:56 (+1),RE 62041,Flughafen BER - Terminal 1-2 (ab 00:40),Berlin Ostkreuz
+01:08,RE 3100,Nauen (ab 00:07),Berlin Ostkreuz
+01:14 (+1),RE 93042,Berlin Zoologischer Garten (ab 00:52),Berlin Ostkreuz
+01:23,RE 73753,Frankfurt(Oder) (ab 00:24),Berlin Ostkreuz
+01:31 (+1),FEX19880,Flughafen BER - Terminal 1-2 (ab 01:15),Berlin Ostkreuz
+01:35,RE 73794,Genthin (ab 00:02),Berlin Ostkreuz
+02:00,RE 62047,Flughafen BER - Terminal 1-2 (ab 01:39),Berlin Ostkreuz
+02:56,RE 62043,Flughafen BER - Terminal 1-2 (ab 02:40),Berlin Ostkreuz
+02:58 (+1),RE 62046,Nauen (ab 02:02),Berlin Ostkreuz
+03:29,FEX19801,Berlin-Charlottenburg (ab 03:05),Berlin Ostkreuz
+03:42 (+1),FEX19803,Berlin-Charlottenburg (ab 03:20),Berlin Ostkreuz
+03:58 (+1),RE 62044,Berlin-Charlottenburg (ab 03:34),Berlin Ostkreuz
+04:01 (+4),RE 62001,Flughafen BER - Terminal 1-2 (ab 03:44),Berlin Ostkreuz
+04:10,FEX19805,Berlin Hbf (tief) (ab 03:51),Berlin Ostkreuz
+04:16,RB 18201,Oranienburg (ab 03:45),Berlin Ostkreuz
+04:26 (+1),RE 73752,Berlin Zoologischer Garten (ab 04:05),Berlin Ostkreuz
+04:39,FEX19807,Berlin Hbf (tief) (ab 04:21),Berlin Ostkreuz
+04:42,FEX19800,Wünsdorf-Waldstadt (ab 03:49),Berlin Ostkreuz
+04:45 (+1),RE 93717,Frankfurt(Oder) (ab 03:43),Berlin Ostkreuz
+04:47,RE 73800,Berlin-Charlottenburg (ab 04:23),Berlin Ostkreuz
+04:52 (+1),RB 18301,Berlin-Lichtenberg (ab 04:49),Berlin Ostkreuz
+04:55 (+1),RE 62048,Nauen (ab 04:01),Berlin Ostkreuz
+04:55 (+5),RE 93007,Lübben(Spreewald) (ab 04:02),Berlin Ostkreuz
+05:01 (+5),RE 62003,Flughafen BER - Terminal 1-2 (ab 04:44),Berlin Ostkreuz
+05:01 (+1),RE 93002,Berlin Zoologischer Garten (ab 04:40),Berlin Ostkreuz
+05:10,FEX19809,Berlin Hbf (tief) (ab 04:51),Berlin Ostkreuz
+05:15 (+2),FEX19802,Ludwigsfelde (ab 04:32),Berlin Ostkreuz
+05:16 (+3),RB 18203,Oranienburg (ab 04:45),Berlin Ostkreuz
+05:17 (+2),RE 3103,Cottbus Hbf (ab 03:47),Berlin Ostkreuz
+05:21,RB 18141,Berlin-Charlottenburg (ab 04:57),Berlin Ostkreuz
+05:23,RE 93759,Frankfurt(Oder) (ab 04:23),Berlin Ostkreuz
+05:26,RE 93754,Berlin Zoologischer Garten (ab 05:05),Berlin Ostkreuz
+05:28 (+1),RB 5150,Küstrin-Kietz (ab 04:10),Berlin Ostkreuz
+05:29 (+10),RB 18140,Flughafen BER - Terminal 1-2 (ab 05:13),Berlin Ostkreuz
+05:35 (+2),RB 18200,Flughafen BER - Terminal 5 (Schönefeld) (ab 05:19),Berlin Ostkreuz
+05:37 (+1),RE 3102,Nauen (ab 04:37),Berlin Ostkreuz
+05:39 (+1),FEX19811,Berlin Hbf (tief) (ab 05:21),Berlin Ostkreuz
+05:41 (+2),RB 61142,Werneuchen (ab 05:02),Berlin Ostkreuz
+05:45 (+1),RE 73719,Eisenhüttenstadt (ab 04:26),Berlin Ostkreuz
+05:46,FEX19804,Wünsdorf-Waldstadt (ab 04:49),Berlin Ostkreuz
+05:49,RE 62000,Wittenberge (ab 04:06),Berlin Ostkreuz
+05:52 (+1),RB 18303,Berlin-Lichtenberg (ab 05:49),Berlin Ostkreuz
+05:55 (+25),RE 93009,Senftenberg (ab 04:14),Berlin Ostkreuz
+06:00 (+1),RE 93004,Berlin Zoologischer Garten (ab 05:40),Berlin Ostkreuz
+06:01 (+4),RE 62005,Flughafen BER - Terminal 1-2 (ab 05:44),Berlin Ostkreuz
+06:03,RB 61102,Templin Stadt (ab 04:32),Berlin Ostkreuz
+06:10,FEX19813,Berlin Hbf (tief) (ab 05:51),Berlin Ostkreuz
+06:10,RE 93714,Berlin Zoologischer Garten (ab 05:50),Berlin Ostkreuz
+06:15,FEX19806,Ludwigsfelde (ab 05:38),Berlin Ostkreuz
+06:16 (+5),RB 18205,Oranienburg (ab 05:45),Berlin Ostkreuz
+06:17 (+9),RE 3105,Cottbus Hbf (ab 05:01),Berlin Ostkreuz
+06:19 (+11),RE 18754,Bad Belzig (ab 05:03),Berlin Ostkreuz
+06:23 (+7),RE 93761,Frankfurt(Oder) (ab 05:26),Berlin Ostkreuz
+06:24,RB 18143,Berlin-Charlottenburg (ab 06:00),Berlin Ostkreuz
+06:28 (+5),RB 5152,Küstrin-Kietz (ab 05:11),Berlin Ostkreuz
+06:29 (+6),RB 18142,Flughafen BER - Terminal 1-2 (ab 06:13),Berlin Ostkreuz
+06:29 (+6),RE 93756,Berlin Zoologischer Garten (ab 06:08),Berlin Ostkreuz
+06:35,RB 18202,Flughafen BER - Terminal 5 (Schönefeld) (ab 06:19),Berlin Ostkreuz
+06:35 (+9),RE 18753,Cottbus Hbf (ab 05:26),Berlin Ostkreuz
+06:37 (+4),RE 3104,Frankfurt(Oder) (ab 03:43),Berlin Ostkreuz
+06:39,FEX19815,Berlin Hbf (tief) (ab 06:21),Berlin Ostkreuz
+06:41 (+2),RB 61144,Werneuchen (ab 06:02),Berlin Ostkreuz
+06:45 (+3),FEX19808,Wünsdorf-Waldstadt (ab 05:49),Berlin Ostkreuz
+06:45 (+3),RE 73721,Eisenhüttenstadt (ab 05:36),Berlin Ostkreuz
+06:50,RE 73802,Brandenburg Hbf (ab 05:46),Berlin Ostkreuz
+06:52 (+1),RB 18305,Berlin-Lichtenberg (ab 06:49),Berlin Ostkreuz
+06:55,RE 62002,Wittenberge (ab 05:06),Berlin Ostkreuz
+06:55 (+10),RE 93011,Senftenberg (ab 05:10),Berlin Ostkreuz
+07:01,RE 3706,Dessau Hbf (ab 05:05),Berlin Ostkreuz
+07:01,RE 62007,Flughafen BER - Terminal 1-2 (ab 06:44),Berlin Ostkreuz
+07:01 (+1),RE 93006,Berlin Zoologischer Garten (ab 06:40),Berlin Ostkreuz
+07:03 (+1),RB 61104,Templin Stadt (ab 05:32),Berlin Ostkreuz
+07:10,FEX19817,Berlin Hbf (tief) (ab 06:51),Berlin Ostkreuz
+07:10 (+43),IC 2432,Emden Außenhafen (ab 12:01),Berlin Ostkreuz
+07:10,RE 62432,Cottbus Hbf (ab 06:01),Berlin Ostkreuz
+07:10 (+4),RE 73716,Magdeburg Hbf (ab 05:12),Berlin Ostkreuz
+07:15,FEX19810,Ludwigsfelde (ab 06:32),Berlin Ostkreuz
+07:16 (+6),RB 18207,Oranienburg (ab 06:45),Berlin Ostkreuz
+07:17 (+5),RE 3107,Cottbus Hbf (ab 06:08),Berlin Ostkreuz
+07:19,RE 18756,Bad Belzig (ab 06:03),Berlin Ostkreuz
+07:23 (+5),RE 93763,Frankfurt(Oder) (ab 06:26),Berlin Ostkreuz
+07:24,RB 18145,Golm (ab 06:30),Berlin Ostkreuz
+07:28 (+4),RB 5154,Küstrin-Kietz (ab 06:11),Berlin Ostkreuz
+07:29 (+3),RB 18144,Flughafen BER - Terminal 1-2 (ab 07:13),Berlin Ostkreuz
+07:29,RE 93758,Berlin Zoologischer Garten (ab 07:08),Berlin Ostkreuz
+07:35 (+3),RB 18204,Flughafen BER - Terminal 5 (Schönefeld) (ab 07:19),Berlin Ostkreuz
+07:35 (+15),RE 18755,Cottbus Hbf (ab 06:13),Berlin Ostkreuz
+07:37 (+1),RE 3106,Eisenhüttenstadt (ab 04:26),Berlin Ostkreuz
+07:39,FEX19819,Berlin Hbf (tief) (ab 07:21),Berlin Ostkreuz
+07:41 (+1),RB 61146,Werneuchen (ab 07:02),Berlin Ostkreuz
+07:45 (+3),FEX19812,Wünsdorf-Waldstadt (ab 06:49),Berlin Ostkreuz
+07:45,RE 73723,Frankfurt(Oder) (ab 06:55),Berlin Ostkreuz
+07:52 (+1),RB 18307,Berlin-Lichtenberg (ab 07:49),Berlin Ostkreuz
+07:55 (+5),RE 62004,Wismar (ab 04:17),Berlin Ostkreuz
+07:55 (+39),RE 93013,Senftenberg (ab 06:14),Berlin Ostkreuz
+08:01,RE 3708,Dessau Hbf (ab 06:05),Berlin Ostkreuz
+08:01,RE 62009,Flughafen BER - Terminal 1-2 (ab 07:44),Berlin Ostkreuz
+08:01 (+4),RE 93008,Berlin Zoologischer Garten (ab 07:40),Berlin Ostkreuz
+08:03 (+1),RB 61106,Templin Stadt (ab 06:32),Berlin Ostkreuz
+08:10,FEX19821,Berlin Hbf (tief) (ab 07:51),Berlin Ostkreuz
+08:10 (+4),RE 73718,Magdeburg Hbf (ab 06:12),Berlin Ostkreuz
+08:15,FEX19814,Ludwigsfelde (ab 07:38),Berlin Ostkreuz
+08:16 (+5),RB 18209,Oranienburg (ab 07:45),Berlin Ostkreuz
+08:17 (+4),RE 3109,Cottbus Hbf (ab 07:03),Berlin Ostkreuz
+08:19,RE 18758,Bad Belzig (ab 07:03),Berlin Ostkreuz
+08:23 (+1),RE 93765,Frankfurt(Oder) (ab 07:26),Berlin Ostkreuz
+08:24 (+2),RB 18147,Berlin Zoologischer Garten (ab 08:04),Berlin Ostkreuz
+08:29 (+2),RB 18146,Flughafen BER - Terminal 1-2 (ab 08:13),Berlin Ostkreuz
+08:29,RE 73760,Magdeburg Hbf (ab 06:19),Berlin Ostkreuz
+08:29 (+1),RE 93760,Berlin Zoologischer Garten (ab 08:08),Berlin Ostkreuz
+08:35,RB 18206,Flughafen BER - Terminal 5 (Schönefeld) (ab 08:19),Berlin Ostkreuz
+08:35 (+11),RE 18757,Lübbenau(Spreewald) (ab 07:46),Berlin Ostkreuz
+08:37,RB 93308,Berlin-Lichtenberg (ab 08:34),Berlin Ostkreuz
+08:37 (+5),RE 3108,Eisenhüttenstadt (ab 05:36),Berlin Ostkreuz
+08:39,FEX19823,Berlin Hbf (tief) (ab 08:21),Berlin Ostkreuz
+08:45 (+7),FEX19816,Wünsdorf-Waldstadt (ab 07:49),Berlin Ostkreuz
+08:45 (+4),RE 73725,Eisenhüttenstadt (ab 07:36),Berlin Ostkreuz
+08:52 (+1),RB 18309,Berlin-Lichtenberg (ab 08:49),Berlin Ostkreuz
+08:55,RE 62006,Wismar (ab 05:22),Berlin Ostkreuz
+08:55 (+6),RE 93015,Senftenberg (ab 07:14),Berlin Ostkreuz
+09:01 (+4),RE 62011,Flughafen BER - Terminal 1-2 (ab 08:44),Berlin Ostkreuz
+09:01 (+3),RE 93010,Berlin Zoologischer Garten (ab 08:40),Berlin Ostkreuz
+09:04,RB 61108,Templin Stadt (ab 07:32),Berlin Ostkreuz
+09:10,FEX19825,Berlin Hbf (tief) (ab 08:51),Berlin Ostkreuz
+09:10 (+35),RE 73720,Magdeburg Hbf (ab 07:12),Berlin Ostkreuz
+09:15 (+2),FEX19818,Ludwigsfelde (ab 08:32),Berlin Ostkreuz
+09:17 (+8),RE 3111,Cottbus Hbf (ab 08:04),Berlin Ostkreuz
+09:18,RB 18211,Oranienburg (ab 08:45),Berlin Ostkreuz
+09:23 (+5),RE 93767,Frankfurt(Oder) (ab 08:26),Berlin Ostkreuz
+09:24,RB 18149,Berlin Zoologischer Garten (ab 09:04),Berlin Ostkreuz
+09:28 (+5),RB 5158,Küstrin-Kietz (ab 08:11),Berlin Ostkreuz
+09:29 (+3),RB 18148,Flughafen BER - Terminal 1-2 (ab 09:13),Berlin Ostkreuz
+09:29 (+4),RE 93762,Berlin Zoologischer Garten (ab 09:08),Berlin Ostkreuz
+09:37 (+3),RE 3110,Nauen (ab 08:37),Berlin Ostkreuz
+09:39,FEX19827,Berlin Hbf (tief) (ab 09:21),Berlin Ostkreuz
+09:41 (+2),RB 93310,Berlin-Lichtenberg (ab 09:38),Berlin Ostkreuz
+09:45,FEX19820,Wünsdorf-Waldstadt (ab 08:49),Berlin Ostkreuz
+09:45 (+1),RE 73727,Eisenhüttenstadt (ab 08:36),Berlin Ostkreuz
+09:52 (+1),RB 18311,Berlin-Lichtenberg (ab 09:49),Berlin Ostkreuz
+09:55 Ausfall,RE 62008,Wittenberge (ab 08:06),Berlin Ostkreuz
+09:55 (+1),RE 93017,Senftenberg (ab 08:14),Berlin Ostkreuz
+10:01 (+6),RE 62013,Flughafen BER - Terminal 1-2 (ab 09:44),Berlin Ostkreuz
+10:01,RE 93012,Berlin Zoologischer Garten (ab 09:39),Berlin Ostkreuz
+10:04 Ausfall,RB 61110,Templin Stadt (ab 08:32),Berlin Ostkreuz
+10:10,FEX19829,Berlin Hbf (tief) (ab 09:51),Berlin Ostkreuz
+10:10 (+7),RE 73722,Magdeburg Hbf (ab 08:12),Berlin Ostkreuz
+10:15,FEX19822,Ludwigsfelde (ab 09:38),Berlin Ostkreuz
+10:17 (+11),RE 3113,Cottbus Hbf (ab 09:04),Berlin Ostkreuz
+10:18 (+2),RB 18213,Oranienburg (ab 09:45),Berlin Ostkreuz
+10:23 (+1),RE 93769,Frankfurt(Oder) (ab 09:26),Berlin Ostkreuz
+10:24,RB 18151,Golm (ab 09:30),Berlin Ostkreuz
+10:29 (+3),RB 18150,Flughafen BER - Terminal 1-2 (ab 10:13),Berlin Ostkreuz
+10:29,RE 93764,Berlin Zoologischer Garten (ab 10:08),Berlin Ostkreuz
+10:35 (+1),RB 18210,Flughafen BER - Terminal 5 (Schönefeld) (ab 10:19),Berlin Ostkreuz
+10:37,RB 93312,Berlin-Lichtenberg (ab 10:34),Berlin Ostkreuz
+10:37 (+4),RE 3112,Eisenhüttenstadt (ab 07:36),Berlin Ostkreuz
+10:45 (+4),FEX19824,Wünsdorf-Waldstadt (ab 09:49),Berlin Ostkreuz
+10:45,RE 73729,Frankfurt(Oder) (ab 09:55),Berlin Ostkreuz
+10:52 (+1),RB 18313,Berlin-Lichtenberg (ab 10:49),Berlin Ostkreuz
+10:55 Ausfall,RE 62010,Wismar (ab 07:33),Berlin Ostkreuz
+10:55 (+6),RE 93019,Senftenberg (ab 09:14),Berlin Ostkreuz
+11:01 Ausfall,RE 62015,Flughafen BER - Terminal 1-2 (ab 10:44),Berlin Ostkreuz
+11:01,RE 93014,Berlin Zoologischer Garten (ab 10:40),Berlin Ostkreuz
+11:06 (+2),RB 61112,Templin Stadt (ab 09:32),Berlin Ostkreuz
+11:10 (+2),RE 73724,Magdeburg Hbf (ab 09:12),Berlin Ostkreuz
+11:15,FEX19826,Ludwigsfelde (ab 10:32),Berlin Ostkreuz
+11:17 (+12),RE 3115,Cottbus Hbf (ab 10:04),Berlin Ostkreuz
+11:18 (+4),RB 18215,Oranienburg (ab 10:45),Berlin Ostkreuz
+11:23 (+17),RE 93771,Frankfurt(Oder) (ab 10:26),Berlin Ostkreuz
+11:24 (+1),RB 18153,Golm (ab 10:30),Berlin Ostkreuz
+11:28 (+3),RB 5162,Küstrin-Kietz (ab 10:11),Berlin Ostkreuz
+11:29 (+5),RB 18152,Flughafen BER - Terminal 1-2 (ab 11:13),Berlin Ostkreuz
+11:29,RE 73766,Brandenburg Hbf (ab 10:20),Berlin Ostkreuz
+11:29 (+1),RE 93766,Berlin Zoologischer Garten (ab 11:08),Berlin Ostkreuz
+11:35,RB 18212,Flughafen BER - Terminal 5 (Schönefeld) (ab 11:19),Berlin Ostkreuz
+11:37 (+4),RE 3114,Eisenhüttenstadt (ab 08:36),Berlin Ostkreuz
+11:41 (+2),RB 93314,Berlin-Lichtenberg (ab 11:38),Berlin Ostkreuz
+11:45 (+4),FEX19828,Wünsdorf-Waldstadt (ab 10:49),Berlin Ostkreuz
+11:45,RE 73731,Frankfurt(Oder) (ab 10:55),Berlin Ostkreuz
+11:52,RB 18315,Berlin-Lichtenberg (ab 11:49),Berlin Ostkreuz
+11:55,RE 62012,Wittenberge (ab 10:06),Berlin Ostkreuz
+11:55 (+1),RE 93021,Senftenberg (ab 10:14),Berlin Ostkreuz
+12:01 Ausfall,RE 62017,Flughafen BER - Terminal 1-2 (ab 11:44),Berlin Ostkreuz
+12:01,RE 93016,Berlin Zoologischer Garten (ab 11:40),Berlin Ostkreuz
+12:10,RB 61114,Templin Stadt (ab 10:32),Berlin Ostkreuz
+12:10 (+1),RE 73726,Magdeburg Hbf (ab 10:12),Berlin Ostkreuz
+12:15,FEX19830,Ludwigsfelde (ab 11:38),Berlin Ostkreuz
+12:17 (+1),RE 3117,Cottbus Hbf (ab 11:04),Berlin Ostkreuz
+12:23 (+2),RE 93773,Frankfurt(Oder) (ab 11:26),Berlin Ostkreuz
+12:24 (+1),RB 18155,Golm (ab 11:30),Berlin Ostkreuz
+12:29 (+1),RB 18154,Flughafen BER - Terminal 1-2 (ab 12:13),Berlin Ostkreuz
+12:29,RE 93768,Berlin Zoologischer Garten (ab 12:08),Berlin Ostkreuz
+12:35,RB 18214,Flughafen BER - Terminal 5 (Schönefeld) (ab 12:19),Berlin Ostkreuz
+12:37,RB 93316,Berlin-Lichtenberg (ab 12:34),Berlin Ostkreuz
+12:37 (+1),RE 3116,Frankfurt(Oder) (ab 09:55),Berlin Ostkreuz
+12:45,RE 73733,Frankfurt(Oder) (ab 11:55),Berlin Ostkreuz
+12:55,RE 62014,Wismar (ab 09:24),Berlin Ostkreuz
+12:55,RE 93023,Senftenberg (ab 11:14),Berlin Ostkreuz
+13:01,RE 93018,Berlin Zoologischer Garten (ab 12:40),Berlin Ostkreuz
+13:03,RB 61116,Templin Stadt (ab 11:32),Berlin Ostkreuz
+13:10,RE 73728,Magdeburg Hbf (ab 11:12),Berlin Ostkreuz
+13:17,RE 3119,Cottbus Hbf (ab 12:04),Berlin Ostkreuz
+13:23,RE 93775,Frankfurt(Oder) (ab 12:26),Berlin Ostkreuz
+13:29,RE 73770,Brandenburg Hbf (ab 12:20),Berlin Ostkreuz
+13:29,RE 93770,Berlin Zoologischer Garten (ab 13:08),Berlin Ostkreuz
+13:35,RB 18216,Flughafen BER - Terminal 5 (Schönefeld) (ab 13:19),Berlin Ostkreuz
+13:37,RE 3118,Nauen (ab 12:37),Berlin Ostkreuz
+13:45,RE 73735,Frankfurt(Oder) (ab 12:55),Berlin Ostkreuz
+13:55,RE 93025,Senftenberg (ab 12:14),Berlin Ostkreuz
+14:01,RE 3720,Dessau Hbf (ab 12:05),Berlin Ostkreuz
+14:01,RE 93020,Berlin Zoologischer Garten (ab 13:39),Berlin Ostkreuz
+14:03,RB 61118,Templin Stadt (ab 12:32),Berlin Ostkreuz
+14:13,RE 73730,Magdeburg Hbf (ab 12:12),Berlin Ostkreuz
+14:17,RE 3121,Cottbus Hbf (ab 13:04),Berlin Ostkreuz
+14:23,RE 93777,Frankfurt(Oder) (ab 13:26),Berlin Ostkreuz
+14:29,RE 73772,Brandenburg Hbf (ab 13:20),Berlin Ostkreuz
+14:35,RB 18218,Flughafen BER - Terminal 5 (Schönefeld) (ab 14:19),Berlin Ostkreuz
+14:37,RE 3120,Frankfurt(Oder) (ab 11:55),Berlin Ostkreuz
+14:45,RE 73737,Frankfurt(Oder) (ab 13:55),Berlin Ostkreuz
+14:55,RE 62018,Wismar (ab 11:24),Berlin Ostkreuz
+14:55,RE 93027,Senftenberg (ab 13:14),Berlin Ostkreuz
+15:01,RE 62023,Flughafen BER - Terminal 1-2 (ab 14:44),Berlin Ostkreuz
+15:01,RE 93022,Berlin Zoologischer Garten (ab 14:40),Berlin Ostkreuz
+15:10,RE 73732,Magdeburg Hbf (ab 13:12),Berlin Ostkreuz
+15:17,RE 3123,Cottbus Hbf (ab 14:04),Berlin Ostkreuz
+15:19,RE 18760,Bad Belzig (ab 14:06),Berlin Ostkreuz
+15:23,RE 93779,Frankfurt(Oder) (ab 14:26),Berlin Ostkreuz
+15:29,RE 73774,Brandenburg Hbf (ab 14:20),Berlin Ostkreuz
+15:29,RE 93774,Berlin Zoologischer Garten (ab 15:08),Berlin Ostkreuz
+15:35,RB 18220,Flughafen BER - Terminal 5 (Schönefeld) (ab 15:19),Berlin Ostkreuz
+15:37,RE 3122,Nauen (ab 14:37),Berlin Ostkreuz
+15:45,RE 73739,Frankfurt(Oder) (ab 14:55),Berlin Ostkreuz
+15:50,RE 73814,Brandenburg Hbf (ab 14:46),Berlin Ostkreuz
+15:55,RE 93029,Senftenberg (ab 14:14),Berlin Ostkreuz
+16:01,RE 3724,Dessau Hbf (ab 14:05),Berlin Ostkreuz
+16:01,RE 93024,Berlin Zoologischer Garten (ab 15:40),Berlin Ostkreuz
+16:10,RE 73734,Magdeburg Hbf (ab 14:12),Berlin Ostkreuz
+16:17,RE 3125,Cottbus Hbf (ab 15:04),Berlin Ostkreuz
+16:19,RE 18762,Bad Belzig (ab 15:06),Berlin Ostkreuz
+16:23,RE 93781,Frankfurt(Oder) (ab 15:26),Berlin Ostkreuz
+16:29,RE 73776,Brandenburg Hbf (ab 15:20),Berlin Ostkreuz
+16:29,RE 93776,Berlin Zoologischer Garten (ab 16:08),Berlin Ostkreuz
+16:35,RB 18222,Flughafen BER - Terminal 5 (Schönefeld) (ab 16:19),Berlin Ostkreuz
+16:35 (+2),RE 18761,Cottbus Hbf (ab 15:13),Berlin Ostkreuz
+16:37,RE 3124,Frankfurt(Oder) (ab 13:55),Berlin Ostkreuz
+16:45,RE 73741,Frankfurt(Oder) (ab 15:55),Berlin Ostkreuz
+16:55,RE 62022,Wismar (ab 13:24),Berlin Ostkreuz
+16:55,RE 93031,Senftenberg (ab 15:14),Berlin Ostkreuz
+17:01 (+1),RE 62027,Flughafen BER - Terminal 1-2 (ab 16:44),Berlin Ostkreuz
+17:01,RE 93026,Berlin Zoologischer Garten (ab 16:40),Berlin Ostkreuz
+17:03,RB 61124,Templin Stadt (ab 15:32),Berlin Ostkreuz
+17:10,RE 73736,Magdeburg Hbf (ab 15:12),Berlin Ostkreuz
+17:17,RE 3127,Cottbus Hbf (ab 16:04),Berlin Ostkreuz
+17:19,RE 18764,Bad Belzig (ab 16:06),Berlin Ostkreuz
+17:23,RE 93783,Frankfurt(Oder) (ab 16:26),Berlin Ostkreuz
+17:29,RE 73778,Brandenburg Hbf (ab 16:20),Berlin Ostkreuz
+17:29,RE 93778,Berlin Zoologischer Garten (ab 17:08),Berlin Ostkreuz
+17:35,RB 18224,Flughafen BER - Terminal 5 (Schönefeld) (ab 17:19),Berlin Ostkreuz
+17:37,RE 3126,Frankfurt(Oder) (ab 14:55),Berlin Ostkreuz
+17:45,RE 73743,Frankfurt(Oder) (ab 16:55),Berlin Ostkreuz
+17:55,RE 93033,Senftenberg (ab 16:14),Berlin Ostkreuz
+18:01,re 3728,Dessau Hbf (ab 16:05),Berlin Ostkreuz
+18:01,RE 93028,Berlin Zoologischer Garten (ab 17:40),Berlin Ostkreuz
+18:03,RB 61126,Templin Stadt (ab 16:32),Berlin Ostkreuz
+18:10 (+6),RE 73738,Magdeburg Hbf (ab 16:12),Berlin Ostkreuz
+18:17,RE 3129,Cottbus Hbf (ab 17:04),Berlin Ostkreuz
+18:19,RE 18766,Berlin Friedrichstraße (ab 18:04),Berlin Ostkreuz
+18:23,RE 93785,Frankfurt(Oder) (ab 17:26),Berlin Ostkreuz
+18:29,RE 93780,Berlin Zoologischer Garten (ab 18:08),Berlin Ostkreuz
+18:35,RB 18226,Flughafen BER - Terminal 5 (Schönefeld) (ab 18:19),Berlin Ostkreuz
+18:35,RE 18765,Lübbenau(Spreewald) (ab 17:46),Berlin Ostkreuz
+18:37,RE 3128,Frankfurt(Oder) (ab 15:55),Berlin Ostkreuz
+18:43 (+1),IC 2431,Emden Außenhafen (ab 12:01),Berlin Ostkreuz
+18:43,RE 62431,Potsdam Hbf (ab 18:01),Berlin Ostkreuz
+18:45,RE 73745,Frankfurt(Oder) (ab 17:55),Berlin Ostkreuz
+18:55,RE 62026,Wismar (ab 15:24),Berlin Ostkreuz
+18:55,RE 93035,Senftenberg (ab 17:14),Berlin Ostkreuz
+19:01,RE 62031,Flughafen BER - Terminal 1-2 (ab 18:44),Berlin Ostkreuz
+19:01,RE 93030,Berlin Zoologischer Garten (ab 18:40),Berlin Ostkreuz
+19:03,RB 61128,Templin Stadt (ab 17:32),Berlin Ostkreuz
+19:05,RE 73825,Frankfurt(Oder) (ab 18:18),Berlin Ostkreuz
+19:10,RE 73740,Magdeburg Hbf (ab 17:12),Berlin Ostkreuz
+19:17,RE 3131,Cottbus Hbf (ab 18:04),Berlin Ostkreuz
+19:23,RE 93787,Frankfurt(Oder) (ab 18:26),Berlin Ostkreuz
+19:29,RE 93782,Berlin Zoologischer Garten (ab 19:08),Berlin Ostkreuz
+19:35,RB 18228,Flughafen BER - Terminal 5 (Schönefeld) (ab 19:19),Berlin Ostkreuz
+19:37,RE 3130,Nauen (ab 18:37),Berlin Ostkreuz
+19:45,RE 73747,Eisenhüttenstadt (ab 18:36),Berlin Ostkreuz
+19:55,RE 93037,Senftenberg (ab 18:14),Berlin Ostkreuz
+20:01,RE 62033,Flughafen BER - Terminal 1-2 (ab 19:44),Berlin Ostkreuz
+20:01,RE 93032,Berlin Zoologischer Garten (ab 19:40),Berlin Ostkreuz
+20:03,RB 61130,Templin Stadt (ab 18:32),Berlin Ostkreuz
+20:10,FEX19869,Berlin Hbf (tief) (ab 19:51),Berlin Ostkreuz
+20:10,RE 73742,Magdeburg Hbf (ab 18:12),Berlin Ostkreuz
+20:17,RE 3133,Cottbus Hbf (ab 19:04),Berlin Ostkreuz
+20:23,RE 93789,Frankfurt(Oder) (ab 19:26),Berlin Ostkreuz
+20:29,RE 93784,Berlin Zoologischer Garten (ab 20:08),Berlin Ostkreuz
+20:37 (+1),RE 3132,Guben (ab 17:19),Berlin Ostkreuz
+20:39,FEX19871,Berlin Hbf (tief) (ab 20:18),Berlin Ostkreuz
+20:45,FEX19864,Wünsdorf-Waldstadt (ab 19:49),Berlin Ostkreuz
+20:45,RE 73749,Frankfurt(Oder) (ab 19:55),Berlin Ostkreuz
+20:49 (+1),RE 73826,Berlin-Charlottenburg (ab 20:25),Berlin Ostkreuz
+20:55,RE 62030,Wismar (ab 17:24),Berlin Ostkreuz
+20:55 (+10),RE 93039,Senftenberg (ab 19:14),Berlin Ostkreuz
+21:01,RE 62035,Flughafen BER - Terminal 1-2 (ab 20:44),Berlin Ostkreuz
+21:01,RE 93034,Berlin Zoologischer Garten (ab 20:40),Berlin Ostkreuz
+21:03 (+1),RB 61132,Templin Stadt (ab 19:32),Berlin Ostkreuz
+21:10,FEX19873,Berlin Hbf (tief) (ab 20:51),Berlin Ostkreuz
+21:10,RE 73744,Magdeburg Hbf (ab 19:12),Berlin Ostkreuz
+21:15,FEX19866,Ludwigsfelde (ab 20:37),Berlin Ostkreuz
+21:17 (+1),RE 3135,Cottbus Hbf (ab 20:04),Berlin Ostkreuz
+21:23 (+1),RE 73791,Frankfurt(Oder) (ab 20:26),Berlin Ostkreuz
+21:24,RB 18173,Berlin-Charlottenburg (ab 21:00),Berlin Ostkreuz
+21:28,RB 5182,Küstrin-Kietz (ab 20:11),Berlin Ostkreuz
+21:29,RB 18172,Flughafen BER - Terminal 1-2 (ab 21:13),Berlin Ostkreuz
+21:29,RE 73786,Brandenburg Hbf (ab 20:20),Berlin Ostkreuz
+21:29,RE 93786,Berlin Zoologischer Garten (ab 21:08),Berlin Ostkreuz
+21:37 (+1),RE 3134,Frankfurt(Oder) (ab 18:55),Berlin Ostkreuz
+21:39,FEX19875,Berlin Hbf (tief) (ab 21:21),Berlin Ostkreuz
+21:41,RB 61174,Werneuchen (ab 21:02),Berlin Ostkreuz
+21:45,FEX19868,Wünsdorf-Waldstadt (ab 20:49),Berlin Ostkreuz
+21:50,RE 73828,Berlin-Charlottenburg (ab 21:26),Berlin Ostkreuz
+21:56,RE 62032,Wittenberge (ab 20:06),Berlin Ostkreuz
+21:56 (+4),RE 93041,Senftenberg (ab 20:14),Berlin Ostkreuz
+22:01 (+2),RE 62037,Flughafen BER - Terminal 1-2 (ab 21:44),Berlin Ostkreuz
+22:01 (+1),RE 93036,Berlin Zoologischer Garten (ab 21:40),Berlin Ostkreuz
+22:06,RB 61134,Templin Stadt (ab 20:32),Berlin Ostkreuz
+22:10,FEX19877,Berlin Hbf (tief) (ab 21:54),Berlin Ostkreuz
+22:10,RE 73746,Magdeburg Hbf (ab 20:12),Berlin Ostkreuz
+22:15,FEX19870,Ludwigsfelde (ab 21:38),Berlin Ostkreuz
+22:17 (+1),RE 3137,Cottbus Hbf (ab 21:04),Berlin Ostkreuz
+22:23,RE 73793,Frankfurt(Oder) (ab 21:24),Berlin Ostkreuz
+22:24,RB 18175,Berlin-Charlottenburg (ab 22:00),Berlin Ostkreuz
+22:29 (+2),RB 18174,Flughafen BER - Terminal 1-2 (ab 22:13),Berlin Ostkreuz
+22:36 (+1),RB 61176,Werneuchen (ab 22:02),Berlin Ostkreuz
+22:37 (+25),ICE 1159,Bonn Hbf (ab 17:48),Berlin Ostkreuz
+22:43,RE 73827,Fürstenwalde(Spree) (ab 22:13),Berlin Ostkreuz
+22:45 (+2),FEX19872,Wünsdorf-Waldstadt (ab 21:49),Berlin Ostkreuz
+22:55 (+1),RE 62034,Wismar (ab 19:24),Berlin Ostkreuz
+23:01 (+2),RE 62039,Flughafen BER - Terminal 1-2 (ab 22:44),Berlin Ostkreuz
+23:03 (+2),RB 61136,Templin Stadt (ab 21:32),Berlin Ostkreuz
+23:05 (+4),RE 3136,Nauen (ab 22:08),Berlin Ostkreuz
+23:10 (+3),RE 73748,Magdeburg Hbf (ab 21:06),Berlin Ostkreuz
+23:15 (+2),FEX19874,Ludwigsfelde (ab 22:38),Berlin Ostkreuz
+23:17 (+3),RE 3139,Genthin (ab 00:02),Berlin Ostkreuz
+23:23 (+1),RE 73795,Werder(Havel) (ab 00:21),Berlin Ostkreuz
+23:25,RB 18177,Berlin-Charlottenburg (ab 23:01),Berlin Ostkreuz
+23:28 (+1),RB 5186,Küstrin-Kietz (ab 22:11),Berlin Ostkreuz
+23:29 (+3),RB 18176,Flughafen BER - Terminal 1-2 (ab 23:13),Berlin Ostkreuz
+23:45 (+1),FEX19876,Wünsdorf-Waldstadt (ab 22:49),Berlin Ostkreuz
+23:45,RE 73829,Frankfurt(Oder) (ab 22:55),Berlin Ostkreuz
+23:55,RE 62036,Wittenberge (ab 22:06),Berlin Ostkreuz
