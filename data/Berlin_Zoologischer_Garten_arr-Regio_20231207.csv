@@ -1,0 +1,319 @@
+Ankunft,Zugnr.,von (Abfahrt),Ankunftsbhf.
+00:08,RE 73829,Frankfurt(Oder) (ab 22:55),Berlin Zoologischer Garten
+00:22,RE 91555,Flughafen BER - Terminal 1-2 (ab 23:44),Berlin Zoologischer Garten
+00:27 (+16),ICE 948,Berlin Ostbahnhof (ab 00:11),Berlin Zoologischer Garten
+00:32 Ausfall,RE 3743,Berlin Ostbahnhof (ab 00:16),Berlin Zoologischer Garten
+00:32,RE 62038,Wismar (ab 21:25),Berlin Zoologischer Garten
+00:32,RE 93001,Berlin Ostbahnhof (ab 00:16),Berlin Zoologischer Garten
+00:39,FEX19878,Flughafen BER - Terminal 1-2 (ab 00:02),Berlin Zoologischer Garten
+00:46 (+3),RE 3100,Nauen (ab 00:07),Berlin Zoologischer Garten
+00:46,RE 3154,Fangschleuse (ab 00:03),Berlin Zoologischer Garten
+00:46,RE 73797,Fangschleuse (ab 00:03),Berlin Zoologischer Garten
+01:14,RE 73794,Magdeburg Hbf (ab 23:22),Berlin Zoologischer Garten
+01:46,RE 3150,Frankfurt(Oder) (ab 00:24),Berlin Zoologischer Garten
+01:46 (+4),RE 73753,Frankfurt(Oder) (ab 00:24),Berlin Zoologischer Garten
+01:52 (+11),FEX19880,Flughafen BER - Terminal 1-2 (ab 01:15),Berlin Zoologischer Garten
+01:52,RE FEX,Berlin Ostkreuz (ab 00:20),Berlin Zoologischer Garten
+02:20 (+4),RE 62047,Flughafen BER - Terminal 1-2 (ab 01:39),Berlin Zoologischer Garten
+02:38 (+1),RE 62046,Nauen (ab 02:02),Berlin Zoologischer Garten
+03:08,FEX19801,Berlin-Charlottenburg (ab 03:05),Berlin Zoologischer Garten
+03:20,RE 62043,Flughafen BER - Terminal 1-2 (ab 02:40),Berlin Zoologischer Garten
+03:22 (+1),FEX19803,Berlin-Charlottenburg (ab 03:20),Berlin Zoologischer Garten
+03:37,RE 62044,Berlin-Charlottenburg (ab 03:34),Berlin Zoologischer Garten
+04:19,RE 3700,Berlin Ostkreuz (ab 03:54),Berlin Zoologischer Garten
+04:19,RE 93049,Berlin Ostkreuz (ab 03:58),Berlin Zoologischer Garten
+04:19,RE 94749,Berlin Ostkreuz (ab 03:54),Berlin Zoologischer Garten
+04:24,RE 62001,Flughafen BER - Terminal 1-2 (ab 03:44),Berlin Zoologischer Garten
+04:24,RE 91549,Flughafen BER - Terminal 1-2 (ab 03:44),Berlin Zoologischer Garten
+04:26 (+1),RE 73800,Berlin-Charlottenburg (ab 04:23),Berlin Zoologischer Garten
+04:34,RE 62048,Nauen (ab 04:01),Berlin Zoologischer Garten
+04:42 (+1),RE 3101,Berlin Ostkreuz (ab 04:19),Berlin Zoologischer Garten
+04:42,RE 63957,Berlin Ostkreuz (ab 04:19),Berlin Zoologischer Garten
+04:46,RE 73757,Berlin Ostkreuz (ab 04:25),Berlin Zoologischer Garten
+04:46 Ausfall,RE 93757,Berlin Ostkreuz (ab 04:25),Berlin Zoologischer Garten
+05:00,RB 18141,Berlin-Charlottenburg (ab 04:57),Berlin Zoologischer Garten
+05:08,RE 73717,Frankfurt(Oder) (ab 03:43),Berlin Zoologischer Garten
+05:08 Ausfall,RE 93717,Frankfurt(Oder) (ab 03:43),Berlin Zoologischer Garten
+05:16,RE 3102,Nauen (ab 04:37),Berlin Zoologischer Garten
+05:19 Ausfall,RE 93007,Lübbenau(Spreewald) (ab 03:55),Berlin Zoologischer Garten
+05:24,RE 62003,Flughafen BER - Terminal 1-2 (ab 04:44),Berlin Zoologischer Garten
+05:26 (+1),RE 62000,Wittenberge (ab 04:06),Berlin Zoologischer Garten
+05:38,ICE 1158,Berlin Ostbahnhof (ab 05:21),Berlin Zoologischer Garten
+05:42 (+1),RE 3103,Cottbus Hbf (ab 03:47),Berlin Zoologischer Garten
+05:42,RE 63959,Cottbus Hbf (ab 03:47),Berlin Zoologischer Garten
+05:46,RE 3160,Berlin Ostkreuz (ab 05:25),Berlin Zoologischer Garten
+05:46,RE 73759,Berlin Ostkreuz (ab 05:25),Berlin Zoologischer Garten
+05:46 Ausfall,RE 93759,Frankfurt(Oder) (ab 04:23),Berlin Zoologischer Garten
+05:49,RE 73714,Brandenburg Hbf (ab 05:06),Berlin Zoologischer Garten
+05:55 (+3),RB 18140,Flughafen BER - Terminal 1-2 (ab 05:13),Berlin Zoologischer Garten
+05:58 (+1),RE 18754,Bad Belzig (ab 05:03),Berlin Zoologischer Garten
+06:03,RB 18143,Berlin-Charlottenburg (ab 06:00),Berlin Zoologischer Garten
+06:07,RE 73756,Magdeburg Hbf (ab 04:19),Berlin Zoologischer Garten
+06:08,RE 73719,Eisenhüttenstadt (ab 04:26),Berlin Zoologischer Garten
+06:08,RE 90393,Frankfurt(Oder) (ab 04:43),Berlin Zoologischer Garten
+06:16,RE 3104,Frankfurt(Oder) (ab 03:43),Berlin Zoologischer Garten
+06:19 Ausfall,RE 93009,Senftenberg (ab 04:14),Berlin Zoologischer Garten
+06:25,RE 62005,Flughafen BER - Terminal 1-2 (ab 05:44),Berlin Zoologischer Garten
+06:29,RE 73802,Brandenburg Hbf (ab 05:46),Berlin Zoologischer Garten
+06:29,RE 73805,Frankfurt(Oder) (ab 05:18),Berlin Zoologischer Garten
+06:32,RE 62002,Wittenberge (ab 05:06),Berlin Zoologischer Garten
+06:42,RE 3105,Cottbus Hbf (ab 05:01),Berlin Zoologischer Garten
+06:42,RE 95014,Cottbus Hbf (ab 05:01),Berlin Zoologischer Garten
+06:46 Ausfall,RE 93761,Frankfurt(Oder) (ab 05:26),Berlin Zoologischer Garten
+06:49,RE 3169,Magdeburg Hbf (ab 05:12),Berlin Zoologischer Garten
+06:49 (+1),RE 73716,Magdeburg Hbf (ab 05:12),Berlin Zoologischer Garten
+06:55 (+5),RB 18142,Flughafen BER - Terminal 1-2 (ab 06:13),Berlin Zoologischer Garten
+06:58 (+12),RE 18756,Bad Belzig (ab 06:03),Berlin Zoologischer Garten
+06:59 (+4),RE 18753,Cottbus Hbf (ab 05:26),Berlin Zoologischer Garten
+07:08 (+4),RE 73721,Eisenhüttenstadt (ab 05:36),Berlin Zoologischer Garten
+07:08,RE 90417,Frankfurt(Oder) (ab 05:55),Berlin Zoologischer Garten
+07:16 (+1),RE 3106,Nauen (ab 06:37),Berlin Zoologischer Garten
+07:19 Ausfall,RE 93011,Senftenberg (ab 05:10),Berlin Zoologischer Garten
+07:25,RE 62007,Flughafen BER - Terminal 1-2 (ab 06:44),Berlin Zoologischer Garten
+07:32 (+4),RE 62004,Wismar (ab 04:17),Berlin Zoologischer Garten
+07:42 (+2),RE 3107,Cottbus Hbf (ab 06:08),Berlin Zoologischer Garten
+07:42,RE 63961,Cottbus Hbf (ab 06:13),Berlin Zoologischer Garten
+07:42,RE 95021,Cottbus Hbf (ab 06:13),Berlin Zoologischer Garten
+07:46,RE 3164,Stendal Hbf (ab 04:44),Berlin Zoologischer Garten
+07:46,RE 73807,Frankfurt(Oder) (ab 06:26),Berlin Zoologischer Garten
+07:46 Ausfall,RE 93763,Frankfurt(Oder) (ab 06:26),Berlin Zoologischer Garten
+07:49 (+1),RE 73718,Magdeburg Hbf (ab 06:12),Berlin Zoologischer Garten
+07:49,RE 73760,Magdeburg Hbf (ab 06:19),Berlin Zoologischer Garten
+07:55,RB 18144,Flughafen BER - Terminal 1-2 (ab 07:13),Berlin Zoologischer Garten
+07:58 Ausfall,RE 18758,Bad Belzig (ab 07:03),Berlin Zoologischer Garten
+07:59 (+9),RE 18755,Cottbus Hbf (ab 06:13),Berlin Zoologischer Garten
+08:08 (+11),RE 73723,Frankfurt(Oder) (ab 06:55),Berlin Zoologischer Garten
+08:16 (+6),RE 3108,Nauen (ab 07:37),Berlin Zoologischer Garten
+08:19 Ausfall,RE 93013,Senftenberg (ab 06:14),Berlin Zoologischer Garten
+08:25 (+2),RE 62009,Flughafen BER - Terminal 1-2 (ab 07:44),Berlin Zoologischer Garten
+08:32 (+1),RE 62006,Wismar (ab 05:22),Berlin Zoologischer Garten
+08:42,RE 95035,Cottbus Hbf (ab 07:03),Berlin Zoologischer Garten
+08:46,RE 3166,Rathenow (ab 07:03),Berlin Zoologischer Garten
+08:46,RE 73809,Frankfurt(Oder) (ab 07:26),Berlin Zoologischer Garten
+08:46 Ausfall,RE 93765,Frankfurt(Oder) (ab 07:26),Berlin Zoologischer Garten
+08:49 (+3),RE 73720,Magdeburg Hbf (ab 07:12),Berlin Zoologischer Garten
+08:54 (+1),RB 18146,Flughafen BER - Terminal 1-2 (ab 08:13),Berlin Zoologischer Garten
+08:59 (+2),RE 18757,Lübbenau(Spreewald) (ab 07:46),Berlin Zoologischer Garten
+09:07,RE 73762,Brandenburg Hbf (ab 08:20),Berlin Zoologischer Garten
+09:08 (+4),RE 73725,Frankfurt(Oder) (ab 07:55),Berlin Zoologischer Garten
+09:08,RE 90491,Frankfurt(Oder) (ab 07:55),Berlin Zoologischer Garten
+09:16,RE 3110,Nauen (ab 08:37),Berlin Zoologischer Garten
+09:19,RE 93015,Senftenberg (ab 07:14),Berlin Zoologischer Garten
+09:25,RE 62011,Flughafen BER - Terminal 1-2 (ab 08:44),Berlin Zoologischer Garten
+09:25,RE 92010,Flughafen BER - Terminal 1-2 (ab 08:44),Berlin Zoologischer Garten
+09:32,RE 62008,Wittenberge (ab 08:06),Berlin Zoologischer Garten
+09:42 (+6),RE 3111,Cottbus Hbf (ab 08:04),Berlin Zoologischer Garten
+09:42,RE 95039,Cottbus Hbf (ab 08:04),Berlin Zoologischer Garten
+09:46,RE 3168,Frankfurt(Oder) (ab 08:26),Berlin Zoologischer Garten
+09:46,RE 73811,Frankfurt(Oder) (ab 08:26),Berlin Zoologischer Garten
+09:46,RE 93767,Frankfurt(Oder) (ab 08:26),Berlin Zoologischer Garten
+09:49 (+1),RE 3109,Cottbus Hbf (ab 07:03),Berlin Zoologischer Garten
+09:49 (+3),RE 73722,Magdeburg Hbf (ab 08:12),Berlin Zoologischer Garten
+09:55 (+1),RB 18148,Flughafen BER - Terminal 1-2 (ab 09:13),Berlin Zoologischer Garten
+09:59 Ausfall,RE 18759,Berlin Ostkreuz (ab 09:37),Berlin Zoologischer Garten
+10:03 (+5),RB 18151,Golm (ab 09:30),Berlin Zoologischer Garten
+10:07,RE 73764,Brandenburg Hbf (ab 09:20),Berlin Zoologischer Garten
+10:08,RE 73727,Frankfurt(Oder) (ab 08:55),Berlin Zoologischer Garten
+10:08,RE 91727,Frankfurt(Oder) (ab 08:55),Berlin Zoologischer Garten
+10:16,RE 3112,Nauen (ab 09:37),Berlin Zoologischer Garten
+10:19 Ausfall,RE 93017,Senftenberg (ab 08:14),Berlin Zoologischer Garten
+10:25,RE 62013,Flughafen BER - Terminal 1-2 (ab 09:44),Berlin Zoologischer Garten
+10:32 (+6),RE 62010,Wismar (ab 07:33),Berlin Zoologischer Garten
+10:44 (+2),RE 3113,Cottbus Hbf (ab 09:04),Berlin Zoologischer Garten
+10:44,RE 63967,Cottbus Hbf (ab 09:04),Berlin Zoologischer Garten
+10:44,RE 95046,Cottbus Hbf (ab 09:04),Berlin Zoologischer Garten
+10:46,RE 3170,Frankfurt(Oder) (ab 09:26),Berlin Zoologischer Garten
+10:46,RE 73769,Frankfurt(Oder) (ab 09:26),Berlin Zoologischer Garten
+10:46 Ausfall,RE 93769,Frankfurt(Oder) (ab 09:26),Berlin Zoologischer Garten
+10:49 (+5),RE 73724,Magdeburg Hbf (ab 09:12),Berlin Zoologischer Garten
+10:55,RB 18150,Flughafen BER - Terminal 1-2 (ab 10:13),Berlin Zoologischer Garten
+11:03 (+2),RB 18153,Golm (ab 10:30),Berlin Zoologischer Garten
+11:07,RE 73766,Brandenburg Hbf (ab 10:20),Berlin Zoologischer Garten
+11:08 (+6),RE 73729,Frankfurt(Oder) (ab 09:55),Berlin Zoologischer Garten
+11:16 (+7),RE 3114,Nauen (ab 10:37),Berlin Zoologischer Garten
+11:19 Ausfall,RE 93019,Senftenberg (ab 09:14),Berlin Zoologischer Garten
+11:25,RE 62015,Flughafen BER - Terminal 1-2 (ab 10:44),Berlin Zoologischer Garten
+11:32 (+12),RE 62012,Wittenberge (ab 10:06),Berlin Zoologischer Garten
+11:44,RE 3115,Cottbus Hbf (ab 10:04),Berlin Zoologischer Garten
+11:44,RE 95048,Cottbus Hbf (ab 10:04),Berlin Zoologischer Garten
+11:46,RE 3172,Frankfurt(Oder) (ab 10:26),Berlin Zoologischer Garten
+11:46,RE 73771,Frankfurt(Oder) (ab 10:26),Berlin Zoologischer Garten
+11:46 Ausfall,RE 93771,Frankfurt(Oder) (ab 10:26),Berlin Zoologischer Garten
+11:49 (+11),RE 73726,Magdeburg Hbf (ab 10:12),Berlin Zoologischer Garten
+11:55,RB 18152,Flughafen BER - Terminal 1-2 (ab 11:13),Berlin Zoologischer Garten
+12:03 (+18),RB 18155,Golm (ab 11:30),Berlin Zoologischer Garten
+12:07,RE 73768,Brandenburg Hbf (ab 11:20),Berlin Zoologischer Garten
+12:08,RE 73731,Frankfurt(Oder) (ab 10:55),Berlin Zoologischer Garten
+12:16 (+8),RE 3116,Frankfurt(Oder) (ab 09:55),Berlin Zoologischer Garten
+12:19 Ausfall,RE 93021,Senftenberg (ab 10:14),Berlin Zoologischer Garten
+12:25,RE 62017,Flughafen BER - Terminal 1-2 (ab 11:44),Berlin Zoologischer Garten
+12:32,RE 62014,Wismar (ab 09:24),Berlin Zoologischer Garten
+12:44,RE 3117,Cottbus Hbf (ab 11:04),Berlin Zoologischer Garten
+12:46,RE 3174,Frankfurt(Oder) (ab 11:26),Berlin Zoologischer Garten
+12:46 Ausfall,RE 93773,Frankfurt(Oder) (ab 11:26),Berlin Zoologischer Garten
+12:49 (+3),RE 73728,Magdeburg Hbf (ab 11:12),Berlin Zoologischer Garten
+12:55 (+2),RB 18154,Flughafen BER - Terminal 1-2 (ab 12:13),Berlin Zoologischer Garten
+13:03 (+2),RB 18157,Golm (ab 12:30),Berlin Zoologischer Garten
+13:07,RE 73770,Brandenburg Hbf (ab 12:20),Berlin Zoologischer Garten
+13:08,RE 73733,Frankfurt(Oder) (ab 11:55),Berlin Zoologischer Garten
+13:16,RE 3118,Nauen (ab 12:37),Berlin Zoologischer Garten
+13:19 Ausfall,RE 93023,Senftenberg (ab 11:14),Berlin Zoologischer Garten
+13:25 (+1),RE 62019,Flughafen BER - Terminal 1-2 (ab 12:44),Berlin Zoologischer Garten
+13:32 (+2),RE 62016,Wittenberge (ab 12:06),Berlin Zoologischer Garten
+13:44,RE 3119,Cottbus Hbf (ab 12:04),Berlin Zoologischer Garten
+13:46 Ausfall,RE 93775,Frankfurt(Oder) (ab 12:26),Berlin Zoologischer Garten
+13:49 (+24),RE 73730,Magdeburg Hbf (ab 12:12),Berlin Zoologischer Garten
+13:55,RB 18156,Flughafen BER - Terminal 1-2 (ab 13:13),Berlin Zoologischer Garten
+14:03 (+5),RB 18159,Golm (ab 13:30),Berlin Zoologischer Garten
+14:07,RE 73772,Brandenburg Hbf (ab 13:20),Berlin Zoologischer Garten
+14:08,RE 73735,Frankfurt(Oder) (ab 12:55),Berlin Zoologischer Garten
+14:16 (+1),RE 3120,Frankfurt(Oder) (ab 11:55),Berlin Zoologischer Garten
+14:19 Ausfall,RE 93025,Senftenberg (ab 12:14),Berlin Zoologischer Garten
+14:25 (+7),RE 62021,Flughafen BER - Terminal 1-2 (ab 13:44),Berlin Zoologischer Garten
+14:32,RE 62018,Wismar (ab 11:24),Berlin Zoologischer Garten
+14:44,RE 3121,Cottbus Hbf (ab 13:04),Berlin Zoologischer Garten
+14:44,RE 95066,Cottbus Hbf (ab 13:04),Berlin Zoologischer Garten
+14:46,RE 73777,Frankfurt(Oder) (ab 13:26),Berlin Zoologischer Garten
+14:46 Ausfall,RE 93777,Frankfurt(Oder) (ab 13:26),Berlin Zoologischer Garten
+14:49 (+2),RE 73732,Magdeburg Hbf (ab 13:12),Berlin Zoologischer Garten
+14:55 (+7),RB 18158,Flughafen BER - Terminal 1-2 (ab 14:13),Berlin Zoologischer Garten
+14:58 (+2),RE 18760,Bad Belzig (ab 14:06),Berlin Zoologischer Garten
+15:03 (+1),RB 18161,Golm (ab 14:30),Berlin Zoologischer Garten
+15:07,RE 73774,Brandenburg Hbf (ab 14:20),Berlin Zoologischer Garten
+15:08 (+4),RE 73737,Frankfurt(Oder) (ab 13:55),Berlin Zoologischer Garten
+15:15 (+1),RE 3122,Nauen (ab 14:37),Berlin Zoologischer Garten
+15:19 Ausfall,RE 93027,Senftenberg (ab 13:14),Berlin Zoologischer Garten
+15:25 (+5),RE 62023,Flughafen BER - Terminal 1-2 (ab 14:44),Berlin Zoologischer Garten
+15:32,RE 62020,Wittenberge (ab 14:06),Berlin Zoologischer Garten
+15:44,RE 3123,Cottbus Hbf (ab 14:04),Berlin Zoologischer Garten
+15:44,RE 63977,Cottbus Hbf (ab 14:04),Berlin Zoologischer Garten
+15:44,RE 95080,Cottbus Hbf (ab 14:04),Berlin Zoologischer Garten
+15:46,RE 73817,Frankfurt(Oder) (ab 14:26),Berlin Zoologischer Garten
+15:46,RE 93180,Frankfurt(Oder) (ab 14:26),Berlin Zoologischer Garten
+15:46 (+15),RE 93779,Frankfurt(Oder) (ab 14:26),Berlin Zoologischer Garten
+15:49 (+2),RE 73734,Magdeburg Hbf (ab 14:12),Berlin Zoologischer Garten
+15:54 (+4),RB 18160,Flughafen BER - Terminal 1-2 (ab 15:13),Berlin Zoologischer Garten
+15:58 (+1),RE 18762,Bad Belzig (ab 15:06),Berlin Zoologischer Garten
+16:03 (+1),RB 18163,Golm (ab 15:30),Berlin Zoologischer Garten
+16:07,RE 73776,Brandenburg Hbf (ab 15:20),Berlin Zoologischer Garten
+16:08 (+1),RE 73739,Frankfurt(Oder) (ab 14:55),Berlin Zoologischer Garten
+16:08,RE 91001,Frankfurt(Oder) (ab 14:55),Berlin Zoologischer Garten
+16:16,RE 3124,Frankfurt(Oder) (ab 13:55),Berlin Zoologischer Garten
+16:19 (+9),RE 93029,Senftenberg (ab 14:14),Berlin Zoologischer Garten
+16:25,RE 62025,Flughafen BER - Terminal 1-2 (ab 15:44),Berlin Zoologischer Garten
+16:32 (+1),RE 62022,Wismar (ab 13:24),Berlin Zoologischer Garten
+16:42 (+2),RE 3125,Cottbus Hbf (ab 15:04),Berlin Zoologischer Garten
+16:42,RE 95084,Cottbus Hbf (ab 15:04),Berlin Zoologischer Garten
+16:46,RE 3182,Frankfurt(Oder) (ab 15:26),Berlin Zoologischer Garten
+16:46,RE 73781,Frankfurt(Oder) (ab 15:26),Berlin Zoologischer Garten
+16:46 (+13),RE 93781,Frankfurt(Oder) (ab 15:26),Berlin Zoologischer Garten
+16:49 (+1),RE 73736,Magdeburg Hbf (ab 15:12),Berlin Zoologischer Garten
+16:55,RB 18162,Flughafen BER - Terminal 1-2 (ab 16:13),Berlin Zoologischer Garten
+16:58 (+6),RE 18764,Bad Belzig (ab 16:06),Berlin Zoologischer Garten
+17:01,RE 18761,Cottbus Hbf (ab 15:13),Berlin Zoologischer Garten
+17:03 (+4),RB 18165,Golm (ab 16:30),Berlin Zoologischer Garten
+17:07,RE 73778,Brandenburg Hbf (ab 16:20),Berlin Zoologischer Garten
+17:08 (+5),RE 73741,Frankfurt(Oder) (ab 15:55),Berlin Zoologischer Garten
+17:16,RE 18444,Nauen (ab 16:37),Berlin Zoologischer Garten
+17:16,RE 3126,Frankfurt(Oder) (ab 14:55),Berlin Zoologischer Garten
+17:19 (+1),RE 93031,Senftenberg (ab 15:14),Berlin Zoologischer Garten
+17:25,RE 62027,Flughafen BER - Terminal 1-2 (ab 16:44),Berlin Zoologischer Garten
+17:32 (+1),RE 62024,Wittenberge (ab 16:06),Berlin Zoologischer Garten
+17:44 (+18),RE 3127,Cottbus Hbf (ab 16:04),Berlin Zoologischer Garten
+17:44,RE 95088,Cottbus Hbf (ab 16:04),Berlin Zoologischer Garten
+17:46,RE 3184,Frankfurt(Oder) (ab 16:26),Berlin Zoologischer Garten
+17:46,RE 73783,Frankfurt(Oder) (ab 16:26),Berlin Zoologischer Garten
+17:46,RE 93783,Frankfurt(Oder) (ab 16:26),Berlin Zoologischer Garten
+17:49 (+6),RE 73738,Magdeburg Hbf (ab 16:12),Berlin Zoologischer Garten
+17:55 (+4),RB 18164,Flughafen BER - Terminal 1-2 (ab 17:13),Berlin Zoologischer Garten
+18:03 (+1),RB 18167,Golm (ab 17:30),Berlin Zoologischer Garten
+18:07,RE 73780,Brandenburg Hbf (ab 17:20),Berlin Zoologischer Garten
+18:08,RE 73743,Frankfurt(Oder) (ab 16:55),Berlin Zoologischer Garten
+18:16,RE 3128,Frankfurt(Oder) (ab 15:55),Berlin Zoologischer Garten
+18:19 (+1),RE 93033,Senftenberg (ab 16:14),Berlin Zoologischer Garten
+18:25 (+2),RE 62029,Flughafen BER - Terminal 1-2 (ab 17:44),Berlin Zoologischer Garten
+18:32,RE 62026,Wismar (ab 15:24),Berlin Zoologischer Garten
+18:39,RE 3730,Dessau Hbf (ab 17:05),Berlin Zoologischer Garten
+18:42 (+16),RE 3129,Cottbus Hbf (ab 17:04),Berlin Zoologischer Garten
+18:42,RE 95090,Cottbus Hbf (ab 17:04),Berlin Zoologischer Garten
+18:46,RE 3186,Frankfurt(Oder) (ab 17:26),Berlin Zoologischer Garten
+18:46 (+3),RE 93785,Frankfurt(Oder) (ab 17:26),Berlin Zoologischer Garten
+18:49 (+3),RE 73740,Magdeburg Hbf (ab 17:12),Berlin Zoologischer Garten
+18:54 (+1),RB 18166,Flughafen BER - Terminal 1-2 (ab 18:13),Berlin Zoologischer Garten
+18:59 (+7),RE 18765,Lübbenau(Spreewald) (ab 17:46),Berlin Zoologischer Garten
+19:03,RB 18169,Golm (ab 18:30),Berlin Zoologischer Garten
+19:03,RB23,Trassenheide (ab 05:14),Berlin Zoologischer Garten
+19:07,RE 73782,Brandenburg Hbf (ab 18:20),Berlin Zoologischer Garten
+19:08 (+1),RE 73745,Frankfurt(Oder) (ab 17:55),Berlin Zoologischer Garten
+19:08,RE 91007,Frankfurt(Oder) (ab 17:55),Berlin Zoologischer Garten
+19:16 (+1),RE 3130,Nauen (ab 18:37),Berlin Zoologischer Garten
+19:16,RE 62198,Nauen (ab 18:37),Berlin Zoologischer Garten
+19:19,RE 93035,Senftenberg (ab 17:14),Berlin Zoologischer Garten
+19:25,RE 62031,Flughafen BER - Terminal 1-2 (ab 18:44),Berlin Zoologischer Garten
+19:29,RE 73787,Frankfurt(Oder) (ab 18:18),Berlin Zoologischer Garten
+19:29,RE 73825,Frankfurt(Oder) (ab 18:18),Berlin Zoologischer Garten
+19:32,RE 62028,Wittenberge (ab 18:06),Berlin Zoologischer Garten
+19:42 (+2),RE 3131,Cottbus Hbf (ab 18:04),Berlin Zoologischer Garten
+19:42,RE 95096,Cottbus Hbf (ab 18:04),Berlin Zoologischer Garten
+19:46,RE 3188,Frankfurt(Oder) (ab 18:26),Berlin Zoologischer Garten
+19:46,RE 93787,Frankfurt(Oder) (ab 18:26),Berlin Zoologischer Garten
+19:49,RE 73742,Magdeburg Hbf (ab 18:12),Berlin Zoologischer Garten
+19:54,RB 18168,Flughafen BER - Terminal 1-2 (ab 19:13),Berlin Zoologischer Garten
+20:03,RB 18171,Berlin-Charlottenburg (ab 20:00),Berlin Zoologischer Garten
+20:07,RE 73784,Brandenburg Hbf (ab 19:20),Berlin Zoologischer Garten
+20:08,RE 73747,Frankfurt(Oder) (ab 18:55),Berlin Zoologischer Garten
+20:08,RE 91009,Frankfurt(Oder) (ab 18:55),Berlin Zoologischer Garten
+20:16 (+9),RE 3132,Nauen (ab 19:37),Berlin Zoologischer Garten
+20:19 (+8),RE 93037,Senftenberg (ab 18:14),Berlin Zoologischer Garten
+20:25,RE 62033,Flughafen BER - Terminal 1-2 (ab 19:44),Berlin Zoologischer Garten
+20:28,RE 73826,Berlin-Charlottenburg (ab 20:25),Berlin Zoologischer Garten
+20:32 (+1),RE 62030,Wismar (ab 17:24),Berlin Zoologischer Garten
+20:42 (+16),RE 3133,Cottbus Hbf (ab 19:04),Berlin Zoologischer Garten
+20:42,RE 95102,Cottbus Hbf (ab 19:04),Berlin Zoologischer Garten
+20:46,RE 3190,Herzberg(Elster) (ab 04:41),Berlin Zoologischer Garten
+20:46,RE 73789,Frankfurt(Oder) (ab 19:26),Berlin Zoologischer Garten
+20:46 (+1),RE 93789,Frankfurt(Oder) (ab 19:26),Berlin Zoologischer Garten
+20:49 (+5),RE 73744,Magdeburg Hbf (ab 19:12),Berlin Zoologischer Garten
+20:54,RB 18170,Flughafen BER - Terminal 1-2 (ab 20:13),Berlin Zoologischer Garten
+21:03 Ausfall,RB 18173,Berlin-Charlottenburg (ab 21:00),Berlin Zoologischer Garten
+21:07,RE 73786,Brandenburg Hbf (ab 20:20),Berlin Zoologischer Garten
+21:07,RE 93786,Berlin-Charlottenburg (ab 21:04),Berlin Zoologischer Garten
+21:08,RE 73749,Frankfurt(Oder) (ab 19:55),Berlin Zoologischer Garten
+21:16 (+4),RE 3134,Frankfurt(Oder) (ab 18:55),Berlin Zoologischer Garten
+21:19,RE 7,Calau(Nl) (ab 04:43),Berlin Zoologischer Garten
+21:19 Ausfall,RE 93039,Senftenberg (ab 19:14),Berlin Zoologischer Garten
+21:25,RE 62035,Flughafen BER - Terminal 1-2 (ab 20:44),Berlin Zoologischer Garten
+21:28 (+1),RE 73828,Berlin-Charlottenburg (ab 21:26),Berlin Zoologischer Garten
+21:32 (+7),RE 62032,Wittenberge (ab 20:06),Berlin Zoologischer Garten
+21:39,RE 3736,Dessau Hbf (ab 20:05),Berlin Zoologischer Garten
+21:42 Ausfall,RE 3135,Cottbus Hbf (ab 20:04),Berlin Zoologischer Garten
+21:46,RE 3192,Herzberg(Elster) (ab 05:41),Berlin Zoologischer Garten
+21:46,RE 73791,Frankfurt(Oder) (ab 20:26),Berlin Zoologischer Garten
+21:49,RE 73746,Magdeburg Hbf (ab 20:12),Berlin Zoologischer Garten
+21:54 Ausfall,RB 18172,Flughafen BER - Terminal 1-2 (ab 21:13),Berlin Zoologischer Garten
+22:03 Ausfall,RB 18175,Berlin-Charlottenburg (ab 22:00),Berlin Zoologischer Garten
+22:07,RE 73788,Brandenburg Hbf (ab 21:20),Berlin Zoologischer Garten
+22:14 Ausfall,ICE 1159,Bonn Hbf (ab 17:48),Berlin Zoologischer Garten
+22:19 (+9),RE 93041,Senftenberg (ab 20:14),Berlin Zoologischer Garten
+22:19,RE7,Pinneberg (ab 00:02),Berlin Zoologischer Garten
+22:25,RE 62037,Flughafen BER - Terminal 1-2 (ab 21:44),Berlin Zoologischer Garten
+22:32,RE 62034,Wismar (ab 19:24),Berlin Zoologischer Garten
+22:42,RE 3137,Cottbus Hbf (ab 21:04),Berlin Zoologischer Garten
+22:44,RE 3136,Schönwalde(Spreewald) (ab 00:02),Berlin Zoologischer Garten
+22:46,RE 3196,Frankfurt(Oder) (ab 21:24),Berlin Zoologischer Garten
+22:46,RE 73793,Frankfurt(Oder) (ab 21:24),Berlin Zoologischer Garten
+22:49,RE 73748,Magdeburg Hbf (ab 21:06),Berlin Zoologischer Garten
+23:07,RE 73827,Fürstenwalde(Spree) (ab 22:13),Berlin Zoologischer Garten
+23:19,RE 93043,Berlin Ostbahnhof (ab 23:02),Berlin Zoologischer Garten
+23:24,RE 91553,Flughafen BER - Terminal 1-2 (ab 22:44),Berlin Zoologischer Garten
+23:24,RE8,Berlin Ostkreuz (ab 00:02),Berlin Zoologischer Garten
+23:42,RE 2,Lubolz (ab 00:06),Berlin Zoologischer Garten
+23:42 Ausfall,RE 3139,Wusterwitz (ab 00:11),Berlin Zoologischer Garten
+23:42,RE 95224,Cottbus Hbf (ab 22:03),Berlin Zoologischer Garten
+23:44,RE 3138,Nauen (ab 23:08),Berlin Zoologischer Garten
+23:44,RE 4255,Großburgwedel (ab 00:00),Berlin Zoologischer Garten
+23:46,RE 73795,Frankfurt(Oder) (ab 22:24),Berlin Zoologischer Garten
+23:46,RE1,Stuttgart Hbf (ab 00:16),Berlin Zoologischer Garten
+23:49,RE 73750,Magdeburg Hbf (ab 22:06),Berlin Zoologischer Garten
+23:52,RB 18176,Flughafen BER - Terminal 1-2 (ab 23:13),Berlin Zoologischer Garten
+23:52,RB 18800,Wolgast (ab 04:30),Berlin Zoologischer Garten
