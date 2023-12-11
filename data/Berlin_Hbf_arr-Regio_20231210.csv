@@ -1,0 +1,837 @@
+Ankunft,Zugnr.,von (Abfahrt),Ankunftsbhf.
+00:01 (+2),ICE 274,Basel SBB (ab 16:13),Berlin Hbf
+00:01 (+5),RE 3182,Frankfurt(Oder) (ab 15:26),Berlin Hbf
+00:01,RE 4471,Aachen West (ab 00:31),Berlin Hbf
+00:01,RE 62187,Rathenow (ab 23:06),Berlin Hbf
+00:01,RE 73829,Erkner (ab 23:28),Berlin Hbf
+00:01,RE1,Pfaffenhofen(Ilm) (ab 00:05),Berlin Hbf
+00:03,FEX19876,Flughafen BER (ab 23:28),Berlin Hbf
+00:03,RE FEX,Berlin Alexanderplatz (ab 01:40),Berlin Hbf
+00:16,RE 92825,Berlin Ostkreuz (ab 00:02),Berlin Hbf
+00:16,RE8,Berlin Ostkreuz (ab 00:02),Berlin Hbf
+00:27 (+27),ICE 957,Köln Hbf (ab 19:48),Berlin Hbf
+00:27 (+1),RE 3361,Schwedt(Oder) (ab 23:06),Berlin Hbf
+00:27,RE 94087,Schwedt(Oder) (ab 23:06),Berlin Hbf
+00:33,FEX19878,Flughafen BER (ab 00:02),Berlin Hbf
+00:34,RE 91666,Berlin Südkreuz (ab 00:28),Berlin Hbf
+00:34 (+2),RE 94166,Berlin Südkreuz (ab 00:28),Berlin Hbf
+00:34,RE3,Lutherstadt Wittenberg Altstadt (ab 02:02),Berlin Hbf
+00:38,RE 62038,Wismar (ab 21:25),Berlin Hbf
+00:39,RE 1,Erkner (ab 00:10),Berlin Hbf
+00:51 (+12),ICE 1100,München Hbf (ab 18:57),Berlin Hbf
+00:51 (+1),RE 3100,Nauen (ab 00:08),Berlin Hbf
+00:53 (+27),ICE 907,Hamburg-Altona (ab 22:36),Berlin Hbf (tief)
+00:53 (+27),ICE 907,Hamburg-Altona (ab 22:36),Berlin Hbf
+01:11,RE 62089,Baruth(Mark) (ab 00:07),Berlin Hbf
+01:13,RE 62041,Flughafen BER (ab 00:40),Berlin Hbf
+01:14 (+58),ICE 657,Aachen Hbf (ab 19:57),Berlin Hbf
+01:20,RE 3139,Genthin (ab 00:01),Berlin Hbf
+01:20,RE 73794,Berlin-Charlottenburg (ab 01:12),Berlin Hbf
+01:26 (+5),ICE 600,München Hbf (ab 19:34),Berlin Hbf
+01:39,RE 73753,Frankfurt(Oder) (ab 00:24),Berlin Hbf
+01:45,RE 62042,Nauen (ab 01:03),Berlin Hbf
+01:46,FEX19880,Flughafen BER (ab 01:15),Berlin Hbf
+01:59,RE 91662,Berlin Südkreuz (ab 01:52),Berlin Hbf
+02:13,RE 62047,Flughafen BER (ab 01:39),Berlin Hbf
+02:18,RE 3703,Berlin Ostkreuz (ab 02:04),Berlin Hbf
+02:29 (+3),ICE 292,Zürich HB (ab 16:59),Berlin Hbf
+02:35,RE 3143,Magdeburg Hbf (ab 00:42),Berlin Hbf
+02:35 (+12),RE 73798,Magdeburg Hbf (ab 00:42),Berlin Hbf
+02:43,RE 62046,Nauen (ab 02:02),Berlin Hbf
+03:06,RE 73755,Berlin Ostkreuz (ab 02:52),Berlin Hbf
+03:13,FEX19801,Berlin-Charlottenburg (ab 03:05),Berlin Hbf
+03:13,RE 62043,Flughafen BER (ab 02:41),Berlin Hbf
+03:28,FEX19803,Berlin-Charlottenburg (ab 03:20),Berlin Hbf
+03:43,RE 62044,Nauen (ab 03:02),Berlin Hbf
+03:47 (+1),ICE 4,Zürich HB (ab 18:59),Berlin Hbf
+04:09,RE 73752,Brandenburg Hbf (ab 03:15),Berlin Hbf
+04:17,RE 62001,Flughafen BER (ab 03:44),Berlin Hbf
+04:31,RE 73800,Berlin-Charlottenburg (ab 04:23),Berlin Hbf
+04:39,RE 62048,Nauen (ab 04:01),Berlin Hbf
+04:44,RE 3369,Eberswalde Hbf (ab 04:03),Berlin Hbf
+04:44,RE 95107,Bad Belzig (ab 03:41),Berlin Hbf
+04:59,RE 73717,Frankfurt(Oder) (ab 03:44),Berlin Hbf
+05:02,RE 62150,Rathenow (ab 04:06),Berlin Hbf
+05:03,FEX19800,Flughafen BER - Terminal 1-2 (ab 04:25),Berlin Hbf
+05:05,RB 18141,Berlin-Charlottenburg (ab 04:57),Berlin Hbf
+05:09,RB 18500,Berlin Südkreuz (ab 05:02),Berlin Hbf
+05:09,RE 4351,Neustrelitz Hbf (ab 03:49),Berlin Hbf
+05:12,RE 3140,Kirchmöser (ab 04:16),Berlin Hbf
+05:12,RE 3707,Lübbenau(Spreewald) (ab 03:54),Berlin Hbf
+05:12,RE 73754,Kirchmöser (ab 04:16),Berlin Hbf
+05:12,RE 95121,Lübbenau(Spreewald) (ab 03:54),Berlin Hbf
+05:17,RE 62003,Flughafen BER (ab 04:44),Berlin Hbf
+05:17,RE 8,Berlin Ostkreuz (ab 00:02),Berlin Hbf
+05:21,RE 2,Schönwalde(Spreewald) (ab 00:02),Berlin Hbf
+05:21,RE 3102,Nauen (ab 04:36),Berlin Hbf
+05:27,RE 3,Biesenthal (ab 00:03),Berlin Hbf
+05:27,RE 91640,Berlin Südkreuz (ab 05:20),Berlin Hbf
+05:28 (+1),RE 3301,Angermünde (ab 04:27),Berlin Hbf
+05:28,RE 3340,Falkenberg(Elster) (ab 03:50),Berlin Hbf
+05:31,RE 62000,Wittenberge (ab 04:06),Berlin Hbf
+05:33 (+1),FEX19802,Ludwigsfelde (ab 04:39),Berlin Hbf
+05:35,RE 3103,Cottbus Hbf (ab 03:47),Berlin Hbf
+05:35,RE 63959,Cottbus Hbf (ab 03:47),Berlin Hbf
+05:37,ICE 100,Basel SBB (ab 19:11),Berlin Hbf
+05:39,RE 73759,Frankfurt(Oder) (ab 04:23),Berlin Hbf
+05:43 (+1),RE 3704,Dessau Hbf (ab 04:05),Berlin Hbf
+05:43,RE 95111,Bad Belzig (ab 04:41),Berlin Hbf
+05:44 (+1),RE 3504,Berlin Südkreuz (ab 05:36),Berlin Hbf
+05:45,RB 18501,Nauen (ab 05:08),Berlin Hbf
+05:48 (+2),RB 18140,Flughafen BER - Terminal 1-2 (ab 05:13),Berlin Hbf
+05:59,RE 73719,Frankfurt(Oder) (ab 04:44),Berlin Hbf
+05:59,RE 90393,Frankfurt(Oder) (ab 04:44),Berlin Hbf
+06:01 (+33),IC 2904,Fürth Hbf (ab 00:10),Berlin Hbf
+06:01 (+1),RE 3164,Rathenow (ab 05:06),Berlin Hbf
+06:01,RE 62152,Rathenow (ab 05:06),Berlin Hbf
+06:03,FEX19804,Rangsdorf (ab 04:47),Berlin Hbf
+06:03 (+5),IC 240,Berlin Ostbahnhof (ab 05:54),Berlin Hbf
+06:08,RB 18143,Berlin-Charlottenburg (ab 06:00),Berlin Hbf
+06:09,RB 10,Berlin Südkreuz (ab 07:01),Berlin Hbf
+06:09,RB 18502,Berlin Südkreuz (ab 06:02),Berlin Hbf
+06:09,RE 13050,Neubrandenburg (ab 04:27),Berlin Hbf
+06:09 (+1),RE 3503,Neubrandenburg (ab 04:27),Berlin Hbf
+06:11,RE 62053,Elsterwerda (ab 04:13),Berlin Hbf
+06:12,RE 3167,Magdeburg Hbf (ab 04:19),Berlin Hbf
+06:12,RE 73756,Magdeburg Hbf (ab 04:19),Berlin Hbf
+06:18,RE 62005,Flughafen BER - Terminal 1-2 (ab 05:44),Berlin Hbf
+06:21,RE 3104,Frankfurt(Oder) (ab 03:44),Berlin Hbf
+06:28,RE 3341,Schwedt(Oder) (ab 05:06),Berlin Hbf
+06:28 (+3),RE 91641,Schwedt(Oder) (ab 05:06),Berlin Hbf
+06:30,RE 3304,Lutherstadt Wittenberg Hbf (ab 05:03),Berlin Hbf
+06:30 (+1),RE 91604,Berlin Südkreuz (ab 06:23),Berlin Hbf
+06:33,FEX19806,Ludwigsfelde (ab 05:39),Berlin Hbf
+06:35,RE 3105,Cottbus Hbf (ab 05:01),Berlin Hbf
+06:35,RE 95014,Cottbus Hbf (ab 05:01),Berlin Hbf
+06:38,RE 62002,Wittenberge (ab 05:06),Berlin Hbf
+06:39,RE 73761,Frankfurt(Oder) (ab 05:26),Berlin Hbf
+06:39,RE 73805,Frankfurt(Oder) (ab 05:26),Berlin Hbf
+06:42 (+5),ICE 644,Berlin Ostbahnhof (ab 06:33),Berlin Hbf
+06:43,RE 4352,Berlin Südkreuz (ab 06:36),Berlin Hbf
+06:44 (+1),RE 3706,Dessau Hbf (ab 05:05),Berlin Hbf
+06:44,RE 95116,Dessau Hbf (ab 05:05),Berlin Hbf
+06:45,RB 18503,Nauen (ab 06:08),Berlin Hbf
+06:48,RB 18142,Flughafen BER - Terminal 1-2 (ab 06:13),Berlin Hbf
+06:54 (+4),ICE 654,Berlin Ostbahnhof (ab 06:44),Berlin Hbf
+06:57,RE 3169,Magdeburg Hbf (ab 05:12),Berlin Hbf
+06:57,RE 73716,Magdeburg Hbf (ab 05:12),Berlin Hbf
+06:59,RE 73721,Frankfurt(Oder) (ab 05:55),Berlin Hbf
+06:59,RE 90417,Frankfurt(Oder) (ab 05:55),Berlin Hbf
+07:02,RE 18092,Stendal Hbf (ab 05:45),Berlin Hbf
+07:02 (+1),RE 3146,Stendal Hbf (ab 05:45),Berlin Hbf
+07:03,FEX19808,Rangsdorf (ab 05:47),Berlin Hbf
+07:04 (+1),ICE 1052,Berlin Ostbahnhof (ab 06:56),Berlin Hbf
+07:08 (+1),RB 18145,Golm (ab 06:30),Berlin Hbf
+07:08,RB 18504,Berlin Südkreuz (ab 07:01),Berlin Hbf
+07:12,RE 18541,Brandenburg Hbf (ab 06:19),Berlin Hbf
+07:12,RE 3711,Senftenberg (ab 05:10),Berlin Hbf
+07:12,RE 62055,Baruth(Mark) (ab 06:07),Berlin Hbf
+07:12,RE 73758,Brandenburg Hbf (ab 06:19),Berlin Hbf
+07:13,RE 13052,Neustrelitz Hbf (ab 06:02),Berlin Hbf
+07:13 (+1),RE 4353,Rostock Hbf (ab 04:34),Berlin Hbf
+07:18,RE 62007,Flughafen BER (ab 06:44),Berlin Hbf
+07:20 (+39),IC 60401,Frankfurt(Main)Hbf (ab 00:52),Berlin Hbf
+07:20 (+39),IC 60409,Zürich HB (ab 19:59),Berlin Hbf
+07:20 (+40),NJ 409,Zürich HB (ab 19:59),Berlin Hbf
+07:21 (+3),RE 3106,Nauen (ab 06:37),Berlin Hbf
+07:22,RE 73807,Frankfurt(Oder) (ab 06:26),Berlin Hbf
+07:28 (+1),RE 3342,Jüterbog (ab 06:33),Berlin Hbf
+07:29 (+1),ICE 1606,Erfurt Hbf (ab 05:28),Berlin Hbf (tief)
+07:30 (+3),RE 3303,Stralsund Hbf (ab 04:16),Berlin Hbf
+07:32,IC 2274,Dresden Hbf (ab 05:30),Berlin Hbf (tief)
+07:33,FEX19810,Ludwigsfelde (ab 06:39),Berlin Hbf
+07:35,RE 63961,Cottbus Hbf (ab 06:13),Berlin Hbf
+07:38,RE 62004,Wismar (ab 04:17),Berlin Hbf
+07:39,RE 73763,Frankfurt(Oder) (ab 06:26),Berlin Hbf
+07:44 (+1),RE 3506,Berlin Südkreuz (ab 07:36),Berlin Hbf
+07:44 (+1),RE 3708,Dessau Hbf (ab 06:05),Berlin Hbf
+07:45,RB 18505,Nauen (ab 07:08),Berlin Hbf
+07:48,RB 18144,Flughafen BER - Terminal 1-2 (ab 07:13),Berlin Hbf
+07:54 (+6),ICE 698,München Hbf (ab 21:51),Berlin Hbf
+07:57,RE 73718,Magdeburg Hbf (ab 06:12),Berlin Hbf
+07:59,RE 73723,Frankfurt(Oder) (ab 06:55),Berlin Hbf
+08:03,FEX19812,Flughafen BER (ab 07:28),Berlin Hbf
+08:03 (+26),IC 148,Berlin Ostbahnhof (ab 07:53),Berlin Hbf
+08:08,RB 18147,Golm (ab 07:30),Berlin Hbf
+08:09,RB 18506,Berlin Südkreuz (ab 08:02),Berlin Hbf
+08:09,RE 93505,Stralsund Hbf (ab 05:01),Berlin Hbf
+08:11,RE 62057,Elsterwerda (ab 06:13),Berlin Hbf
+08:12,RE 3713,Berlin Ostbahnhof (ab 08:02),Berlin Hbf
+08:12,RE 73760,Brandenburg Hbf (ab 07:19),Berlin Hbf
+08:15,EN 40476,Budapest-Nyugati (ab 19:30),Berlin Hbf
+08:15,NJ 456,Graz Hbf (ab 19:20),Berlin Hbf
+08:18,RE 62009,Flughafen BER - Terminal 1-2 (ab 07:44),Berlin Hbf
+08:21 (+1),RE 3108,Nauen (ab 07:37),Berlin Hbf
+08:23 (+1),IC 2173,Rostock Hbf (ab 06:21),Berlin Hbf (tief)
+08:25 (+2),ICE 841,Oldenburg(Oldb)Hbf (ab 04:30),Berlin Hbf
+08:28,RE 3343,Schwedt(Oder) (ab 07:06),Berlin Hbf
+08:28 (+2),RE 91643,Schwedt(Oder) (ab 07:06),Berlin Hbf
+08:31,ICE 93,Hamburg-Altona (ab 06:11),Berlin Hbf (tief)
+08:32,ICE 806,Eisenach (ab 05:53),Berlin Hbf (tief)
+08:32,RE 91606,Berlin Südkreuz (ab 08:25),Berlin Hbf
+08:33 (+1),FEX19814,Ludwigsfelde (ab 07:40),Berlin Hbf
+08:38,RE 62006,Wismar (ab 05:22),Berlin Hbf
+08:39 (+1),RE 3166,Rathenow (ab 07:06),Berlin Hbf
+08:39,RE 73765,Frankfurt(Oder) (ab 07:26),Berlin Hbf
+08:39,RE 73809,Frankfurt(Oder) (ab 07:26),Berlin Hbf
+08:43 (+1),RE 4354,Berlin Südkreuz (ab 08:36),Berlin Hbf
+08:44 (+1),RE 3710,Dessau Hbf (ab 07:05),Berlin Hbf
+08:44,RE 95125,Dessau Hbf (ab 07:05),Berlin Hbf
+08:45,RB 18507,Nauen (ab 08:08),Berlin Hbf
+08:47,RB 18146,Flughafen BER - Terminal 1-2 (ab 08:13),Berlin Hbf
+08:59,RE 3107,Cottbus Hbf (ab 06:08),Berlin Hbf
+08:59,RE 73720,Magdeburg Hbf (ab 07:12),Berlin Hbf
+08:59,RE 73725,Frankfurt(Oder) (ab 07:55),Berlin Hbf
+09:02,ICE 870,Dresden Hbf (ab 07:00),Berlin Hbf (tief)
+09:02 (+1),RE 3148,Rathenow (ab 08:02),Berlin Hbf
+09:02,RE 62158,Rathenow (ab 08:02),Berlin Hbf
+09:03,FEX19816,Flughafen BER (ab 08:28),Berlin Hbf
+09:08 Ausfall,RB 18149,Berlin-Charlottenburg (ab 09:00),Berlin Hbf
+09:09 Ausfall,RB 12604,Limburg(Lahn) (ab 06:38),Berlin Hbf
+09:09 Ausfall,RB 18508,Berlin Südkreuz (ab 09:02),Berlin Hbf
+09:12,RE 3173,Brandenburg Hbf (ab 08:19),Berlin Hbf
+09:12 (+1),RE 3715,Senftenberg (ab 07:14),Berlin Hbf
+09:12 (+3),RE 4355,Rostock Hbf (ab 06:34),Berlin Hbf (tief)
+09:12 (+1),RE 4355,Rostock Hbf (ab 06:34),Berlin Hbf
+09:12 (+3),RE 4355,Lagos (ab 20:11),Berlin Hbf (tief)
+09:12 (+1),RE 4355,Lagos (ab 20:11),Berlin Hbf
+09:12,RE 62059,Baruth(Mark) (ab 08:08),Berlin Hbf
+09:12,RE 73762,Brandenburg Hbf (ab 08:19),Berlin Hbf
+09:12,RE 93355,Rostock Hbf (ab 06:34),Berlin Hbf
+09:18 (+59),RE 62011,Flughafen BER (ab 08:44),Berlin Hbf
+09:21,RE 3110,Nauen (ab 08:37),Berlin Hbf
+09:22 (+3),ICE 703,Hamburg-Altona (ab 07:18),Berlin Hbf (tief)
+09:27 (+1),RE 3344,Jüterbog (ab 08:33),Berlin Hbf
+09:28 (+1),RE 3305,Stralsund Hbf (ab 06:16),Berlin Hbf
+09:29 (+2),ICE 1604,Nürnberg Hbf (ab 03:48),Berlin Hbf (tief)
+09:29 (+4),ICE 876,Kassel-Wilhelmshöhe (ab 06:13),Berlin Hbf
+09:32 (+8),IC 2272,Chemnitz Hbf (ab 06:26),Berlin Hbf
+09:32 (+3),RE 52272,Elsterwerda (ab 08:04),Berlin Hbf
+09:33,FEX19818,Ludwigsfelde (ab 08:32),Berlin Hbf
+09:38,RE 62008,Wittenberge (ab 08:06),Berlin Hbf
+09:39,RE 73767,Frankfurt(Oder) (ab 08:26),Berlin Hbf
+09:39,RE 73811,Frankfurt(Oder) (ab 08:26),Berlin Hbf
+09:42 (+1),RE 3508,Berlin Südkreuz (ab 09:34),Berlin Hbf
+09:44 (+5),RE 3712,Dessau Hbf (ab 08:05),Berlin Hbf
+09:45 Ausfall,RB 18509,Nauen (ab 09:08),Berlin Hbf
+09:48,RB 18148,Flughafen BER (ab 09:13),Berlin Hbf
+09:49,FLX93674,Hamburg Hbf (ab 07:46),Berlin Hbf (tief)
+09:51,ICE 741,Münster(Westf)Hbf (ab 06:17),Berlin Hbf
+09:56 (+2),RE 3109,Cottbus Hbf (ab 07:03),Berlin Hbf
+09:56,RE 73722,Magdeburg Hbf (ab 08:12),Berlin Hbf
+09:59,RE 73727,Frankfurt(Oder) (ab 08:55),Berlin Hbf
+10:01 (+1),RE 3168,Frankfurt(Oder) (ab 08:26),Berlin Hbf
+10:01,RE 62160,Rathenow (ab 09:07),Berlin Hbf
+10:03,FEX19820,Flughafen BER - Terminal 1-2 (ab 09:28),Berlin Hbf
+10:03,RE 18768,Berlin-Charlottenburg (ab 09:55),Berlin Hbf
+10:08,RB 18151,Berlin-Charlottenburg (ab 10:00),Berlin Hbf
+10:09 Ausfall,RB 18510,Berlin Südkreuz (ab 10:02),Berlin Hbf
+10:09,RE 62061,Elsterwerda (ab 08:13),Berlin Hbf
+10:12,RE 3175,Brandenburg Hbf (ab 09:19),Berlin Hbf
+10:12 (+3),RE 3717,Senftenberg (ab 08:14),Berlin Hbf
+10:12,RE 73764,Brandenburg Hbf (ab 09:19),Berlin Hbf
+10:13 (+1),RE 3507,Stralsund Hbf (ab 07:01),Berlin Hbf
+10:14 (+1),ICE 1155,Köln Hbf (ab 06:17),Berlin Hbf
+10:16 (+64),ICE 843,Köln Hbf (ab 05:27),Berlin Hbf
+10:16 (+64),ICE 853,Köln Hbf (ab 05:42),Berlin Hbf
+10:18,RE 62013,Flughafen BER - Terminal 1-2 (ab 09:44),Berlin Hbf
+10:20 Ausfall,ICE 507,Volmerange-les-Mines (ab 00:22),Berlin Hbf (tief)
+10:21 (+1),RE 3112,Nauen (ab 09:37),Berlin Hbf
+10:22,ICE 804,München Hbf (ab 04:20),Berlin Hbf (tief)
+10:23 (+2),IC 2175,Warnemünde (ab 07:56),Berlin Hbf
+10:23 (+1),RB 30056,Aachen-Rothe Erde (ab 06:58),Berlin Hbf
+10:28,RE 3345,Schwedt(Oder) (ab 09:06),Berlin Hbf
+10:28 (+1),RE 91645,Schwedt(Oder) (ab 09:06),Berlin Hbf
+10:30 (+17),RE 3747,Berlin Ostkreuz (ab 10:14),Berlin Hbf
+10:31,RE 91608,Berlin Südkreuz (ab 10:24),Berlin Hbf
+10:32 (+2),ICE 696,Karlsruhe Hbf (ab 05:00),Berlin Hbf
+10:32 Ausfall,ICE 996,Frankfurt(Main)Hbf (ab 05:50),Berlin Hbf
+10:33,FEX19822,Ludwigsfelde (ab 09:39),Berlin Hbf
+10:38,RE 62010,Wismar (ab 07:33),Berlin Hbf
+10:39,RE 73769,Frankfurt(Oder) (ab 09:26),Berlin Hbf
+10:42 (+1),EC 178,Praha hl.n. (ab 06:28),Berlin Hbf
+10:44 (+1),RE 3714,Dessau Hbf (ab 09:05),Berlin Hbf
+10:44,RE 95147,Dessau Hbf (ab 09:05),Berlin Hbf
+10:45 Ausfall,RB 12606,Limburg(Lahn) (ab 07:45),Berlin Hbf
+10:45 Ausfall,RB 18511,Nauen (ab 10:08),Berlin Hbf
+10:45 (+1),RE 4356,Berlin Südkreuz (ab 10:36),Berlin Hbf
+10:48 Ausfall,RB 18150,Flughafen BER - Terminal 1-2 (ab 10:13),Berlin Hbf
+10:51 (+19),ICE 753,Hamburg Hbf (ab 05:23),Berlin Hbf
+10:55 (+2),EC 379,Kiel Hbf (ab 07:42),Berlin Hbf (tief)
+10:55 (+1),ICE 774,Stuttgart Hbf (ab 05:02),Berlin Hbf
+10:57 (+15),RE 3111,Cottbus Hbf (ab 08:04),Berlin Hbf
+10:57,RE 73724,Magdeburg Hbf (ab 09:12),Berlin Hbf
+10:59,RE 73729,Frankfurt(Oder) (ab 09:55),Berlin Hbf
+11:02 (+10),ICE 553,Koblenz Hbf (ab 05:41),Berlin Hbf
+11:02 (+10),ICE 758,Berlin Ostbahnhof (ab 10:54),Berlin Hbf
+11:02 (+94),RE 3150,Frankfurt(Oder) (ab 00:24),Berlin Hbf
+11:03,FEX19824,Flughafen BER - Terminal 1-2 (ab 10:28),Berlin Hbf
+11:08 (+9),RB 18153,Berlin-Charlottenburg (ab 11:00),Berlin Hbf
+11:10 Ausfall,RB 18512,Berlin Südkreuz (ab 11:01),Berlin Hbf
+11:11,RE 62063,Baruth(Mark) (ab 10:07),Berlin Hbf
+11:12 (+4),RE 3719,Senftenberg (ab 09:14),Berlin Hbf
+11:12,RE 4357,Rostock Hbf (ab 08:34),Berlin Hbf
+11:12,RE 73766,Brandenburg Hbf (ab 10:19),Berlin Hbf
+11:16,EN 345,Koebenhavns Lufthavn st (ab 00:14),Berlin Hbf
+11:16 (+10),ICE 543,Köln Hbf (ab 06:26),Berlin Hbf
+11:18,RE 62015,Berlin Brandenburg Flughafen (ab 10:44),Berlin Hbf
+11:21 (+7),RE 3114,Nauen (ab 10:37),Berlin Hbf
+11:22 (+1),ICE 705,Hamburg-Altona (ab 09:19),Berlin Hbf (tief)
+11:25 (+2),RE 3346,Berlin Südkreuz (ab 11:19),Berlin Hbf
+11:26 (+22),RE 3307,Stralsund Hbf (ab 08:16),Berlin Hbf
+11:26,RE 90207,Stralsund Hbf (ab 08:16),Berlin Hbf
+11:30 (+7),ICE 2502,München Hbf (ab 05:10),Berlin Hbf (tief)
+11:32 (+2),RE 52270,Elsterwerda (ab 10:04),Berlin Hbf
+11:33,FEX19826,Ludwigsfelde (ab 10:32),Berlin Hbf
+11:35,RE 95048,Cottbus Hbf (ab 10:04),Berlin Hbf
+11:38,RE 62012,Wittenberge (ab 10:06),Berlin Hbf
+11:39,RE 73771,Frankfurt(Oder) (ab 10:26),Berlin Hbf
+11:42 (+1),ICE 940,Berlin Ostbahnhof (ab 11:32),Berlin Hbf
+11:42 (+1),ICE 950,Berlin Ostbahnhof (ab 11:32),Berlin Hbf
+11:44 (+1),RE 3716,Bad Belzig (ab 10:41),Berlin Hbf
+11:44,RE 95150,Bad Belzig (ab 10:41),Berlin Hbf
+11:45 Ausfall,RB 18513,Nauen (ab 11:08),Berlin Hbf
+11:45 (+4),RE 3510,Berlin Südkreuz (ab 11:36),Berlin Hbf
+11:48,RB 18152,Flughafen BER - Terminal 1-2 (ab 11:13),Berlin Hbf
+11:48,RB 18612,Berlin Südkreuz (ab 11:41),Berlin Hbf
+11:51,IC 141,Amsterdam Centraal (ab 05:59),Berlin Hbf
+11:55 (+1),ICE 1005,Hamburg-Altona (ab 09:48),Berlin Hbf
+11:57,RE 3113,Cottbus Hbf (ab 09:04),Berlin Hbf
+11:57,RE 73726,Magdeburg Hbf (ab 10:12),Berlin Hbf
+11:59,RE 73731,Frankfurt(Oder) (ab 10:55),Berlin Hbf
+12:01 (+12),RE 3170,Frankfurt(Oder) (ab 09:26),Berlin Hbf
+12:01,RE 62164,Rathenow (ab 11:02),Berlin Hbf
+12:02 (+1),ICE 270,Basel Bad Bf (ab 04:12),Berlin Hbf
+12:03 Ausfall,FEX19828,Flughafen BER - Terminal 1-2 (ab 11:28),Berlin Hbf
+12:08 (+1),ICE 1073,Ostseebad Binz (ab 08:19),Berlin Hbf
+12:08,RB 18155,Berlin-Charlottenburg (ab 12:00),Berlin Hbf
+12:08 (+1),RB 18613,Nauen (ab 11:18),Berlin Hbf
+12:08 (+1),RE 51073,Prenzlau (ab 10:53),Berlin Hbf
+12:09 Ausfall,RB 18514,Berlin Südkreuz (ab 12:02),Berlin Hbf
+12:11,RE 62065,Elsterwerda (ab 10:13),Berlin Hbf
+12:12,RE 3179,Brandenburg Hbf (ab 11:19),Berlin Hbf
+12:12 (+1),RE 3509,Stralsund Hbf (ab 09:01),Berlin Hbf
+12:12,RE 3721,Senftenberg (ab 10:14),Berlin Hbf
+12:12,RE 73768,Brandenburg Hbf (ab 11:19),Berlin Hbf
+12:12,RE 93509,Stralsund Hbf (ab 09:01),Berlin Hbf
+12:16 (+8),ICE 845,Köln Hbf (ab 07:27),Berlin Hbf
+12:16 (+8),ICE 855,Köln Hbf (ab 07:48),Berlin Hbf
+12:18,RE 62017,Flughafen BER - Terminal 1-2 (ab 11:44),Berlin Hbf
+12:20 (+3),ICE 509,Hamburg-Altona (ab 10:17),Berlin Hbf (tief)
+12:21,RE 3116,Frankfurt(Oder) (ab 09:55),Berlin Hbf
+12:22,ICE 802,München Hbf (ab 05:57),Berlin Hbf (tief)
+12:23 (+1),IC 2177,Warnemünde (ab 09:56),Berlin Hbf
+12:28,IC 2035,Norddeich (ab 05:36),Berlin Hbf
+12:28,RE 3347,Schwedt(Oder) (ab 11:06),Berlin Hbf
+12:28 (+2),RE 91647,Schwedt(Oder) (ab 11:06),Berlin Hbf
+12:30,ICE 95,Hamburg-Altona (ab 09:56),Berlin Hbf (tief)
+12:31 (+3),RE 91610,Berlin Südkreuz (ab 12:24),Berlin Hbf
+12:32 (+1),ICE 694,Stuttgart Hbf (ab 06:50),Berlin Hbf
+12:32,RB 16453,Stuttgart Hbf (ab 06:50),Berlin Hbf
+12:33 (+1),FEX19830,Ludwigsfelde (ab 11:39),Berlin Hbf
+12:35 (+1),RE 3117,Cottbus Hbf (ab 11:04),Berlin Hbf
+12:35,RE 95060,Cottbus Hbf (ab 11:04),Berlin Hbf
+12:38 (+2),RE 62014,Wismar (ab 09:24),Berlin Hbf
+12:39,RE 73773,Frankfurt(Oder) (ab 11:26),Berlin Hbf
+12:43 (+1),RE 4358,Berlin Südkreuz (ab 12:36),Berlin Hbf
+12:44 (+1),RE 3718,Dessau Hbf (ab 11:05),Berlin Hbf
+12:44,RE 95152,Dessau Hbf (ab 11:05),Berlin Hbf
+12:45 Ausfall,RB 18515,Nauen (ab 12:08),Berlin Hbf
+12:48,RB 18154,Flughafen BER (ab 12:14),Berlin Hbf
+12:48 (+1),RB 18614,Berlin Südkreuz (ab 12:41),Berlin Hbf
+12:54 (+1),ICE 772,Stuttgart Hbf (ab 07:25),Berlin Hbf
+12:55 (+22),EC 175,Flensburg (ab 08:46),Berlin Hbf (tief)
+12:57,RE 3115,Cottbus Hbf (ab 10:04),Berlin Hbf
+12:57,RE 73728,Magdeburg Hbf (ab 11:12),Berlin Hbf
+12:59,RE 73733,Frankfurt(Oder) (ab 11:55),Berlin Hbf
+13:02 (+9),ICE 555,Köln Hbf (ab 08:45),Berlin Hbf
+13:02 (+8),RE 3152,Rathenow (ab 12:02),Berlin Hbf
+13:02,RE 62166,Rathenow (ab 12:02),Berlin Hbf
+13:03,FEX19832,Flughafen BER (ab 12:28),Berlin Hbf
+13:04 (+2),ICE 756,Berlin Ostbahnhof (ab 12:55),Berlin Hbf
+13:08,RB 18157,Berlin-Charlottenburg (ab 13:00),Berlin Hbf
+13:08 (+7),RB 18615,Nauen (ab 12:27),Berlin Hbf
+13:09 Ausfall,RB 18516,Berlin Südkreuz (ab 13:01),Berlin Hbf
+13:11,RE 62067,Baruth(Mark) (ab 12:07),Berlin Hbf
+13:12 (+6),RE 3723,Senftenberg (ab 11:14),Berlin Hbf
+13:12 (+1),RE 4359,Rostock Hbf (ab 10:34),Berlin Hbf
+13:12,RE 73770,Brandenburg Hbf (ab 12:19),Berlin Hbf
+13:14,FLX 1240,Stuttgart Hbf (ab 07:17),Berlin Hbf (tief)
+13:16 (+9),ICE 545,Köln Hbf (ab 08:25),Berlin Hbf
+13:18,RE 62019,Flughafen BER (ab 12:44),Berlin Hbf
+13:21,ICE 1211,Berlin Gesundbrunnen (ab 13:16),Berlin Hbf (tief)
+13:21 (+3),RE 3118,Nauen (ab 12:37),Berlin Hbf
+13:22 (+1),ICE 707,Hamburg-Altona (ab 11:18),Berlin Hbf (tief)
+13:26,RE 3348,Berlin Südkreuz (ab 13:19),Berlin Hbf
+13:28 (+5),RE 3309,Stralsund Hbf (ab 10:16),Berlin Hbf
+13:28,RE 92309,Stralsund Hbf (ab 10:16),Berlin Hbf
+13:29,ICE 1600,München Hbf (ab 07:33),Berlin Hbf (tief)
+13:29 (+1),ICE 1710,München Hbf (ab 07:30),Berlin Hbf
+13:32,FLX 1235,Köln Hbf (ab 08:14),Berlin Hbf (tief)
+13:33 (+1),IC 2178,Dresden Hbf (ab 11:23),Berlin Hbf
+13:33 (+1),RE 52178,Elsterwerda (ab 12:01),Berlin Hbf
+13:35 (+1),FEX19834,Ludwigsfelde (ab 12:32),Berlin Hbf
+13:35 (+1),RE 3119,Cottbus Hbf (ab 12:04),Berlin Hbf
+13:35,RE 95062,Cottbus Hbf (ab 12:04),Berlin Hbf
+13:38,RE 62016,Wittenberge (ab 12:06),Berlin Hbf
+13:39,RE 73775,Frankfurt(Oder) (ab 12:26),Berlin Hbf
+13:44 (+1),RE 3512,Berlin Südkreuz (ab 13:36),Berlin Hbf
+13:44 (+1),RE 3720,Bad Belzig (ab 12:41),Berlin Hbf
+13:45 Ausfall,RB 18517,Nauen (ab 13:08),Berlin Hbf
+13:45 (+1),RB 18616,Berlin Südkreuz (ab 13:39),Berlin Hbf
+13:48,RB 18156,Flughafen BER (ab 13:13),Berlin Hbf
+13:51 (+12),IC 143,Amsterdam Centraal (ab 07:59),Berlin Hbf
+13:57,RE 73730,Magdeburg Hbf (ab 12:12),Berlin Hbf
+13:59,RE 73735,Frankfurt(Oder) (ab 12:55),Berlin Hbf
+14:01 (+38),RE 3172,Frankfurt(Oder) (ab 10:26),Berlin Hbf
+14:01,RE 62168,Rathenow (ab 13:12),Berlin Hbf
+14:02 (+4),ICE 374,Basel SBB (ab 06:06),Berlin Hbf
+14:03,FEX19836,Flughafen BER (ab 13:28),Berlin Hbf
+14:08 (+3),RB 18159,Berlin-Charlottenburg (ab 14:00),Berlin Hbf
+14:08 (+1),RB 18617,Nauen (ab 13:18),Berlin Hbf
+14:09 (+1),RE 3511,Stralsund Hbf (ab 11:01),Berlin Hbf
+14:09,RE 93511,Stralsund Hbf (ab 11:01),Berlin Hbf
+14:10 Ausfall,RB 18518,Berlin Südkreuz (ab 14:03),Berlin Hbf
+14:11,RE 62069,Elsterwerda (ab 12:13),Berlin Hbf
+14:12 (+1),RE 3725,Senftenberg (ab 12:14),Berlin Hbf
+14:12,RE 73772,Brandenburg Hbf (ab 13:19),Berlin Hbf
+14:15 (+4),ICE 1711,Ostseebad Binz (ab 10:21),Berlin Hbf
+14:15,ICE 601,Breitengüßbach (ab 00:02),Berlin Hbf
+14:15 (+4),RE 51711,Prenzlau (ab 12:53),Berlin Hbf
+14:16 (+12),ICE 847,Köln Hbf (ab 09:27),Berlin Hbf
+14:16 (+12),ICE 857,Köln Hbf (ab 09:48),Berlin Hbf
+14:18,RE 62021,Flughafen BER - Terminal 1-2 (ab 13:44),Berlin Hbf
+14:20 (+3),ICE 1601,Hamburg-Altona (ab 12:15),Berlin Hbf (tief)
+14:21 (+4),RE 3120,Frankfurt(Oder) (ab 11:55),Berlin Hbf
+14:22,ICE 800,München Hbf (ab 08:32),Berlin Hbf (tief)
+14:23,IC 2179,Warnemünde (ab 11:56),Berlin Hbf (tief)
+14:28,RE 3349,Schwedt(Oder) (ab 13:06),Berlin Hbf
+14:28 (+3),RE 91649,Schwedt(Oder) (ab 13:06),Berlin Hbf
+14:31 (+2),RE 91512,Berlin Südkreuz (ab 14:24),Berlin Hbf
+14:32 (+1),ICE 692,München Hbf (ab 06:41),Berlin Hbf
+14:33 (+22),FEX19838,Ludwigsfelde (ab 13:39),Berlin Hbf
+14:35 (+2),RE 3121,Cottbus Hbf (ab 13:04),Berlin Hbf
+14:35,RE 95066,Cottbus Hbf (ab 13:04),Berlin Hbf
+14:38,RE 62018,Wismar (ab 11:24),Berlin Hbf
+14:39,RE 73777,Frankfurt(Oder) (ab 13:26),Berlin Hbf
+14:43,EC 174,Praha hl.n. (ab 10:28),Berlin Hbf (tief)
+14:43 (+3),RE 4360,Luzern (ab 06:57),Berlin Hbf
+14:44 (+2),RE 3722,Dessau Hbf (ab 13:05),Berlin Hbf
+14:45 (+2),RB 18519,Nauen (ab 14:08),Berlin Hbf
+14:48,RB 18158,Flughafen BER (ab 14:13),Berlin Hbf
+14:48,RB 18618,Berlin Südkreuz (ab 14:41),Berlin Hbf
+14:49,ICE 757,Aachen Hbf (ab 09:06),Berlin Hbf
+14:55 (+1),ICE 770,Stuttgart Hbf (ab 09:23),Berlin Hbf
+14:56,RE 73732,Magdeburg Hbf (ab 13:12),Berlin Hbf
+14:59,RE 73737,Frankfurt(Oder) (ab 13:55),Berlin Hbf
+15:02 (+2),RE 3154,Rathenow (ab 14:02),Berlin Hbf
+15:02,RE 62170,Rathenow (ab 14:02),Berlin Hbf
+15:03,FEX19840,Flughafen BER (ab 14:28),Berlin Hbf
+15:08 (+1),RB 18161,Berlin-Charlottenburg (ab 15:00),Berlin Hbf
+15:09 (+1),RB 18520,Berlin Südkreuz (ab 15:01),Berlin Hbf
+15:09 (+2),RB 18619,Nauen (ab 14:27),Berlin Hbf
+15:11,RE 62071,Baruth(Mark) (ab 14:07),Berlin Hbf
+15:12 Ausfall,ICE 1694,München Hbf (ab 08:39),Berlin Hbf
+15:12 (+10),RE 3727,Senftenberg (ab 13:14),Berlin Hbf
+15:12 (+1),RE 4361,Rostock Hbf (ab 12:34),Berlin Hbf
+15:12,RE 73774,Brandenburg Hbf (ab 14:19),Berlin Hbf
+15:16 (+12),ICE 547,Köln Hbf (ab 10:25),Berlin Hbf
+15:16 (+12),ICE 557,Stuttgart Hbf (ab 07:13),Berlin Hbf
+15:18,RE 62023,Flughafen BER (ab 14:44),Berlin Hbf
+15:21 (+1),RE 3122,Nauen (ab 14:37),Berlin Hbf
+15:22,ICE 709,Hamburg-Altona (ab 13:18),Berlin Hbf (tief)
+15:27,RE 3350,Berlin Südkreuz (ab 15:20),Berlin Hbf
+15:28 (+4),IC 2034,Berlin Ostbahnhof (ab 15:19),Berlin Hbf
+15:29 (+1),RE 3311,Stralsund Hbf (ab 12:19),Berlin Hbf
+15:30 (+1),ICE 508,München Hbf (ab 09:15),Berlin Hbf
+15:33 (+2),FEX19842,Ludwigsfelde (ab 14:32),Berlin Hbf
+15:33 (+1),RE 52176,Elsterwerda (ab 14:01),Berlin Hbf
+15:35,RE 63977,Cottbus Hbf (ab 14:04),Berlin Hbf
+15:35,RE 95080,Cottbus Hbf (ab 14:04),Berlin Hbf
+15:38,RE 62020,Wittenberge (ab 14:06),Berlin Hbf
+15:39,RE 73779,Frankfurt(Oder) (ab 14:26),Berlin Hbf
+15:39,RE 73817,Frankfurt(Oder) (ab 14:26),Berlin Hbf
+15:39,RE 93180,Frankfurt(Oder) (ab 14:26),Berlin Hbf
+15:42 (+2),ICE 846,Berlin Ostbahnhof (ab 15:33),Berlin Hbf
+15:42 (+2),ICE 856,Berlin Ostbahnhof (ab 15:33),Berlin Hbf
+15:44 (+2),RE 3514,Berlin Südkreuz (ab 15:36),Berlin Hbf
+15:44 (+1),RE 3724,Bad Belzig (ab 14:41),Berlin Hbf
+15:44,RE 95166,Bad Belzig (ab 14:41),Berlin Hbf
+15:45 Ausfall,RB 18521,Nauen (ab 15:08),Berlin Hbf
+15:47 (+26),RB 18160,Flughafen BER (ab 15:13),Berlin Hbf
+15:48,RB 18620,Berlin Südkreuz (ab 15:41),Berlin Hbf
+15:51 (+21),IC 145,Amsterdam Centraal (ab 09:59),Berlin Hbf
+15:55,ICE 1007,Hamburg-Altona (ab 13:51),Berlin Hbf
+15:56 Ausfall,RE 73734,Magdeburg Hbf (ab 14:12),Berlin Hbf
+15:59,RE 73739,Frankfurt(Oder) (ab 14:55),Berlin Hbf
+15:59,RE 91001,Frankfurt(Oder) (ab 14:55),Berlin Hbf
+16:01 (+1),RE 3174,Frankfurt(Oder) (ab 11:26),Berlin Hbf
+16:01,RE 62172,Rathenow (ab 15:02),Berlin Hbf
+16:03 (+5),IC 140,Berlin Ostbahnhof (ab 15:53),Berlin Hbf
+16:03 (+1),ICE 372,Interlaken Ost (ab 05:58),Berlin Hbf
+16:05 (+4),ICE 1075,Ostseebad Binz (ab 12:19),Berlin Hbf
+16:05,ICE 21,Frankfurt(Main)Hbf (ab 06:19),Berlin Hbf
+16:05,RE 51040,Prenzlau (ab 14:53),Berlin Hbf
+16:05 (+3),RE 51075,Prenzlau (ab 14:53),Berlin Hbf
+16:07 (+2),RB 18621,Nauen (ab 15:18),Berlin Hbf
+16:08 (+1),RB 18163,Berlin-Charlottenburg (ab 16:00),Berlin Hbf
+16:09,FEX19844,Flughafen BER - Terminal 1-2 (ab 15:28),Berlin Hbf
+16:09 (+3),RB 18522,Berlin Südkreuz (ab 16:02),Berlin Hbf
+16:11,RE 62073,Elsterwerda (ab 14:13),Berlin Hbf
+16:12 (+5),RE 3729,Senftenberg (ab 14:14),Berlin Hbf
+16:12,RE 73776,Brandenburg Hbf (ab 15:19),Berlin Hbf
+16:13 (+21),RE 3513,Stralsund Hbf (ab 13:01),Berlin Hbf
+16:13,RE 93513,Stralsund Hbf (ab 13:01),Berlin Hbf
+16:14 (+3),ICE 1157,Köln Hbf (ab 12:17),Berlin Hbf
+16:14,ICE 14,Düsseldorf Hbf (ab 00:45),Berlin Hbf
+16:16 (+25),ICE 849,Köln Hbf (ab 11:27),Berlin Hbf
+16:16 (+25),ICE 859,Köln Hbf (ab 11:48),Berlin Hbf
+16:18,RE 62025,Flughafen BER (ab 15:44),Berlin Hbf
+16:20 (+7),ICE 603,Hamburg-Altona (ab 14:19),Berlin Hbf (tief)
+16:21 (+1),RE 3124,Frankfurt(Oder) (ab 13:55),Berlin Hbf
+16:22 Ausfall,ICE 2916,Nürnberg Hbf (ab 11:40),Berlin Hbf
+16:23 (+1),IC 2271,Warnemünde (ab 13:52),Berlin Hbf (tief)
+16:28,RE 3351,Schwedt(Oder) (ab 15:06),Berlin Hbf
+16:28 (+2),RE 91651,Schwedt(Oder) (ab 15:06),Berlin Hbf
+16:31,RE 91614,Berlin Südkreuz (ab 16:24),Berlin Hbf
+16:32 (+2),ICE 690,München Hbf (ab 08:46),Berlin Hbf
+16:33 (+3),FEX19846,Ludwigsfelde (ab 15:39),Berlin Hbf
+16:35 (+1),re 3125,Cottbus Hbf (ab 15:04),Berlin Hbf
+16:35,RE 95084,Cottbus Hbf (ab 15:04),Berlin Hbf
+16:38 Ausfall,RE 62022,Wismar (ab 13:24),Berlin Hbf
+16:39,RE 73781,Frankfurt(Oder) (ab 15:26),Berlin Hbf
+16:43 (+12),RE 4362,Luzern (ab 07:57),Berlin Hbf
+16:44 (+5),RE 3726,Dessau Hbf (ab 15:05),Berlin Hbf
+16:44,RE 95169,Dessau Hbf (ab 15:05),Berlin Hbf
+16:45 (+3),RB 18523,Nauen (ab 16:08),Berlin Hbf
+16:48,RB 18162,Flughafen BER - Terminal 1-2 (ab 16:13),Berlin Hbf
+16:48 (+1),RB 18622,Berlin Südkreuz (ab 16:42),Berlin Hbf
+16:51 (+1),ICE 759,Münster(Westf)Hbf (ab 13:24),Berlin Hbf
+16:54 (+2),ICE 578,Stuttgart Hbf (ab 11:23),Berlin Hbf
+16:55 (+1),ICE 773,Hamburg-Altona (ab 14:37),Berlin Hbf (tief)
+16:56 (+2),RE 3123,Cottbus Hbf (ab 14:04),Berlin Hbf
+16:56,RE 73736,Magdeburg Hbf (ab 15:12),Berlin Hbf
+16:59,RE 73741,Frankfurt(Oder) (ab 15:55),Berlin Hbf
+17:00,EC 378,Praha hl.n. (ab 12:28),Berlin Hbf (tief)
+17:02 (+4),RE 3156,Rathenow (ab 16:02),Berlin Hbf
+17:02,RE 62174,Rathenow (ab 16:02),Berlin Hbf
+17:03 Ausfall,FEX19848,Flughafen BER - Terminal 1-2 (ab 16:28),Berlin Hbf
+17:08 (+1),RB 18165,Berlin-Charlottenburg (ab 17:00),Berlin Hbf
+17:09 (+1),RB 18524,Berlin Südkreuz (ab 17:02),Berlin Hbf
+17:09 (+7),RB 18623,Nauen (ab 16:27),Berlin Hbf
+17:11,RE 62075,Baruth(Mark) (ab 16:07),Berlin Hbf
+17:12 (+2),RE 3731,Senftenberg (ab 15:14),Berlin Hbf
+17:12 (+1),RE 4363,Rostock Hbf (ab 14:34),Berlin Hbf
+17:12,RE 73778,Brandenburg Hbf (ab 16:19),Berlin Hbf
+17:16 (+33),ICE 549,Düsseldorf Hbf (ab 12:52),Berlin Hbf
+17:16 (+33),ICE 559,Köln Hbf (ab 12:45),Berlin Hbf
+17:18,RE 62027,Flughafen BER - Terminal 1-2 (ab 16:44),Berlin Hbf
+17:21 (+1),FLX 1244,Basel Bad (ab 09:27),Berlin Hbf (tief)
+17:21,RE 18444,Lausanne (ab 00:51),Berlin Hbf
+17:21 (+7),RE 3126,Frankfurt(Oder) (ab 14:55),Berlin Hbf
+17:22 (+11),ICE 801,Kiel Hbf (ab 14:13),Berlin Hbf (tief)
+17:27 Ausfall,RE 3352,Berlin Südkreuz (ab 17:20),Berlin Hbf
+17:28 (+1),RE 3313,Stralsund Hbf (ab 14:16),Berlin Hbf
+17:33 (+1),IC 2174,Dresden Hbf (ab 15:23),Berlin Hbf
+17:33 (+1),RE 52174,Elsterwerda (ab 16:01),Berlin Hbf
+17:34 (+3),FEX19850,Ludwigsfelde (ab 16:32),Berlin Hbf
+17:35,RE 95088,Cottbus Hbf (ab 16:04),Berlin Hbf
+17:38 (+6),RE 62024,Wittenberge (ab 16:06),Berlin Hbf
+17:39,RE 3184,Frankfurt(Oder) (ab 16:26),Berlin Hbf
+17:39,RE 73783,Frankfurt(Oder) (ab 16:26),Berlin Hbf
+17:42 (+87),ICE 844,Berlin Ostbahnhof (ab 17:33),Berlin Hbf
+17:42 (+87),ICE 854,Berlin Ostbahnhof (ab 17:33),Berlin Hbf
+17:43 (+5),RE 3516,Berlin Südkreuz (ab 17:34),Berlin Hbf
+17:44 (+3),RB 18525,Nauen (ab 17:08),Berlin Hbf
+17:44 (+8),RE 3728,Bad Belzig (ab 16:41),Berlin Hbf
+17:44,RE 95172,Bad Belzig (ab 16:41),Berlin Hbf
+17:48,RB 18164,Flughafen BER (ab 17:13),Berlin Hbf
+17:48 (+1),RB 18624,Berlin Südkreuz (ab 17:41),Berlin Hbf
+17:51 (+10),IC 147,Amsterdam Centraal (ab 11:59),Berlin Hbf
+17:55,ICE 1009,Hamburg-Altona (ab 15:38),Berlin Hbf
+17:56,RE 73738,Magdeburg Hbf (ab 16:12),Berlin Hbf
+17:59 Ausfall,RE 73743,Frankfurt(Oder) (ab 16:55),Berlin Hbf
+18:00,RE 18794,Bad Belzig (ab 17:01),Berlin Hbf
+18:00 (+2),RE 3746,Bad Belzig (ab 17:01),Berlin Hbf
+18:01 (+1),RE 3176,Rathenow (ab 17:02),Berlin Hbf
+18:01,RE 62176,Rathenow (ab 17:02),Berlin Hbf
+18:02 (+53),ICE 742,Berlin Ostbahnhof (ab 17:54),Berlin Hbf
+18:03,FEX19852,Flughafen BER (ab 17:28),Berlin Hbf
+18:03 (+5),ICE 370,Basel SBB (ab 10:13),Berlin Hbf
+18:07 (+3),RB 18625,Nauen (ab 17:18),Berlin Hbf
+18:08 (+2),RB 18167,Berlin-Charlottenburg (ab 18:00),Berlin Hbf
+18:09 (+2),RB 18526,Berlin Südkreuz (ab 18:02),Berlin Hbf
+18:10 (+2),RE 3515,Stralsund Hbf (ab 15:01),Berlin Hbf
+18:10,RE 93515,Stralsund Hbf (ab 15:01),Berlin Hbf
+18:12,RE 3191,Brandenburg Hbf (ab 17:19),Berlin Hbf
+18:12 (+1),RE 3733,Senftenberg (ab 16:14),Berlin Hbf
+18:12,RE 62077,Elsterwerda (ab 16:13),Berlin Hbf
+18:12 Ausfall,RE 73780,Brandenburg Hbf (ab 17:19),Berlin Hbf
+18:16,ICE 941,Düsseldorf Hbf (ab 13:50),Berlin Hbf
+18:16,ICE 951,Köln Hbf (ab 13:48),Berlin Hbf
+18:18 Ausfall,RE 62029,Flughafen BER (ab 17:44),Berlin Hbf
+18:20 Ausfall,ICE 1605,Hamburg-Altona (ab 16:16),Berlin Hbf
+18:20 Ausfall,ICE 1605,Hamburg-Altona (ab 16:16),Berlin Hbf (tief)
+18:20 Ausfall,ICE 1705,Hamburg-Altona (ab 16:16),Berlin Hbf (tief)
+18:20 Ausfall,ICE 2905,Hamburg-Altona (ab 16:16),Berlin Hbf
+18:20 Ausfall,ICE 2905,Hamburg-Altona (ab 16:16),Berlin Hbf (tief)
+18:20 (+32),ICE 2923,Hamburg-Altona (ab 16:16),Berlin Hbf (tief)
+18:20 (+32),ICE 2923,Hamburg-Altona (ab 16:16),Berlin Hbf
+18:21,RE 3128,Frankfurt(Oder) (ab 15:55),Berlin Hbf
+18:22 (+2),ICE 706,München Hbf (ab 12:29),Berlin Hbf (tief)
+18:23 (+1),IC 2273,Warnemünde (ab 15:52),Berlin Hbf
+18:26 (+2),IC 2431,Emden Außenhafen (ab 12:01),Berlin Hbf
+18:26 (+1),IC 2432,Emden Außenhafen (ab 12:01),Berlin Hbf
+18:26 (+2),RE 62431,Potsdam Hbf (ab 18:02),Berlin Hbf
+18:29,RE 3353,Schwedt(Oder) (ab 17:06),Berlin Hbf
+18:29 (+1),RE 91653,Schwedt(Oder) (ab 17:06),Berlin Hbf
+18:31 (+1),RE 91616,Berlin Südkreuz (ab 18:24),Berlin Hbf
+18:32 (+1),ICE 1218,Innsbruck Hbf (ab 08:40),Berlin Hbf
+18:32,ICE 1218,Innsbruck Hbf (ab 08:40),Berlin Hbf (tief)
+18:34,FEX19854,Ludwigsfelde (ab 17:39),Berlin Hbf
+18:37 (+1),ICE 1174,Basel SBB (ab 10:41),Berlin Hbf
+18:38,RE 62026,Wismar (ab 15:24),Berlin Hbf
+18:39,RE 3186,Frankfurt(Oder) (ab 17:26),Berlin Hbf
+18:39,RE 73785,Frankfurt(Oder) (ab 17:26),Berlin Hbf
+18:43 (+1),RE 4364,Luzern (ab 08:57),Berlin Hbf
+18:43,RE 4364,Luzern (ab 08:57),Berlin Hbf (tief)
+18:43 (+1),RE 4364,Malters (ab 09:06),Berlin Hbf
+18:43,RE 4364,Malters (ab 09:06),Berlin Hbf (tief)
+18:43 (+1),RE 4364,Wolhusen (ab 09:15),Berlin Hbf
+18:43,RE 4364,Wolhusen (ab 09:15),Berlin Hbf (tief)
+18:43 (+1),RE 4364,Entlebuch (ab 09:22),Berlin Hbf
+18:43,RE 4364,Entlebuch (ab 09:22),Berlin Hbf (tief)
+18:43 (+1),RE 4364,Schüpfheim (ab 09:29),Berlin Hbf
+18:43,RE 4364,Schüpfheim (ab 09:29),Berlin Hbf (tief)
+18:43 (+1),RE 4364,Escholzmatt (ab 09:36),Berlin Hbf
+18:43,RE 4364,Escholzmatt (ab 09:36),Berlin Hbf (tief)
+18:43 (+1),RE 4364,Trubschachen (ab 09:44),Berlin Hbf
+18:43,RE 4364,Trubschachen (ab 09:44),Berlin Hbf (tief)
+18:43 (+1),RE 4364,Langnau i.E. (ab 09:54),Berlin Hbf
+18:43,RE 4364,Langnau i.E. (ab 09:54),Berlin Hbf (tief)
+18:43 (+1),RE 4364,Berlin Südkreuz (ab 18:36),Berlin Hbf
+18:43,RE 4364,Berlin Südkreuz (ab 18:36),Berlin Hbf (tief)
+18:44 (+12),RE 3730,Dessau Hbf (ab 17:05),Berlin Hbf
+18:44,RE 95176,Dessau Hbf (ab 17:05),Berlin Hbf
+18:46 (+3),RB 18527,Nauen (ab 18:08),Berlin Hbf
+18:48 (+1),RB 18166,Flughafen BER - Terminal 1-2 (ab 18:13),Berlin Hbf
+18:48 (+1),RB 18626,Berlin Südkreuz (ab 18:41),Berlin Hbf
+18:51,ICE 1051,Aachen Hbf (ab 12:45),Berlin Hbf
+18:52 Ausfall,RE 18769,Cottbus Hbf (ab 17:13),Berlin Hbf
+18:52,RE 95090,Kunersdorf (ab 17:12),Berlin Hbf
+18:55 (+11),ICE 576,Stuttgart Hbf (ab 13:23),Berlin Hbf
+18:55 (+18),ICE 871,Hamburg-Altona (ab 16:37),Berlin Hbf (tief)
+18:58,RE 3127,Cottbus Hbf (ab 16:04),Berlin Hbf
+18:58,RE 73740,Magdeburg Hbf (ab 17:12),Berlin Hbf
+18:59,RE 73745,Frankfurt(Oder) (ab 17:55),Berlin Hbf
+18:59,RE 91007,Frankfurt(Oder) (ab 17:55),Berlin Hbf
+19:02,EC 172,Budapest-Nyugati (ab 07:30),Berlin Hbf (tief)
+19:02 (+3),ICE 651,Stuttgart Hbf (ab 10:46),Berlin Hbf
+19:02 (+1),RE 3158,Rathenow (ab 18:02),Berlin Hbf
+19:03,FEX19856,Flughafen BER (ab 18:28),Berlin Hbf
+19:08 (+3),RB 18169,Berlin-Charlottenburg (ab 19:00),Berlin Hbf
+19:09 (+3),RB 18528,Berlin Südkreuz (ab 19:01),Berlin Hbf
+19:09 (+2),RB 18627,Nauen (ab 18:27),Berlin Hbf
+19:09,RB 18633,Nauen (ab 18:27),Berlin Hbf
+19:11,RE 62079,Baruth(Mark) (ab 18:07),Berlin Hbf
+19:12,RE 3193,Brandenburg Hbf (ab 18:19),Berlin Hbf
+19:12 (+5),RE 3735,Senftenberg (ab 17:14),Berlin Hbf
+19:12 (+1),RE 4365,Rostock Hbf (ab 16:34),Berlin Hbf
+19:12,RE 73782,Brandenburg Hbf (ab 18:19),Berlin Hbf
+19:16 (+75),ICE 641,Düsseldorf Hbf (ab 14:52),Berlin Hbf
+19:18,RE 62031,Flughafen BER - Terminal 1-2 (ab 18:44),Berlin Hbf
+19:20,IC 2544,Frankfurt(Oder) (ab 18:15),Berlin Hbf
+19:21,RE 3130,Nauen (ab 18:37),Berlin Hbf
+19:21,RE 62198,Nauen (ab 18:37),Berlin Hbf
+19:22 (+19),ICE 2503,Hamburg-Altona (ab 17:20),Berlin Hbf (tief)
+19:22 (+22),ICE 2503,Hamburg-Altona (ab 17:20),Berlin Hbf
+19:27,RE 3354,Berlin Südkreuz (ab 19:20),Berlin Hbf
+19:28 (+2),RE 3315,Stralsund Hbf (ab 16:16),Berlin Hbf
+19:30 (+1),ICE 504,München Hbf (ab 13:08),Berlin Hbf (tief)
+19:33 Ausfall,FEX19858,Ludwigsfelde (ab 18:32),Berlin Hbf
+19:33 (+7),IC 2172,Dresden Hbf (ab 17:23),Berlin Hbf
+19:33,RE 4763,Chemnitz Hbf (ab 06:26),Berlin Hbf
+19:33 (+7),RE 52172,Elsterwerda (ab 18:01),Berlin Hbf
+19:35 (+5),RE 3131,Cottbus Hbf (ab 18:04),Berlin Hbf
+19:35,RE 95096,Cottbus Hbf (ab 18:04),Berlin Hbf
+19:38,RE 62028,Wittenberge (ab 18:06),Berlin Hbf
+19:39,RE 3188,Frankfurt(Oder) (ab 18:26),Berlin Hbf
+19:39 (+7),RE 73787,Frankfurt(Oder) (ab 18:26),Berlin Hbf
+19:42,ICE 842,Berlin Ostbahnhof (ab 19:34),Berlin Hbf
+19:42,ICE 892,Berlin Ostbahnhof (ab 19:34),Berlin Hbf
+19:44 (+1),RE 3732,Bad Belzig (ab 18:41),Berlin Hbf
+19:44,RE 95179,Bad Belzig (ab 18:41),Berlin Hbf
+19:45 (+1),RE 3518,Berlin Südkreuz (ab 19:36),Berlin Hbf
+19:46 (+2),RB 18529,Nauen (ab 19:08),Berlin Hbf
+19:48 (+3),RB 18168,Flughafen BER - Terminal 1-2 (ab 19:13),Berlin Hbf
+19:48,RB 18628,Berlin Südkreuz (ab 19:41),Berlin Hbf
+19:50,FLX 1361,Hamburg Hbf (ab 17:38),Berlin Hbf (tief)
+19:50,FLX 1361,Hamburg Hbf (ab 17:38),Berlin Hbf
+19:51 (+16),IC 149,Amsterdam Centraal (ab 13:59),Berlin Hbf
+19:51 (+16),IC 1653,Amsterdam Centraal (ab 13:59),Berlin Hbf
+19:53 (+2),ICE 1219,Berlin Ostbahnhof (ab 19:45),Berlin Hbf
+19:55 (+6),IC 2075,Westerland(Sylt) (ab 14:23),Berlin Hbf (tief)
+19:57,ICE 92,Wien Hbf (ab 10:13),Berlin Hbf (tief)
+19:57 (+2),ICE 92,Wien Hbf (ab 10:13),Berlin Hbf
+19:57 (+2),RE 3129,Cottbus Hbf (ab 17:04),Berlin Hbf
+19:57,RE 73742,Magdeburg Hbf (ab 18:12),Berlin Hbf
+19:59,RE 73747,Frankfurt(Oder) (ab 18:55),Berlin Hbf
+19:59,RE 91009,Frankfurt(Oder) (ab 18:55),Berlin Hbf
+20:01 (+6),RE 3178,Rathenow (ab 19:03),Berlin Hbf
+20:02 (+5),ICE 278,Interlaken Ost (ab 10:00),Berlin Hbf
+20:03,FEX19860,Flughafen BER - Terminal 1-2 (ab 19:28),Berlin Hbf
+20:07 (+7),RB 18629,Nauen (ab 19:18),Berlin Hbf
+20:07,RB 18635,Nauen (ab 19:18),Berlin Hbf
+20:08 (+4),RB 18171,Berlin-Charlottenburg (ab 20:00),Berlin Hbf
+20:08,RB23,Berlin-Charlottenburg (ab 04:57),Berlin Hbf
+20:09 (+3),RE 3517,Stralsund Hbf (ab 17:01),Berlin Hbf
+20:10 (+1),RB 18530,Berlin Südkreuz (ab 20:03),Berlin Hbf
+20:11,RE 62081,Elsterwerda (ab 18:13),Berlin Hbf
+20:12,RE 3195,Brandenburg Hbf (ab 19:19),Berlin Hbf
+20:12,RE 7,Kaufbeuren (ab 01:20),Berlin Hbf
+20:12,RE 73784,Brandenburg Hbf (ab 19:19),Berlin Hbf
+20:15 (+2),ICE 1077,Ostseebad Binz (ab 16:20),Berlin Hbf
+20:15,RE 51077,Prenzlau (ab 18:54),Berlin Hbf
+20:15,RE21,Goslar (ab 15:05),Berlin Hbf
+20:16 (+9),ICE 943,Düsseldorf Hbf (ab 15:50),Berlin Hbf
+20:16 (+9),ICE 953,Köln Hbf (ab 15:48),Berlin Hbf
+20:18,RE 62033,Flughafen BER - Terminal 1-2 (ab 19:44),Berlin Hbf
+20:20 (+4),ICE 1607,Hamburg-Altona (ab 18:18),Berlin Hbf
+20:20 (+3),ICE 1607,Hamburg-Altona (ab 18:18),Berlin Hbf (tief)
+20:21 (+2),RE 3132,Nauen (ab 19:37),Berlin Hbf
+20:22,ICE 704,Nürnberg Hbf (ab 15:42),Berlin Hbf (tief)
+20:23 (+1),IC 2275,Warnemünde (ab 17:52),Berlin Hbf (tief)
+20:23 (+5),IC 2275,Warnemünde (ab 17:52),Berlin Hbf
+20:28,RE 3355,Schwedt(Oder) (ab 19:06),Berlin Hbf
+20:28 (+1),RE 91655,Schwedt(Oder) (ab 19:06),Berlin Hbf
+20:31,RE 91618,Berlin Südkreuz (ab 20:24),Berlin Hbf
+20:32 (+40),ICE 596,München Hbf (ab 12:46),Berlin Hbf
+20:33 (+1),FEX19862,Ludwigsfelde (ab 19:39),Berlin Hbf
+20:35,RE 95102,Cottbus Hbf (ab 19:04),Berlin Hbf
+20:38,RE 62030,Wismar (ab 17:24),Berlin Hbf
+20:39,RE 3190,Frankfurt(Oder) (ab 19:26),Berlin Hbf
+20:39,RE 73789,Frankfurt(Oder) (ab 19:26),Berlin Hbf
+20:42,ICE 540,Berlin Ostbahnhof (ab 20:34),Berlin Hbf
+20:43 (+14),EC 170,Praha hl.n. (ab 16:28),Berlin Hbf
+20:43 (+1),RE 4366,Luzern (ab 09:57),Berlin Hbf
+20:43,RE 5,Ulm Hbf (ab 00:25),Berlin Hbf
+20:44 (+1),RE 3734,Dessau Hbf (ab 19:05),Berlin Hbf
+20:44,RE 95208,Dessau Hbf (ab 19:05),Berlin Hbf
+20:46,RB 18531,Nauen (ab 20:08),Berlin Hbf
+20:47,DPN,Kressbronn (ab 06:24),Berlin Hbf
+20:47,HBX80429,Goslar (ab 17:05),Berlin Hbf
+20:47,HBX80439,Thale Hbf (ab 17:17),Berlin Hbf
+20:48,RB 18170,Flughafen BER (ab 20:13),Berlin Hbf
+20:48 (+3),RB 18630,Berlin Südkreuz (ab 20:41),Berlin Hbf
+20:48,RB14,Berlin Südkreuz (ab 05:41),Berlin Hbf
+20:51 Ausfall,ICE 1053,Münster(Westf)Hbf (ab 17:24),Berlin Hbf
+20:54 (+34),ICE 2912,Stuttgart Hbf (ab 15:23),Berlin Hbf
+20:54 Ausfall,ICE 574,Stuttgart Hbf (ab 15:23),Berlin Hbf
+20:55,IC 2073,Hamburg-Altona (ab 18:35),Berlin Hbf (tief)
+20:57 (+2),ICE 1104,München Hbf (ab 14:53),Berlin Hbf
+20:57,RE 73744,Magdeburg Hbf (ab 19:12),Berlin Hbf
+20:59 Ausfall,RE 73749,Frankfurt(Oder) (ab 19:55),Berlin Hbf
+21:02 (+1),RE 3160,Berlin Ostkreuz (ab 05:25),Berlin Hbf
+21:03,FEX19864,Flughafen BER (ab 20:28),Berlin Hbf
+21:07,RB 18173,Berlin-Charlottenburg (ab 20:59),Berlin Hbf
+21:09 (+3),RB 18532,Berlin Südkreuz (ab 21:02),Berlin Hbf
+21:09 (+1),RB 18631,Nauen (ab 20:27),Berlin Hbf
+21:10 (+12),RE 4367,Rostock Hbf (ab 18:34),Berlin Hbf
+21:11,RE 62083,Baruth(Mark) (ab 20:07),Berlin Hbf
+21:12 (+8),RE 3739,Senftenberg (ab 19:14),Berlin Hbf
+21:12,RE 73786,Brandenburg Hbf (ab 20:19),Berlin Hbf
+21:15 (+14),FLX 1246,Stuttgart Hbf (ab 15:29),Berlin Hbf (tief)
+21:15 (+14),FLX 1246,Stuttgart Hbf (ab 15:29),Berlin Hbf
+21:16 (+20),ICE 643,Düsseldorf Hbf (ab 16:52),Berlin Hbf
+21:16 (+20),ICE 653,Köln Hbf (ab 16:45),Berlin Hbf
+21:18,RE 62035,Flughafen BER (ab 20:44),Berlin Hbf
+21:21,RE 3134,Frankfurt(Oder) (ab 18:55),Berlin Hbf
+21:22,ICE 699,Hamburg-Altona (ab 19:19),Berlin Hbf
+21:23,ICE 840,Berlin Ostbahnhof (ab 21:15),Berlin Hbf
+21:26 (+2),RE 3317,Stralsund Hbf (ab 18:16),Berlin Hbf
+21:26,RE 3356,Berlin Südkreuz (ab 21:19),Berlin Hbf
+21:28,FLX 1239,Aachen Hbf (ab 15:25),Berlin Hbf
+21:28,FLX 1239,Aachen Hbf (ab 15:25),Berlin Hbf (tief)
+21:30 (+16),ICE 502,München Hbf (ab 15:30),Berlin Hbf (tief)
+21:30 (+17),ICE 502,München Hbf (ab 15:30),Berlin Hbf
+21:33 (+1),FEX19866,Ludwigsfelde (ab 20:32),Berlin Hbf
+21:35,RE 3135,Cottbus Hbf (ab 20:04),Berlin Hbf
+21:38,RE 62032,Wittenberge (ab 20:06),Berlin Hbf
+21:39,RE 3192,Frankfurt(Oder) (ab 20:26),Berlin Hbf
+21:39,RE 73791,Frankfurt(Oder) (ab 20:26),Berlin Hbf
+21:43 (+6),RE 3520,Berlin Südkreuz (ab 21:35),Berlin Hbf
+21:44 (+1),RE 3736,Bad Belzig (ab 20:41),Berlin Hbf
+21:44,RE 95211,Bad Belzig (ab 20:41),Berlin Hbf
+21:45 (+1),RB 18533,Nauen (ab 21:08),Berlin Hbf
+21:48,RB 18172,Flughafen BER (ab 21:13),Berlin Hbf
+21:48,RB 18800,Wolgast (ab 04:30),Berlin Hbf
+21:51 (+8),IC 1763,Amsterdam Centraal (ab 15:59),Berlin Hbf
+21:51 (+9),IC 241,Amsterdam Centraal (ab 15:59),Berlin Hbf
+21:57,RE 3133,Cottbus Hbf (ab 19:04),Berlin Hbf
+21:57,RE 73746,Magdeburg Hbf (ab 20:12),Berlin Hbf
+22:01 (+2),RE 3180,Rathenow (ab 21:12),Berlin Hbf
+22:01,RE 62184,Rathenow (ab 21:12),Berlin Hbf
+22:02 (+6),ICE 276,Basel SBB (ab 14:13),Berlin Hbf
+22:03,FEX19868,Flughafen BER (ab 21:28),Berlin Hbf
+22:07,RE 62085,Elsterwerda (ab 20:05),Berlin Hbf
+22:09 (+1),RB 18534,Berlin Südkreuz (ab 22:02),Berlin Hbf
+22:09 (+1),RE 3519,Stralsund Hbf (ab 19:01),Berlin Hbf
+22:12,RE 73788,Brandenburg Hbf (ab 21:19),Berlin Hbf
+22:14 (+8),RE 3741,Senftenberg (ab 20:14),Berlin Hbf
+22:20,RE 62037,Flughafen BER (ab 21:44),Berlin Hbf
+22:21 (+5),ICE 1159,Köln Hbf (ab 18:17),Berlin Hbf
+22:22 (+1),ICE 702,München Hbf (ab 16:22),Berlin Hbf
+22:23,ICE 609,Hamburg-Altona (ab 20:17),Berlin Hbf
+22:23 (+1),ICE 609,Hamburg-Altona (ab 20:17),Berlin Hbf (tief)
+22:24 (+40),ICE 945,Düsseldorf Hbf (ab 17:51),Berlin Hbf
+22:24 (+40),ICE 955,Köln Hbf (ab 17:48),Berlin Hbf
+22:28,RE 3357,Schwedt(Oder) (ab 21:06),Berlin Hbf
+22:28 (+3),RE 91657,Schwedt(Oder) (ab 21:06),Berlin Hbf
+22:31,RE 91620,Berlin Südkreuz (ab 22:24),Berlin Hbf
+22:32 (+1),ICE 594,München Hbf (ab 14:46),Berlin Hbf
+22:33,FEX19870,Ludwigsfelde (ab 21:39),Berlin Hbf
+22:34 (+4),ICE 700,Berlin Südkreuz (ab 22:28),Berlin Hbf (tief)
+22:35 (+1),RE 3137,Cottbus Hbf (ab 21:04),Berlin Hbf
+22:35,RE 94439,Cottbus Hbf (ab 21:04),Berlin Hbf
+22:38,RE 62034,Wismar (ab 19:24),Berlin Hbf
+22:39,RE 73793,Güsen(b Genthin) (ab 00:10),Berlin Hbf
+22:43 (+1),RE 4368,Luzern (ab 10:57),Berlin Hbf
+22:44 (+1),ICE 1740,Dresden Hbf (ab 20:54),Berlin Hbf
+22:44,RE 18798,Dessau Hbf (ab 21:05),Berlin Hbf
+22:44 (+5),RE 3738,Dessau Hbf (ab 21:05),Berlin Hbf
+22:44,RE 95216,Dessau Hbf (ab 21:05),Berlin Hbf
+22:49 (+4),RE 3136,Nauen (ab 22:08),Berlin Hbf
+22:53 (+2),ICE 572,Stuttgart Hbf (ab 17:23),Berlin Hbf
+22:54,RE 73748,Magdeburg Hbf (ab 21:06),Berlin Hbf
+22:57 (+2),ICE 1102,München Hbf (ab 16:51),Berlin Hbf
+23:00 Ausfall,RE 73827,Erkner (ab 22:29),Berlin Hbf
+23:00,RE 93433,Burg(Magdeburg) (ab 00:17),Berlin Hbf
+23:02 (+5),RE 3162,Rathenow (ab 22:06),Berlin Hbf
+23:03,FEX19872,Flughafen BER (ab 22:28),Berlin Hbf
+23:04 (+5),ICE 645,Düsseldorf Hbf (ab 18:52),Berlin Hbf
+23:04 (+5),ICE 655,Köln Hbf (ab 18:45),Berlin Hbf
+23:10 (+4),RE 3505,Langhagen (ab 00:14),Berlin Hbf
+23:10 (+11),RE 4369,Rostock Hbf (ab 20:34),Berlin Hbf
+23:10 (+11),RE 4369,Rostock Hbf (ab 20:34),Berlin Hbf (tief)
+23:12 (+11),RE 3737,Senftenberg (ab 18:14),Berlin Hbf
+23:12 (+1),RE 3743,Berlin Ostbahnhof (ab 23:02),Berlin Hbf
+23:12,RE 62087,Baruth(Mark) (ab 22:07),Berlin Hbf
+23:12,RE 91743,Berlin Ostbahnhof (ab 23:02),Berlin Hbf
+23:15 (+1),RB 18537,Nauen (ab 22:38),Berlin Hbf
+23:15,RB10,Berlin Potsdamer Platz (ab 05:07),Berlin Hbf
+23:18,RE 62039,Breddin (ab 00:34),Berlin Hbf
+23:32 (+1),ICE 500,München Hbf (ab 17:20),Berlin Hbf
+23:32 (+7),RE 3319,Stralsund Hbf (ab 20:16),Berlin Hbf
+23:35,RE 4255,Großburgwedel (ab 00:00),Berlin Hbf
+23:35,RE 95224,Cottbus Hbf (ab 22:03),Berlin Hbf
+23:36,FEX19874,Ludwigsfelde (ab 22:39),Berlin Hbf
+23:36,RB 18686,Ludwigsfelde (ab 22:39),Berlin Hbf
+23:38,RE 62036,Wittenberge (ab 22:06),Berlin Hbf
+23:44,RE 3740,Bad Belzig (ab 22:41),Berlin Hbf
+23:44,RE 95217,Bad Belzig (ab 22:41),Berlin Hbf
+23:44,RE7,Pinneberg (ab 00:02),Berlin Hbf
+23:45,IC 297,Schärding (ab 08:35),Berlin Hbf
+23:45 (+1),ICE 708,Fürth Hbf (ab 05:51),Berlin Hbf
+23:53 (+26),ICE 805,Hamburg-Altona (ab 21:34),Berlin Hbf
+23:53 (+25),ICE 805,Hamburg-Altona (ab 21:34),Berlin Hbf (tief)
+23:56,RE 73750,Berlin Friedrichstraße (ab 00:01),Berlin Hbf
