@@ -1,0 +1,282 @@
+Ankunft,Zugnr.,von (Abfahrt),Ankunftsbhf.
+00:05 Ausfall,RE 18799,Lübben(Spreewald) (ab 23:04),Berlin Ostkreuz
+00:06,RE 3138,Nauen (ab 23:08),Berlin Ostkreuz
+00:12 (+6),RE 73750,Berlin Friedrichstraße (ab 00:01),Berlin Ostkreuz
+00:23 (+2),RE 73797,Fangschleuse (ab 00:04),Berlin Ostkreuz
+00:48 (+4),RE 3141,Cottbus Hbf (ab 23:13),Berlin Ostkreuz
+00:55 (+1),RE 62038,Nauen (ab 00:04),Berlin Ostkreuz
+00:56,RE 62041,Flughafen BER (ab 00:40),Berlin Ostkreuz
+01:08 Ausfall,RE 3100,Nauen (ab 00:08),Berlin Ostkreuz
+01:23 (+10),RE 73753,Frankfurt(Oder) (ab 00:24),Berlin Ostkreuz
+01:31 Ausfall,FEX19880,Flughafen BER (ab 01:15),Berlin Ostkreuz
+01:36,RE 73794,Genthin (ab 00:01),Berlin Ostkreuz
+01:56,RE 62047,Flughafen BER (ab 01:39),Berlin Ostkreuz
+02:01 (+1),RE 62042,Nauen (ab 01:03),Berlin Ostkreuz
+02:57,RE 62043,Flughafen BER (ab 02:41),Berlin Ostkreuz
+02:58 (+1),RE 62046,Nauen (ab 02:02),Berlin Ostkreuz
+03:29 Ausfall,FEX19801,Berlin-Charlottenburg (ab 03:05),Berlin Ostkreuz
+03:42 Ausfall,FEX19803,Berlin-Charlottenburg (ab 03:20),Berlin Ostkreuz
+03:58 (+1),RE 62044,Berlin-Charlottenburg (ab 03:34),Berlin Ostkreuz
+04:01,RE 62001,Flughafen BER (ab 03:44),Berlin Ostkreuz
+04:17 Ausfall,RB 18201,Oranienburg (ab 03:45),Berlin Ostkreuz
+04:27,RE 73752,Brandenburg Hbf (ab 03:15),Berlin Ostkreuz
+04:42 Ausfall,FEX19800,Flughafen BER (ab 04:25),Berlin Ostkreuz
+04:43,RE 73717,Frankfurt(Oder) (ab 03:44),Berlin Ostkreuz
+04:47 (+1),RE 73800,Berlin-Charlottenburg (ab 04:23),Berlin Ostkreuz
+04:55 Ausfall,RE 3707,Lübbenau(Spreewald) (ab 03:54),Berlin Ostkreuz
+04:55 (+1),RE 62048,Nauen (ab 04:01),Berlin Ostkreuz
+05:01 Ausfall,RE 3702,Bad Belzig (ab 03:41),Berlin Ostkreuz
+05:01,RE 62003,Flughafen BER (ab 04:44),Berlin Ostkreuz
+05:15 Ausfall,FEX19802,Ludwigsfelde (ab 04:39),Berlin Ostkreuz
+05:17 Ausfall,RB 18203,Oranienburg (ab 04:45),Berlin Ostkreuz
+05:18 Ausfall,RE 3103,Cottbus Hbf (ab 03:36),Berlin Ostkreuz
+05:21 Ausfall,RB 18141,Berlin-Charlottenburg (ab 04:57),Berlin Ostkreuz
+05:29 Ausfall,RB 18140,Flughafen BER (ab 05:13),Berlin Ostkreuz
+05:29,RE 73754,Brandenburg Hbf (ab 04:17),Berlin Ostkreuz
+05:37 Ausfall,RE 3102,Nauen (ab 04:36),Berlin Ostkreuz
+05:43,RE 73719,Eisenhüttenstadt (ab 04:26),Berlin Ostkreuz
+05:46 Ausfall,FEX19804,Rangsdorf (ab 04:47),Berlin Ostkreuz
+05:49,RE 62000,Wittenberge (ab 04:06),Berlin Ostkreuz
+05:55 Ausfall,RE 3709,Senftenberg (ab 04:14),Berlin Ostkreuz
+05:59 Ausfall,RE 3704,Dessau Hbf (ab 04:05),Berlin Ostkreuz
+06:01 (+1),RE 62005,Flughafen BER (ab 05:44),Berlin Ostkreuz
+06:03 Ausfall,EC 41,Berlin Hbf (ab 05:51),Berlin Ostkreuz
+06:03 (+8),RB 61102,Templin Stadt (ab 04:32),Berlin Ostkreuz
+06:05,RE 73805,Frankfurt(Oder) (ab 05:18),Berlin Ostkreuz
+06:13,RE 73714,Brandenburg Hbf (ab 05:05),Berlin Ostkreuz
+06:15 Ausfall,FEX19806,Ludwigsfelde (ab 05:39),Berlin Ostkreuz
+06:17 Ausfall,RB 18205,Oranienburg (ab 05:45),Berlin Ostkreuz
+06:18 Ausfall,RE 3105,Cottbus Hbf (ab 05:01),Berlin Ostkreuz
+06:19 Ausfall,RE 18754,Bad Belzig (ab 05:01),Berlin Ostkreuz
+06:23 (+1),RE 73761,Frankfurt(Oder) (ab 05:26),Berlin Ostkreuz
+06:24 Ausfall,RB 18143,Berlin-Charlottenburg (ab 06:00),Berlin Ostkreuz
+06:29 Ausfall,RB 18142,Flughafen BER (ab 06:13),Berlin Ostkreuz
+06:29,RE 73756,Magdeburg Hbf (ab 04:19),Berlin Ostkreuz
+06:37 Ausfall,RE 18753,Cottbus Hbf (ab 05:26),Berlin Ostkreuz
+06:37 Ausfall,RE 3104,Nauen (ab 05:37),Berlin Ostkreuz
+06:43,RE 73721,Eisenhüttenstadt (ab 05:36),Berlin Ostkreuz
+06:46 Ausfall,FEX19808,Rangsdorf (ab 05:47),Berlin Ostkreuz
+06:50,RE 73802,Brandenburg Hbf (ab 05:45),Berlin Ostkreuz
+06:55 Ausfall,RE 3711,Senftenberg (ab 05:10),Berlin Ostkreuz
+06:55,RE 62002,Wittenberge (ab 05:06),Berlin Ostkreuz
+07:01 Ausfall,RE 3706,Dessau Hbf (ab 05:05),Berlin Ostkreuz
+07:01,RE 62007,Flughafen BER (ab 06:44),Berlin Ostkreuz
+07:03,RB 61104,Templin Stadt (ab 05:32),Berlin Ostkreuz
+07:05 (+1),RE 73807,Frankfurt(Oder) (ab 06:18),Berlin Ostkreuz
+07:08 Ausfall,FEX19817,Berlin Hbf (ab 06:51),Berlin Ostkreuz
+07:10,RE 62432,Cottbus Hbf (ab 06:01),Berlin Ostkreuz
+07:13,RE 73716,Magdeburg Hbf (ab 05:12),Berlin Ostkreuz
+07:15 Ausfall,FEX19810,Ludwigsfelde (ab 06:39),Berlin Ostkreuz
+07:17 Ausfall,RB 18207,Oranienburg (ab 06:45),Berlin Ostkreuz
+07:18,RE 3107,Cottbus Hbf (ab 06:08),Berlin Ostkreuz
+07:19 Ausfall,RE 18756,Bad Belzig (ab 06:01),Berlin Ostkreuz
+07:23,RE 73763,Frankfurt(Oder) (ab 06:26),Berlin Ostkreuz
+07:24 Ausfall,RB 18145,Golm (ab 06:30),Berlin Ostkreuz
+07:29 Ausfall,RB 18144,Flughafen BER (ab 07:13),Berlin Ostkreuz
+07:29,RE 73758,Brandenburg Hbf (ab 06:19),Berlin Ostkreuz
+07:35 Ausfall,RE 18755,Cottbus Hbf (ab 06:13),Berlin Ostkreuz
+07:37 (+1),RE 3106,Nauen (ab 06:37),Berlin Ostkreuz
+07:39 Ausfall,FEX19819,Berlin Hbf (ab 07:21),Berlin Ostkreuz
+07:43,RE 73723,Frankfurt(Oder) (ab 06:55),Berlin Ostkreuz
+07:46 Ausfall,FEX19812,Rangsdorf (ab 06:53),Berlin Ostkreuz
+07:50,RE 73804,Magdeburg Hbf (ab 05:54),Berlin Ostkreuz
+07:55 Ausfall,RE 3713,Senftenberg (ab 06:14),Berlin Ostkreuz
+07:55 (+1),RE 62004,Wismar (ab 04:17),Berlin Ostkreuz
+08:01 Ausfall,RE 3708,Dessau Hbf (ab 06:05),Berlin Ostkreuz
+08:01,RE 62009,Flughafen BER (ab 07:44),Berlin Ostkreuz
+08:03 (+1),RB 61106,Templin Stadt (ab 06:32),Berlin Ostkreuz
+08:05,RE 73809,Frankfurt(Oder) (ab 07:18),Berlin Ostkreuz
+08:10 Ausfall,FEX19821,Berlin Hbf (ab 07:51),Berlin Ostkreuz
+08:13,RE 73718,Brandenburg Hbf (ab 07:05),Berlin Ostkreuz
+08:15 Ausfall,FEX19814,Ludwigsfelde (ab 07:40),Berlin Ostkreuz
+08:17 Ausfall,RB 18209,Oranienburg (ab 07:45),Berlin Ostkreuz
+08:18 Ausfall,RE 3109,Cottbus Hbf (ab 07:03),Berlin Ostkreuz
+08:19 Ausfall,RE 18758,Bad Belzig (ab 07:01),Berlin Ostkreuz
+08:23 (+1),RE 73765,Frankfurt(Oder) (ab 07:26),Berlin Ostkreuz
+08:24 Ausfall,RB 18147,Golm (ab 07:30),Berlin Ostkreuz
+08:29 Ausfall,RB 18146,Flughafen BER (ab 08:13),Berlin Ostkreuz
+08:29 (+1),RE 73760,Magdeburg Hbf (ab 06:12),Berlin Ostkreuz
+08:35 Ausfall,RB 18206,Schönefeld(bei Berlin) (ab 08:19),Berlin Ostkreuz
+08:35 Ausfall,RE 18757,Lübbenau(Spreewald) (ab 07:46),Berlin Ostkreuz
+08:37 Ausfall,RE 3108,Nauen (ab 07:37),Berlin Ostkreuz
+08:39 Ausfall,FEX19823,Berlin Hbf (ab 08:21),Berlin Ostkreuz
+08:43,RE 73725,Eisenhüttenstadt (ab 07:36),Berlin Ostkreuz
+08:50,RE 73806,Brandenburg Hbf (ab 07:45),Berlin Ostkreuz
+08:55 Ausfall,RE 3715,Senftenberg (ab 07:14),Berlin Ostkreuz
+09:01 Ausfall,RE 3710,Dessau Hbf (ab 07:05),Berlin Ostkreuz
+09:13,RE 73720,Magdeburg Hbf (ab 07:12),Berlin Ostkreuz
+09:18,RE 3111,Cottbus Hbf (ab 08:04),Berlin Ostkreuz
+09:23,RE 73767,Frankfurt(Oder) (ab 08:26),Berlin Ostkreuz
+09:29,RE 73762,Brandenburg Hbf (ab 08:19),Berlin Ostkreuz
+09:37,RE 3110,Nauen (ab 08:37),Berlin Ostkreuz
+09:43,RE 73727,Eisenhüttenstadt (ab 08:36),Berlin Ostkreuz
+09:50,RE 73808,Brandenburg Hbf (ab 08:45),Berlin Ostkreuz
+09:55 Ausfall,RE 3717,Senftenberg (ab 08:14),Berlin Ostkreuz
+10:01 Ausfall,RE 3712,Dessau Hbf (ab 08:05),Berlin Ostkreuz
+10:03,RB 61110,Templin Stadt (ab 08:32),Berlin Ostkreuz
+10:13,RE 73722,Magdeburg Hbf (ab 08:12),Berlin Ostkreuz
+10:18,RE 3113,Cottbus Hbf (ab 09:04),Berlin Ostkreuz
+10:23,RE 73769,Frankfurt(Oder) (ab 09:26),Berlin Ostkreuz
+10:29,RE 73764,Brandenburg Hbf (ab 09:19),Berlin Ostkreuz
+10:37,RE 3112,Nauen (ab 09:37),Berlin Ostkreuz
+10:55,RE 3719,Senftenberg (ab 09:14),Berlin Ostkreuz
+11:01 Ausfall,RE 3714,Dessau Hbf (ab 09:05),Berlin Ostkreuz
+11:13,RE 73724,Magdeburg Hbf (ab 09:12),Berlin Ostkreuz
+11:18,RE 3115,Cottbus Hbf (ab 10:04),Berlin Ostkreuz
+11:23,RE 73771,Frankfurt(Oder) (ab 10:26),Berlin Ostkreuz
+11:29,RE 73766,Brandenburg Hbf (ab 10:19),Berlin Ostkreuz
+11:37,RE 3114,Nauen (ab 10:37),Berlin Ostkreuz
+11:43,RE 73731,Frankfurt(Oder) (ab 10:55),Berlin Ostkreuz
+11:55,RE 3721,Senftenberg (ab 10:14),Berlin Ostkreuz
+12:01 Ausfall,RE 3716,Dessau Hbf (ab 10:05),Berlin Ostkreuz
+12:13,RE 73726,Magdeburg Hbf (ab 10:12),Berlin Ostkreuz
+12:18,RE 3117,Cottbus Hbf (ab 11:04),Berlin Ostkreuz
+12:23,RE 73773,Frankfurt(Oder) (ab 11:26),Berlin Ostkreuz
+12:29,RE 73768,Brandenburg Hbf (ab 11:19),Berlin Ostkreuz
+12:37,RE 3116,Nauen (ab 11:37),Berlin Ostkreuz
+12:43,RE 73733,Frankfurt(Oder) (ab 11:55),Berlin Ostkreuz
+12:55 Ausfall,RE 3723,Senftenberg (ab 11:14),Berlin Ostkreuz
+13:01 Ausfall,RE 3718,Dessau Hbf (ab 11:05),Berlin Ostkreuz
+13:13,RE 73728,Magdeburg Hbf (ab 11:12),Berlin Ostkreuz
+13:18,RE 3119,Cottbus Hbf (ab 12:04),Berlin Ostkreuz
+13:23,RE 73775,Frankfurt(Oder) (ab 12:26),Berlin Ostkreuz
+13:29,RE 73770,Brandenburg Hbf (ab 12:19),Berlin Ostkreuz
+13:37,RE 3118,Nauen (ab 12:37),Berlin Ostkreuz
+13:43,RE 73735,Frankfurt(Oder) (ab 12:55),Berlin Ostkreuz
+13:55 Ausfall,RE 3725,Senftenberg (ab 12:14),Berlin Ostkreuz
+14:01 Ausfall,RE 3720,Dessau Hbf (ab 12:05),Berlin Ostkreuz
+14:13,RE 73730,Magdeburg Hbf (ab 12:12),Berlin Ostkreuz
+14:18,RE 3121,Cottbus Hbf (ab 13:04),Berlin Ostkreuz
+14:23,RE 73777,Frankfurt(Oder) (ab 13:26),Berlin Ostkreuz
+14:29,RE 73772,Brandenburg Hbf (ab 13:19),Berlin Ostkreuz
+14:37,RE 3120,Nauen (ab 13:37),Berlin Ostkreuz
+14:43,RE 73737,Frankfurt(Oder) (ab 13:55),Berlin Ostkreuz
+14:55 Ausfall,RE 3727,Senftenberg (ab 13:14),Berlin Ostkreuz
+15:01 Ausfall,RE 3722,Dessau Hbf (ab 13:05),Berlin Ostkreuz
+15:01 (+1),RE 62023,Flughafen BER (ab 14:44),Berlin Ostkreuz
+15:13,RE 73732,Magdeburg Hbf (ab 13:12),Berlin Ostkreuz
+15:18,RE 3123,Cottbus Hbf (ab 14:04),Berlin Ostkreuz
+15:19,RE 18760,Bad Belzig (ab 14:05),Berlin Ostkreuz
+15:23,RE 73779,Frankfurt(Oder) (ab 14:26),Berlin Ostkreuz
+15:29,RE 73774,Brandenburg Hbf (ab 14:19),Berlin Ostkreuz
+15:37,RE 3122,Nauen (ab 14:37),Berlin Ostkreuz
+15:43,RE 73739,Eisenhüttenstadt (ab 14:36),Berlin Ostkreuz
+15:45,RB 18364,Rangsdorf (ab 14:51),Berlin Ostkreuz
+15:50,RE 73814,Brandenburg Hbf (ab 14:45),Berlin Ostkreuz
+15:55 Ausfall,RE 3729,Senftenberg (ab 14:14),Berlin Ostkreuz
+16:01 Ausfall,RE 3724,Dessau Hbf (ab 14:05),Berlin Ostkreuz
+16:03,RB 61122,Templin Stadt (ab 14:32),Berlin Ostkreuz
+16:13,RE 73734,Magdeburg Hbf (ab 14:12),Berlin Ostkreuz
+16:18,RE 18762,Bad Belzig (ab 15:05),Berlin Ostkreuz
+16:18,RE 3125,Cottbus Hbf (ab 15:04),Berlin Ostkreuz
+16:24,RE 73781,Frankfurt(Oder) (ab 15:26),Berlin Ostkreuz
+16:29,RE 73776,Brandenburg Hbf (ab 15:19),Berlin Ostkreuz
+16:35,RE 18761,Cottbus Hbf (ab 15:13),Berlin Ostkreuz
+16:37,RE 3124,Nauen (ab 15:37),Berlin Ostkreuz
+16:43,RE 73741,Frankfurt(Oder) (ab 15:55),Berlin Ostkreuz
+16:46,RB 18366,Rangsdorf (ab 15:47),Berlin Ostkreuz
+16:50,RE 73816,Brandenburg Hbf (ab 15:45),Berlin Ostkreuz
+16:55 Ausfall,RE 3731,Senftenberg (ab 15:14),Berlin Ostkreuz
+17:01 Ausfall,RE 3726,Dessau Hbf (ab 15:05),Berlin Ostkreuz
+17:01 (+2),RE 62027,Flughafen BER (ab 16:44),Berlin Ostkreuz
+17:13,RE 73736,Magdeburg Hbf (ab 15:12),Berlin Ostkreuz
+17:18,RE 18764,Bad Belzig (ab 16:05),Berlin Ostkreuz
+17:18,RE 3127,Cottbus Hbf (ab 16:04),Berlin Ostkreuz
+17:23,RE 73783,Frankfurt(Oder) (ab 16:26),Berlin Ostkreuz
+17:29,RE 73778,Brandenburg Hbf (ab 16:19),Berlin Ostkreuz
+17:37,RE 3126,Nauen (ab 16:37),Berlin Ostkreuz
+17:43,RE 73743,Frankfurt(Oder) (ab 16:55),Berlin Ostkreuz
+17:46,RB 18368,Rangsdorf (ab 16:51),Berlin Ostkreuz
+17:55 Ausfall,RE 3733,Senftenberg (ab 16:14),Berlin Ostkreuz
+18:01,RE 3728,Dessau Hbf (ab 16:05),Berlin Ostkreuz
+18:13,RE 73738,Magdeburg Hbf (ab 16:12),Berlin Ostkreuz
+18:18,RE 3129,Cottbus Hbf (ab 17:04),Berlin Ostkreuz
+18:23,RE 73785,Frankfurt(Oder) (ab 17:26),Berlin Ostkreuz
+18:29,RE 73780,Brandenburg Hbf (ab 17:19),Berlin Ostkreuz
+18:35,RE 18765,Lübbenau(Spreewald) (ab 17:46),Berlin Ostkreuz
+18:37,RE 3128,Nauen (ab 17:37),Berlin Ostkreuz
+18:43 Ausfall,IC 2431,Emden Außenhafen (ab 12:01),Berlin Ostkreuz
+18:43,RE 62431,Potsdam Hbf (ab 18:02),Berlin Ostkreuz
+18:43 (+12),RE 73745,Cottbus Hbf (ab 16:56),Berlin Ostkreuz
+18:46,RB 18370,Rangsdorf (ab 17:47),Berlin Ostkreuz
+18:55 Ausfall,RE 3735,Senftenberg (ab 17:14),Berlin Ostkreuz
+19:01 Ausfall,RE 3730,Dessau Hbf (ab 17:05),Berlin Ostkreuz
+19:01,RE 62031,Flughafen BER (ab 18:44),Berlin Ostkreuz
+19:13 (+25),RE 73740,Magdeburg Hbf (ab 17:12),Berlin Ostkreuz
+19:17 (+27),RB 18231,Oranienburg (ab 18:45),Berlin Ostkreuz
+19:18 (+5),RE 3131,Cottbus Hbf (ab 18:04),Berlin Ostkreuz
+19:23 (+3),RE 73787,Frankfurt(Oder) (ab 18:26),Berlin Ostkreuz
+19:29,RE 73782,Brandenburg Hbf (ab 18:19),Berlin Ostkreuz
+19:37 Ausfall,RE 3130,Nauen (ab 18:37),Berlin Ostkreuz
+19:43,RE 73747,Eisenhüttenstadt (ab 18:36),Berlin Ostkreuz
+19:46 Ausfall,FEX19860,Rangsdorf (ab 18:51),Berlin Ostkreuz
+19:46,RB 18372,Rangsdorf (ab 18:51),Berlin Ostkreuz
+19:52 Ausfall,RB 18331,Berlin-Lichtenberg (ab 19:48),Berlin Ostkreuz
+19:55 Ausfall,RE 3737,Senftenberg (ab 18:14),Berlin Ostkreuz
+19:55,RE 62028,Wittenberge (ab 18:06),Berlin Ostkreuz
+20:01 Ausfall,RE 3732,Dessau Hbf (ab 18:05),Berlin Ostkreuz
+20:01,RE 62033,Flughafen BER (ab 19:44),Berlin Ostkreuz
+20:13 (+8),RE 73742,Magdeburg Hbf (ab 18:12),Berlin Ostkreuz
+20:15 (+62),FEX19862,Ludwigsfelde (ab 19:39),Berlin Ostkreuz
+20:17,RB 18233,Oranienburg (ab 19:45),Berlin Ostkreuz
+20:18 (+2),RE 3133,Cottbus Hbf (ab 19:04),Berlin Ostkreuz
+20:23 (+30),RE 73789,Frankfurt(Oder) (ab 19:26),Berlin Ostkreuz
+20:24 Ausfall,RB 18171,Berlin-Charlottenburg (ab 20:00),Berlin Ostkreuz
+20:29 Ausfall,RB 18170,Flughafen BER (ab 20:13),Berlin Ostkreuz
+20:29 (+14),RE 73784,Brandenburg Hbf (ab 19:19),Berlin Ostkreuz
+20:35 Ausfall,RB 18230,Schönefeld(bei Berlin) (ab 20:19),Berlin Ostkreuz
+20:37,RB 61172,Werneuchen (ab 20:02),Berlin Ostkreuz
+20:37,RE 3132,Nauen (ab 19:37),Berlin Ostkreuz
+20:43 (+3),RE 73749,Frankfurt(Oder) (ab 19:55),Berlin Ostkreuz
+20:46 Ausfall,FEX19864,Rangsdorf (ab 19:47),Berlin Ostkreuz
+20:46,RB 18374,Rangsdorf (ab 19:47),Berlin Ostkreuz
+20:49 (+1),RE 73826,Berlin-Charlottenburg (ab 20:25),Berlin Ostkreuz
+20:52 (+1),RB 18333,Berlin-Lichtenberg (ab 20:48),Berlin Ostkreuz
+20:55 Ausfall,RE 3739,Senftenberg (ab 19:14),Berlin Ostkreuz
+20:55 Ausfall,RE 62030,Wismar (ab 17:24),Berlin Ostkreuz
+20:55 (+4),RE 94611,Lübben(Spreewald) (ab 20:02),Berlin Ostkreuz
+21:01 Ausfall,RE 3734,Dessau Hbf (ab 19:05),Berlin Ostkreuz
+21:01 (+6),RE 62035,Flughafen BER (ab 20:44),Berlin Ostkreuz
+21:03,RB 61132,Templin Stadt (ab 19:32),Berlin Ostkreuz
+21:13,RE 73744,Magdeburg Hbf (ab 19:12),Berlin Ostkreuz
+21:15 (+8),FEX19866,Ludwigsfelde (ab 20:32),Berlin Ostkreuz
+21:17 (+6),RB 18235,Oranienburg (ab 20:45),Berlin Ostkreuz
+21:18 (+1),RE 3135,Cottbus Hbf (ab 20:04),Berlin Ostkreuz
+21:23 Ausfall,RB 18173,Berlin-Charlottenburg (ab 20:59),Berlin Ostkreuz
+21:23 (+2),RE 73791,Frankfurt(Oder) (ab 20:26),Berlin Ostkreuz
+21:29 Ausfall,RB 18172,Flughafen BER (ab 21:13),Berlin Ostkreuz
+21:29 (+14),RE 73786,Brandenburg Hbf (ab 20:19),Berlin Ostkreuz
+21:37 (+1),RE 3134,Nauen (ab 20:37),Berlin Ostkreuz
+21:41,RB 61174,Werneuchen (ab 21:02),Berlin Ostkreuz
+21:46 Ausfall,FEX19868,Flughafen BER (ab 21:28),Berlin Ostkreuz
+21:50,RE 73828,Berlin-Charlottenburg (ab 21:26),Berlin Ostkreuz
+21:52 (+2),EC 40,Warszawa Wschodnia (ab 16:34),Berlin Ostkreuz
+21:52 (+1),RB 18335,Berlin-Lichtenberg (ab 21:48),Berlin Ostkreuz
+21:56 (+1),RE 62032,Wittenberge (ab 20:06),Berlin Ostkreuz
+21:57 Ausfall,RE 3741,Senftenberg (ab 20:14),Berlin Ostkreuz
+22:01 Ausfall,RE 3736,Dessau Hbf (ab 20:05),Berlin Ostkreuz
+22:02 Ausfall,RE 62037,Flughafen BER (ab 21:44),Berlin Ostkreuz
+22:03,RB 61134,Templin Stadt (ab 20:32),Berlin Ostkreuz
+22:13,RE 73746,Magdeburg Hbf (ab 20:12),Berlin Ostkreuz
+22:15 (+1),FEX19870,Ludwigsfelde (ab 21:39),Berlin Ostkreuz
+22:18 Ausfall,RE 3137,Vetschau (ab 21:17),Berlin Ostkreuz
+22:23 (+1),RE 73793,Burg(Magdeburg) (ab 00:17),Berlin Ostkreuz
+22:24 Ausfall,RB 18175,Berlin-Charlottenburg (ab 22:00),Berlin Ostkreuz
+22:29 Ausfall,RB 18174,Flughafen BER (ab 22:13),Berlin Ostkreuz
+22:36,RB 61176,Werneuchen (ab 22:02),Berlin Ostkreuz
+22:37 Ausfall,ICE 1159,Köln Hbf (ab 18:17),Berlin Ostkreuz
+22:39 Ausfall,FEX19879,Berlin Hbf (ab 22:21),Berlin Ostkreuz
+22:43,RE 73827,Fürstenwalde(Spree) (ab 22:13),Berlin Ostkreuz
+22:46 (+22),FEX19872,Flughafen BER (ab 22:28),Berlin Ostkreuz
+22:55,RE 62034,Wismar (ab 19:24),Berlin Ostkreuz
+23:01 (+1),RE 62039,Glöwen (ab 00:40),Berlin Ostkreuz
+23:06 (+2),RE 3136,Nauen (ab 22:08),Berlin Ostkreuz
+23:12 (+4),RE 73748,Jacobsdorf(Mark) (ab 00:02),Berlin Ostkreuz
+23:15 Ausfall,FEX19874,Ludwigsfelde (ab 22:39),Berlin Ostkreuz
+23:23 (+1),RE 73795,Frankfurt(Oder) (ab 22:24),Berlin Ostkreuz
+23:24 Ausfall,RB 18177,Berlin-Charlottenburg (ab 23:01),Berlin Ostkreuz
+23:29 Ausfall,RB 18176,Flughafen BER (ab 23:13),Berlin Ostkreuz
+23:35 (+17),RE 3139,Berlin Zoologischer Garten (ab 00:03),Berlin Ostkreuz
+23:45,RE 73829,Frankfurt(Oder) (ab 22:55),Berlin Ostkreuz
+23:46,FEX19876,Flughafen BER (ab 23:28),Berlin Ostkreuz
+23:55,RE 62036,Wittenberge (ab 22:06),Berlin Ostkreuz
