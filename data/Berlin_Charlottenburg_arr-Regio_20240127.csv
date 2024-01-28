@@ -1,0 +1,90 @@
+Ankunft,Zugnr.,von (Abfahrt),Ankunftsbhf.
+00:42,RE 3100,Nauen (ab 00:08),Berlin-Charlottenburg
+01:09,RE 73794,Groß Kreutz (ab 00:34),Berlin-Charlottenburg
+01:35,RE 62042,Nauen (ab 01:03),Berlin-Charlottenburg
+02:26,RE 73798,Groß Kreutz (ab 01:52),Berlin-Charlottenburg
+02:34,RE 62046,Nauen (ab 02:02),Berlin-Charlottenburg
+03:17,RE 73755,Berlin Ostkreuz (ab 02:52),Berlin-Charlottenburg
+03:33,RE 62044,Nauen (ab 03:02),Berlin-Charlottenburg
+04:00,RE 73752,Groß Kreutz (ab 03:26),Berlin-Charlottenburg
+04:31,RE 62048,Nauen (ab 04:01),Berlin-Charlottenburg
+05:34,RE 3704,Bad Belzig (ab 04:41),Berlin-Charlottenburg
+06:12,RE 3104,Nauen (ab 05:37),Berlin-Charlottenburg
+06:35,RE 3706,Dessau Hbf (ab 05:05),Berlin-Charlottenburg
+06:48,RE 73716,Groß Kreutz (ab 06:13),Berlin-Charlottenburg
+07:12,RE 3106,Nauen (ab 06:37),Berlin-Charlottenburg
+07:35,RE 3708,Bad Belzig (ab 06:41),Berlin-Charlottenburg
+07:48,RE 73718,Groß Kreutz (ab 07:13),Berlin-Charlottenburg
+08:12,RE 3108,Nauen (ab 07:37),Berlin-Charlottenburg
+08:35,RE 3710,Roßlau(Elbe) (ab 07:10),Berlin-Charlottenburg
+08:50,RE 73720,Magdeburg Hbf (ab 07:12),Berlin-Charlottenburg
+09:12,RE 3110,Nauen (ab 08:37),Berlin-Charlottenburg
+09:35 Ausfall,RE 3712,Bad Belzig (ab 08:41),Berlin-Charlottenburg
+09:47,RE 73722,Magdeburg Hbf (ab 08:12),Berlin-Charlottenburg
+09:58 Ausfall,RB 18148,Flughafen BER (ab 09:13),Berlin-Charlottenburg
+10:12,RE 3112,Nauen (ab 09:37),Berlin-Charlottenburg
+10:23 Ausfall,RE 3717,Senftenberg (ab 08:14),Berlin-Charlottenburg
+10:35 Ausfall,RE 3714,Dessau Hbf (ab 09:05),Berlin-Charlottenburg
+10:46,RE 3113,Cottbus Hbf (ab 09:04),Berlin-Charlottenburg
+10:46,RE 3625,Neuruppin West (ab 09:24),Berlin-Charlottenburg
+10:48,RE 73724,Magdeburg Hbf (ab 09:12),Berlin-Charlottenburg
+11:12,RE 3114,Nauen (ab 10:37),Berlin-Charlottenburg
+11:35,RE 3716,Bad Belzig (ab 10:41),Berlin-Charlottenburg
+11:46,RE 3115,Cottbus Hbf (ab 10:04),Berlin-Charlottenburg
+12:10,RE 73731,Frankfurt(Oder) (ab 10:55),Berlin-Charlottenburg
+12:12,RE 3116,Nauen (ab 11:37),Berlin-Charlottenburg
+12:35,RE 3718,Dessau Hbf (ab 11:05),Berlin-Charlottenburg
+12:46,RE 3117,Cottbus Hbf (ab 11:04),Berlin-Charlottenburg
+12:48,RE 73728,Magdeburg Hbf (ab 11:12),Berlin-Charlottenburg
+13:12,RE 3118,Nauen (ab 12:37),Berlin-Charlottenburg
+13:35 Ausfall,RE 3720,Bad Belzig (ab 12:41),Berlin-Charlottenburg
+13:46,RE 3119,Cottbus Hbf (ab 12:04),Berlin-Charlottenburg
+13:48,RE 73730,Magdeburg Hbf (ab 12:12),Berlin-Charlottenburg
+14:46,RE 3121,Cottbus Hbf (ab 13:04),Berlin-Charlottenburg
+15:10,RE 73737,Frankfurt(Oder) (ab 13:55),Berlin-Charlottenburg
+15:12,RE 3122,Nauen (ab 14:37),Berlin-Charlottenburg
+15:35 Ausfall,RE 3724,Bad Belzig (ab 14:41),Berlin-Charlottenburg
+15:46,RE 3123,Cottbus Hbf (ab 14:04),Berlin-Charlottenburg
+15:47 (+2),RE 3611,Wittenberge (ab 13:06),Berlin-Charlottenburg
+15:47,RE 73734,Magdeburg Hbf (ab 14:12),Berlin-Charlottenburg
+16:12,RE 3124,Nauen (ab 15:37),Berlin-Charlottenburg
+16:23 Ausfall,RE 3729,Senftenberg (ab 14:14),Berlin-Charlottenburg
+16:35 Ausfall,RE 3726,Dessau Hbf (ab 15:05),Berlin-Charlottenburg
+16:47,RE 73736,Magdeburg Hbf (ab 15:12),Berlin-Charlottenburg
+16:58 Ausfall,RB 18162,Flughafen BER (ab 16:13),Berlin-Charlottenburg
+17:12,RE 18444,Lausanne (ab 00:51),Berlin-Charlottenburg
+17:12,RE 3126,Nauen (ab 16:37),Berlin-Charlottenburg
+17:23 Ausfall,RE 3731,Senftenberg (ab 15:14),Berlin-Charlottenburg
+17:35 Ausfall,RE 3728,Bad Belzig (ab 16:41),Berlin-Charlottenburg
+17:47 Ausfall,RE 3613,Wittenberge (ab 15:06),Berlin-Charlottenburg
+17:47,RE 73738,Magdeburg Hbf (ab 16:12),Berlin-Charlottenburg
+17:58 Ausfall,RB 18164,Flughafen BER (ab 17:13),Berlin-Charlottenburg
+18:12,RE 3128,Nauen (ab 17:37),Berlin-Charlottenburg
+18:23 Ausfall,RE 3733,Senftenberg (ab 16:14),Berlin-Charlottenburg
+18:35 Ausfall,RE 3730,Dessau Hbf (ab 17:05),Berlin-Charlottenburg
+18:47 (+2),RE 3633,Wittenberge (ab 16:06),Berlin-Charlottenburg
+18:48,RE 73740,Magdeburg Hbf (ab 17:12),Berlin-Charlottenburg
+19:01 Ausfall,RE 18769,Cottbus Hbf (ab 17:13),Berlin-Charlottenburg
+19:12,RE 3130,Nauen (ab 18:37),Berlin-Charlottenburg
+19:23 Ausfall,RE 3735,Senftenberg (ab 17:14),Berlin-Charlottenburg
+19:35 Ausfall,RE 3732,Bad Belzig (ab 18:41),Berlin-Charlottenburg
+19:48,RE 73742,Magdeburg Hbf (ab 18:12),Berlin-Charlottenburg
+20:12,RE 3132,Nauen (ab 19:37),Berlin-Charlottenburg
+20:35 Ausfall,RE 3734,Dessau Hbf (ab 19:05),Berlin-Charlottenburg
+20:46,RE 3635,Wittenberge (ab 18:06),Berlin-Charlottenburg
+20:48,RE 73744,Magdeburg Hbf (ab 19:12),Berlin-Charlottenburg
+20:58,RB 18170,Flughafen BER (ab 20:13),Berlin-Charlottenburg
+21:10,RE 73749,Frankfurt(Oder) (ab 19:55),Berlin-Charlottenburg
+21:12,RE 3134,Nauen (ab 20:37),Berlin-Charlottenburg
+21:23 Ausfall,RE 3739,Senftenberg (ab 19:14),Berlin-Charlottenburg
+21:35,RE 3736,Bad Belzig (ab 20:41),Berlin-Charlottenburg
+21:46,RE 3135,Cottbus Hbf (ab 20:04),Berlin-Charlottenburg
+21:47 (+1),RE 3617,Wittenberge (ab 19:06),Berlin-Charlottenburg
+21:48,RE 73746,Werder(Havel) (ab 21:19),Berlin-Charlottenburg
+21:58,RB 18172,Flughafen BER (ab 21:13),Berlin-Charlottenburg
+22:25 Ausfall,RE 3741,Senftenberg (ab 20:14),Berlin-Charlottenburg
+22:35,RE 3738,Dessau Hbf (ab 21:05),Berlin-Charlottenburg
+22:40,RE 3136,Schönwalde(Spreewald) (ab 00:02),Berlin-Charlottenburg
+22:45,RE 73748,Jacobsdorf(Mark) (ab 00:02),Berlin-Charlottenburg
+22:50,RE 73793,Frankfurt(Oder) (ab 21:24),Berlin-Charlottenburg
+23:40,RE 3138,Berlin Ostbahnhof (ab 00:03),Berlin-Charlottenburg
