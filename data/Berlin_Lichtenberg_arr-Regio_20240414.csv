@@ -1,0 +1,83 @@
+Ankunft,Zugnr.,von (Abfahrt),Ankunftsbhf.
+04:47,RB 18301,Eberswalde Hbf (ab 04:08),Berlin-Lichtenberg
+05:12,RB 18300,Schönefeld(bei Berlin) (ab 04:49),Berlin-Lichtenberg
+05:41,RB 18200,Schönefeld(bei Berlin) (ab 05:19),Berlin-Lichtenberg
+05:47,RB 18303,Eberswalde Hbf (ab 05:08),Berlin-Lichtenberg
+06:12,RB 18302,Schönefeld(bei Berlin) (ab 05:49),Berlin-Lichtenberg
+06:41,RB 18202,Schönefeld(bei Berlin) (ab 06:19),Berlin-Lichtenberg
+06:47 (+3),RB 18305,Eberswalde Hbf (ab 06:08),Berlin-Lichtenberg
+07:12,RB 18304,Schönefeld(bei Berlin) (ab 06:49),Berlin-Lichtenberg
+07:41 (+1),RB 18204,Schönefeld(bei Berlin) (ab 07:19),Berlin-Lichtenberg
+07:48,RB 18307,Eberswalde Hbf (ab 07:09),Berlin-Lichtenberg
+07:53 Ausfall,RB 61107,Berlin Ostkreuz (ab 07:50),Berlin-Lichtenberg
+08:12,RB 18306,Schönefeld(bei Berlin) (ab 07:49),Berlin-Lichtenberg
+08:41,RB 18206,Schönefeld(bei Berlin) (ab 08:19),Berlin-Lichtenberg
+08:47 (+1),RB 18309,Eberswalde Hbf (ab 08:08),Berlin-Lichtenberg
+09:12,RB 18308,Schönefeld(bei Berlin) (ab 08:49),Berlin-Lichtenberg
+09:41,RB 18208,Schönefeld(bei Berlin) (ab 09:19),Berlin-Lichtenberg
+09:49,RB 18311,Eberswalde Hbf (ab 09:08),Berlin-Lichtenberg
+09:57,EC 45,Berlin Gesundbrunnen (ab 09:46),Berlin-Lichtenberg
+10:03,ICE 741,Münster(Westf)Hbf (ab 06:17),Berlin-Lichtenberg
+10:12,RB 18310,Schönefeld(bei Berlin) (ab 09:49),Berlin-Lichtenberg
+10:40 (+2),RB 18210,Schönefeld(bei Berlin) (ab 10:19),Berlin-Lichtenberg
+10:47,RB 18313,Eberswalde Hbf (ab 10:08),Berlin-Lichtenberg
+10:57,EC 57,Berlin Gesundbrunnen (ab 10:37),Berlin-Lichtenberg
+10:59 (+2),EC 54,Krakow Glowny (ab 04:06),Berlin-Lichtenberg
+11:12,RB 18312,Schönefeld(bei Berlin) (ab 10:49),Berlin-Lichtenberg
+11:23 (+1),RB 61155,Berlin Ostkreuz (ab 11:20),Berlin-Lichtenberg
+11:47 (+1),RB 18315,Eberswalde Hbf (ab 11:08),Berlin-Lichtenberg
+11:48 (+1),EC 47,Berlin Gesundbrunnen (ab 11:38),Berlin-Lichtenberg
+11:53 (+2),RB 92353,Berlin Ostkreuz (ab 11:50),Berlin-Lichtenberg
+11:59,EC 246,Warszawa Wschodnia (ab 06:20),Berlin-Lichtenberg
+12:12,RB 18314,Schönefeld(bei Berlin) (ab 11:49),Berlin-Lichtenberg
+12:18,IC 141,Amsterdam Centraal (ab 05:59),Berlin-Lichtenberg
+12:23 (+1),RB 61157,Berlin Ostkreuz (ab 12:20),Berlin-Lichtenberg
+12:47 (+1),RB 18317,Eberswalde Hbf (ab 12:08),Berlin-Lichtenberg
+12:53 (+1),RB 92355,Berlin Ostkreuz (ab 12:50),Berlin-Lichtenberg
+12:56 (+1),EC 59,Berlin Gesundbrunnen (ab 12:46),Berlin-Lichtenberg
+13:12,RB 18316,Schönefeld(bei Berlin) (ab 12:49),Berlin-Lichtenberg
+13:23 (+1),RB 61159,Berlin Ostkreuz (ab 13:20),Berlin-Lichtenberg
+13:47 (+3),RB 18319,Eberswalde Hbf (ab 13:08),Berlin-Lichtenberg
+13:53 (+1),RB 92357,Berlin Ostkreuz (ab 13:50),Berlin-Lichtenberg
+13:56 (+1),EC 49,Berlin Gesundbrunnen (ab 13:45),Berlin-Lichtenberg
+13:58,EC 48,Warszawa Wschodnia (ab 08:20),Berlin-Lichtenberg
+14:12,RB 18318,Schönefeld(bei Berlin) (ab 13:49),Berlin-Lichtenberg
+14:16 (+241),IC 143,Amsterdam Centraal (ab 07:59),Berlin-Lichtenberg
+14:23 (+1),RB 61161,Berlin Ostkreuz (ab 14:20),Berlin-Lichtenberg
+14:47 (+1),RB 18321,Eberswalde Hbf (ab 14:07),Berlin-Lichtenberg
+14:53 (+1),RB 92377,Berlin Ostkreuz (ab 14:50),Berlin-Lichtenberg
+14:59,EC 58,Gdynia Glowna (ab 08:48),Berlin-Lichtenberg
+15:12,RB 18320,Schönefeld(bei Berlin) (ab 14:49),Berlin-Lichtenberg
+15:23 (+1),RB 61163,Berlin Ostkreuz (ab 15:20),Berlin-Lichtenberg
+15:47,RB 18323,Eberswalde Hbf (ab 15:08),Berlin-Lichtenberg
+15:53 (+2),RB 92380,Berlin Ostkreuz (ab 15:50),Berlin-Lichtenberg
+15:58,EC 247,Berlin Gesundbrunnen (ab 15:47),Berlin-Lichtenberg
+15:59,EC 46,Warszawa Wschodnia (ab 10:20),Berlin-Lichtenberg
+16:12,RB 18322,Schönefeld(bei Berlin) (ab 15:49),Berlin-Lichtenberg
+16:21,IC 145,Amsterdam Centraal (ab 09:59),Berlin-Lichtenberg
+16:23 (+2),RB 61165,Berlin Ostkreuz (ab 16:20),Berlin-Lichtenberg
+16:32,RB 61164,Werneuchen (ab 16:02),Berlin-Lichtenberg
+16:41 (+2),RB 18222,Schönefeld(bei Berlin) (ab 16:19),Berlin-Lichtenberg
+16:47 (+3),RB 18325,Eberswalde Hbf (ab 16:07),Berlin-Lichtenberg
+16:53 (+1),RB 92382,Berlin Ostkreuz (ab 16:50),Berlin-Lichtenberg
+16:55,EC 55,Berlin Gesundbrunnen (ab 16:40),Berlin-Lichtenberg
+16:59,EC 56,Przemysl Gl. (ab 07:17),Berlin-Lichtenberg
+17:12 Ausfall,RB 18324,Schönefeld(bei Berlin) (ab 16:49),Berlin-Lichtenberg
+17:23 (+1),RB 61167,Berlin Ostkreuz (ab 17:20),Berlin-Lichtenberg
+17:47 (+3),RB 18327,Eberswalde Hbf (ab 17:08),Berlin-Lichtenberg
+17:53,RB 92386,Berlin Ostkreuz (ab 17:50),Berlin-Lichtenberg
+17:59 (+3),EC 249,Berlin Gesundbrunnen (ab 17:48),Berlin-Lichtenberg
+18:00,EC 44,Warszawa Wschodnia (ab 12:20),Berlin-Lichtenberg
+18:12,RB 18326,Schönefeld(bei Berlin) (ab 17:49),Berlin-Lichtenberg
+18:23,RB 61169,Berlin Ostkreuz (ab 18:20),Berlin-Lichtenberg
+18:27,IC 147,Amsterdam Centraal (ab 11:59),Berlin-Lichtenberg
+18:40,RE 93369,Cottbus Hbf (ab 17:13),Berlin-Lichtenberg
+18:47 (+19),RB 18329,Eberswalde Hbf (ab 18:08),Berlin-Lichtenberg
+19:12 Ausfall,RB 18328,Schönefeld(bei Berlin) (ab 18:49),Berlin-Lichtenberg
+19:47,RB 18331,Eberswalde Hbf (ab 19:08),Berlin-Lichtenberg
+20:01 (+6),IC 149,Amsterdam Centraal (ab 13:59),Berlin-Lichtenberg
+20:12,RB 18330,Schönefeld(bei Berlin) (ab 19:49),Berlin-Lichtenberg
+21:12,RB 18332,Schönefeld(bei Berlin) (ab 20:49),Berlin-Lichtenberg
+22:00 (+3),EC 40,Warszawa Wschodnia (ab 16:20),Berlin-Lichtenberg
+22:06 Ausfall,IC 241,Amsterdam Centraal (ab 15:59),Berlin-Lichtenberg
+23:29,RB 61198,Rheinsberg(Mark) (ab 21:42),Berlin-Lichtenberg
