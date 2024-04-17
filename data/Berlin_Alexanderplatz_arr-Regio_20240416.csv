@@ -1,0 +1,69 @@
+Ankunft,Zugnr.,von (Abfahrt),Ankunftsbhf.
+00:27,FEX19878,Flughafen BER (ab 00:02),Berlin Alexanderplatz
+00:40,RE 3141,Bestensee (ab 00:03),Berlin Alexanderplatz
+01:52,FEX19880,Flughafen BER (ab 01:15),Berlin Alexanderplatz
+04:53,RE 73717,Frankfurt(Oder) (ab 03:44),Berlin Alexanderplatz
+05:12,RB 18141,Berlin-Charlottenburg (ab 04:57),Berlin Alexanderplatz
+05:41,RB 18140,Flughafen BER (ab 05:13),Berlin Alexanderplatz
+05:53,RE 73719,Eisenhüttenstadt (ab 04:26),Berlin Alexanderplatz
+06:15,RB 18143,Berlin-Charlottenburg (ab 06:00),Berlin Alexanderplatz
+06:41,RB 18142,Flughafen BER (ab 06:13),Berlin Alexanderplatz
+06:53,RE 73721,Eisenhüttenstadt (ab 05:36),Berlin Alexanderplatz
+07:05 (+1),RE 73716,Magdeburg Hbf (ab 05:12),Berlin Alexanderplatz
+07:15,RB 18145,Rostock Hbf (ab 04:47),Berlin Alexanderplatz
+07:41 (+1),RB 18144,Rostock Hbf (ab 04:12),Berlin Alexanderplatz
+07:53,RE 73723,Frankfurt(Oder) (ab 06:55),Berlin Alexanderplatz
+08:05,RE 73718,Brandenburg Hbf (ab 07:05),Berlin Alexanderplatz
+08:15 (+4),RB 18147,Golm (ab 07:30),Berlin Alexanderplatz
+08:40 (+3),RB 18146,Flughafen BER (ab 08:13),Berlin Alexanderplatz
+08:53 (+7),RE 73725,Eisenhüttenstadt (ab 07:36),Berlin Alexanderplatz
+09:06 (+19),RE 73720,Magdeburg Hbf (ab 07:12),Berlin Alexanderplatz
+09:15 (+51),RB 18149,Golm (ab 08:30),Berlin Alexanderplatz
+09:41 (+10),RB 18148,Flughafen BER (ab 09:13),Berlin Alexanderplatz
+09:53 (+3),RE 73727,Eisenhüttenstadt (ab 08:36),Berlin Alexanderplatz
+10:04 (+76),RE 73722,Magdeburg Hbf (ab 08:12),Berlin Alexanderplatz
+10:15 Ausfall,RB 18151,Golm (ab 09:30),Berlin Alexanderplatz
+10:41,RB 18150,Flughafen BER (ab 10:13),Berlin Alexanderplatz
+10:53,RE 73729,Frankfurt(Oder) (ab 09:55),Berlin Alexanderplatz
+11:05 (+33),RE 73724,Magdeburg Hbf (ab 09:12),Berlin Alexanderplatz
+11:15 Ausfall,RB 18153,Golm (ab 10:30),Berlin Alexanderplatz
+11:41 Ausfall,RB 18152,Flughafen BER (ab 11:13),Berlin Alexanderplatz
+11:53,RE 73731,Frankfurt(Oder) (ab 10:55),Berlin Alexanderplatz
+12:05 (+1),RE 73726,Magdeburg Hbf (ab 10:12),Berlin Alexanderplatz
+12:15 (+4),RB 18155,Golm (ab 11:30),Berlin Alexanderplatz
+12:41 Ausfall,RB 18154,Flughafen BER (ab 12:14),Berlin Alexanderplatz
+12:53 (+9),RE 73733,Frankfurt(Oder) (ab 11:55),Berlin Alexanderplatz
+13:05 (+3),RE 73728,Magdeburg Hbf (ab 11:12),Berlin Alexanderplatz
+13:15,RB 18157,Golm (ab 12:30),Berlin Alexanderplatz
+13:41 (+1),RB 18156,Flughafen BER (ab 13:13),Berlin Alexanderplatz
+13:53 (+3),RE 73735,Frankfurt(Oder) (ab 12:55),Berlin Alexanderplatz
+14:05 (+8),RE 73730,Magdeburg Hbf (ab 12:12),Berlin Alexanderplatz
+14:15 (+9),RB 18159,Golm (ab 13:30),Berlin Alexanderplatz
+14:41 (+3),RB 18158,Flughafen BER (ab 14:13),Berlin Alexanderplatz
+14:53,RE 73737,Frankfurt(Oder) (ab 13:55),Berlin Alexanderplatz
+15:04 (+4),RE 73732,Magdeburg Hbf (ab 13:12),Berlin Alexanderplatz
+15:15 (+1),RB 18161,Golm (ab 14:30),Berlin Alexanderplatz
+15:41,RB 18160,Flughafen BER (ab 15:13),Berlin Alexanderplatz
+15:53,RE 73739,Eisenhüttenstadt (ab 14:36),Berlin Alexanderplatz
+16:04,RE 73734,Magdeburg Hbf (ab 14:12),Berlin Alexanderplatz
+16:16 (+3),RB 18163,Golm (ab 15:30),Berlin Alexanderplatz
+16:41 (+3),RB 18162,Flughafen BER (ab 16:13),Berlin Alexanderplatz
+16:53,RE 73741,Frankfurt(Oder) (ab 15:55),Berlin Alexanderplatz
+17:04,RE 73736,Magdeburg Hbf (ab 15:12),Berlin Alexanderplatz
+17:15 (+3),RB 18165,Golm (ab 16:30),Berlin Alexanderplatz
+17:41 (+4),RB 18164,Flughafen BER (ab 17:13),Berlin Alexanderplatz
+17:53 (+2),RE 73743,Frankfurt(Oder) (ab 16:55),Berlin Alexanderplatz
+18:04 (+4),RE 73738,Magdeburg Hbf (ab 16:12),Berlin Alexanderplatz
+18:15 (+6),RB 18167,Golm (ab 17:30),Berlin Alexanderplatz
+18:41,RB 18166,Flughafen BER (ab 18:13),Berlin Alexanderplatz
+18:53,RE 73745,Eisenhüttenstadt (ab 17:37),Berlin Alexanderplatz
+19:05,RE 73740,Magdeburg Hbf (ab 17:12),Berlin Alexanderplatz
+19:15 (+1),RB 18169,Golm (ab 18:30),Berlin Alexanderplatz
+19:41,RB 18168,Flughafen BER (ab 19:13),Berlin Alexanderplatz
+19:53,RE 73747,Eisenhüttenstadt (ab 18:36),Berlin Alexanderplatz
+20:05,RE 73742,Magdeburg Hbf (ab 18:12),Berlin Alexanderplatz
+20:15,RB 18171,Berlin-Charlottenburg (ab 20:00),Berlin Alexanderplatz
+20:41,RB 18170,Flughafen BER (ab 20:13),Berlin Alexanderplatz
+20:53,RE 73749,Frankfurt(Oder) (ab 19:55),Berlin Alexanderplatz
+21:14,RB 18173,Berlin-Charlottenburg (ab 20:59),Berlin Alexanderplatz
+21:41,RB 18172,Bad Kleinen (ab 21:03),Berlin Alexanderplatz
