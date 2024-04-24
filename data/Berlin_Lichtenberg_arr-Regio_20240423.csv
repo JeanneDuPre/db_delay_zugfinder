@@ -1,0 +1,54 @@
+Ankunft,Zugnr.,von (Abfahrt),Ankunftsbhf.
+05:12,RB 18300,Schönefeld(bei Berlin) (ab 04:49),Berlin-Lichtenberg
+05:41,RB 18200,Schönefeld(bei Berlin) (ab 05:19),Berlin-Lichtenberg
+06:12,RB 18302,Schönefeld(bei Berlin) (ab 05:49),Berlin-Lichtenberg
+06:41,RB 18202,Schönefeld(bei Berlin) (ab 06:19),Berlin-Lichtenberg
+07:12,RB 18304,Schönefeld(bei Berlin) (ab 06:49),Berlin-Lichtenberg
+07:41,RB 18204,Schönefeld(bei Berlin) (ab 07:19),Berlin-Lichtenberg
+07:42,RE 93355,Cottbus Hbf (ab 06:13),Berlin-Lichtenberg
+08:12,RB 18306,Schönefeld(bei Berlin) (ab 07:49),Berlin-Lichtenberg
+08:41,RB 18206,Schönefeld(bei Berlin) (ab 08:19),Berlin-Lichtenberg
+09:12,RB 18308,Schönefeld(bei Berlin) (ab 08:49),Berlin-Lichtenberg
+09:41,RB 18208,Schönefeld(bei Berlin) (ab 09:19),Berlin-Lichtenberg
+09:58 (+8),EC 248,Warszawa Wschodnia (ab 04:20),Berlin-Lichtenberg
+10:12,RB 18310,Schönefeld(bei Berlin) (ab 09:49),Berlin-Lichtenberg
+10:21 (+3),ICE 2943,Hannover Hbf (ab 08:04),Berlin-Lichtenberg
+10:21 Ausfall,ICE 741,Münster(Westf)Hbf (ab 06:17),Berlin-Lichtenberg
+10:40,RB 18210,Schönefeld(bei Berlin) (ab 10:19),Berlin-Lichtenberg
+11:12 (+1),RB 18312,Schönefeld(bei Berlin) (ab 10:49),Berlin-Lichtenberg
+11:41 (+10),RB 18212,Schönefeld(bei Berlin) (ab 11:19),Berlin-Lichtenberg
+11:59 (+3),EC 246,Warszawa Wschodnia (ab 06:20),Berlin-Lichtenberg
+12:12,RB 18314,Schönefeld(bei Berlin) (ab 11:49),Berlin-Lichtenberg
+12:38 Ausfall,IC 141,Amsterdam Centraal (ab 05:59),Berlin-Lichtenberg
+12:41,RB 18214,Schönefeld(bei Berlin) (ab 12:19),Berlin-Lichtenberg
+13:12 (+6),RB 18316,Schönefeld(bei Berlin) (ab 12:49),Berlin-Lichtenberg
+13:41,RB 18216,Schönefeld(bei Berlin) (ab 13:19),Berlin-Lichtenberg
+13:58 (+39),EC 48,Warszawa Wschodnia (ab 08:20),Berlin-Lichtenberg
+14:12,RB 18318,Schönefeld(bei Berlin) (ab 13:49),Berlin-Lichtenberg
+14:41,RB 18218,Schönefeld(bei Berlin) (ab 14:19),Berlin-Lichtenberg
+14:52 Ausfall,IC 143,Amsterdam Centraal (ab 07:59),Berlin-Lichtenberg
+14:59,EC 58,Gdynia Glowna (ab 08:48),Berlin-Lichtenberg
+15:12,RB 18320,Schönefeld(bei Berlin) (ab 14:49),Berlin-Lichtenberg
+15:41,RB 18220,Schönefeld(bei Berlin) (ab 15:19),Berlin-Lichtenberg
+15:59 (+72),EC 46,Warszawa Wschodnia (ab 10:20),Berlin-Lichtenberg
+16:12,RB 18322,Schönefeld(bei Berlin) (ab 15:49),Berlin-Lichtenberg
+16:27 (+13),EC 2847,Amsterdam Centraal (ab 09:59),Berlin-Lichtenberg
+16:27 Ausfall,IC 145,Amsterdam Centraal (ab 09:59),Berlin-Lichtenberg
+16:41,RB 18222,Schönefeld(bei Berlin) (ab 16:19),Berlin-Lichtenberg
+16:59 Ausfall,EC 56,Przemysl Gl. (ab 07:17),Berlin-Lichtenberg
+17:12,RB 18324,Schönefeld(bei Berlin) (ab 16:49),Berlin-Lichtenberg
+17:41,RB 18224,Schönefeld(bei Berlin) (ab 17:19),Berlin-Lichtenberg
+18:00 (+11),EC 44,Warszawa Wschodnia (ab 12:20),Berlin-Lichtenberg
+18:12,RB 18326,Schönefeld(bei Berlin) (ab 17:49),Berlin-Lichtenberg
+18:41,RB 18226,Schönefeld(bei Berlin) (ab 18:19),Berlin-Lichtenberg
+18:46 Ausfall,IC 147,Amsterdam Centraal (ab 11:59),Berlin-Lichtenberg
+19:12,RB 18328,Schönefeld(bei Berlin) (ab 18:49),Berlin-Lichtenberg
+19:41,RB 18228,Schönefeld(bei Berlin) (ab 19:19),Berlin-Lichtenberg
+20:12,RB 18330,Schönefeld(bei Berlin) (ab 19:49),Berlin-Lichtenberg
+20:14 Ausfall,IC 149,Amsterdam Centraal (ab 13:59),Berlin-Lichtenberg
+20:41,RB 18230,Schönefeld(bei Berlin) (ab 20:19),Berlin-Lichtenberg
+21:12,RB 18332,Schönefeld(bei Berlin) (ab 20:49),Berlin-Lichtenberg
+22:00 (+27),EC 40,Warszawa Wschodnia (ab 16:20),Berlin-Lichtenberg
+22:15 (+25),EC 2853,Amsterdam Centraal (ab 15:59),Berlin-Lichtenberg
+22:15 Ausfall,IC 241,Amsterdam Centraal (ab 15:59),Berlin-Lichtenberg
+22:18,RB 61200,Rheinsberg(Mark) (ab 20:26),Berlin-Lichtenberg
