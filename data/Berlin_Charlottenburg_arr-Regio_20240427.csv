@@ -1,0 +1,75 @@
+Ankunft,Zugnr.,von (Abfahrt),Ankunftsbhf.
+00:26 (+3),RE 62045,Berlin Friedrichstr (ab 00:14),Berlin-Charlottenburg
+00:42,RE 3100,Nauen (ab 00:08),Berlin-Charlottenburg
+00:43 (+9),FEX19878,Flughafen BER (ab 00:02),Berlin-Charlottenburg
+00:58 (+11),RE 3141,Bestensee (ab 00:03),Berlin-Charlottenburg
+01:35,RE 62042,Nauen (ab 01:03),Berlin-Charlottenburg
+02:34,RE 62046,Nauen (ab 02:02),Berlin-Charlottenburg
+03:33,RE 62044,Nauen (ab 03:02),Berlin-Charlottenburg
+04:31,RE 62048,Nauen (ab 04:01),Berlin-Charlottenburg
+05:48 (+3),RE 3601,Neuruppin West (ab 04:23),Berlin-Charlottenburg
+05:58,RB 18140,Flughafen BER (ab 05:13),Berlin-Charlottenburg
+06:10,RE 73719,Frankfurt(Oder) (ab 04:44),Berlin-Charlottenburg
+06:12,RE 3104,Nauen (ab 05:37),Berlin-Charlottenburg
+06:46,RE 3105,Cottbus Hbf (ab 05:01),Berlin-Charlottenburg
+06:46,RE 3639,Dossow(Prign) (ab 04:56),Berlin-Charlottenburg
+06:58 (+4),RB 18142,Flughafen BER (ab 06:13),Berlin-Charlottenburg
+07:12,RE 3106,Nauen (ab 06:37),Berlin-Charlottenburg
+07:46 (+1),RE 3107,Cottbus Hbf (ab 06:08),Berlin-Charlottenburg
+07:46,RE 3603,Dossow(Prign) (ab 06:02),Berlin-Charlottenburg
+07:49 (+2),RE 73718,Magdeburg Hbf (ab 06:12),Berlin-Charlottenburg
+07:58,RB 18144,Flughafen BER (ab 07:13),Berlin-Charlottenburg
+08:10,RE 73723,Frankfurt(Oder) (ab 06:55),Berlin-Charlottenburg
+08:12,RE 3108,Nauen (ab 07:37),Berlin-Charlottenburg
+08:45,RE 3623,Neuruppin West (ab 07:26),Berlin-Charlottenburg
+08:46,RE 3109,Cottbus Hbf (ab 07:03),Berlin-Charlottenburg
+08:57 (+3),RB 18146,Flughafen BER (ab 08:13),Berlin-Charlottenburg
+09:12,RE 3110,Nauen (ab 08:37),Berlin-Charlottenburg
+09:31,RE 62247,Berlin Ostkreuz (ab 09:08),Berlin-Charlottenburg
+09:46 (+1),RE 3111,Cottbus Hbf (ab 08:04),Berlin-Charlottenburg
+09:46 (+1),RE 3605,Dossow(Prign) (ab 08:00),Berlin-Charlottenburg
+09:49 (+14),RE 73722,Magdeburg Hbf (ab 08:12),Berlin-Charlottenburg
+09:58 (+6),RB 18148,Flughafen BER (ab 09:13),Berlin-Charlottenburg
+10:08 (+5),RE 73727,Frankfurt(Oder) (ab 08:55),Berlin-Charlottenburg
+10:12 (+2),RE 3112,Nauen (ab 09:37),Berlin-Charlottenburg
+10:46 (+1),RE 3113,Cottbus Hbf (ab 09:04),Berlin-Charlottenburg
+10:46,RE 3625,Neuruppin West (ab 09:24),Berlin-Charlottenburg
+11:12,RE 3114,Nauen (ab 10:37),Berlin-Charlottenburg
+11:31 (+3),RE 62251,Schönefeld(bei Berlin) (ab 10:52),Berlin-Charlottenburg
+11:46 (+1),RE 3115,Cottbus Hbf (ab 10:04),Berlin-Charlottenburg
+11:47,RE 3607,Dossow(Prign) (ab 10:00),Berlin-Charlottenburg
+11:49 (+8),RE 73726,Magdeburg Hbf (ab 10:12),Berlin-Charlottenburg
+12:09 (+10),RE 73731,Frankfurt(Oder) (ab 10:55),Berlin-Charlottenburg
+12:12,RE 3116,Nauen (ab 11:37),Berlin-Charlottenburg
+12:31 (+7),RE 62253,Schönefeld(bei Berlin) (ab 11:54),Berlin-Charlottenburg
+12:46 (+2),RE 3117,Cottbus Hbf (ab 11:04),Berlin-Charlottenburg
+12:46,RE 3627,Dossow(Prign) (ab 11:02),Berlin-Charlottenburg
+13:12 (+11),RE 3118,Nauen (ab 12:37),Berlin-Charlottenburg
+13:31 (+5),RE 62255,Schönefeld(bei Berlin) (ab 12:52),Berlin-Charlottenburg
+13:46,RE 3119,Cottbus Hbf (ab 12:04),Berlin-Charlottenburg
+13:47 (+1),RE 3609,Dossow(Prign) (ab 12:00),Berlin-Charlottenburg
+13:49 (+56),RE 73730,Magdeburg Hbf (ab 12:12),Berlin-Charlottenburg
+14:08 (+20),RE 73735,Frankfurt(Oder) (ab 12:55),Berlin-Charlottenburg
+14:12,RE 3120,Nauen (ab 13:37),Berlin-Charlottenburg
+14:46 (+3),RE 3121,Cottbus Hbf (ab 13:04),Berlin-Charlottenburg
+14:46 (+8),RE 3629,Dossow(Prign) (ab 13:02),Berlin-Charlottenburg
+15:12 (+13),RE 3122,Nauen (ab 14:37),Berlin-Charlottenburg
+15:46,RE 3123,Cottbus Hbf (ab 14:04),Berlin-Charlottenburg
+15:47,RE 3611,Dossow(Prign) (ab 14:00),Berlin-Charlottenburg
+16:25,RE 73816,Brandenburg Hbf (ab 15:39),Berlin-Charlottenburg
+16:46 (+1),RE 3125,Cottbus Hbf (ab 15:04),Berlin-Charlottenburg
+16:46 (+4),RE 3631,Dossow(Prign) (ab 15:02),Berlin-Charlottenburg
+17:47 (+4),RE 3613,Dossow(Prign) (ab 16:00),Berlin-Charlottenburg
+18:12 (+18),RE 3128,Nauen (ab 17:37),Berlin-Charlottenburg
+18:47 (+10),RE 3633,Dossow(Prign) (ab 17:02),Berlin-Charlottenburg
+19:01,RE 18769,Cottbus Hbf (ab 17:13),Berlin-Charlottenburg
+19:46 (+1),RE 3615,Dossow(Prign) (ab 18:00),Berlin-Charlottenburg
+20:46,RE 3635,Dossow(Prign) (ab 19:03),Berlin-Charlottenburg
+21:47,RE 3617,Dossow(Prign) (ab 20:01),Berlin-Charlottenburg
+22:05 (+2),RJ 256,Graz Hbf (ab 10:26),Berlin-Charlottenburg
+22:40,RE 3136,Schönwalde(Spreewald) (ab 00:02),Berlin-Charlottenburg
+22:46,RE 3137,Cottbus Hbf (ab 21:04),Berlin-Charlottenburg
+22:46,RE 3637,Dossow(Prign) (ab 21:02),Berlin-Charlottenburg
+23:11,RE 73827,Fürstenwalde(Spree) (ab 22:13),Berlin-Charlottenburg
+23:40 (+1),RE 3138,Nauen (ab 23:08),Berlin-Charlottenburg
+23:47,RE 3619,Dossow(Prign) (ab 22:03),Berlin-Charlottenburg

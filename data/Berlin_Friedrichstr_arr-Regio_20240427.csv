@@ -1,0 +1,288 @@
+Ankunft,Zugnr.,von (Abfahrt),Ankunftsbhf.
+00:30 (+11),FEX19878,Flughafen BER (ab 00:02),Berlin Friedrichstr
+00:36,RE 73797,Fangschleuse (ab 00:04),Berlin Friedrichstr
+00:36,RE 94197,Fangschleuse (ab 00:04),Berlin Friedrichstr
+00:43,RE 62038,Nauen (ab 00:04),Berlin Friedrichstr
+00:44 (+15),RE 3141,Bestensee (ab 00:03),Berlin Friedrichstr
+00:56,RE 3100,Nauen (ab 00:08),Berlin Friedrichstr
+01:10,RE 62041,Flughafen BER (ab 00:40),Berlin Friedrichstr
+01:25,RE 73794,Berlin Alexanderplatz (ab 01:29),Berlin Friedrichstr
+01:43,FEX19880,Flughafen BER (ab 01:15),Berlin Friedrichstr
+03:10,RE 62043,Flughafen BER (ab 02:41),Berlin Friedrichstr
+03:17,FEX19801,Berlin-Charlottenburg (ab 03:05),Berlin Friedrichstr
+03:31,FEX19803,Berlin-Charlottenburg (ab 03:20),Berlin Friedrichstr
+03:47,RE 62044,Nauen (ab 03:02),Berlin Friedrichstr
+04:13,RE 73752,Brandenburg Hbf (ab 03:15),Berlin Friedrichstr
+04:13,RE 94452,Berlin Zoologischer Garten (ab 04:05),Berlin Friedrichstr
+04:14,RE 62001,Flughafen BER (ab 03:44),Berlin Friedrichstr
+04:35 (+1),RE 73800,Berlin-Charlottenburg (ab 04:23),Berlin Friedrichstr
+04:43,RE 62048,Nauen (ab 04:01),Berlin Friedrichstr
+04:56,RE 73717,Frankfurt(Oder) (ab 03:44),Berlin Friedrichstr
+04:56,RE 94117,Frankfurt(Oder) (ab 03:44),Berlin Friedrichstr
+05:09,RB 18141,Berlin-Charlottenburg (ab 04:57),Berlin Friedrichstr
+05:09,RE 3707,Lübbenau(Spreewald) (ab 03:46),Berlin Friedrichstr
+05:09,RE 94507,Lübbenau(Spreewald) (ab 03:46),Berlin Friedrichstr
+05:14,RE 62003,Flughafen BER (ab 04:44),Berlin Friedrichstr
+05:16 (+1),RE 94154,Berlin Zoologischer Garten (ab 05:08),Berlin Friedrichstr
+05:25,RE 3102,Berlin-Charlottenburg (ab 05:13),Berlin Friedrichstr
+05:32,RE 3103,Cottbus Hbf (ab 03:47),Berlin Friedrichstr
+05:35,RE 62000,Wittenberge (ab 04:06),Berlin Friedrichstr
+05:36 (+4),RE 94159,Frankfurt(Oder) (ab 04:23),Berlin Friedrichstr
+05:45,RB 18140,Flughafen BER (ab 05:13),Berlin Friedrichstr
+05:47,RE 3704,Bad Belzig (ab 04:41),Berlin Friedrichstr
+05:47,RE 94554,Berlin Zoologischer Garten (ab 05:39),Berlin Friedrichstr
+05:56 (+1),RE 73719,Frankfurt(Oder) (ab 04:44),Berlin Friedrichstr
+06:12 (+7),RB 18143,Berlin-Charlottenburg (ab 06:00),Berlin Friedrichstr
+06:14,RE 62005,Flughafen BER (ab 05:44),Berlin Friedrichstr
+06:16 (+21),RE 93756,Berlin Zoologischer Garten (ab 06:08),Berlin Friedrichstr
+06:25,RE 3104,Nauen (ab 05:37),Berlin Friedrichstr
+06:32,RE 3105,Cottbus Hbf (ab 05:01),Berlin Friedrichstr
+06:36 (+6),RE 94161,Frankfurt(Oder) (ab 05:26),Berlin Friedrichstr
+06:43,RE 62002,Wittenberge (ab 05:06),Berlin Friedrichstr
+06:45 (+2),RB 18142,Flughafen BER (ab 06:13),Berlin Friedrichstr
+06:48,RE 94556,Berlin Zoologischer Garten (ab 06:40),Berlin Friedrichstr
+06:56 (+1),RE 94121,Frankfurt(Oder) (ab 05:55),Berlin Friedrichstr
+07:01,RE 73716,Magdeburg Hbf (ab 05:12),Berlin Friedrichstr
+07:01,RE 94116,Berlin Zoologischer Garten (ab 06:53),Berlin Friedrichstr
+07:09,RE 3711,Calau(Nl) (ab 05:42),Berlin Friedrichstr
+07:09,RE 94511,Calau(Nl) (ab 05:42),Berlin Friedrichstr
+07:12,RB 18145,Berlin-Charlottenburg (ab 07:00),Berlin Friedrichstr
+07:14,RE 62007,Flughafen BER (ab 06:44),Berlin Friedrichstr
+07:16 (+14),RE 94158,Berlin Zoologischer Garten (ab 07:08),Berlin Friedrichstr
+07:25,RE 3106,Nauen (ab 06:37),Berlin Friedrichstr
+07:32,RE 3107,Cottbus Hbf (ab 06:08),Berlin Friedrichstr
+07:36,RE 94163,Fürstenwalde(Spree) (ab 06:54),Berlin Friedrichstr
+07:43 (+27),RE 62004,Schwerin Hbf (ab 05:00),Berlin Friedrichstr
+07:45,RB 18144,Flughafen BER (ab 07:13),Berlin Friedrichstr
+07:48 (+1),RE 94508,Berlin Zoologischer Garten (ab 07:40),Berlin Friedrichstr
+07:56,RE 73723,Frankfurt(Oder) (ab 06:55),Berlin Friedrichstr
+08:01 (+3),RE 73718,Magdeburg Hbf (ab 06:12),Berlin Friedrichstr
+08:09,RE 94513,Berlin Ostbahnhof (ab 08:02),Berlin Friedrichstr
+08:12 (+2),RB 18147,Berlin-Charlottenburg (ab 08:00),Berlin Friedrichstr
+08:14,RE 62009,Flughafen BER (ab 07:44),Berlin Friedrichstr
+08:16 (+5),RE 94160,Berlin Zoologischer Garten (ab 08:08),Berlin Friedrichstr
+08:25,RE 3108,Nauen (ab 07:37),Berlin Friedrichstr
+08:32 (+1),RE 3109,Cottbus Hbf (ab 07:03),Berlin Friedrichstr
+08:36 (+1),RE 94165,Frankfurt(Oder) (ab 07:26),Berlin Friedrichstr
+08:43,RE 62006,Wismar (ab 05:22),Berlin Friedrichstr
+08:44 (+1),RB 18146,Flughafen BER (ab 08:13),Berlin Friedrichstr
+08:48,RE 94509,Berlin Zoologischer Garten (ab 08:40),Berlin Friedrichstr
+08:56,RE 73725,Frankfurt(Oder) (ab 07:55),Berlin Friedrichstr
+08:56,RE 94125,Frankfurt(Oder) (ab 07:55),Berlin Friedrichstr
+09:03,RE 73720,Magdeburg Hbf (ab 07:12),Berlin Friedrichstr
+09:03,RE 94120,Berlin Zoologischer Garten (ab 08:54),Berlin Friedrichstr
+09:09,RE 3715,Calau(Nl) (ab 07:43),Berlin Friedrichstr
+09:09,RE 94515,Calau(Nl) (ab 07:43),Berlin Friedrichstr
+09:12,RB 18149,Berlin-Charlottenburg (ab 09:00),Berlin Friedrichstr
+09:14 (+12),RE 62011,Flughafen BER (ab 08:44),Berlin Friedrichstr
+09:16,RE 73762,Brandenburg Hbf (ab 08:19),Berlin Friedrichstr
+09:16,RE 94162,Berlin Zoologischer Garten (ab 09:08),Berlin Friedrichstr
+09:18 (+1),RE 62247,Berlin Ostkreuz (ab 09:08),Berlin Friedrichstr
+09:25,RE 3110,Nauen (ab 08:37),Berlin Friedrichstr
+09:32,RE 3111,Cottbus Hbf (ab 08:04),Berlin Friedrichstr
+09:36,RE 73767,Frankfurt(Oder) (ab 08:26),Berlin Friedrichstr
+09:36 (+1),RE 94167,Frankfurt(Oder) (ab 08:26),Berlin Friedrichstr
+09:43,RE 62008,Wittenberge (ab 08:06),Berlin Friedrichstr
+09:45 (+1),RB 18148,Flughafen BER (ab 09:13),Berlin Friedrichstr
+09:48,RE 3712,Bad Belzig (ab 08:41),Berlin Friedrichstr
+09:48 (+6),RE 94512,Berlin Zoologischer Garten (ab 09:40),Berlin Friedrichstr
+09:56,RE 73727,Frankfurt(Oder) (ab 08:55),Berlin Friedrichstr
+10:01 (+14),RE 73722,Magdeburg Hbf (ab 08:12),Berlin Friedrichstr
+10:07,RE 18768,Berlin-Charlottenburg (ab 09:55),Berlin Friedrichstr
+10:09,RE 3717,Calau(Nl) (ab 08:43),Berlin Friedrichstr
+10:09,RE 94517,Calau(Nl) (ab 08:43),Berlin Friedrichstr
+10:12,RB 18151,Berlin-Charlottenburg (ab 10:00),Berlin Friedrichstr
+10:14 (+1),RE 62013,Flughafen BER (ab 09:44),Berlin Friedrichstr
+10:16,RE 73764,Brandenburg Hbf (ab 09:19),Berlin Friedrichstr
+10:16 (+4),RE 94164,Berlin Zoologischer Garten (ab 10:08),Berlin Friedrichstr
+10:25 (+2),RE 3112,Nauen (ab 09:37),Berlin Friedrichstr
+10:32,RE 3113,Cottbus Hbf (ab 09:04),Berlin Friedrichstr
+10:36,RE 94169,Frankfurt(Oder) (ab 09:26),Berlin Friedrichstr
+10:43,RE 62010,Wismar (ab 07:33),Berlin Friedrichstr
+10:45,RB 18150,Flughafen BER (ab 10:13),Berlin Friedrichstr
+10:48,RE 3714,Dessau Hbf (ab 09:05),Berlin Friedrichstr
+10:48,RE 94514,Berlin Zoologischer Garten (ab 10:40),Berlin Friedrichstr
+10:56,RE 73729,Frankfurt(Oder) (ab 09:55),Berlin Friedrichstr
+10:56 (+1),RE 94129,Frankfurt(Oder) (ab 09:55),Berlin Friedrichstr
+11:01,RE 73724,Magdeburg Hbf (ab 09:12),Berlin Friedrichstr
+11:01 (+6),RE 94124,Berlin Zoologischer Garten (ab 10:53),Berlin Friedrichstr
+11:09,RE 3719,Calau(Nl) (ab 09:43),Berlin Friedrichstr
+11:09 (+3),RE 94519,Calau(Nl) (ab 09:43),Berlin Friedrichstr
+11:14 (+2),RE 62015,Flughafen BER (ab 10:44),Berlin Friedrichstr
+11:16,RE 73766,Brandenburg Hbf (ab 10:19),Berlin Friedrichstr
+11:16 (+2),RE 94166,Berlin Zoologischer Garten (ab 11:08),Berlin Friedrichstr
+11:18 (+1),RE 62251,Schönefeld(bei Berlin) (ab 10:52),Berlin Friedrichstr
+11:25,RE 3114,Nauen (ab 10:37),Berlin Friedrichstr
+11:32 (+1),RE 3115,Cottbus Hbf (ab 10:04),Berlin Friedrichstr
+11:36,RE 94171,Frankfurt(Oder) (ab 10:26),Berlin Friedrichstr
+11:43,RE 62012,Wittenberge (ab 10:06),Berlin Friedrichstr
+11:45,RB 18152,Flughafen BER (ab 11:13),Berlin Friedrichstr
+11:48,RE 94516,Berlin Zoologischer Garten (ab 11:40),Berlin Friedrichstr
+11:56 (+7),RE 73731,Frankfurt(Oder) (ab 10:55),Berlin Friedrichstr
+12:01,RE 73726,Magdeburg Hbf (ab 10:12),Berlin Friedrichstr
+12:09,RE 3721,Calau(Nl) (ab 10:43),Berlin Friedrichstr
+12:09,RE 94521,Calau(Nl) (ab 10:43),Berlin Friedrichstr
+12:14,RE 62017,Flughafen BER (ab 11:44),Berlin Friedrichstr
+12:16,RE 73768,Brandenburg Hbf (ab 11:19),Berlin Friedrichstr
+12:25,RE 3116,Nauen (ab 11:37),Berlin Friedrichstr
+12:32,RE 3117,Cottbus Hbf (ab 11:04),Berlin Friedrichstr
+12:36,RE 73773,Frankfurt(Oder) (ab 11:26),Berlin Friedrichstr
+12:43 (+4),RE 62014,Wismar (ab 09:24),Berlin Friedrichstr
+12:45,RB 18154,Flughafen BER (ab 12:14),Berlin Friedrichstr
+12:48,RE 3718,Dessau Hbf (ab 11:05),Berlin Friedrichstr
+12:48 (+1),RE 94518,Berlin Zoologischer Garten (ab 12:40),Berlin Friedrichstr
+12:56,RE 73733,Frankfurt(Oder) (ab 11:55),Berlin Friedrichstr
+13:01,RE 73728,Magdeburg Hbf (ab 11:12),Berlin Friedrichstr
+13:01,RE 94128,Berlin Zoologischer Garten (ab 12:53),Berlin Friedrichstr
+13:09,RE 3723,Calau(Nl) (ab 11:43),Berlin Friedrichstr
+13:14,RE 62019,Flughafen BER (ab 12:44),Berlin Friedrichstr
+13:16,RE 73770,Brandenburg Hbf (ab 12:19),Berlin Friedrichstr
+13:16,RE 94170,Berlin Zoologischer Garten (ab 13:08),Berlin Friedrichstr
+13:18 (+7),RE 62255,Schönefeld(bei Berlin) (ab 12:52),Berlin Friedrichstr
+13:25 (+11),RE 3118,Nauen (ab 12:37),Berlin Friedrichstr
+13:32,RE 3119,Cottbus Hbf (ab 12:04),Berlin Friedrichstr
+13:36,RE 73775,Frankfurt(Oder) (ab 12:26),Berlin Friedrichstr
+13:43,RE 62016,Wittenberge (ab 12:06),Berlin Friedrichstr
+13:45,RB 18156,Flughafen BER (ab 13:13),Berlin Friedrichstr
+13:48,RE 3720,Bad Belzig (ab 12:41),Berlin Friedrichstr
+13:48,RE 94570,Berlin Zoologischer Garten (ab 13:40),Berlin Friedrichstr
+13:56 (+1),RE 73735,Frankfurt(Oder) (ab 12:55),Berlin Friedrichstr
+14:01 (+56),RE 73730,Magdeburg Hbf (ab 12:12),Berlin Friedrichstr
+14:09,RE 3725,Calau(Nl) (ab 12:43),Berlin Friedrichstr
+14:09,RE 94575,Calau(Nl) (ab 12:43),Berlin Friedrichstr
+14:14,RE 62021,Flughafen BER (ab 13:44),Berlin Friedrichstr
+14:16,RE 73772,Brandenburg Hbf (ab 13:19),Berlin Friedrichstr
+14:16 (+2),RE 94172,Berlin Zoologischer Garten (ab 14:08),Berlin Friedrichstr
+14:25,RE 3120,Nauen (ab 13:37),Berlin Friedrichstr
+14:32 (+1),RE 3121,Cottbus Hbf (ab 13:04),Berlin Friedrichstr
+14:36,RE 73777,Frankfurt(Oder) (ab 13:26),Berlin Friedrichstr
+14:36,RE 94177,Frankfurt(Oder) (ab 13:26),Berlin Friedrichstr
+14:43,RE 62018,Wismar (ab 11:24),Berlin Friedrichstr
+14:45 (+3),RB 18158,Flughafen BER (ab 14:13),Berlin Friedrichstr
+14:48,RE 94522,Berlin Zoologischer Garten (ab 14:40),Berlin Friedrichstr
+14:56,RE 73737,Frankfurt(Oder) (ab 13:55),Berlin Friedrichstr
+14:56,RE 94137,Frankfurt(Oder) (ab 13:55),Berlin Friedrichstr
+15:00,RE 73732,Magdeburg Hbf (ab 13:12),Berlin Friedrichstr
+15:00 (+6),RE 94132,Berlin Zoologischer Garten (ab 14:52),Berlin Friedrichstr
+15:09,RE 3727,Calau(Nl) (ab 13:43),Berlin Friedrichstr
+15:09 (+1),RE 94527,Calau(Nl) (ab 13:43),Berlin Friedrichstr
+15:14 (+2),RE 62023,Flughafen BER (ab 14:44),Berlin Friedrichstr
+15:16,RE 73774,Brandenburg Hbf (ab 14:19),Berlin Friedrichstr
+15:16 (+4),RE 94474,Berlin Zoologischer Garten (ab 15:08),Berlin Friedrichstr
+15:25 (+12),RE 3122,Nauen (ab 14:37),Berlin Friedrichstr
+15:32,RE 3123,Cottbus Hbf (ab 14:04),Berlin Friedrichstr
+15:36,RE 73779,Frankfurt(Oder) (ab 14:26),Berlin Friedrichstr
+15:36,RE 94179,Frankfurt(Oder) (ab 14:26),Berlin Friedrichstr
+15:43 (+3),RE 62020,Wittenberge (ab 14:06),Berlin Friedrichstr
+15:44,RB 18160,Flughafen BER (ab 15:13),Berlin Friedrichstr
+15:48,RE 3724,Bad Belzig (ab 14:41),Berlin Friedrichstr
+15:48 (+2),RE 94524,Berlin Zoologischer Garten (ab 15:40),Berlin Friedrichstr
+15:56 (+4),RE 73739,Frankfurt(Oder) (ab 14:55),Berlin Friedrichstr
+16:01 (+24),RE 73734,Magdeburg Hbf (ab 14:12),Berlin Friedrichstr
+16:09 (+1),RE 94529,Calau(Nl) (ab 14:43),Berlin Friedrichstr
+16:14 (+3),RE 62025,Flughafen BER (ab 15:44),Berlin Friedrichstr
+16:16,RE 73776,Brandenburg Hbf (ab 15:19),Berlin Friedrichstr
+16:16 (+3),RE 94176,Berlin Zoologischer Garten (ab 16:08),Berlin Friedrichstr
+16:25 (+4),RE 3124,Nauen (ab 15:37),Berlin Friedrichstr
+16:32,RE 3125,Cottbus Hbf (ab 15:04),Berlin Friedrichstr
+16:36 (+1),RE 94181,Frankfurt(Oder) (ab 15:26),Berlin Friedrichstr
+16:37 (+3),RE 62252,Brandenburg Hbf (ab 15:39),Berlin Friedrichstr
+16:43 (+16),RE 62022,Wismar (ab 13:24),Berlin Friedrichstr
+16:45 (+2),RB 18162,Flughafen BER (ab 16:13),Berlin Friedrichstr
+16:48,RE 3726,Dessau Hbf (ab 15:05),Berlin Friedrichstr
+16:48 (+2),RE 94576,Berlin Zoologischer Garten (ab 16:40),Berlin Friedrichstr
+16:56,RE 73741,Frankfurt(Oder) (ab 15:55),Berlin Friedrichstr
+16:56 (+10),RE 94141,Frankfurt(Oder) (ab 15:55),Berlin Friedrichstr
+17:00,RE 73736,Magdeburg Hbf (ab 15:12),Berlin Friedrichstr
+17:00 (+3),RE 94136,Berlin Zoologischer Garten (ab 16:52),Berlin Friedrichstr
+17:09,RE 3731,Calau(Nl) (ab 15:43),Berlin Friedrichstr
+17:09 (+2),RE 94581,Calau(Nl) (ab 15:43),Berlin Friedrichstr
+17:14 (+3),RE 62027,Flughafen BER (ab 16:44),Berlin Friedrichstr
+17:16,RE 73778,Brandenburg Hbf (ab 16:19),Berlin Friedrichstr
+17:16 (+1),RE 94478,Berlin Zoologischer Garten (ab 17:08),Berlin Friedrichstr
+17:25 (+5),RE 3126,Nauen (ab 16:37),Berlin Friedrichstr
+17:32 (+2),RE 3127,Cottbus Hbf (ab 16:04),Berlin Friedrichstr
+17:36 (+1),RE 94183,Frankfurt(Oder) (ab 16:26),Berlin Friedrichstr
+17:39 (+1),RE 62254,Brandenburg Hbf (ab 16:41),Berlin Friedrichstr
+17:43 (+17),RE 62024,Wittenberge (ab 16:06),Berlin Friedrichstr
+17:45,RB 18164,Flughafen BER (ab 17:13),Berlin Friedrichstr
+17:48,RE 3728,Bad Belzig (ab 16:41),Berlin Friedrichstr
+17:48,RE 94528,Berlin Zoologischer Garten (ab 17:40),Berlin Friedrichstr
+17:56,RE 73743,Frankfurt(Oder) (ab 16:55),Berlin Friedrichstr
+18:02 (+75),RE 73738,Magdeburg Hbf (ab 16:12),Berlin Friedrichstr
+18:09,RE 3733,Calau(Nl) (ab 16:43),Berlin Friedrichstr
+18:09 (+5),RE 94533,Calau(Nl) (ab 16:43),Berlin Friedrichstr
+18:14 (+5),RE 62029,Flughafen BER (ab 17:44),Berlin Friedrichstr
+18:16 (+1),RE 93880,Berlin Zoologischer Garten (ab 18:08),Berlin Friedrichstr
+18:25 (+40),RE 3128,Nauen (ab 17:37),Berlin Friedrichstr
+18:32 (+5),RE 3129,Cottbus Hbf (ab 17:04),Berlin Friedrichstr
+18:36 Ausfall,RE 94185,Frankfurt(Oder) (ab 17:26),Berlin Friedrichstr
+18:43 (+25),RE 62026,Wismar (ab 15:24),Berlin Friedrichstr
+18:45,RB 18166,Flughafen BER (ab 18:13),Berlin Friedrichstr
+18:48,RE 3730,Dessau Hbf (ab 17:05),Berlin Friedrichstr
+18:48 (+4),RE 94580,Berlin Zoologischer Garten (ab 18:40),Berlin Friedrichstr
+18:49,RE 18769,Cottbus Hbf (ab 17:13),Berlin Friedrichstr
+18:56 (+14),RE 94145,Frankfurt(Oder) (ab 17:55),Berlin Friedrichstr
+19:01,RE 73740,Magdeburg Hbf (ab 17:12),Berlin Friedrichstr
+19:01 (+1),RE 94140,Berlin Zoologischer Garten (ab 18:53),Berlin Friedrichstr
+19:09,RE 3735,Calau(Nl) (ab 17:43),Berlin Friedrichstr
+19:09 (+6),RE 94535,Calau(Nl) (ab 17:43),Berlin Friedrichstr
+19:14 (+5),RE 62031,Flughafen BER (ab 18:44),Berlin Friedrichstr
+19:16,RE 73782,Brandenburg Hbf (ab 18:19),Berlin Friedrichstr
+19:16 Ausfall,RE 93882,Berlin Zoologischer Garten (ab 19:08),Berlin Friedrichstr
+19:25 Ausfall,RE 3130,Nauen (ab 18:37),Berlin Friedrichstr
+19:32,RE 3131,Cottbus Hbf (ab 18:04),Berlin Friedrichstr
+19:36 (+2),RE 93887,Frankfurt(Oder) (ab 18:26),Berlin Friedrichstr
+19:39 (+7),RE 62258,Brandenburg Hbf (ab 18:41),Berlin Friedrichstr
+19:43,RE 62028,Wittenberge (ab 18:06),Berlin Friedrichstr
+19:45 (+5),RB 18168,Flughafen BER (ab 19:13),Berlin Friedrichstr
+19:48,RE 3732,Bad Belzig (ab 18:41),Berlin Friedrichstr
+19:48 (+1),RE 94532,Berlin Zoologischer Garten (ab 19:40),Berlin Friedrichstr
+19:56,RE 73747,Frankfurt(Oder) (ab 18:55),Berlin Friedrichstr
+20:02 (+14),RE 73742,Magdeburg Hbf (ab 18:12),Berlin Friedrichstr
+20:09,RE 3737,Senftenberg (ab 18:14),Berlin Friedrichstr
+20:09,RE 94537,Senftenberg (ab 18:14),Berlin Friedrichstr
+20:14 (+2),RE 62033,Flughafen BER (ab 19:44),Berlin Friedrichstr
+20:16,RE 73784,Brandenburg Hbf (ab 19:19),Berlin Friedrichstr
+20:16 (+4),RE 94184,Berlin Zoologischer Garten (ab 20:08),Berlin Friedrichstr
+20:25 (+6),RE 3132,Nauen (ab 19:37),Berlin Friedrichstr
+20:32,RE 3133,Cottbus Hbf (ab 19:04),Berlin Friedrichstr
+20:36,RE 73789,Frankfurt(Oder) (ab 19:26),Berlin Friedrichstr
+20:36 (+19),RE 94189,Frankfurt(Oder) (ab 19:26),Berlin Friedrichstr
+20:38 (+2),RE 73826,Berlin Zoologischer Garten (ab 20:29),Berlin Friedrichstr
+20:43 (+2),RE 62030,Wismar (ab 17:24),Berlin Friedrichstr
+20:45,RB 18170,Flughafen BER (ab 20:13),Berlin Friedrichstr
+20:48,RE 3734,Dessau Hbf (ab 19:05),Berlin Friedrichstr
+20:48 (+1),RE 94534,Berlin Zoologischer Garten (ab 20:40),Berlin Friedrichstr
+20:56,RE 73749,Frankfurt(Oder) (ab 19:55),Berlin Friedrichstr
+20:56 (+3),RE 94149,Frankfurt(Oder) (ab 19:55),Berlin Friedrichstr
+21:01,RE 73744,Magdeburg Hbf (ab 19:12),Berlin Friedrichstr
+21:01 (+1),RE 94144,Berlin Zoologischer Garten (ab 20:53),Berlin Friedrichstr
+21:09,RE 3739,Calau(Nl) (ab 19:43),Berlin Friedrichstr
+21:09 (+1),RE 94539,Calau(Nl) (ab 19:43),Berlin Friedrichstr
+21:14,RE 62035,Flughafen BER (ab 20:44),Berlin Friedrichstr
+21:16,RE 73786,Brandenburg Hbf (ab 20:19),Berlin Friedrichstr
+21:16 (+14),RE 94186,Berlin Zoologischer Garten (ab 21:08),Berlin Friedrichstr
+21:25 (+9),RE 3134,Nauen (ab 20:37),Berlin Friedrichstr
+21:32 (+2),RE 3135,Cottbus Hbf (ab 20:04),Berlin Friedrichstr
+21:36,RE 73791,Frankfurt(Oder) (ab 20:26),Berlin Friedrichstr
+21:36 (+2),RE 94191,Frankfurt(Oder) (ab 20:26),Berlin Friedrichstr
+21:43 (+3),RE 62032,Wittenberge (ab 20:06),Berlin Friedrichstr
+21:45,RB 18172,Flughafen BER (ab 21:13),Berlin Friedrichstr
+21:48,RE 3736,Bad Belzig (ab 20:41),Berlin Friedrichstr
+21:48,RE 94536,Berlin Zoologischer Garten (ab 21:40),Berlin Friedrichstr
+22:01 (+2),RE 73746,Magdeburg Hbf (ab 20:12),Berlin Friedrichstr
+22:11,RE 3741,Calau(Nl) (ab 20:43),Berlin Friedrichstr
+22:11,RE 94541,Calau(Nl) (ab 20:43),Berlin Friedrichstr
+22:16,RE 62037,Flughafen BER (ab 21:44),Berlin Friedrichstr
+22:32,RE 3137,Cottbus Hbf (ab 21:04),Berlin Friedrichstr
+22:36,RE 73793,Frankfurt(Oder) (ab 21:24),Berlin Friedrichstr
+22:43,RB 18174,Flughafen BER (ab 22:13),Berlin Friedrichstr
+22:43,RE 62034,Wismar (ab 19:24),Berlin Friedrichstr
+22:53,RE 3136,Schönwalde(Spreewald) (ab 00:02),Berlin Friedrichstr
+22:57,RE 73827,Fürstenwalde(Spree) (ab 22:13),Berlin Friedrichstr
+22:58,RE 73748,Pillgram (ab 00:05),Berlin Friedrichstr
+22:58,RE 94148,Jacobsdorf(Mark) (ab 00:02),Berlin Friedrichstr
+23:14,RE 62039,Breddin (ab 00:34),Berlin Friedrichstr
+23:36,RE 73795,Potsdam Hbf (ab 00:08),Berlin Friedrichstr
+23:42,RB 18176,Flughafen BER (ab 23:13),Berlin Friedrichstr
