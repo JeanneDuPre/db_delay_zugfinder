@@ -1,0 +1,92 @@
+Ankunft,Zugnr.,von (Abfahrt),Ankunftsbhf.
+00:29,RE 62038,Nauen (ab 00:04),Berlin Jungfernheide
+00:42,RE 3100,Nauen (ab 00:08),Berlin Jungfernheide
+04:49,RE 3101,Berlin-Lichtenberg (ab 04:17),Berlin Jungfernheide
+04:56,RE 3144,Rathenow (ab 04:06),Berlin Jungfernheide
+05:00,RE 3145,Berlin Hbf (ab 04:56),Berlin Jungfernheide
+05:23,RB 18243,Berlin Gesundbrunnen (ab 05:13),Berlin Jungfernheide
+05:32,RB 18240,Potsdam Hbf (ab 04:36),Berlin Jungfernheide
+05:55,RE 3164,Stendal Hbf (ab 04:45),Berlin Jungfernheide
+06:01,RE 3167,Jüterbog (ab 05:03),Berlin Jungfernheide
+06:23,RB 18245,Berlin Gesundbrunnen (ab 06:15),Berlin Jungfernheide
+06:56 (+1),RE 3146,Stendal Hbf (ab 05:45),Berlin Jungfernheide
+07:00 (+1),RE 3147,Falkenberg(Elster) (ab 05:14),Berlin Jungfernheide
+07:03 (+1),RB 18603,Nauen (ab 06:28),Berlin Jungfernheide
+07:22 (+2),RB 18247,Berlin Gesundbrunnen (ab 07:13),Berlin Jungfernheide
+07:32 (+4),RB 18244,Potsdam Hbf (ab 06:35),Berlin Jungfernheide
+07:55 (+5),RE 3166,Rathenow (ab 07:06),Berlin Jungfernheide
+08:01 (+1),RE 3169,Jüterbog (ab 07:03),Berlin Jungfernheide
+08:03 (+2),RB 18605,Nauen (ab 07:18),Berlin Jungfernheide
+08:23 (+3),RB 18249,Berlin Gesundbrunnen (ab 08:13),Berlin Jungfernheide
+08:33 (+2),RB 18246,Potsdam Hbf (ab 07:36),Berlin Jungfernheide
+08:57 (+2),RE 3148,Rathenow (ab 08:02),Berlin Jungfernheide
+09:00 (+1),RE 3149,Falkenberg(Elster) (ab 07:09),Berlin Jungfernheide
+09:03 (+4),RB 18607,Nauen (ab 08:27),Berlin Jungfernheide
+09:23,RB 18251,Berlin Gesundbrunnen (ab 09:12),Berlin Jungfernheide
+09:31 (+1),RB 18248,Potsdam Hbf (ab 08:36),Berlin Jungfernheide
+09:55 (+4),RE 3168,Rathenow (ab 09:07),Berlin Jungfernheide
+10:01 (+2),RE 3171,Jüterbog (ab 09:03),Berlin Jungfernheide
+10:03 Ausfall,RB 18609,Nauen (ab 09:18),Berlin Jungfernheide
+10:23,RB 18253,Berlin Gesundbrunnen (ab 10:13),Berlin Jungfernheide
+10:33 (+2),RB 18250,Potsdam Hbf (ab 09:35),Berlin Jungfernheide
+10:57 (+1),RE 3150,Frankfurt(Oder) (ab 00:24),Berlin Jungfernheide
+11:00 (+1),RE 3151,Falkenberg(Elster) (ab 09:14),Berlin Jungfernheide
+11:03 (+5),RB 18611,Nauen (ab 10:27),Berlin Jungfernheide
+11:23,RB 18255,Berlin Gesundbrunnen (ab 11:13),Berlin Jungfernheide
+11:32,RB 18252,Potsdam Hbf (ab 10:36),Berlin Jungfernheide
+11:56 (+1),RE 3170,Frankfurt(Oder) (ab 09:26),Berlin Jungfernheide
+12:01 (+7),RE 3173,Jüterbog (ab 11:03),Berlin Jungfernheide
+12:02,RB 18613,Nauen (ab 11:18),Berlin Jungfernheide
+12:23,RB 18257,Berlin Gesundbrunnen (ab 12:13),Berlin Jungfernheide
+12:33,RB 18254,Potsdam Hbf (ab 11:36),Berlin Jungfernheide
+12:57 (+2),RE 3152,Rathenow (ab 12:02),Berlin Jungfernheide
+13:00 (+13),RE 3153,Falkenberg(Elster) (ab 11:09),Berlin Jungfernheide
+13:02 (+5),RB 18615,Nauen (ab 12:27),Berlin Jungfernheide
+13:23,RB 18259,Berlin Gesundbrunnen (ab 13:13),Berlin Jungfernheide
+13:32,RB 18256,Potsdam Hbf (ab 12:36),Berlin Jungfernheide
+13:56 (+4),RE 3172,Frankfurt(Oder) (ab 10:26),Berlin Jungfernheide
+14:01 (+18),RE 3175,Jüterbog (ab 13:03),Berlin Jungfernheide
+14:02 (+3),RB 18617,Nauen (ab 13:18),Berlin Jungfernheide
+14:23 (+2),RB 18261,Berlin Gesundbrunnen (ab 14:13),Berlin Jungfernheide
+14:33 (+3),RB 18258,Potsdam Hbf (ab 13:36),Berlin Jungfernheide
+14:57 (+1),RE 3154,Rathenow (ab 14:02),Berlin Jungfernheide
+15:00 (+12),RE 3155,Falkenberg(Elster) (ab 13:09),Berlin Jungfernheide
+15:02 (+13),RB 18619,Nauen (ab 14:27),Berlin Jungfernheide
+15:23,RB 18263,Berlin Gesundbrunnen (ab 15:12),Berlin Jungfernheide
+15:32 (+1),RB 18260,Potsdam Hbf (ab 14:36),Berlin Jungfernheide
+15:56 (+1),RE 3174,Rathenow (ab 15:02),Berlin Jungfernheide
+16:01 (+8),RE 3177,Jüterbog (ab 15:03),Berlin Jungfernheide
+16:02,RB 18621,Nauen (ab 15:18),Berlin Jungfernheide
+16:23,RB 18265,Berlin Gesundbrunnen (ab 16:13),Berlin Jungfernheide
+16:33 (+1),RB 18262,Potsdam Hbf (ab 15:36),Berlin Jungfernheide
+16:57 (+7),RE 3156,Rathenow (ab 16:02),Berlin Jungfernheide
+17:00 (+4),RE 3157,Falkenberg(Elster) (ab 15:09),Berlin Jungfernheide
+17:03 (+5),RB 18623,Nauen (ab 16:27),Berlin Jungfernheide
+17:23,RB 18267,Berlin Gesundbrunnen (ab 17:13),Berlin Jungfernheide
+17:32 (+1),RB 18264,Potsdam Hbf (ab 16:36),Berlin Jungfernheide
+17:56,RE 3176,Rathenow (ab 17:02),Berlin Jungfernheide
+18:00 (+11),RE 3179,Jüterbog (ab 17:03),Berlin Jungfernheide
+18:02 (+3),RB 18625,Nauen (ab 17:18),Berlin Jungfernheide
+18:22,RB 18269,Berlin Gesundbrunnen (ab 18:13),Berlin Jungfernheide
+18:33,RB 18266,Potsdam Hbf (ab 17:36),Berlin Jungfernheide
+18:57 (+11),RE 3158,Rathenow (ab 18:02),Berlin Jungfernheide
+19:00 (+10),RE 3159,Falkenberg(Elster) (ab 17:09),Berlin Jungfernheide
+19:03 (+10),RB 18627,Nauen (ab 18:27),Berlin Jungfernheide
+19:22,RB 18271,Berlin Gesundbrunnen (ab 19:13),Berlin Jungfernheide
+19:32 (+3),RB 18268,Potsdam Hbf (ab 18:36),Berlin Jungfernheide
+19:56,RE 3178,Rathenow (ab 19:03),Berlin Jungfernheide
+20:01 (+7),RE 3181,Jüterbog (ab 19:03),Berlin Jungfernheide
+20:02 (+3),RB 18629,Nauen (ab 19:18),Berlin Jungfernheide
+20:23,RB 18273,Berlin Gesundbrunnen (ab 20:13),Berlin Jungfernheide
+20:33,RB 18270,Potsdam Hbf (ab 19:36),Berlin Jungfernheide
+20:57,RE 3160,Berlin Ostkreuz (ab 05:25),Berlin Jungfernheide
+21:00 (+18),RE 3161,Falkenberg(Elster) (ab 19:14),Berlin Jungfernheide
+21:03 (+3),RB 18631,Nauen (ab 20:27),Berlin Jungfernheide
+21:23,RB 18275,Berlin Gesundbrunnen (ab 21:13),Berlin Jungfernheide
+21:34,RB 18272,Potsdam Hbf (ab 20:36),Berlin Jungfernheide
+21:55 (+5),RE 3180,Rathenow (ab 21:12),Berlin Jungfernheide
+22:01 (+24),RE 3183,Jüterbog (ab 21:03),Berlin Jungfernheide
+22:31 (+1),RB 18274,Potsdam Hbf (ab 21:35),Berlin Jungfernheide
+22:56 (+7),RE 3162,Rathenow (ab 22:06),Berlin Jungfernheide
+23:11 (+22),RE 3185,Jüterbog (ab 22:03),Berlin Jungfernheide
+23:56 (+5),RE 3182,Frankfurt(Oder) (ab 15:26),Berlin Jungfernheide
