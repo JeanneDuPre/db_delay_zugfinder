@@ -1,0 +1,128 @@
+Abfahrt,Zugnr.,nach (Ankunft),Abfahrtsbhf.
+00:54,S,Berlin-Spandau (S) (an 23:07),Berlin-Lichtenberg (S)
+05:14,RB 18300,Eberswalde Hbf (an 05:54),Berlin-Lichtenberg
+05:42,RB 18200,Oranienburg (an 06:09),Berlin-Lichtenberg
+06:14,RB 18302,Eberswalde Hbf (an 06:54),Berlin-Lichtenberg
+06:42,RB 18202,Oranienburg (an 07:09),Berlin-Lichtenberg
+06:54,RB 61105,Templin Stadt (an 08:19),Berlin-Lichtenberg
+07:14,RB 18304,Eberswalde Hbf (an 07:54),Berlin-Lichtenberg
+07:42,RB 18204,Oranienburg (an 08:09),Berlin-Lichtenberg
+07:54,RB 61107,Templin Stadt (an 09:19),Berlin-Lichtenberg
+08:04,RB 61187,Rheinsberg(Mark) (an 09:24),Berlin-Lichtenberg
+08:14,RB 18306,Eberswalde Hbf (an 08:54),Berlin-Lichtenberg
+08:42,IRE IRE,Cottbus Hbf (an 10:12),Berlin-Lichtenberg
+08:42,IRE69026,Wroclaw Glowny (an 13:11),Berlin-Lichtenberg
+08:42,RB 18206,Oranienburg (an 09:09),Berlin-Lichtenberg
+08:54,RB 61109,Templin Stadt (an 10:19),Berlin-Lichtenberg
+09:14,RB 18308,Eberswalde Hbf (an 10:00),Berlin-Lichtenberg
+09:42,RB 18208,Oranienburg (an 10:09),Berlin-Lichtenberg
+09:54,RB 61111,Templin Stadt (an 11:19),Berlin-Lichtenberg
+10:14,RB 18310,Eberswalde Hbf (an 10:54),Berlin-Lichtenberg
+10:42,RB 18210,Oranienburg (an 11:09),Berlin-Lichtenberg
+10:54 (+2),RB 61113,Templin Stadt (an 12:19),Berlin-Lichtenberg
+11:14,RB 18312,Eberswalde Hbf (an 11:54),Berlin-Lichtenberg
+11:30 Ausfall,FEX19835,Flughafen BER (an 12:00),Berlin-Lichtenberg
+11:38 (+5),RB 5163,Küstrin-Kietz (an 12:48),Berlin-Lichtenberg
+11:42,RB 18212,Oranienburg (an 12:09),Berlin-Lichtenberg
+11:54 (+2),RB 61115,Templin Stadt (an 13:19),Berlin-Lichtenberg
+11:55,FEX19828,Berlin Hbf (an 12:03),Berlin-Lichtenberg
+12:00,RB 61114,Berlin Ostkreuz (an 12:03),Berlin-Lichtenberg
+12:05,FEX19837,Flughafen BER (an 12:30),Berlin-Lichtenberg
+12:14 (+1),RB 18314,Eberswalde Hbf (an 12:54),Berlin-Lichtenberg
+12:23,FEX19830,Berlin Hbf (an 12:33),Berlin-Lichtenberg
+12:25,RB 61157,Werneuchen (an 12:55),Berlin-Lichtenberg
+12:30 (+7),FEX19839,Flughafen BER (an 13:00),Berlin-Lichtenberg
+12:38 (+1),RB 5165,Küstrin-Kietz (an 13:39),Berlin-Lichtenberg
+12:42 (+1),RB 18214,Oranienburg (an 13:09),Berlin-Lichtenberg
+12:54 (+1),RB 61117,Templin Stadt (an 14:19),Berlin-Lichtenberg
+12:55,FEX19832,Berlin Hbf (an 13:03),Berlin-Lichtenberg
+13:00 (+2),RB 61116,Berlin Ostkreuz (an 13:03),Berlin-Lichtenberg
+13:05,FEX19841,Flughafen BER (an 13:30),Berlin-Lichtenberg
+13:13 (+1),RB 18219,Schönefeld(bei Berlin) (an 13:34),Berlin-Lichtenberg
+13:14 (+1),RB 18316,Eberswalde Hbf (an 13:54),Berlin-Lichtenberg
+13:23,FEX19834,Berlin Hbf (an 13:35),Berlin-Lichtenberg
+13:25 (+3),RB 5166,Berlin Ostkreuz (an 13:28),Berlin-Lichtenberg
+13:25 (+1),RB 61159,Werneuchen (an 13:55),Berlin-Lichtenberg
+13:30 (+6),FEX19843,Flughafen BER (an 14:00),Berlin-Lichtenberg
+13:38 (+2),RB 5167,Küstrin-Kietz (an 14:48),Berlin-Lichtenberg
+13:38 (+1),RB 61158,Berlin Ostkreuz (an 13:41),Berlin-Lichtenberg
+13:42,RB 18216,Oranienburg (an 14:09),Berlin-Lichtenberg
+13:48 (+4),RB 18319,Schönefeld(bei Berlin) (an 14:10),Berlin-Lichtenberg
+13:54 (+1),RB 61119,Templin Stadt (an 15:19),Berlin-Lichtenberg
+13:55,FEX19836,Berlin Hbf (an 14:03),Berlin-Lichtenberg
+14:00,RB 61118,Berlin Ostkreuz (an 14:03),Berlin-Lichtenberg
+14:05,FEX19845,Flughafen BER (an 14:30),Berlin-Lichtenberg
+14:13 (+2),RB 18221,Schönefeld(bei Berlin) (an 14:34),Berlin-Lichtenberg
+14:14 (+1),RB 18318,Eberswalde Hbf (an 14:54),Berlin-Lichtenberg
+14:23,FEX19838,Berlin Hbf (an 14:33),Berlin-Lichtenberg
+14:25 (+1),RB 61161,Werneuchen (an 14:55),Berlin-Lichtenberg
+14:30 (+7),FEX19847,Flughafen BER (an 15:00),Berlin-Lichtenberg
+14:34 (+4),RB 61160,Berlin Ostkreuz (an 14:37),Berlin-Lichtenberg
+14:38 (+3),RB 5169,Küstrin-Kietz (an 15:39),Berlin-Lichtenberg
+14:42 (+2),RB 18218,Oranienburg (an 15:09),Berlin-Lichtenberg
+14:48 (+2),RB 18321,Schönefeld(bei Berlin) (an 15:10),Berlin-Lichtenberg
+14:54 (+1),RB 61121,Templin Stadt (an 16:19),Berlin-Lichtenberg
+14:55,FEX19840,Berlin Hbf (an 15:03),Berlin-Lichtenberg
+15:00,RB 61120,Berlin Ostkreuz (an 15:03),Berlin-Lichtenberg
+15:05,FEX19849,Flughafen BER (an 15:30),Berlin-Lichtenberg
+15:14 (+1),RB 18320,Eberswalde Hbf (an 15:54),Berlin-Lichtenberg
+15:23,FEX19842,Berlin Hbf (an 15:33),Berlin-Lichtenberg
+15:25 (+4),RB 5170,Berlin Ostkreuz (an 15:28),Berlin-Lichtenberg
+15:25 (+1),RB 61163,Werneuchen (an 15:55),Berlin-Lichtenberg
+15:36 (+1),FEX19851,Ludwigsfelde (an 16:24),Berlin-Lichtenberg
+15:36,RB 18675,Ludwigsfelde (an 16:24),Berlin-Lichtenberg
+15:38 (+4),RB 5171,Küstrin-Kietz (an 16:48),Berlin-Lichtenberg
+15:38 (+3),RB 61162,Berlin Ostkreuz (an 15:41),Berlin-Lichtenberg
+15:42,RB 18220,Oranienburg (an 16:09),Berlin-Lichtenberg
+15:54 (+2),RB 61123,Templin Stadt (an 17:19),Berlin-Lichtenberg
+15:55,FEX19844,Berlin Hbf (an 16:09),Berlin-Lichtenberg
+16:00,RB 61122,Berlin Ostkreuz (an 16:03),Berlin-Lichtenberg
+16:05,FEX19853,Flughafen BER (an 16:30),Berlin-Lichtenberg
+16:14 (+1),RB 18322,Eberswalde Hbf (an 16:56),Berlin-Lichtenberg
+16:23,FEX19846,Berlin Hbf (an 16:33),Berlin-Lichtenberg
+16:30 (+3),FEX19855,Flughafen BER (an 17:00),Berlin-Lichtenberg
+16:34,RB 61164,Berlin Ostkreuz (an 16:37),Berlin-Lichtenberg
+16:38 (+1),RB 5173,Küstrin-Kietz (an 17:39),Berlin-Lichtenberg
+16:42,RB 18222,Oranienburg (an 17:09),Berlin-Lichtenberg
+16:48 (+4),RB 18325,Schönefeld(bei Berlin) (an 17:10),Berlin-Lichtenberg
+16:51,FEX19848,Berlin Hbf (an 17:03),Berlin-Lichtenberg
+16:54 (+2),RB 61125,Templin Stadt (an 18:19),Berlin-Lichtenberg
+17:00,RB 61124,Berlin Ostkreuz (an 17:03),Berlin-Lichtenberg
+17:05,FEX19857,Flughafen BER (an 17:30),Berlin-Lichtenberg
+17:14 (+1),RB 18324,Eberswalde Hbf (an 17:54),Berlin-Lichtenberg
+17:23,FEX19850,Berlin Hbf (an 17:34),Berlin-Lichtenberg
+17:25 (+3),RB 5174,Berlin Ostkreuz (an 17:28),Berlin-Lichtenberg
+17:30 (+2),FEX19859,Flughafen BER (an 18:00),Berlin-Lichtenberg
+17:38,RB 61166,Berlin Ostkreuz (an 17:41),Berlin-Lichtenberg
+17:42,RB 18224,Oranienburg (an 18:09),Berlin-Lichtenberg
+17:54 (+2),RB 61127,Templin Stadt (an 19:19),Berlin-Lichtenberg
+17:55,FEX19852,Berlin Hbf (an 18:03),Berlin-Lichtenberg
+18:00 (+4),RB 61126,Berlin Ostkreuz (an 18:03),Berlin-Lichtenberg
+18:05,FEX19861,Flughafen BER (an 18:30),Berlin-Lichtenberg
+18:14 (+2),RB 18326,Eberswalde Hbf (an 18:54),Berlin-Lichtenberg
+18:23,FEX19854,Berlin Hbf (an 18:34),Berlin-Lichtenberg
+18:30 (+4),FEX19863,Flughafen BER (an 19:00),Berlin-Lichtenberg
+18:34,RB 61168,Berlin Ostkreuz (an 18:37),Berlin-Lichtenberg
+18:42 (+2),RB 18226,Oranienburg (an 19:09),Berlin-Lichtenberg
+18:54 (+2),RB 61129,Templin Stadt (an 20:19),Berlin-Lichtenberg
+18:55,FEX19856,Berlin Hbf (an 19:03),Berlin-Lichtenberg
+19:00,RB 61128,Berlin Ostkreuz (an 19:03),Berlin-Lichtenberg
+19:05,FEX19865,Flughafen BER (an 19:30),Berlin-Lichtenberg
+19:14,RB 18328,Eberswalde Hbf (an 19:54),Berlin-Lichtenberg
+19:23,FEX19858,Berlin Hbf (an 19:33),Berlin-Lichtenberg
+19:25 (+1),RB 5178,Berlin Ostkreuz (an 19:28),Berlin-Lichtenberg
+19:30,FEX19867,Flughafen BER (an 20:00),Berlin-Lichtenberg
+19:38 (+1),RB 61170,Berlin Ostkreuz (an 19:41),Berlin-Lichtenberg
+19:42 (+1),RB 18228,Oranienburg (an 20:09),Berlin-Lichtenberg
+19:54,RB 61131,Templin Stadt (an 21:19),Berlin-Lichtenberg
+19:55,FEX19860,Berlin Hbf (an 20:03),Berlin-Lichtenberg
+20:00,RB 61130,Berlin Ostkreuz (an 20:03),Berlin-Lichtenberg
+20:14,RB 18330,Eberswalde Hbf (an 20:54),Berlin-Lichtenberg
+20:42,RB 18230,Oranienburg (an 21:09),Berlin-Lichtenberg
+20:54,RB 61133,Templin Stadt (an 22:19),Berlin-Lichtenberg
+21:14,RB 18332,Eberswalde Hbf (an 21:54),Berlin-Lichtenberg
+21:42,RB 18232,Oranienburg (an 22:09),Berlin-Lichtenberg
+22:14,RB 18334,Eberswalde Hbf (an 22:54),Berlin-Lichtenberg
+22:43,RB 18236,Oranienburg (an 23:09),Berlin-Lichtenberg
+22:53,RB 61135,Templin Stadt (an 00:18),Berlin-Lichtenberg
+23:38,RB 61389,Oranienburg (an 00:04),Berlin-Lichtenberg
