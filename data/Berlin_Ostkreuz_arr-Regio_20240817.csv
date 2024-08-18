@@ -1,0 +1,86 @@
+Ankunft,Zugnr.,von (Abfahrt),Ankunftsbhf.
+00:12,RE 73750,Berlin Friedrichstr (ab 00:01),Berlin Ostkreuz
+01:23,RE 73753,Frankfurt(Oder) (ab 00:24),Berlin Ostkreuz
+01:36,RE 73794,Genthin (ab 00:01),Berlin Ostkreuz
+04:27,RE 73752,Brandenburg Hbf (ab 03:15),Berlin Ostkreuz
+04:43,RE 73717,Frankfurt(Oder) (ab 03:44),Berlin Ostkreuz
+05:23,RE 73759,Frankfurt(Oder) (ab 04:23),Berlin Ostkreuz
+05:29 (+6),RB 18140,Flughafen BER (ab 05:13),Berlin Ostkreuz
+05:43,RE 73719,Frankfurt(Oder) (ab 04:44),Berlin Ostkreuz
+06:03,EC 41,Berlin Hbf (ab 05:51),Berlin Ostkreuz
+06:23,RE 73761,Frankfurt(Oder) (ab 05:26),Berlin Ostkreuz
+06:29,RE 73756,Magdeburg Hbf (ab 04:19),Berlin Ostkreuz
+06:43,RE 73721,Frankfurt(Oder) (ab 05:55),Berlin Ostkreuz
+07:07,IC 2432,Cottbus Hbf (ab 05:00),Berlin Ostkreuz
+07:07,RE 62432,Cottbus Hbf (ab 05:00),Berlin Ostkreuz
+07:13,RE 73716,Magdeburg Hbf (ab 05:12),Berlin Ostkreuz
+07:23,RE 73763,Frankfurt(Oder) (ab 06:26),Berlin Ostkreuz
+07:43,RE 73723,Frankfurt(Oder) (ab 06:55),Berlin Ostkreuz
+08:23,RE 73765,Frankfurt(Oder) (ab 07:26),Berlin Ostkreuz
+08:29,RE 73760,Magdeburg Hbf (ab 06:12),Berlin Ostkreuz
+08:43,RE 73725,Frankfurt(Oder) (ab 07:55),Berlin Ostkreuz
+09:06,RB 18308,Schönefeld(bei Berlin) (ab 08:49),Berlin Ostkreuz
+09:10,FEX19825,Berlin Hbf (ab 08:51),Berlin Ostkreuz
+09:13,RE 73720,Magdeburg Hbf (ab 07:12),Berlin Ostkreuz
+09:15,FEX19818,Ludwigsfelde (ab 08:32),Berlin Ostkreuz
+09:23,RB 18149,Berlin-Charlottenburg (ab 09:00),Berlin Ostkreuz
+09:23,RE 73767,Frankfurt(Oder) (ab 08:26),Berlin Ostkreuz
+09:28,RB 5158,Kostrzyn (ab 08:04),Berlin Ostkreuz
+09:29,RE 73762,Brandenburg Hbf (ab 08:19),Berlin Ostkreuz
+09:35,RB 18208,Schönefeld(bei Berlin) (ab 09:19),Berlin Ostkreuz
+09:39,FEX19827,Berlin Hbf (ab 09:21),Berlin Ostkreuz
+09:41,RB 61150,Werneuchen (ab 09:02),Berlin Ostkreuz
+09:43,RE 73727,Frankfurt(Oder) (ab 08:55),Berlin Ostkreuz
+09:53 (+2),RB 18311,Eberswalde Hbf (ab 09:08),Berlin Ostkreuz
+09:55,RE 62008,Bad Wilsnack (ab 08:13),Berlin Ostkreuz
+10:13,RE 73722,Magdeburg Hbf (ab 08:12),Berlin Ostkreuz
+10:23 (+22),RE 73769,Frankfurt(Oder) (ab 09:26),Berlin Ostkreuz
+10:29 (+9),RE 73764,Brandenburg Hbf (ab 09:19),Berlin Ostkreuz
+10:43 (+8),RE 73729,Frankfurt(Oder) (ab 09:55),Berlin Ostkreuz
+11:13,RE 73724,Magdeburg Hbf (ab 09:12),Berlin Ostkreuz
+11:23,RE 73771,Frankfurt(Oder) (ab 10:26),Berlin Ostkreuz
+11:29 (+8),RE 73766,Brandenburg Hbf (ab 10:19),Berlin Ostkreuz
+11:43,RE 73731,Frankfurt(Oder) (ab 10:55),Berlin Ostkreuz
+12:13,RE 73726,Magdeburg Hbf (ab 10:12),Berlin Ostkreuz
+12:23,RE 73773,Frankfurt(Oder) (ab 11:26),Berlin Ostkreuz
+12:29,RE 73768,Brandenburg Hbf (ab 11:19),Berlin Ostkreuz
+12:43,RE 73733,Frankfurt(Oder) (ab 11:55),Berlin Ostkreuz
+13:13,RE 73728,Magdeburg Hbf (ab 11:12),Berlin Ostkreuz
+13:23,RE 73775,Frankfurt(Oder) (ab 12:26),Berlin Ostkreuz
+13:29,RE 73770,Brandenburg Hbf (ab 12:19),Berlin Ostkreuz
+13:43,RE 73735,Frankfurt(Oder) (ab 12:55),Berlin Ostkreuz
+14:13,RE 73730,Magdeburg Hbf (ab 12:12),Berlin Ostkreuz
+14:23,RE 73777,Frankfurt(Oder) (ab 13:26),Berlin Ostkreuz
+14:29,RE 73772,Brandenburg Hbf (ab 13:19),Berlin Ostkreuz
+14:43,RE 73737,Frankfurt(Oder) (ab 13:55),Berlin Ostkreuz
+15:13,RE 73732,Magdeburg Hbf (ab 13:12),Berlin Ostkreuz
+15:23,RE 73779,Frankfurt(Oder) (ab 14:26),Berlin Ostkreuz
+15:29,RE 73774,Brandenburg Hbf (ab 14:19),Berlin Ostkreuz
+15:43,RE 73739,Frankfurt(Oder) (ab 14:55),Berlin Ostkreuz
+16:13,RE 73734,Magdeburg Hbf (ab 14:12),Berlin Ostkreuz
+16:24,RE 73781,Frankfurt(Oder) (ab 15:26),Berlin Ostkreuz
+16:29,RE 73776,Brandenburg Hbf (ab 15:19),Berlin Ostkreuz
+16:43,RE 73741,Frankfurt(Oder) (ab 15:55),Berlin Ostkreuz
+17:13,RE 73736,Magdeburg Hbf (ab 15:12),Berlin Ostkreuz
+17:23,RE 73783,Frankfurt(Oder) (ab 16:26),Berlin Ostkreuz
+17:29,RE 73778,Brandenburg Hbf (ab 16:19),Berlin Ostkreuz
+17:43,RE 73743,Frankfurt(Oder) (ab 16:55),Berlin Ostkreuz
+18:13,RE 73738,Magdeburg Hbf (ab 16:12),Berlin Ostkreuz
+18:18,RE 3746,Bad Belzig (ab 17:01),Berlin Ostkreuz
+18:23,RE 73785,Frankfurt(Oder) (ab 17:26),Berlin Ostkreuz
+18:29,RE 73780,Brandenburg Hbf (ab 17:19),Berlin Ostkreuz
+18:43,RE 73745,Frankfurt(Oder) (ab 17:55),Berlin Ostkreuz
+19:13,RE 73740,Magdeburg Hbf (ab 17:12),Berlin Ostkreuz
+19:23,RE 73787,Frankfurt(Oder) (ab 18:26),Berlin Ostkreuz
+19:29,RE 73782,Brandenburg Hbf (ab 18:19),Berlin Ostkreuz
+19:43,RE 73747,Frankfurt(Oder) (ab 18:55),Berlin Ostkreuz
+20:13,RE 73742,Magdeburg Hbf (ab 18:12),Berlin Ostkreuz
+20:23,RE 73789,Frankfurt(Oder) (ab 19:26),Berlin Ostkreuz
+20:29,RE 73784,Brandenburg Hbf (ab 19:19),Berlin Ostkreuz
+20:43,RE 73749,Frankfurt(Oder) (ab 19:55),Berlin Ostkreuz
+21:13,RE 73744,Magdeburg Hbf (ab 19:12),Berlin Ostkreuz
+21:29,RE 73786,Brandenburg Hbf (ab 20:19),Berlin Ostkreuz
+22:13,RE 73746,Magdeburg Hbf (ab 20:12),Berlin Ostkreuz
+22:23,RE 73793,Güsen(b Genthin) (ab 00:10),Berlin Ostkreuz
+23:12,RE 73748,Pillgram (ab 00:05),Berlin Ostkreuz
+23:23,RE 73795,Potsdam Charlottenhof (ab 00:11),Berlin Ostkreuz
