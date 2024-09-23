@@ -1,0 +1,68 @@
+Ankunft,Zugnr.,von (Abfahrt),Ankunftsbhf.
+01:14,RE 3742,Borkheide (ab 00:09),Berlin Ostkreuz
+04:55,RE 3707,Lübbenau(Spreewald) (ab 03:54),Berlin Ostkreuz
+05:01,RE 3702,Borkheide (ab 03:55),Berlin Ostkreuz
+05:18,RE 3103,Cottbus Hbf (ab 03:47),Berlin Ostkreuz
+05:37,RE 3102,Nauen (ab 04:36),Berlin Ostkreuz
+05:55,RE 3709,Senftenberg (ab 04:14),Berlin Ostkreuz
+05:59 (+1),RE 3704,Borkheide (ab 04:55),Berlin Ostkreuz
+06:18,RE 3105,Cottbus Hbf (ab 05:01),Berlin Ostkreuz
+06:37,RE 3104,Nauen (ab 05:37),Berlin Ostkreuz
+06:55,RE 3711,Senftenberg (ab 05:10),Berlin Ostkreuz
+07:01,RE 3706,Borkheide (ab 05:55),Berlin Ostkreuz
+07:10,IC 2432,Cottbus Hbf (ab 06:01),Berlin Ostkreuz
+07:10,RE 62432,Cottbus Hbf (ab 06:01),Berlin Ostkreuz
+07:18,RE 3107,Cottbus Hbf (ab 06:08),Berlin Ostkreuz
+07:37,RE 3106,Nauen (ab 06:37),Berlin Ostkreuz
+08:01,RE 3708,Borkheide (ab 06:55),Berlin Ostkreuz
+08:18 (+1),RE 3109,Cottbus Hbf (ab 07:03),Berlin Ostkreuz
+08:37 (+1),RE 3108,Nauen (ab 07:37),Berlin Ostkreuz
+08:55 (+6),RE 3715,Senftenberg (ab 07:14),Berlin Ostkreuz
+09:01 (+1),RE 3710,Borkheide (ab 07:55),Berlin Ostkreuz
+09:18,RE 3111,Cottbus Hbf (ab 08:04),Berlin Ostkreuz
+09:37,RE 3110,Nauen (ab 08:37),Berlin Ostkreuz
+09:55,RE 3717,Senftenberg (ab 08:14),Berlin Ostkreuz
+10:01 (+2),RE 3712,Borkheide (ab 08:55),Berlin Ostkreuz
+10:18,RE 3113,Cottbus Hbf (ab 09:04),Berlin Ostkreuz
+10:19,RE 18768,Berlin-Charlottenburg (ab 09:55),Berlin Ostkreuz
+10:37,RE 3112,Nauen (ab 09:37),Berlin Ostkreuz
+10:55 (+4),RE 3719,Senftenberg (ab 09:14),Berlin Ostkreuz
+11:01 Ausfall,RE 3714,Borkheide (ab 09:55),Berlin Ostkreuz
+11:18,RE 3115,Cottbus Hbf (ab 10:04),Berlin Ostkreuz
+11:37,RE 3114,Nauen (ab 10:37),Berlin Ostkreuz
+11:55 (+5),RE 3721,Senftenberg (ab 10:14),Berlin Ostkreuz
+12:01 (+16),RE 3716,Borkheide (ab 10:55),Berlin Ostkreuz
+12:18,RE 3117,Cottbus Hbf (ab 11:04),Berlin Ostkreuz
+12:37,RE 3116,Nauen (ab 11:37),Berlin Ostkreuz
+12:55 (+11),RE 3723,Senftenberg (ab 11:14),Berlin Ostkreuz
+13:01 (+11),RE 3718,Borkheide (ab 11:55),Berlin Ostkreuz
+13:18,RE 3119,Cottbus Hbf (ab 12:04),Berlin Ostkreuz
+13:37,RE 3118,Nauen (ab 12:37),Berlin Ostkreuz
+13:55 (+9),RE 3725,Senftenberg (ab 12:14),Berlin Ostkreuz
+14:01,RE 3720,Borkheide (ab 12:55),Berlin Ostkreuz
+14:18,RE 3121,Cottbus Hbf (ab 13:04),Berlin Ostkreuz
+14:37,RE 3120,Nauen (ab 13:37),Berlin Ostkreuz
+14:55 (+44),RE 3727,Senftenberg (ab 13:14),Berlin Ostkreuz
+15:01 (+1),RE 3722,Borkheide (ab 13:55),Berlin Ostkreuz
+15:18,RE 3123,Cottbus Hbf (ab 14:04),Berlin Ostkreuz
+15:37,RE 3122,Nauen (ab 14:37),Berlin Ostkreuz
+15:55 (+4),RE 3729,Troisvierges (ab 04:35),Berlin Ostkreuz
+16:01 (+7),RE 3724,Borkheide (ab 14:55),Berlin Ostkreuz
+16:18,RE 3125,Cottbus Hbf (ab 15:04),Berlin Ostkreuz
+16:37,RE 3124,Nauen (ab 15:37),Berlin Ostkreuz
+16:55 (+5),RE 3731,Senftenberg (ab 15:14),Berlin Ostkreuz
+17:01,RE 3726,Borkheide (ab 15:55),Berlin Ostkreuz
+17:18,RE 3127,Cottbus Hbf (ab 16:04),Berlin Ostkreuz
+17:37,RE 3126,Nauen (ab 16:37),Berlin Ostkreuz
+17:55 (+4),RE 3733,Senftenberg (ab 16:14),Berlin Ostkreuz
+18:01 (+5),RE 3728,Borkheide (ab 16:55),Berlin Ostkreuz
+18:15,FEX19854,Ludwigsfelde (ab 17:39),Berlin Ostkreuz
+18:18,RE 3129,Cottbus Hbf (ab 17:04),Berlin Ostkreuz
+18:35,RE 18769,Cottbus Hbf (ab 17:13),Berlin Ostkreuz
+18:37,RE 3128,Nauen (ab 17:37),Berlin Ostkreuz
+18:43 Ausfall,IC 2431,Emden Außenhafen (ab 12:01),Berlin Ostkreuz
+18:43,RE 62431,Potsdam Hbf (ab 18:02),Berlin Ostkreuz
+18:55 (+6),RE 3735,Senftenberg (ab 17:14),Berlin Ostkreuz
+19:01 (+1),RE 3730,Borkheide (ab 17:55),Berlin Ostkreuz
+19:18,RE 3131,Cottbus Hbf (ab 18:04),Berlin Ostkreuz
+19:37,RE 3130,Nauen (ab 18:37),Berlin Ostkreuz
