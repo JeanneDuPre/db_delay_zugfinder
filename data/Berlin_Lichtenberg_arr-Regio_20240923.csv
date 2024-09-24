@@ -1,0 +1,69 @@
+Ankunft,Zugnr.,von (Abfahrt),Ankunftsbhf.
+00:13,RE 91799,Lübben(Spreewald) (ab 23:04),Berlin-Lichtenberg
+00:39,RE 94141,Cottbus Hbf (ab 23:02),Berlin-Lichtenberg
+05:12,RB 18300,Schönefeld(bei Berlin) (ab 04:49),Berlin-Lichtenberg
+05:41,RB 18200,Schönefeld(bei Berlin) (ab 05:19),Berlin-Lichtenberg
+06:12,RB 18302,Schönefeld(bei Berlin) (ab 05:49),Berlin-Lichtenberg
+06:41,RB 18202,Schönefeld(bei Berlin) (ab 06:19),Berlin-Lichtenberg
+07:12,RB 18304,Schönefeld(bei Berlin) (ab 06:49),Berlin-Lichtenberg
+07:41,RB 18204,Schönefeld(bei Berlin) (ab 07:19),Berlin-Lichtenberg
+08:12,RB 18306,Schönefeld(bei Berlin) (ab 07:49),Berlin-Lichtenberg
+08:15,EN 40476,Budapest-Nyugati (ab 19:30),Berlin-Lichtenberg
+08:15,NJ 456,Graz Hbf (ab 19:20),Berlin-Lichtenberg
+08:41,RB 18206,Schönefeld(bei Berlin) (ab 08:19),Berlin-Lichtenberg
+09:12,RB 18308,Schönefeld(bei Berlin) (ab 08:49),Berlin-Lichtenberg
+09:41,RB 18208,Schönefeld(bei Berlin) (ab 09:19),Berlin-Lichtenberg
+10:12,RB 18310,Schönefeld(bei Berlin) (ab 09:49),Berlin-Lichtenberg
+10:17,RE 62061,Elsterwerda (ab 08:13),Berlin-Lichtenberg
+10:20 (+1),IC 2175,Warnemünde (ab 07:56),Berlin-Lichtenberg
+10:40,RB 18210,Schönefeld(bei Berlin) (ab 10:19),Berlin-Lichtenberg
+10:49 (+7),EC 178,Praha hl.n. (ab 06:28),Berlin-Lichtenberg
+11:12,RB 18312,Schönefeld(bei Berlin) (ab 10:49),Berlin-Lichtenberg
+11:17,RE 62063,Baruth(Mark) (ab 10:07),Berlin-Lichtenberg
+11:28 (+14),IC 2270,Chemnitz Hbf (ab 08:15),Berlin-Lichtenberg
+11:28,RE 52270,Elsterwerda (ab 10:04),Berlin-Lichtenberg
+11:41 (+9),RB 18212,Schönefeld(bei Berlin) (ab 11:19),Berlin-Lichtenberg
+12:12,RB 18314,Schönefeld(bei Berlin) (ab 11:49),Berlin-Lichtenberg
+12:17,RE 62065,Elsterwerda (ab 10:13),Berlin-Lichtenberg
+12:26,IC 2177,Warnemünde (ab 09:56),Berlin-Lichtenberg
+12:39 (+4),EC 176,Praha hl.n. (ab 08:28),Berlin-Lichtenberg
+12:41,RB 18214,Schönefeld(bei Berlin) (ab 12:19),Berlin-Lichtenberg
+13:12,RB 18316,Schönefeld(bei Berlin) (ab 12:49),Berlin-Lichtenberg
+13:32 (+3),IC 2178,Dresden Hbf (ab 11:22),Berlin-Lichtenberg
+13:32,RE 52178,Elsterwerda (ab 12:01),Berlin-Lichtenberg
+13:41 (+8),RB 18216,Schönefeld(bei Berlin) (ab 13:19),Berlin-Lichtenberg
+13:47,RB 18319,Eberswalde Hbf (ab 13:08),Berlin-Lichtenberg
+14:12,RB 18221,Oranienburg (ab 13:45),Berlin-Lichtenberg
+14:12,RB 18318,Schönefeld(bei Berlin) (ab 13:49),Berlin-Lichtenberg
+14:17,RE 62069,Elsterwerda (ab 12:13),Berlin-Lichtenberg
+14:27 (+5),IC 2179,Warnemünde (ab 11:56),Berlin-Lichtenberg
+14:41,RB 18218,Schönefeld(bei Berlin) (ab 14:19),Berlin-Lichtenberg
+14:49 (+1),EC 174,Praha hl.n. (ab 10:28),Berlin-Lichtenberg
+15:12,RB 18320,Schönefeld(bei Berlin) (ab 14:49),Berlin-Lichtenberg
+15:17,RE 62071,Baruth(Mark) (ab 14:07),Berlin-Lichtenberg
+15:28 (+4),IC 2176,Dresden Hbf (ab 13:22),Berlin-Lichtenberg
+15:28,RE 52176,Elsterwerda (ab 14:01),Berlin-Lichtenberg
+15:41,RB 18220,Schönefeld(bei Berlin) (ab 15:19),Berlin-Lichtenberg
+16:12,RB 18322,Schönefeld(bei Berlin) (ab 15:49),Berlin-Lichtenberg
+16:17,RE 62073,Elsterwerda (ab 14:13),Berlin-Lichtenberg
+16:22 (+7),IC 2271,Warnemünde (ab 13:52),Berlin-Lichtenberg
+16:40 (+2),EC 378,Praha hl.n. (ab 12:28),Berlin-Lichtenberg
+16:41,RB 18222,Schönefeld(bei Berlin) (ab 16:19),Berlin-Lichtenberg
+17:12,RB 18324,Schönefeld(bei Berlin) (ab 16:49),Berlin-Lichtenberg
+17:17,RE 62075,Finsterwalde(Niederlausitz) (ab 15:25),Berlin-Lichtenberg
+17:28 (+9),IC 2174,Dresden Hbf (ab 15:22),Berlin-Lichtenberg
+17:28,RE 52174,Elsterwerda (ab 16:01),Berlin-Lichtenberg
+18:12,RB 18326,Schönefeld(bei Berlin) (ab 17:49),Berlin-Lichtenberg
+18:17,RE 62077,Elsterwerda (ab 16:13),Berlin-Lichtenberg
+18:23 (+8),IC 2273,Warnemünde (ab 15:52),Berlin-Lichtenberg
+18:42 (+36),EC 172,Budapest-Nyugati (ab 07:30),Berlin-Lichtenberg
+19:06,RE 62079,Finsterwalde(Niederlausitz) (ab 17:27),Berlin-Lichtenberg
+19:29 (+2),IC 2172,Dresden Hbf (ab 17:13),Berlin-Lichtenberg
+19:29,RE 52172,Elsterwerda (ab 18:01),Berlin-Lichtenberg
+20:17,RE 62081,Elsterwerda (ab 18:13),Berlin-Lichtenberg
+20:19 (+4),IC 2275,Warnemünde (ab 17:52),Berlin-Lichtenberg
+20:38 (+42),EC 170,Praha hl.n. (ab 16:28),Berlin-Lichtenberg
+20:41 (+5),RB 18230,Schönefeld(bei Berlin) (ab 20:19),Berlin-Lichtenberg
+21:12,RB 18332,Schönefeld(bei Berlin) (ab 20:49),Berlin-Lichtenberg
+21:51,RB 61200,Rheinsberg(Mark) (ab 20:26),Berlin-Lichtenberg
+22:39,RE 73788,Brandenburg Hbf (ab 21:19),Berlin-Lichtenberg
