@@ -1,0 +1,83 @@
+Abfahrt,Zugnr.,nach (Ankunft),Abfahrtsbhf.
+04:54,RB 61101,Oranienburg (an 05:21),Berlin-Lichtenberg
+05:14,RB 18300,Eberswalde Hbf (an 05:54),Berlin-Lichtenberg
+05:38,RB 5151,Kostrzyn (an 06:55),Berlin-Lichtenberg
+05:42,RB 18200,Oranienburg (an 06:09),Berlin-Lichtenberg
+05:54,RB 61103,Templin Stadt (an 07:19),Berlin-Lichtenberg
+06:14,RB 18302,Eberswalde Hbf (an 06:54),Berlin-Lichtenberg
+06:42,RB 18202,Oranienburg (an 07:09),Berlin-Lichtenberg
+06:54,RB 61105,Templin Stadt (an 08:19),Berlin-Lichtenberg
+07:14,RB 18304,Eberswalde Hbf (an 07:54),Berlin-Lichtenberg
+07:42,RB 18204,Oranienburg (an 08:09),Berlin-Lichtenberg
+07:54,RB 61107,Templin Stadt (an 09:19),Berlin-Lichtenberg
+08:14,RB 18306,Eberswalde Hbf (an 08:54),Berlin-Lichtenberg
+08:42,RB 18206,Oranienburg (an 09:09),Berlin-Lichtenberg
+08:54,RB 61109,Templin Stadt (an 10:19),Berlin-Lichtenberg
+09:14,RB 18308,Eberswalde Hbf (an 10:00),Berlin-Lichtenberg
+09:42,RB 18208,Oranienburg (an 10:09),Berlin-Lichtenberg
+09:54,RB 61111,Templin Stadt (an 11:19),Berlin-Lichtenberg
+10:14,RB 18310,Eberswalde Hbf (an 10:54),Berlin-Lichtenberg
+10:14,RB24,Flughafen BER (an 09:10),Berlin-Lichtenberg
+10:42,RB 18210,Oranienburg (an 11:09),Berlin-Lichtenberg
+10:54 (+2),RB 61113,Templin Stadt (an 12:19),Berlin-Lichtenberg
+11:14 (+2),RB 18312,Eberswalde Hbf (an 11:54),Berlin-Lichtenberg
+11:38,RB 5163,Seelow-Gusow (an 12:30),Berlin-Lichtenberg
+11:42 (+2),RB 18212,Oranienburg (an 12:09),Berlin-Lichtenberg
+11:54 (+2),RB 61115,Templin Stadt (an 13:19),Berlin-Lichtenberg
+12:00,RB 61114,Berlin Ostkreuz (an 12:03),Berlin-Lichtenberg
+12:14 (+1),RB 18314,Eberswalde Hbf (an 12:54),Berlin-Lichtenberg
+12:42 (+2),RB 18214,Oranienburg (an 13:09),Berlin-Lichtenberg
+12:42,RB32,Saalfeld(Saale) (an 19:09),Berlin-Lichtenberg
+12:54 (+4),RB 61117,Templin Stadt (an 14:19),Berlin-Lichtenberg
+13:00 (+2),RB 61116,Berlin Ostkreuz (an 13:03),Berlin-Lichtenberg
+13:14 (+1),RB 18316,Eberswalde Hbf (an 13:54),Berlin-Lichtenberg
+13:42,RB 18216,Oranienburg (an 14:09),Berlin-Lichtenberg
+13:54 (+1),RB 61119,Templin Stadt (an 15:19),Berlin-Lichtenberg
+14:00 (+13),RB 61118,Berlin Ostkreuz (an 14:03),Berlin-Lichtenberg
+14:14 (+1),RB 18318,Eberswalde Hbf (an 14:54),Berlin-Lichtenberg
+14:42 (+1),RB 18218,Oranienburg (an 15:09),Berlin-Lichtenberg
+14:54 (+2),RB 61121,Oranienburg (an 15:21),Berlin-Lichtenberg
+15:00,RB 61120,Oranienburg (an 14:28),Berlin-Lichtenberg
+15:14 (+2),RB 18320,Eberswalde Hbf (an 15:54),Berlin-Lichtenberg
+15:38 (+2),RB 5171,Kostrzyn (an 16:55),Berlin-Lichtenberg
+15:42 (+2),RB 18220,Oranienburg (an 16:09),Berlin-Lichtenberg
+15:54 (+2),RB 61123,Oranienburg (an 16:21),Berlin-Lichtenberg
+16:00,RB 61122,Oranienburg (an 15:28),Berlin-Lichtenberg
+16:14 (+1),RB 18322,Eberswalde Hbf (an 16:56),Berlin-Lichtenberg
+16:25 (+1),RB 61165,Werneuchen (an 16:55),Berlin-Lichtenberg
+16:38 (+1),RB 5173,Kostrzyn (an 17:46),Berlin-Lichtenberg
+16:42 (+1),RB 18222,Oranienburg (an 17:09),Berlin-Lichtenberg
+16:48 (+3),RB 18325,Schönefeld(bei Berlin) (an 17:10),Berlin-Lichtenberg
+16:54 (+3),RB 61125,Templin Stadt (an 18:19),Berlin-Lichtenberg
+17:00 (+1),RB 61124,Oranienburg (an 16:28),Berlin-Lichtenberg
+17:14 (+1),RB 18324,Eberswalde Hbf (an 17:54),Berlin-Lichtenberg
+17:25 (+5),RB 5174,Berlin Ostkreuz (an 17:28),Berlin-Lichtenberg
+17:25 (+1),RB 61167,Werneuchen (an 17:55),Berlin-Lichtenberg
+17:38 (+4),RB 5175,Kostrzyn (an 18:55),Berlin-Lichtenberg
+17:38 (+1),RB 61166,Berlin Ostkreuz (an 17:41),Berlin-Lichtenberg
+17:42 (+1),RB 18224,Oranienburg (an 18:09),Berlin-Lichtenberg
+17:48 (+8),RB 18327,Berlin Ostkreuz (an 17:52),Berlin-Lichtenberg
+17:54 (+4),RB 61127,Templin Stadt (an 19:19),Berlin-Lichtenberg
+18:00 (+5),RB 61126,Berlin Ostkreuz (an 18:03),Berlin-Lichtenberg
+18:13 (+8),RB 18229,Schönefeld(bei Berlin) (an 18:34),Berlin-Lichtenberg
+18:14 (+1),RB 18326,Eberswalde Hbf (an 18:54),Berlin-Lichtenberg
+18:25 (+1),RB 61169,Werneuchen (an 18:55),Berlin-Lichtenberg
+18:38 (+1),RB 5177,Kostrzyn (an 19:46),Berlin-Lichtenberg
+18:42 (+10),RB 18226,Oranienburg (an 19:09),Berlin-Lichtenberg
+18:48 (+9),RB 18329,Bernau(b Berlin) (an 18:27),Berlin-Lichtenberg
+18:54 (+5),RB 61129,Templin Stadt (an 20:19),Berlin-Lichtenberg
+19:00 (+1),RB 61128,Berlin Ostkreuz (an 19:03),Berlin-Lichtenberg
+19:14 (+1),RB 18328,Eberswalde Hbf (an 19:54),Berlin-Lichtenberg
+19:38 (+1),RB 5179,Kostrzyn (an 20:55),Berlin-Lichtenberg
+19:42 (+1),RB 18228,Oranienburg (an 20:09),Berlin-Lichtenberg
+19:54,RB 61131,Templin Stadt (an 21:19),Berlin-Lichtenberg
+20:00 (+3),RB 61130,Berlin Ostkreuz (an 20:03),Berlin-Lichtenberg
+20:14,RB 18330,Eberswalde Hbf (an 20:54),Berlin-Lichtenberg
+20:38,RB 5181,Kostrzyn (an 21:47),Berlin-Lichtenberg
+20:42,RB 18230,Oranienburg (an 21:09),Berlin-Lichtenberg
+20:54,RB 61133,Templin Stadt (an 22:25),Berlin-Lichtenberg
+21:38,RB 5183,Kostrzyn (an 22:55),Berlin-Lichtenberg
+22:37,RB 5185,Kostrzyn (an 23:46),Berlin-Lichtenberg
+22:53,RB 61135,Oranienburg (an 23:21),Berlin-Lichtenberg
+23:38,RB 5187,Kostrzyn (an 00:55),Berlin-Lichtenberg
+23:38,RB 61389,Oranienburg (an 00:04),Berlin-Lichtenberg
