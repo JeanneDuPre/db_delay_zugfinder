@@ -1,0 +1,53 @@
+Ankunft,Zugnr.,von (Abfahrt),Ankunftsbhf.
+00:05,RE 18799,Lübben(Spreewald) (ab 23:04),Berlin Ostkreuz
+00:06,RE 3138,Schönwalde(Spreewald) (ab 01:00),Berlin Ostkreuz
+00:12,RE 73750,Berlin Friedrichstr (ab 00:01),Berlin Ostkreuz
+00:23,RE 73797,Fangschleuse (ab 00:04),Berlin Ostkreuz
+00:30,RE 3141,Zeesen (ab 00:06),Berlin Ostkreuz
+01:14,RE 3742,Borkheide (ab 00:09),Berlin Ostkreuz
+07:10,IC 2432,Cottbus Hbf (ab 06:01),Berlin Ostkreuz
+08:55,RE 3715,Senftenberg (ab 07:14),Berlin Ostkreuz
+09:01 (+2),RE 3710,Dessau Hbf (ab 07:05),Berlin Ostkreuz
+09:03,RB 61108,Templin Stadt (ab 07:32),Berlin Ostkreuz
+09:55 (+9),RE 3717,Senftenberg (ab 08:14),Berlin Ostkreuz
+10:01 (+1),RE 3712,Bad Belzig (ab 08:41),Berlin Ostkreuz
+10:03,RB 61110,Templin Stadt (ab 08:32),Berlin Ostkreuz
+10:55 (+1),RE 3719,Senftenberg (ab 09:14),Berlin Ostkreuz
+11:01 (+1),RE 3714,Dessau Hbf (ab 09:05),Berlin Ostkreuz
+11:03,RB 61112,Templin Stadt (ab 09:32),Berlin Ostkreuz
+11:55 (+2),RE 3721,Senftenberg (ab 10:14),Berlin Ostkreuz
+12:01 (+5),RE 3716,Bad Belzig (ab 10:41),Berlin Ostkreuz
+12:03,RB 61114,Templin Stadt (ab 10:32),Berlin Ostkreuz
+12:55 (+1),RE 3723,Senftenberg (ab 11:14),Berlin Ostkreuz
+13:01 (+10),RE 3718,Dessau Hbf (ab 11:05),Berlin Ostkreuz
+13:03,RB 61116,Templin Stadt (ab 11:32),Berlin Ostkreuz
+13:55 (+4),RE 3725,Senftenberg (ab 12:14),Berlin Ostkreuz
+14:01 (+13),RE 3720,Bad Belzig (ab 12:41),Berlin Ostkreuz
+14:03,RB 61118,Templin Stadt (ab 12:32),Berlin Ostkreuz
+15:01,RE 3722,Dessau Hbf (ab 13:05),Berlin Ostkreuz
+15:03,RB 61120,Templin Stadt (ab 13:32),Berlin Ostkreuz
+15:55 (+3),RE 3729,Senftenberg (ab 14:14),Berlin Ostkreuz
+16:01,RE 3724,Bad Belzig (ab 14:41),Berlin Ostkreuz
+16:03,RB 61122,Templin Stadt (ab 14:32),Berlin Ostkreuz
+16:55 (+14),RE 3731,Senftenberg (ab 15:14),Berlin Ostkreuz
+17:01,RE 3726,Dessau Hbf (ab 15:05),Berlin Ostkreuz
+17:03,RB 61124,Templin Stadt (ab 15:32),Berlin Ostkreuz
+17:55 (+5),RE 3733,Senftenberg (ab 16:14),Berlin Ostkreuz
+18:01,RE 3728,Bad Belzig (ab 16:41),Berlin Ostkreuz
+18:03,RB 61126,Templin Stadt (ab 16:32),Berlin Ostkreuz
+18:18,RE 3746,Bad Belzig (ab 17:01),Berlin Ostkreuz
+18:55 (+4),RE 3735,Senftenberg (ab 17:14),Berlin Ostkreuz
+19:01 (+1),RE 3730,Dessau Hbf (ab 17:05),Berlin Ostkreuz
+19:55 (+3),RE 3737,Senftenberg (ab 18:14),Berlin Ostkreuz
+20:01 (+1),RE 3732,Bad Belzig (ab 18:41),Berlin Ostkreuz
+20:03,RB 61130,Templin Stadt (ab 18:32),Berlin Ostkreuz
+21:01 (+1),RE 3734,Dessau Hbf (ab 19:05),Berlin Ostkreuz
+21:03,RB 61132,Templin Stadt (ab 19:32),Berlin Ostkreuz
+21:44 Ausfall,RJ 256,Graz Hbf (ab 10:26),Berlin Ostkreuz
+21:52,RB 18335,Eberswalde Hbf (ab 21:08),Berlin Ostkreuz
+22:03,RB 61134,Templin Stadt (ab 20:32),Berlin Ostkreuz
+23:03,RB 61136,Templin Stadt (ab 21:32),Berlin Ostkreuz
+23:39,FEX19881,Berlin Hbf (ab 23:21),Berlin Ostkreuz
+23:45,RE 73829,Frankfurt(Oder) (ab 22:55),Berlin Ostkreuz
+23:46,FEX19876,Flughafen BER (ab 23:28),Berlin Ostkreuz
+23:55,RE 62036,Bad Wilsnack (ab 22:13),Berlin Ostkreuz
