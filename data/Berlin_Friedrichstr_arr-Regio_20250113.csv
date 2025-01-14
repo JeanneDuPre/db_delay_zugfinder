@@ -1,0 +1,130 @@
+Ankunft,Zugnr.,von (Abfahrt),Ankunftsbhf.
+00:00,RE 73750,Fürstenwalde(Spree) (ab 00:47),Berlin Friedrichstr
+00:36,RE 73797,Berlin Ostkreuz (ab 00:25),Berlin Friedrichstr
+01:25,RE 73794,Magdeburg Hbf (ab 23:21),Berlin Friedrichstr
+01:50,RE 62042,Berlin-Charlottenburg (ab 01:38),Berlin Friedrichstr
+01:54,RE 73753,Berlin Ostkreuz (ab 01:43),Berlin Friedrichstr
+02:48,RE 62046,Nauen (ab 02:03),Berlin Friedrichstr
+04:30,RE 3101,Berlin Ostkreuz (ab 04:17),Berlin Friedrichstr
+04:44,RE 62048,Nauen (ab 04:00),Berlin Friedrichstr
+04:56,RE 73717,Berlin Ostkreuz (ab 04:44),Berlin Friedrichstr
+05:25,RE 3102,Nauen (ab 04:37),Berlin Friedrichstr
+05:32,RE 3103,Cottbus Hbf (ab 04:01),Berlin Friedrichstr
+05:35,RE 62000,Wittenberge (ab 04:06),Berlin Friedrichstr
+05:36,RE 73759,Berlin Ostkreuz (ab 05:26),Berlin Friedrichstr
+05:56,RE 73719,Berlin Ostkreuz (ab 05:45),Berlin Friedrichstr
+05:58,RE 73714,Brandenburg Hbf (ab 05:05),Berlin Friedrichstr
+06:16,RE 73756,Magdeburg Hbf (ab 04:19),Berlin Friedrichstr
+06:25,RE 3104,Nauen (ab 05:37),Berlin Friedrichstr
+06:32,RE 3105,Cottbus Hbf (ab 05:01),Berlin Friedrichstr
+06:36,RE 73761,Berlin Ostkreuz (ab 06:26),Berlin Friedrichstr
+06:43,RE 62002,Wittenberge (ab 05:06),Berlin Friedrichstr
+06:56,RE 73721,Berlin Ostkreuz (ab 06:45),Berlin Friedrichstr
+07:01,RE 73716,Magdeburg Hbf (ab 05:12),Berlin Friedrichstr
+07:16,RE 73758,Brandenburg Hbf (ab 06:19),Berlin Friedrichstr
+07:25,RE 3106,Nauen (ab 06:37),Berlin Friedrichstr
+07:32,RE 3107,Cottbus Hbf (ab 06:07),Berlin Friedrichstr
+07:36,RE 73763,Berlin Ostkreuz (ab 07:26),Berlin Friedrichstr
+07:43,RE 62004,Wismar (ab 04:17),Berlin Friedrichstr
+07:56,RE 73723,Berlin Ostkreuz (ab 07:45),Berlin Friedrichstr
+08:01,RE 73718,Magdeburg Hbf (ab 06:19),Berlin Friedrichstr
+08:16,RE 73760,Magdeburg Hbf (ab 06:19),Berlin Friedrichstr
+08:25,RE 3108,Nauen (ab 07:37),Berlin Friedrichstr
+08:32,RE 3109,Cottbus Hbf (ab 07:03),Berlin Friedrichstr
+08:36,RE 73765,Berlin Ostkreuz (ab 08:26),Berlin Friedrichstr
+08:43,RE 62006,Wismar (ab 05:22),Berlin Friedrichstr
+08:43 (+1),RE 62006,Wismar (ab 05:22),Berlin Friedrichstr S+U
+08:56,RE 73725,Berlin Ostkreuz (ab 08:45),Berlin Friedrichstr
+09:03,RE 73720,Magdeburg Hbf (ab 07:12),Berlin Friedrichstr
+09:16,RE 73762,Brandenburg Hbf (ab 08:19),Berlin Friedrichstr
+09:25,RE 3110,Nauen (ab 08:37),Berlin Friedrichstr
+09:32,RE 3111,Cottbus Hbf (ab 08:04),Berlin Friedrichstr
+09:36,RE 73767,Berlin Ostkreuz (ab 09:26),Berlin Friedrichstr
+09:43,RE 62008,Wittenberge (ab 08:06),Berlin Friedrichstr
+09:56,RE 73727,Berlin Ostkreuz (ab 09:45),Berlin Friedrichstr
+10:00,RE 73722,Magdeburg Hbf (ab 08:12),Berlin Friedrichstr
+10:16,RE 73764,Brandenburg Hbf (ab 09:19),Berlin Friedrichstr
+10:25,RE 3112,Nauen (ab 09:37),Berlin Friedrichstr
+10:32,RE 3113,Cottbus Hbf (ab 09:04),Berlin Friedrichstr
+10:36,RE 73769,Berlin Ostkreuz (ab 10:26),Berlin Friedrichstr
+10:43 (+3),RE 61994,Wismar (ab 07:33),Berlin Friedrichstr S+U
+10:43,RE 61994,Wismar (ab 07:33),Berlin Friedrichstr
+10:43,RE 62010,Wismar (ab 07:33),Berlin Friedrichstr
+10:56,RE 73729,Berlin Ostkreuz (ab 10:45),Berlin Friedrichstr
+11:01,RE 73724,Magdeburg Hbf (ab 09:12),Berlin Friedrichstr
+11:16,RE 73766,Brandenburg Hbf (ab 10:19),Berlin Friedrichstr
+11:25,RE 3114,Nauen (ab 10:37),Berlin Friedrichstr
+11:32,RE 3115,Cottbus Hbf (ab 10:04),Berlin Friedrichstr
+11:36,RE 73771,Berlin Ostkreuz (ab 11:26),Berlin Friedrichstr
+11:43,RE 62012,Wittenberge (ab 10:06),Berlin Friedrichstr
+11:56,RE 73731,Berlin Ostkreuz (ab 11:45),Berlin Friedrichstr
+12:01,RE 73726,Magdeburg Hbf (ab 10:12),Berlin Friedrichstr
+12:16,RE 73768,Brandenburg Hbf (ab 11:19),Berlin Friedrichstr
+12:25,RE 3116,Nauen (ab 11:37),Berlin Friedrichstr
+12:32,RE 3117,Cottbus Hbf (ab 11:04),Berlin Friedrichstr
+12:36,RE 73773,Berlin Ostkreuz (ab 12:26),Berlin Friedrichstr
+12:43,RE 62014,Wismar (ab 09:24),Berlin Friedrichstr
+12:56,RE 73733,Berlin Ostkreuz (ab 12:45),Berlin Friedrichstr
+13:01,RE 73728,Magdeburg Hbf (ab 11:12),Berlin Friedrichstr
+13:16,RE 73770,Brandenburg Hbf (ab 12:19),Berlin Friedrichstr
+13:25,RE 3118,Nauen (ab 12:37),Berlin Friedrichstr
+13:32,RE 3119,Cottbus Hbf (ab 12:04),Berlin Friedrichstr
+13:36,RE 73775,Berlin Ostkreuz (ab 13:26),Berlin Friedrichstr
+13:43,RE 62016,Wittenberge (ab 12:06),Berlin Friedrichstr
+13:56,RE 73735,Berlin Ostkreuz (ab 13:45),Berlin Friedrichstr
+14:01,RE 73730,Magdeburg Hbf (ab 12:12),Berlin Friedrichstr
+14:16,RE 73772,Brandenburg Hbf (ab 13:19),Berlin Friedrichstr
+14:25,RE 3120,Nauen (ab 13:37),Berlin Friedrichstr
+14:32,RE 3121,Cottbus Hbf (ab 13:04),Berlin Friedrichstr
+14:36,RE 73777,Berlin Ostkreuz (ab 14:26),Berlin Friedrichstr
+14:43,RE 61998,Wismar (ab 11:24),Berlin Friedrichstr
+14:43,RE 62018,Wismar (ab 11:24),Berlin Friedrichstr
+14:56,RE 73737,Berlin Ostkreuz (ab 14:45),Berlin Friedrichstr
+15:01,RE 73732,Magdeburg Hbf (ab 13:12),Berlin Friedrichstr
+15:16,RE 73774,Brandenburg Hbf (ab 14:19),Berlin Friedrichstr
+15:25,RE 3122,Nauen (ab 14:37),Berlin Friedrichstr
+15:32,RE 3123,Cottbus Hbf (ab 14:04),Berlin Friedrichstr
+15:36,RE 73779,Berlin Ostkreuz (ab 15:26),Berlin Friedrichstr
+15:56,RE 73739,Berlin Ostkreuz (ab 15:45),Berlin Friedrichstr
+16:01,RE 73734,Magdeburg Hbf (ab 14:12),Berlin Friedrichstr
+16:16,RE 73776,Brandenburg Hbf (ab 15:19),Berlin Friedrichstr
+16:25,RE 3124,Nauen (ab 15:37),Berlin Friedrichstr
+16:32,RE 3125,Cottbus Hbf (ab 15:04),Berlin Friedrichstr
+16:36,RE 73781,Berlin Ostkreuz (ab 16:26),Berlin Friedrichstr
+16:43,RE 62022,Wismar (ab 13:24),Berlin Friedrichstr
+16:56,RE 73741,Berlin Ostkreuz (ab 16:45),Berlin Friedrichstr
+17:01,RE 73736,Magdeburg Hbf (ab 15:12),Berlin Friedrichstr
+17:16,RE 73778,Brandenburg Hbf (ab 16:19),Berlin Friedrichstr
+17:25,RE 3126,Nauen (ab 16:37),Berlin Friedrichstr
+17:32,RE 3127,Cottbus Hbf (ab 16:04),Berlin Friedrichstr
+17:36,RE 73783,Berlin Ostkreuz (ab 17:26),Berlin Friedrichstr
+17:43,RE 62024,Wittenberge (ab 16:06),Berlin Friedrichstr
+17:56,RE 73743,Berlin Ostkreuz (ab 17:45),Berlin Friedrichstr
+18:01,RE 73738,Magdeburg Hbf (ab 16:12),Berlin Friedrichstr
+18:16,RE 73780,Brandenburg Hbf (ab 17:19),Berlin Friedrichstr
+18:25,RE 3128,Nauen (ab 17:37),Berlin Friedrichstr
+18:32,RE 3129,Cottbus Hbf (ab 17:04),Berlin Friedrichstr
+18:36,RE 73785,Berlin Ostkreuz (ab 18:26),Berlin Friedrichstr
+18:43,RE 61999,Wismar (ab 15:24),Berlin Friedrichstr
+18:43,RE 62026,Wismar (ab 15:24),Berlin Friedrichstr
+18:44,RB 18166,Flughafen BER (ab 18:14),Berlin Friedrichstr
+18:56,RE 73745,Cottbus Hbf (ab 16:56),Berlin Friedrichstr
+19:01,RE 73740,Magdeburg Hbf (ab 17:12),Berlin Friedrichstr
+19:16,RE 73782,Brandenburg Hbf (ab 18:19),Berlin Friedrichstr
+19:25,RE 3130,Nauen (ab 18:37),Berlin Friedrichstr
+19:32,RE 3131,Cottbus Hbf (ab 18:04),Berlin Friedrichstr
+19:36,RE 73787,Berlin Ostkreuz (ab 19:26),Berlin Friedrichstr
+19:43,RE 62028,Wittenberge (ab 18:06),Berlin Friedrichstr
+19:56,RE 73747,Berlin Ostkreuz (ab 19:45),Berlin Friedrichstr
+20:01,RE 73742,Magdeburg Hbf (ab 18:12),Berlin Friedrichstr
+20:16,RE 73784,Brandenburg Hbf (ab 19:19),Berlin Friedrichstr
+20:25,RE 91722,Nauen (ab 19:37),Berlin Friedrichstr
+20:36,RE 73789,Berlin Ostkreuz (ab 20:26),Berlin Friedrichstr
+20:56,RE 73749,Berlin Ostkreuz (ab 20:45),Berlin Friedrichstr
+21:01,RE 73744,Magdeburg Hbf (ab 19:12),Berlin Friedrichstr
+21:16,RE 73786,Brandenburg Hbf (ab 20:19),Berlin Friedrichstr
+21:36,RE 73791,Berlin Ostkreuz (ab 21:25),Berlin Friedrichstr
+22:01,RE 73746,Magdeburg Hbf (ab 20:12),Berlin Friedrichstr
+22:36,RE 73793,Berlin Ostkreuz (ab 22:25),Berlin Friedrichstr
+22:58,RE 73748,Magdeburg Hbf (ab 21:06),Berlin Friedrichstr
+23:36,RE 73795,Berlin Ostkreuz (ab 23:25),Berlin Friedrichstr
