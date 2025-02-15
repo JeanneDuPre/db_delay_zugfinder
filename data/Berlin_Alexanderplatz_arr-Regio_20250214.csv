@@ -1,0 +1,259 @@
+Ankunft,Zugnr.,von (Abfahrt),Ankunftsbhf.
+00:04,RE 73750,Magdeburg Hbf (ab 22:06),Berlin Alexanderplatz
+00:08,RE 62045,Berlin Ostbahnhof (ab 00:05),Berlin Alexanderplatz
+00:19 (+11),RE 3745,Senftenberg (ab 22:26),Berlin Alexanderplatz
+00:33,RE 73797,Frankfurt(Oder) (ab 23:24),Berlin Alexanderplatz
+00:42,RE 3141,Cottbus Hbf (ab 23:05),Berlin Alexanderplatz
+00:47,RE 62038,Wismar (ab 21:25),Berlin Alexanderplatz
+01:06,RE 62041,Flughafen BER (ab 00:40),Berlin Alexanderplatz
+01:28,RE 73794,Magdeburg Hbf (ab 23:21),Berlin Alexanderplatz
+01:33,RE 73753,Frankfurt(Oder) (ab 00:24),Berlin Alexanderplatz
+02:05,RE 62047,Flughafen BER (ab 01:39),Berlin Alexanderplatz
+02:52,RE 62046,Nauen (ab 02:03),Berlin Alexanderplatz
+03:04,RE 62043,Flughafen BER (ab 02:39),Berlin Alexanderplatz
+03:51,RE 62044,Nauen (ab 03:03),Berlin Alexanderplatz
+04:07,RE 62001,Flughafen BER (ab 03:42),Berlin Alexanderplatz
+04:17,RE 73752,Brandenburg Hbf (ab 03:15),Berlin Alexanderplatz
+04:33,RE 73757,Berlin Ostkreuz (ab 04:25),Berlin Alexanderplatz
+04:39,RE 73800,Berlin-Charlottenburg (ab 04:23),Berlin Alexanderplatz
+04:47,RE 62048,Nauen (ab 04:00),Berlin Alexanderplatz
+04:53,RE 73717,Frankfurt(Oder) (ab 03:41),Berlin Alexanderplatz
+05:05 Ausfall,RE 3707,Lübbenau(Spreewald) (ab 03:53),Berlin Alexanderplatz
+05:10,RE 62003,Flughafen BER (ab 04:44),Berlin Alexanderplatz
+05:12,RB 18141,Berlin-Charlottenburg (ab 04:57),Berlin Alexanderplatz
+05:20,RE 73754,Brandenburg Hbf (ab 04:17),Berlin Alexanderplatz
+05:28 Ausfall,RE 3103,Cottbus Hbf (ab 04:01),Berlin Alexanderplatz
+05:30 Ausfall,RE 3102,Nauen (ab 04:37),Berlin Alexanderplatz
+05:33,RE 73759,Frankfurt(Oder) (ab 04:24),Berlin Alexanderplatz
+05:38,RE 62000,Wittenberge (ab 04:06),Berlin Alexanderplatz
+05:41,RB 18140,Flughafen BER (ab 05:14),Berlin Alexanderplatz
+05:51 Ausfall,RE 3704,Wiesenburg(Mark) (ab 04:33),Berlin Alexanderplatz
+05:53,RE 73719,Eisenhüttenstadt (ab 04:26),Berlin Alexanderplatz
+06:01,RE 73714,Brandenburg Hbf (ab 05:05),Berlin Alexanderplatz
+06:05 Ausfall,RE 3709,Senftenberg (ab 04:11),Berlin Alexanderplatz
+06:10,RE 62005,Flughafen BER (ab 05:44),Berlin Alexanderplatz
+06:11 Ausfall,RE 18754,Bad Belzig (ab 05:01),Berlin Alexanderplatz
+06:15,RE 73805,Frankfurt(Oder) (ab 05:18),Berlin Alexanderplatz
+06:20,RE 73756,Magdeburg Hbf (ab 04:19),Berlin Alexanderplatz
+06:28,RE 3105,Cottbus Hbf (ab 05:01),Berlin Alexanderplatz
+06:29,RE 3104,Nauen (ab 05:37),Berlin Alexanderplatz
+06:33,RE 73761,Frankfurt(Oder) (ab 05:26),Berlin Alexanderplatz
+06:42,RE 73802,Brandenburg Hbf (ab 05:45),Berlin Alexanderplatz
+06:47,RE 62002,Wittenberge (ab 05:06),Berlin Alexanderplatz
+06:52,RE 3706,Dessau Hbf (ab 05:05),Berlin Alexanderplatz
+06:53,RE 73721,Eisenhüttenstadt (ab 05:36),Berlin Alexanderplatz
+07:05,RE 3711,Senftenberg (ab 05:11),Berlin Alexanderplatz
+07:05,RE 73716,Magdeburg Hbf (ab 05:12),Berlin Alexanderplatz
+07:10,RE 62007,Flughafen BER (ab 06:44),Berlin Alexanderplatz
+07:20,RE 73758,Brandenburg Hbf (ab 06:19),Berlin Alexanderplatz
+07:30 Ausfall,RE 3106,Nauen (ab 06:37),Berlin Alexanderplatz
+07:33,RE 73763,Frankfurt(Oder) (ab 06:26),Berlin Alexanderplatz
+07:42,RE 73804,Magdeburg Hbf (ab 05:54),Berlin Alexanderplatz
+07:47,RE 62004,Wismar (ab 04:17),Berlin Alexanderplatz
+07:52,RE 3708,Dessau Hbf (ab 06:05),Berlin Alexanderplatz
+07:53,RE 73723,Frankfurt(Oder) (ab 06:55),Berlin Alexanderplatz
+08:05,RE 73718,Magdeburg Hbf (ab 06:12),Berlin Alexanderplatz
+08:10,RE 62009,Flughafen BER (ab 07:44),Berlin Alexanderplatz
+08:20,RE 73760,Magdeburg Hbf (ab 06:19),Berlin Alexanderplatz
+08:28,RE 3109,Cottbus Hbf (ab 07:03),Berlin Alexanderplatz
+08:30 Ausfall,RE 3108,Nauen (ab 07:37),Berlin Alexanderplatz
+08:33,RE 73765,Frankfurt(Oder) (ab 07:26),Berlin Alexanderplatz
+08:47,RE 62006,Wismar (ab 05:22),Berlin Alexanderplatz
+08:52 Ausfall,RE 3710,Dessau Hbf (ab 07:05),Berlin Alexanderplatz
+08:53,RE 73725,Eisenhüttenstadt (ab 07:36),Berlin Alexanderplatz
+09:05 Ausfall,RE 3715,Senftenberg (ab 07:14),Berlin Alexanderplatz
+09:06,RE 73720,Magdeburg Hbf (ab 07:12),Berlin Alexanderplatz
+09:10,RE 62011,Flughafen BER (ab 08:44),Berlin Alexanderplatz
+09:15,RB 18149,Golm (ab 08:30),Berlin Alexanderplatz
+09:20,RE 73762,Brandenburg Hbf (ab 08:19),Berlin Alexanderplatz
+09:30 Ausfall,RE 3110,Nauen (ab 08:37),Berlin Alexanderplatz
+09:33,RE 73767,Frankfurt(Oder) (ab 08:26),Berlin Alexanderplatz
+09:45 (+81),RE 18759,Berlin Ostkreuz (ab 09:37),Berlin Alexanderplatz
+09:47,RE 62008,Wittenberge (ab 08:06),Berlin Alexanderplatz
+09:52 Ausfall,RE 3712,Dessau Hbf (ab 08:05),Berlin Alexanderplatz
+09:53,RE 73727,Eisenhüttenstadt (ab 08:36),Berlin Alexanderplatz
+10:04,RE 73722,Magdeburg Hbf (ab 08:12),Berlin Alexanderplatz
+10:05 Ausfall,RE 3717,Senftenberg (ab 08:14),Berlin Alexanderplatz
+10:10,RE 62013,Flughafen BER (ab 09:44),Berlin Alexanderplatz
+10:20,RE 73764,Brandenburg Hbf (ab 09:19),Berlin Alexanderplatz
+10:28,RE 3113,Cottbus Hbf (ab 09:04),Berlin Alexanderplatz
+10:30 Ausfall,RE 3112,Nauen (ab 09:37),Berlin Alexanderplatz
+10:33,RE 73769,Frankfurt(Oder) (ab 09:26),Berlin Alexanderplatz
+10:41,RB 18150,Flughafen BER (ab 10:14),Berlin Alexanderplatz
+10:47,RE 61994,Wismar (ab 07:33),Berlin Alexanderplatz
+10:47,RE 62010,Wismar (ab 07:33),Berlin Alexanderplatz
+10:52 Ausfall,RE 3714,Dessau Hbf (ab 09:05),Berlin Alexanderplatz
+10:53,RE 73729,Frankfurt(Oder) (ab 09:55),Berlin Alexanderplatz
+11:05 Ausfall,RE 3719,Senftenberg (ab 09:14),Berlin Alexanderplatz
+11:05,RE 73724,Magdeburg Hbf (ab 09:12),Berlin Alexanderplatz
+11:10 (+1),RE 62015,Flughafen BER (ab 10:44),Berlin Alexanderplatz
+11:15 (+1),RB 18153,Golm (ab 10:30),Berlin Alexanderplatz
+11:20,RE 73766,Brandenburg Hbf (ab 10:19),Berlin Alexanderplatz
+11:28,RE 3115,Cottbus Hbf (ab 10:04),Berlin Alexanderplatz
+11:30 Ausfall,RE 3114,Nauen (ab 10:37),Berlin Alexanderplatz
+11:33,RE 73771,Frankfurt(Oder) (ab 10:26),Berlin Alexanderplatz
+11:41,RB 18152,Flughafen BER (ab 11:14),Berlin Alexanderplatz
+11:47,RE 62012,Wittenberge (ab 10:06),Berlin Alexanderplatz
+11:52 Ausfall,RE 3716,Dessau Hbf (ab 10:05),Berlin Alexanderplatz
+11:53,RE 73731,Frankfurt(Oder) (ab 10:55),Berlin Alexanderplatz
+12:05 Ausfall,RE 3721,Senftenberg (ab 10:14),Berlin Alexanderplatz
+12:05,RE 73726,Magdeburg Hbf (ab 10:12),Berlin Alexanderplatz
+12:10,RE 62017,Flughafen BER (ab 11:44),Berlin Alexanderplatz
+12:15,RB 18155,Golm (ab 11:30),Berlin Alexanderplatz
+12:20,RE 73768,Brandenburg Hbf (ab 11:19),Berlin Alexanderplatz
+12:28 Ausfall,RE 3117,Cottbus Hbf (ab 11:04),Berlin Alexanderplatz
+12:30 Ausfall,RE 3116,Nauen (ab 11:37),Berlin Alexanderplatz
+12:33,RE 73773,Frankfurt(Oder) (ab 11:26),Berlin Alexanderplatz
+12:41,RB 18154,Flughafen BER (ab 12:14),Berlin Alexanderplatz
+12:47,RE 62014,Wismar (ab 09:24),Berlin Alexanderplatz
+12:52 Ausfall,RE 3718,Dessau Hbf (ab 11:05),Berlin Alexanderplatz
+12:53,RE 73733,Frankfurt(Oder) (ab 11:55),Berlin Alexanderplatz
+13:05 Ausfall,RE 3723,Senftenberg (ab 11:14),Berlin Alexanderplatz
+13:05,RE 73728,Magdeburg Hbf (ab 11:12),Berlin Alexanderplatz
+13:10,RE 62019,Flughafen BER (ab 12:44),Berlin Alexanderplatz
+13:15,RB 18157,Golm (ab 12:30),Berlin Alexanderplatz
+13:20,RE 73770,Brandenburg Hbf (ab 12:19),Berlin Alexanderplatz
+13:28 Ausfall,RE 3119,Cottbus Hbf (ab 12:04),Berlin Alexanderplatz
+13:30,RE 3118,Nauen (ab 12:37),Berlin Alexanderplatz
+13:33,RE 73775,Frankfurt(Oder) (ab 12:26),Berlin Alexanderplatz
+13:41,RB 18156,Flughafen BER (ab 13:14),Berlin Alexanderplatz
+13:47,RE 62016,Wittenberge (ab 12:06),Berlin Alexanderplatz
+13:52 Ausfall,RE 3720,Dessau Hbf (ab 12:05),Berlin Alexanderplatz
+13:53,RE 73735,Frankfurt(Oder) (ab 12:55),Berlin Alexanderplatz
+14:05 Ausfall,RE 3725,Senftenberg (ab 12:14),Berlin Alexanderplatz
+14:05,RE 73730,Magdeburg Hbf (ab 12:12),Berlin Alexanderplatz
+14:10,RE 62021,Flughafen BER (ab 13:44),Berlin Alexanderplatz
+14:15 (+1),RB 18159,Golm (ab 13:30),Berlin Alexanderplatz
+14:16,RE 73815,Berlin Ostkreuz (ab 14:08),Berlin Alexanderplatz
+14:20,RE 73772,Brandenburg Hbf (ab 13:19),Berlin Alexanderplatz
+14:28,RE 3121,Cottbus Hbf (ab 13:04),Berlin Alexanderplatz
+14:30 Ausfall,RE 3120,Nauen (ab 13:37),Berlin Alexanderplatz
+14:33,RE 73777,Frankfurt(Oder) (ab 13:26),Berlin Alexanderplatz
+14:41,RB 18158,Flughafen BER (ab 14:14),Berlin Alexanderplatz
+14:42,RE 73812,Brandenburg Hbf (ab 13:45),Berlin Alexanderplatz
+14:47,RE 61998,Wismar (ab 11:24),Berlin Alexanderplatz
+14:47,RE 62018,Wismar (ab 11:24),Berlin Alexanderplatz
+14:52 Ausfall,RE 3722,Dessau Hbf (ab 13:05),Berlin Alexanderplatz
+14:53,RE 73737,Frankfurt(Oder) (ab 13:55),Berlin Alexanderplatz
+15:04,RE 73732,Magdeburg Hbf (ab 13:12),Berlin Alexanderplatz
+15:05 Ausfall,RE 3727,Senftenberg (ab 13:14),Berlin Alexanderplatz
+15:08 Ausfall,RE 18760,Bad Belzig (ab 14:05),Berlin Alexanderplatz
+15:10,RE 62023,Flughafen BER (ab 14:44),Berlin Alexanderplatz
+15:15 (+1),RB 18161,Golm (ab 14:30),Berlin Alexanderplatz
+15:15,RE 73817,Berlin Ostbahnhof (ab 15:12),Berlin Alexanderplatz
+15:20,RE 73774,Brandenburg Hbf (ab 14:19),Berlin Alexanderplatz
+15:28 Ausfall,RE 3123,Cottbus Hbf (ab 14:04),Berlin Alexanderplatz
+15:30 Ausfall,RE 3122,Nauen (ab 14:37),Berlin Alexanderplatz
+15:33,RE 73779,Frankfurt(Oder) (ab 14:26),Berlin Alexanderplatz
+15:41,RB 18160,Flughafen BER (ab 15:14),Berlin Alexanderplatz
+15:42,RE 73814,Brandenburg Hbf (ab 14:45),Berlin Alexanderplatz
+15:47,RE 62020,Wittenberge (ab 14:06),Berlin Alexanderplatz
+15:52 Ausfall,RE 3724,Dessau Hbf (ab 14:05),Berlin Alexanderplatz
+15:53,RE 73739,Eisenhüttenstadt (ab 14:36),Berlin Alexanderplatz
+16:04,RE 73734,Magdeburg Hbf (ab 14:12),Berlin Alexanderplatz
+16:05 Ausfall,RE 3729,Troisvierges (ab 04:35),Berlin Alexanderplatz
+16:10,RE 62025,Flughafen BER (ab 15:44),Berlin Alexanderplatz
+16:16,RB 18163,Golm (ab 15:30),Berlin Alexanderplatz
+16:17,RE 73819,Berlin Ostbahnhof (ab 16:14),Berlin Alexanderplatz
+16:20,RE 73776,Brandenburg Hbf (ab 15:19),Berlin Alexanderplatz
+16:30 Ausfall,RE 3124,Nauen (ab 15:37),Berlin Alexanderplatz
+16:33,RE 73781,Frankfurt(Oder) (ab 15:26),Berlin Alexanderplatz
+16:41,RB 18162,Flughafen BER (ab 16:14),Berlin Alexanderplatz
+16:42,RE 73816,Brandenburg Hbf (ab 15:45),Berlin Alexanderplatz
+16:45 Ausfall,RE 18761,Cottbus Hbf (ab 15:13),Berlin Alexanderplatz
+16:47,RE 62022,Wismar (ab 13:24),Berlin Alexanderplatz
+16:52 Ausfall,RE 3726,Dessau Hbf (ab 15:05),Berlin Alexanderplatz
+16:53,RE 73741,Frankfurt(Oder) (ab 15:55),Berlin Alexanderplatz
+17:04,RE 73736,Magdeburg Hbf (ab 15:12),Berlin Alexanderplatz
+17:05 Ausfall,RE 3731,Senftenberg (ab 15:14),Berlin Alexanderplatz
+17:08 Ausfall,RE 18764,Bad Belzig (ab 16:05),Berlin Alexanderplatz
+17:10,RE 62027,Flughafen BER (ab 16:44),Berlin Alexanderplatz
+17:15,RB 18165,Golm (ab 16:30),Berlin Alexanderplatz
+17:15,RE 73821,Berlin Ostbahnhof (ab 17:12),Berlin Alexanderplatz
+17:20,RE 73778,Brandenburg Hbf (ab 16:19),Berlin Alexanderplatz
+17:30 Ausfall,RE 3126,Nauen (ab 16:37),Berlin Alexanderplatz
+17:33,RE 73783,Frankfurt(Oder) (ab 16:26),Berlin Alexanderplatz
+17:41,RB 18164,Flughafen BER (ab 17:14),Berlin Alexanderplatz
+17:42,RE 73818,Brandenburg Hbf (ab 16:45),Berlin Alexanderplatz
+17:45,RE 18763,Lübbenau(Spreewald) (ab 16:46),Berlin Alexanderplatz
+17:47,RE 62024,Wittenberge (ab 16:06),Berlin Alexanderplatz
+17:52 Ausfall,RE 3728,Dessau Hbf (ab 16:05),Berlin Alexanderplatz
+17:52,RE 73743,Frankfurt(Oder) (ab 16:55),Berlin Alexanderplatz
+18:05 Ausfall,RE 3733,Senftenberg (ab 16:14),Berlin Alexanderplatz
+18:05,RE 73738,Magdeburg Hbf (ab 16:12),Berlin Alexanderplatz
+18:09,RE 18766,Berlin Friedrichstr (ab 18:05),Berlin Alexanderplatz
+18:10,RE 62029,Flughafen BER (ab 17:44),Berlin Alexanderplatz
+18:15 (+5),RB 18167,Golm (ab 17:30),Berlin Alexanderplatz
+18:17,RE 73823,Berlin Ostbahnhof (ab 18:14),Berlin Alexanderplatz
+18:20,RE 73780,Brandenburg Hbf (ab 17:19),Berlin Alexanderplatz
+18:28 Ausfall,RE 3129,Cottbus Hbf (ab 17:04),Berlin Alexanderplatz
+18:30,RE 3128,Nauen (ab 17:37),Berlin Alexanderplatz
+18:33,RE 73785,Frankfurt(Oder) (ab 17:26),Berlin Alexanderplatz
+18:40,RB 18166,Flughafen BER (ab 18:14),Berlin Alexanderplatz
+18:42,RE 73820,Brandenburg Hbf (ab 17:45),Berlin Alexanderplatz
+18:45,RE 18765,Lübbenau(Spreewald) (ab 17:46),Berlin Alexanderplatz
+18:47,RE 61999,Wismar (ab 15:24),Berlin Alexanderplatz
+18:47,RE 62026,Wismar (ab 15:24),Berlin Alexanderplatz
+18:52 Ausfall,RE 3730,Dessau Hbf (ab 17:05),Berlin Alexanderplatz
+18:53,RE 73745,Cottbus Hbf (ab 16:56),Berlin Alexanderplatz
+19:05 Ausfall,RE 3735,Senftenberg (ab 17:14),Berlin Alexanderplatz
+19:05,RE 73740,Magdeburg Hbf (ab 17:12),Berlin Alexanderplatz
+19:10,RE 62031,Flughafen BER (ab 18:44),Berlin Alexanderplatz
+19:15 (+2),RB 18169,Golm (ab 18:30),Berlin Alexanderplatz
+19:15,RE 73825,Berlin Ostbahnhof (ab 19:12),Berlin Alexanderplatz
+19:20,RE 73782,Brandenburg Hbf (ab 18:19),Berlin Alexanderplatz
+19:28 Ausfall,re 3131,Cottbus Hbf (ab 18:04),Berlin Alexanderplatz
+19:30,RE 3130,Nauen (ab 18:37),Berlin Alexanderplatz
+19:33,RE 73787,Frankfurt(Oder) (ab 18:26),Berlin Alexanderplatz
+19:41,RB 18168,Flughafen BER (ab 19:14),Berlin Alexanderplatz
+19:47,RE 62028,Wittenberge (ab 18:06),Berlin Alexanderplatz
+19:52 Ausfall,RE 3732,Dessau Hbf (ab 18:05),Berlin Alexanderplatz
+19:53,RE 73747,Eisenhüttenstadt (ab 18:36),Berlin Alexanderplatz
+20:05 Ausfall,RE 3737,Senftenberg (ab 18:14),Berlin Alexanderplatz
+20:05,RE 73742,Magdeburg Hbf (ab 18:12),Berlin Alexanderplatz
+20:10,RE 62033,Flughafen BER (ab 19:44),Berlin Alexanderplatz
+20:15 (+2),RB 18171,Berlin-Charlottenburg (ab 20:00),Berlin Alexanderplatz
+20:20,RE 73784,Brandenburg Hbf (ab 19:19),Berlin Alexanderplatz
+20:28 Ausfall,RE 3133,Cottbus Hbf (ab 19:04),Berlin Alexanderplatz
+20:30,RE 3132,Nauen (ab 19:37),Berlin Alexanderplatz
+20:33,RE 73789,Frankfurt(Oder) (ab 19:26),Berlin Alexanderplatz
+20:40,RE 73826,Berlin-Charlottenburg (ab 20:24),Berlin Alexanderplatz
+20:41,RB 18170,Flughafen BER (ab 20:14),Berlin Alexanderplatz
+20:47,RE 62030,Wismar (ab 17:24),Berlin Alexanderplatz
+20:52 Ausfall,RE 3734,Dessau Hbf (ab 19:05),Berlin Alexanderplatz
+20:52,RE 73749,Frankfurt(Oder) (ab 19:55),Berlin Alexanderplatz
+21:05,RE 73744,Magdeburg Hbf (ab 19:12),Berlin Alexanderplatz
+21:05 (+9),RE 93659,Senftenberg (ab 19:14),Berlin Alexanderplatz
+21:10,RE 62035,Flughafen BER (ab 20:44),Berlin Alexanderplatz
+21:14 (+1),RB 18173,Berlin-Charlottenburg (ab 20:59),Berlin Alexanderplatz
+21:20,RE 73786,Brandenburg Hbf (ab 20:19),Berlin Alexanderplatz
+21:28,RE 3135,Cottbus Hbf (ab 20:04),Berlin Alexanderplatz
+21:30 Ausfall,RE 3134,Nauen (ab 20:37),Berlin Alexanderplatz
+21:33,RE 73791,Frankfurt(Oder) (ab 20:26),Berlin Alexanderplatz
+21:34,RE 73828,Berlin-Charlottenburg (ab 21:18),Berlin Alexanderplatz
+21:41,RB 18172,Flughafen BER (ab 21:14),Berlin Alexanderplatz
+21:47,RE 62032,Wittenberge (ab 20:06),Berlin Alexanderplatz
+21:52,RE 93656,Berlin Zoologischer Garten (ab 21:40),Berlin Alexanderplatz
+22:05,RE 73746,Magdeburg Hbf (ab 20:12),Berlin Alexanderplatz
+22:07 Ausfall,RE 3741,Senftenberg (ab 20:14),Berlin Alexanderplatz
+22:12,RE 62037,Flughafen BER (ab 21:44),Berlin Alexanderplatz
+22:15,RB 18175,Berlin-Charlottenburg (ab 22:00),Berlin Alexanderplatz
+22:20,RE 73788,Brandenburg Hbf (ab 21:19),Berlin Alexanderplatz
+22:28,RE 3137,Cottbus Hbf (ab 21:04),Berlin Alexanderplatz
+22:33,RE 73793,Frankfurt(Oder) (ab 21:24),Berlin Alexanderplatz
+22:39,RB 18174,Flughafen BER (ab 22:14),Berlin Alexanderplatz
+22:47,RE 62034,Wismar (ab 19:24),Berlin Alexanderplatz
+22:52 Ausfall,RE 93648,Berlin Zoologischer Garten (ab 22:40),Berlin Alexanderplatz
+22:54,RE 73827,Fürstenwalde(Spree) (ab 22:13),Berlin Alexanderplatz
+22:57 Ausfall,RE 3136,Nauen (ab 22:08),Berlin Alexanderplatz
+23:02,RE 73748,Magdeburg Hbf (ab 21:06),Berlin Alexanderplatz
+23:05,RE 93653,Berlin Ostbahnhof (ab 23:02),Berlin Alexanderplatz
+23:10,RE 62039,Flughafen BER (ab 22:32),Berlin Alexanderplatz
+23:17,RB 18177,Berlin-Charlottenburg (ab 22:53),Berlin Alexanderplatz
+23:26,RE 3139,Cottbus Hbf (ab 22:03),Berlin Alexanderplatz
+23:33,RE 73795,Frankfurt(Oder) (ab 22:24),Berlin Alexanderplatz
+23:41,RB 18176,Flughafen BER (ab 23:14),Berlin Alexanderplatz
+23:47,RE 62036,Wittenberge (ab 22:06),Berlin Alexanderplatz
+23:52,RE 93650,Berlin Zoologischer Garten (ab 23:40),Berlin Alexanderplatz
+23:55,RE 73829,Frankfurt(Oder) (ab 22:55),Berlin Alexanderplatz
+23:57 Ausfall,RE 3138,Nauen (ab 23:08),Berlin Alexanderplatz
