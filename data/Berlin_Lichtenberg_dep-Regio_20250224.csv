@@ -1,0 +1,77 @@
+Abfahrt,Zugnr.,nach (Ankunft),Abfahrtsbhf.
+05:29,RB 18600,Berlin-Spandau (an 06:00),Berlin-Lichtenberg
+05:38,RB 5151,Kostrzyn (an 06:56),Berlin-Lichtenberg
+06:29,RB 18602,Berlin-Spandau (an 07:00),Berlin-Lichtenberg
+06:38,RB 5153,Kostrzyn (an 07:46),Berlin-Lichtenberg
+07:29 (+4),RB 18604,Nauen (an 08:34),Berlin-Lichtenberg
+07:38,RB 5155,Kostrzyn (an 08:57),Berlin-Lichtenberg
+08:27,IC 2173,Wien Franz-Josefs-Bahnhof (an 16:27),Berlin-Lichtenberg
+08:27,RE 52173,Elsterwerda (an 09:55),Berlin-Lichtenberg
+08:29,RB 18606,Nauen (an 09:33),Berlin-Lichtenberg
+08:38,RB 5157,Kostrzyn (an 09:53),Berlin-Lichtenberg
+09:14,RB 18308,Eberswalde Hbf (an 09:54),Berlin-Lichtenberg
+09:29,RB 18608,Berlin-Spandau (an 10:00),Berlin-Lichtenberg
+09:34,RB 18607,Ludwigsfelde (an 10:23),Berlin-Lichtenberg
+09:38,RB 5159,Kostrzyn (an 10:54),Berlin-Lichtenberg
+10:05,FEX19829,Flughafen BER (an 10:30),Berlin-Lichtenberg
+10:14,RB 18310,Eberswalde Hbf (an 10:54),Berlin-Lichtenberg
+10:29,RB 18610,Berlin-Spandau (an 11:00),Berlin-Lichtenberg
+10:34,FEX19831,Flughafen BER (an 11:04),Berlin-Lichtenberg
+10:38,RB 5161,Kostrzyn (an 11:53),Berlin-Lichtenberg
+10:44,RB 18210,Oranienburg (an 11:11),Berlin-Lichtenberg
+10:49,RB 18313,Schönefeld(bei Berlin) (an 11:11),Berlin-Lichtenberg
+11:14,RB 18312,Eberswalde Hbf (an 11:54),Berlin-Lichtenberg
+11:29,RB 18612,Berlin-Spandau (an 12:00),Berlin-Lichtenberg
+11:38,RB 5163,Kostrzyn (an 12:57),Berlin-Lichtenberg
+11:44,RB 18212,Oranienburg (an 12:11),Berlin-Lichtenberg
+11:53,RB 61115,Oranienburg (an 12:21),Berlin-Lichtenberg
+11:53,RB 61125,Oranienburg (an 12:21),Berlin-Lichtenberg
+12:14,RB 18314,Eberswalde Hbf (an 12:54),Berlin-Lichtenberg
+12:29 (+3),RB 18614,Nauen (an 13:33),Berlin-Lichtenberg
+12:38,RB 5165,Kostrzyn (an 13:53),Berlin-Lichtenberg
+12:44,RB 18214,Oranienburg (an 13:11),Berlin-Lichtenberg
+12:53,RB 61117,Oranienburg (an 13:21),Berlin-Lichtenberg
+13:10,RB 61265,Frankfurt(Oder) (an 19:13),Berlin-Lichtenberg
+13:14,RB 18219,Schönefeld(bei Berlin) (an 13:35),Berlin-Lichtenberg
+13:14,RB 18316,Eberswalde Hbf (an 13:54),Berlin-Lichtenberg
+13:14,RB 61194,Berlin Ostkreuz (an 13:17),Berlin-Lichtenberg
+13:29 (+4),RB 18616,Nauen (an 14:34),Berlin-Lichtenberg
+13:34,RB 18615,Ludwigsfelde (an 14:23),Berlin-Lichtenberg
+13:38,RB 5167,Kostrzyn (an 14:57),Berlin-Lichtenberg
+13:44,RB 18216,Oranienburg (an 14:11),Berlin-Lichtenberg
+13:49,RB 18319,Schönefeld(bei Berlin) (an 14:11),Berlin-Lichtenberg
+13:53,RB 61119,Oranienburg (an 14:21),Berlin-Lichtenberg
+13:59,RB 61128,Berlin Ostkreuz (an 14:02),Berlin-Lichtenberg
+14:14,RB 18318,Eberswalde Hbf (an 14:54),Berlin-Lichtenberg
+14:29,RB 18618,Berlin-Spandau (an 15:00),Berlin-Lichtenberg
+14:34,RB 18617,Ludwigsfelde (an 15:23),Berlin-Lichtenberg
+14:38,RB 5169,Kostrzyn (an 15:53),Berlin-Lichtenberg
+15:14,RB 18320,Eberswalde Hbf (an 15:54),Berlin-Lichtenberg
+15:29,RB 18620,Berlin-Spandau (an 16:00),Berlin-Lichtenberg
+15:38,RB 5171,Kostrzyn (an 16:57),Berlin-Lichtenberg
+16:14,RB 18322,Eberswalde Hbf (an 16:54),Berlin-Lichtenberg
+16:26,IC 2271,Dresden Hbf (an 18:27),Berlin-Lichtenberg
+16:26,RE 52271,Elsterwerda (an 17:55),Berlin-Lichtenberg
+16:29 (+2),RB 18622,Nauen (an 17:33),Berlin-Lichtenberg
+16:38,RB 5173,Kostrzyn (an 17:53),Berlin-Lichtenberg
+17:14,RB 18324,Eberswalde Hbf (an 17:54),Berlin-Lichtenberg
+17:29 (+2),RB 18624,Nauen (an 18:34),Berlin-Lichtenberg
+17:34,RB 18623,Ludwigsfelde (an 18:23),Berlin-Lichtenberg
+17:38,RB 5175,Kostrzyn (an 18:57),Berlin-Lichtenberg
+18:14,RB 18326,Eberswalde Hbf (an 18:54),Berlin-Lichtenberg
+18:29 (+3),RB 18626,Nauen (an 19:33),Berlin-Lichtenberg
+18:34,RB 18681,Ludwigsfelde (an 19:23),Berlin-Lichtenberg
+18:38,RB 5177,Kostrzyn (an 19:53),Berlin-Lichtenberg
+19:14,RB 18328,Eberswalde Hbf (an 19:54),Berlin-Lichtenberg
+19:29,RB 18628,Nauen (an 20:34),Berlin-Lichtenberg
+19:34,RB 18627,Ludwigsfelde (an 20:23),Berlin-Lichtenberg
+19:38,RB 5179,Kostrzyn (an 20:57),Berlin-Lichtenberg
+20:14,RB 18330,Eberswalde Hbf (an 20:54),Berlin-Lichtenberg
+20:19,IC 2275,Dresden Hbf (an 22:27),Berlin-Lichtenberg
+20:19,RE 52275,Elsterwerda (an 21:55),Berlin-Lichtenberg
+20:29,RB 18630,Nauen (an 21:32),Berlin-Lichtenberg
+20:38,RB 5181,Kostrzyn (an 21:53),Berlin-Lichtenberg
+21:14,RB 18332,Eberswalde Hbf (an 21:54),Berlin-Lichtenberg
+21:38,RB 5183,Kostrzyn (an 22:57),Berlin-Lichtenberg
+22:14,RB 18334,Eberswalde Hbf (an 22:54),Berlin-Lichtenberg
+22:38,RB 5185,Kostrzyn (an 23:53),Berlin-Lichtenberg
