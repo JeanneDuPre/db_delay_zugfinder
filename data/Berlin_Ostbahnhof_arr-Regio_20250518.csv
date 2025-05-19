@@ -1,0 +1,124 @@
+Ankunft,Zugnr.,von (Abfahrt),Ankunftsbhf.
+00:01,RE 3138,Nauen (ab 23:08),Berlin Ostbahnhof
+00:29,RE 91705,Erkner (ab 00:10),Berlin Ostbahnhof
+00:37,RE 3141,Cottbus Hbf (ab 23:05),Berlin Ostbahnhof
+01:03,RE 3140,Nauen (ab 00:08),Berlin Ostbahnhof
+01:29,RE 73753,Erkner (ab 01:10),Berlin Ostbahnhof
+02:02 (+10),ICE 600,München Hbf (ab 20:21),Berlin Ostbahnhof
+02:48,RE 3143,Magdeburg Hbf (ab 00:42),Berlin Ostbahnhof
+04:21,RE 73752,Brandenburg Hbf (ab 03:15),Berlin Ostbahnhof
+04:47,RE 73717,Frankfurt(Oder) (ab 03:41),Berlin Ostbahnhof
+05:23,RE 3103,Cottbus Hbf (ab 04:01),Berlin Ostbahnhof
+05:24,RE 73754,Brandenburg Hbf (ab 04:17),Berlin Ostbahnhof
+05:29,RE 73759,Erkner (ab 05:10),Berlin Ostbahnhof
+05:33,RE 2,Berlin-Charlottenburg (ab 05:13),Berlin Ostbahnhof
+05:48,RE 73719,Erkner (ab 05:29),Berlin Ostbahnhof
+06:23,RE 3105,Cottbus Hbf (ab 05:01),Berlin Ostbahnhof
+06:24 (+3),RE 73756,Magdeburg Hbf (ab 04:19),Berlin Ostbahnhof
+06:29,RE 73761,Erkner (ab 06:10),Berlin Ostbahnhof
+06:33,RE 3104,Nauen (ab 05:37),Berlin Ostbahnhof
+06:48,RE 73721,Erkner (ab 06:29),Berlin Ostbahnhof
+06:59,ICE 674,Frankfurt(Main)Hbf (ab 23:35),Berlin Ostbahnhof
+07:09,RE 73716,Magdeburg Hbf (ab 05:12),Berlin Ostbahnhof
+07:23,RE 3107,Cottbus Hbf (ab 06:07),Berlin Ostbahnhof
+07:24,RE 18541,Brandenburg Hbf (ab 06:19),Berlin Ostbahnhof
+07:24,RE 73758,Brandenburg Hbf (ab 06:19),Berlin Ostbahnhof
+07:29 (+1),RE 73763,Erkner (ab 07:10),Berlin Ostbahnhof
+07:33,RE 3106,Nauen (ab 06:37),Berlin Ostbahnhof
+07:48,RE 73723,Erkner (ab 07:29),Berlin Ostbahnhof
+08:09,RE 73718,Magdeburg Hbf (ab 06:12),Berlin Ostbahnhof
+08:23,RE 3109,Cottbus Hbf (ab 07:03),Berlin Ostbahnhof
+08:24,RE 73760,Brandenburg Hbf (ab 07:19),Berlin Ostbahnhof
+08:29,RE 73765,Erkner (ab 08:10),Berlin Ostbahnhof
+08:33,RE 3108,Nauen (ab 07:37),Berlin Ostbahnhof
+08:48,RE 73725,Erkner (ab 08:29),Berlin Ostbahnhof
+09:10,RE 73720,Magdeburg Hbf (ab 07:12),Berlin Ostbahnhof
+09:23,RE 3111,Cottbus Hbf (ab 08:04),Berlin Ostbahnhof
+09:24,RE 73762,Brandenburg Hbf (ab 08:19),Berlin Ostbahnhof
+09:29 (+1),RE 73767,Erkner (ab 09:10),Berlin Ostbahnhof
+09:33,RE 3110,Nauen (ab 08:37),Berlin Ostbahnhof
+09:48,RE 73727,Erkner (ab 09:29),Berlin Ostbahnhof
+10:08,RE 73722,Magdeburg Hbf (ab 08:12),Berlin Ostbahnhof
+10:23,RE 3113,Cottbus Hbf (ab 09:04),Berlin Ostbahnhof
+10:24,RE 73764,Brandenburg Hbf (ab 09:19),Berlin Ostbahnhof
+10:29,RE 73769,Erkner (ab 10:10),Berlin Ostbahnhof
+10:33,RE 3112,Nauen (ab 09:37),Berlin Ostbahnhof
+10:48,RE 73729,Erkner (ab 10:29),Berlin Ostbahnhof
+11:09,RE 73724,Magdeburg Hbf (ab 09:12),Berlin Ostbahnhof
+11:23,RE 3115,Cottbus Hbf (ab 10:04),Berlin Ostbahnhof
+11:24,RE 73766,Brandenburg Hbf (ab 10:19),Berlin Ostbahnhof
+11:29,RE 73771,Erkner (ab 11:10),Berlin Ostbahnhof
+11:33 (+14),RE 3114,Nauen (ab 10:37),Berlin Ostbahnhof
+11:48 (+2),RE 73731,Erkner (ab 11:29),Berlin Ostbahnhof
+12:09,RE 73726,Magdeburg Hbf (ab 10:12),Berlin Ostbahnhof
+12:23,RE 3117,Cottbus Hbf (ab 11:04),Berlin Ostbahnhof
+12:24,RE 73768,Brandenburg Hbf (ab 11:19),Berlin Ostbahnhof
+12:29,RE 73773,Erkner (ab 12:10),Berlin Ostbahnhof
+12:33,RE 3116,Nauen (ab 11:37),Berlin Ostbahnhof
+12:48,RE 73733,Erkner (ab 12:29),Berlin Ostbahnhof
+13:09,RE 73728,Magdeburg Hbf (ab 11:12),Berlin Ostbahnhof
+13:23 (+2),RE 3119,Cottbus Hbf (ab 12:04),Berlin Ostbahnhof
+13:24,RE 73770,Brandenburg Hbf (ab 12:19),Berlin Ostbahnhof
+13:29 (+1),RE 73775,Erkner (ab 13:10),Berlin Ostbahnhof
+13:33,RE 3118,Nauen (ab 12:37),Berlin Ostbahnhof
+13:48,RE 73735,Erkner (ab 13:29),Berlin Ostbahnhof
+14:09 (+1),RE 73730,Magdeburg Hbf (ab 12:12),Berlin Ostbahnhof
+14:23,RE 3121,Cottbus Hbf (ab 13:04),Berlin Ostbahnhof
+14:24,RE 73772,Brandenburg Hbf (ab 13:19),Berlin Ostbahnhof
+14:29,RE 73777,Erkner (ab 14:10),Berlin Ostbahnhof
+14:33,RE 3120,Nauen (ab 13:37),Berlin Ostbahnhof
+14:48,RE 73737,Erkner (ab 14:29),Berlin Ostbahnhof
+15:08,RE 73732,Magdeburg Hbf (ab 13:12),Berlin Ostbahnhof
+15:23 (+1),RE 3123,Cottbus Hbf (ab 14:04),Berlin Ostbahnhof
+15:24 (+1),RE 73774,Brandenburg Hbf (ab 14:19),Berlin Ostbahnhof
+15:29,RE 73779,Erkner (ab 15:10),Berlin Ostbahnhof
+15:33 (+1),RE 3122,Nauen (ab 14:37),Berlin Ostbahnhof
+15:48,RE 73739,Erkner (ab 15:29),Berlin Ostbahnhof
+16:08,RE 73734,Magdeburg Hbf (ab 14:12),Berlin Ostbahnhof
+16:23,RE 3125,Cottbus Hbf (ab 15:04),Berlin Ostbahnhof
+16:24,RE 73776,Brandenburg Hbf (ab 15:19),Berlin Ostbahnhof
+16:29,RE 73781,Erkner (ab 16:10),Berlin Ostbahnhof
+16:33,RE 3124,Nauen (ab 15:37),Berlin Ostbahnhof
+16:48,RE 73741,Erkner (ab 16:29),Berlin Ostbahnhof
+17:08 (+1),RE 73736,Magdeburg Hbf (ab 15:12),Berlin Ostbahnhof
+17:23 (+2),RE 3127,Cottbus Hbf (ab 16:04),Berlin Ostbahnhof
+17:25 (+1),RE 73778,Brandenburg Hbf (ab 16:19),Berlin Ostbahnhof
+17:29,RE 73783,Erkner (ab 17:10),Berlin Ostbahnhof
+17:33,RE 18444,Lausanne (ab 00:50),Berlin Ostbahnhof
+17:33,RE 3126,Nauen (ab 16:37),Berlin Ostbahnhof
+17:48,RE 73743,Erkner (ab 17:29),Berlin Ostbahnhof
+18:09 (+5),RE 73738,Magdeburg Hbf (ab 16:12),Berlin Ostbahnhof
+18:13 (+5),RE 3748,Bad Belzig (ab 16:59),Berlin Ostbahnhof
+18:23,RE 18769,Kunersdorf (ab 17:12),Berlin Ostbahnhof
+18:23 (+1),RE 3129,Cottbus Hbf (ab 17:04),Berlin Ostbahnhof
+18:24 (+1),RE 73780,Brandenburg Hbf (ab 17:19),Berlin Ostbahnhof
+18:29,RE 73785,Erkner (ab 18:10),Berlin Ostbahnhof
+18:33,RE 3128,Nauen (ab 17:37),Berlin Ostbahnhof
+18:48,RE 73745,Erkner (ab 18:29),Berlin Ostbahnhof
+19:09,RE 73740,Magdeburg Hbf (ab 17:12),Berlin Ostbahnhof
+19:23,RE 3131,Cottbus Hbf (ab 18:04),Berlin Ostbahnhof
+19:24,RE 73782,Brandenburg Hbf (ab 18:19),Berlin Ostbahnhof
+19:29,RE 73787,Erkner (ab 19:10),Berlin Ostbahnhof
+19:33 (+16),RE 3130,Nauen (ab 18:37),Berlin Ostbahnhof
+19:48,RE 73747,Erkner (ab 19:29),Berlin Ostbahnhof
+20:09 (+19),RE 73742,Magdeburg Hbf (ab 18:12),Berlin Ostbahnhof
+20:23,RE 3133,Cottbus Hbf (ab 19:04),Berlin Ostbahnhof
+20:24,RE 73784,Brandenburg Hbf (ab 19:19),Berlin Ostbahnhof
+20:29,RE 73789,Erkner (ab 20:10),Berlin Ostbahnhof
+20:33,RE 3132,Nauen (ab 19:37),Berlin Ostbahnhof
+20:48,RE 73749,Erkner (ab 20:29),Berlin Ostbahnhof
+21:09,RE 73744,Magdeburg Hbf (ab 19:12),Berlin Ostbahnhof
+21:13 (+3),ICE 118,Innsbruck Hbf (ab 08:52),Berlin Ostbahnhof
+21:23,RE 3135,Cottbus Hbf (ab 20:04),Berlin Ostbahnhof
+21:24,RE 73786,Brandenburg Hbf (ab 20:19),Berlin Ostbahnhof
+21:29,RE 73791,Erkner (ab 21:10),Berlin Ostbahnhof
+21:33,RE 3134,Nauen (ab 20:37),Berlin Ostbahnhof
+22:09,RE 73746,Magdeburg Hbf (ab 20:12),Berlin Ostbahnhof
+22:23,RE 3137,Cottbus Hbf (ab 21:04),Berlin Ostbahnhof
+22:24,RE 73788,Brandenburg Hbf (ab 21:19),Berlin Ostbahnhof
+22:29 (+1),RE 73793,Frankfurt(Oder) (ab 21:24),Berlin Ostbahnhof
+22:41 Ausfall,ES 452,Praha hl.n. (ab 18:02),Berlin Ostbahnhof
+23:01 (+1),RE 3136,Nauen (ab 22:08),Berlin Ostbahnhof
+23:06 (+1),RE 73748,Magdeburg Hbf (ab 21:06),Berlin Ostbahnhof
+23:22,RE 3139,Cottbus Hbf (ab 22:03),Berlin Ostbahnhof
+23:29,RE 73795,Erkner (ab 23:10),Berlin Ostbahnhof

@@ -1,0 +1,85 @@
+Ankunft,Zugnr.,von (Abfahrt),Ankunftsbhf.
+00:42,RE 3140,Nauen (ab 00:08),Berlin-Charlottenburg
+01:00,RE 3141,Cottbus Hbf (ab 23:05),Berlin-Charlottenburg
+04:00,RE 73752,Brandenburg Hbf (ab 03:15),Berlin-Charlottenburg
+05:46,RE 3103,Cottbus Hbf (ab 04:01),Berlin-Charlottenburg
+06:10,RE 73719,Erkner (ab 05:29),Berlin-Charlottenburg
+06:12,RE 3104,Nauen (ab 05:37),Berlin-Charlottenburg
+06:46,RE 3105,Cottbus Hbf (ab 05:01),Berlin-Charlottenburg
+07:10,RE 73721,Erkner (ab 06:29),Berlin-Charlottenburg
+07:12,RE 3106,Nauen (ab 06:37),Berlin-Charlottenburg
+07:46,RE 3107,Cottbus Hbf (ab 06:07),Berlin-Charlottenburg
+08:46,RE 3109,Cottbus Hbf (ab 07:03),Berlin-Charlottenburg
+08:50,RE 73720,Magdeburg Hbf (ab 07:12),Berlin-Charlottenburg
+09:10,RE 73725,Erkner (ab 08:29),Berlin-Charlottenburg
+09:12,RE 3110,Nauen (ab 08:37),Berlin-Charlottenburg
+09:46,RE 3111,Cottbus Hbf (ab 08:04),Berlin-Charlottenburg
+09:47,RE 73722,Magdeburg Hbf (ab 08:12),Berlin-Charlottenburg
+10:10,RE 73727,Erkner (ab 09:29),Berlin-Charlottenburg
+10:12,RE 3112,Nauen (ab 09:37),Berlin-Charlottenburg
+10:46,RE 3113,Cottbus Hbf (ab 09:04),Berlin-Charlottenburg
+10:48,RE 73724,Magdeburg Hbf (ab 09:12),Berlin-Charlottenburg
+11:10,RE 73729,Erkner (ab 10:29),Berlin-Charlottenburg
+11:12,RE 3114,Nauen (ab 10:37),Berlin-Charlottenburg
+11:46,RE 3115,Cottbus Hbf (ab 10:04),Berlin-Charlottenburg
+11:48,RE 73726,Magdeburg Hbf (ab 10:12),Berlin-Charlottenburg
+12:05 (+5),FLX 1362,Berlin Ostbahnhof (ab 11:46),Berlin-Charlottenburg
+12:11,RE 73731,Erkner (ab 11:29),Berlin-Charlottenburg
+12:12,RE 3116,Nauen (ab 11:37),Berlin-Charlottenburg
+12:46,RE 3117,Cottbus Hbf (ab 11:04),Berlin-Charlottenburg
+12:48,RE 73728,Magdeburg Hbf (ab 11:12),Berlin-Charlottenburg
+13:10,RE 73733,Erkner (ab 12:29),Berlin-Charlottenburg
+13:12,RE 3118,Nauen (ab 12:37),Berlin-Charlottenburg
+13:46,RE 3119,Cottbus Hbf (ab 12:04),Berlin-Charlottenburg
+13:47,RE 3619,Wittenberge (ab 11:06),Berlin-Charlottenburg
+13:48,RE 73730,Magdeburg Hbf (ab 12:12),Berlin-Charlottenburg
+14:10,RE 73735,Erkner (ab 13:29),Berlin-Charlottenburg
+14:12,RE 3120,Nauen (ab 13:37),Berlin-Charlottenburg
+14:46,RE 3121,Cottbus Hbf (ab 13:04),Berlin-Charlottenburg
+14:47,RE 3621,Wittenberge (ab 12:06),Berlin-Charlottenburg
+14:48,RE 73732,Magdeburg Hbf (ab 13:12),Berlin-Charlottenburg
+15:10,RE 73737,Erkner (ab 14:29),Berlin-Charlottenburg
+15:12,RE 3122,Nauen (ab 14:37),Berlin-Charlottenburg
+15:46,RE 3123,Cottbus Hbf (ab 14:04),Berlin-Charlottenburg
+15:47,RE 3623,Wittenberge (ab 13:06),Berlin-Charlottenburg
+15:48,RE 73734,Magdeburg Hbf (ab 14:12),Berlin-Charlottenburg
+16:10,RE 73739,Erkner (ab 15:29),Berlin-Charlottenburg
+16:12,RE 3124,Nauen (ab 15:37),Berlin-Charlottenburg
+16:46,RE 3125,Cottbus Hbf (ab 15:04),Berlin-Charlottenburg
+16:47,RE 3625,Wittenberge (ab 14:06),Berlin-Charlottenburg
+16:48,RE 73736,Magdeburg Hbf (ab 15:12),Berlin-Charlottenburg
+17:10,RE 73741,Erkner (ab 16:29),Berlin-Charlottenburg
+17:12,RE 3126,Nauen (ab 16:37),Berlin-Charlottenburg
+17:46,RE 3127,Cottbus Hbf (ab 16:04),Berlin-Charlottenburg
+17:47 (+1),RE 3627,Wittenberge (ab 15:06),Berlin Charlottenburg
+17:47,RE 3627,Wittenberge (ab 15:06),Berlin-Charlottenburg
+17:48,RE 73738,Magdeburg Hbf (ab 16:12),Berlin-Charlottenburg
+18:10,RE 73743,Erkner (ab 17:29),Berlin-Charlottenburg
+18:12,RE 3128,Nauen (ab 17:37),Berlin-Charlottenburg
+18:46,RE 3129,Cottbus Hbf (ab 17:04),Berlin-Charlottenburg
+18:47 (+6),RE 3629,Wittenberge (ab 16:06),Berlin Charlottenburg
+18:47 (+6),RE 3629,Wittenberge (ab 16:06),Berlin-Charlottenburg
+18:48,RE 73740,Magdeburg Hbf (ab 17:12),Berlin-Charlottenburg
+19:10,RE 73745,Erkner (ab 18:29),Berlin-Charlottenburg
+19:12,RE 3130,Nauen (ab 18:37),Berlin-Charlottenburg
+19:46,RE 3131,Cottbus Hbf (ab 18:04),Berlin-Charlottenburg
+19:46,RE 3631,Wittenberge (ab 17:06),Berlin-Charlottenburg
+19:48,RE 73742,Magdeburg Hbf (ab 18:12),Berlin-Charlottenburg
+20:10,RE 73747,Erkner (ab 19:29),Berlin-Charlottenburg
+20:12,RE 3132,Nauen (ab 19:37),Berlin-Charlottenburg
+20:46,RE 3133,Cottbus Hbf (ab 19:04),Berlin-Charlottenburg
+20:47 (+2),RE 3633,Wittenberge (ab 18:06),Berlin Charlottenburg
+20:47 (+2),RE 3633,Wittenberge (ab 18:06),Berlin-Charlottenburg
+20:48,RE 73744,Magdeburg Hbf (ab 19:12),Berlin-Charlottenburg
+21:10,RE 73749,Erkner (ab 20:29),Berlin-Charlottenburg
+21:12,RE 3134,Nauen (ab 20:37),Berlin-Charlottenburg
+21:46,RE 3135,Cottbus Hbf (ab 20:04),Berlin-Charlottenburg
+21:47 (+4),RE 3635,Wittenberge (ab 19:06),Berlin Charlottenburg
+21:48,RE 73746,Magdeburg Hbf (ab 20:12),Berlin-Charlottenburg
+22:05 (+7),RJ 256,Graz Hbf (ab 10:26),Berlin-Charlottenburg
+22:40,RE 3136,Nauen (ab 22:08),Berlin-Charlottenburg
+22:45,RE 73748,Magdeburg Hbf (ab 21:06),Berlin-Charlottenburg
+22:46,RE 3137,Cottbus Hbf (ab 21:04),Berlin-Charlottenburg
+22:50,RE 73793,Frankfurt(Oder) (ab 21:24),Berlin-Charlottenburg
+23:40,RE 3138,Nauen (ab 23:08),Berlin-Charlottenburg
+23:45,RE 3139,Cottbus Hbf (ab 22:03),Berlin-Charlottenburg
