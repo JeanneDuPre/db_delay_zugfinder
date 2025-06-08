@@ -1,0 +1,73 @@
+Ankunft,Zugnr.,von (Abfahrt),Ankunftsbhf.
+00:04,RE 33709,Berlin Friedrichstr (ab 00:01),Berlin Alexanderplatz
+01:33,RE 33711,Frankfurt(Oder) (ab 00:24),Berlin Alexanderplatz
+04:53,RE 33646,Frankfurt(Oder) (ab 03:41),Berlin Alexanderplatz
+05:33,RE 33717,Frankfurt(Oder) (ab 04:24),Berlin Alexanderplatz
+05:53,RE 33648,Frankfurt(Oder) (ab 04:44),Berlin Alexanderplatz
+06:20,RE 33714,Potsdam Hbf (ab 05:50),Berlin Alexanderplatz
+06:33,RE 33719,Frankfurt(Oder) (ab 05:26),Berlin Alexanderplatz
+06:53,RE 33680,Frankfurt(Oder) (ab 05:55),Berlin Alexanderplatz
+07:05,RE 33645,Potsdam Hbf (ab 06:31),Berlin Alexanderplatz
+07:20,RE 33716,Potsdam Hbf (ab 06:50),Berlin Alexanderplatz
+07:33,RE 33721,Frankfurt(Oder) (ab 06:26),Berlin Alexanderplatz
+07:53,RE 33682,Frankfurt(Oder) (ab 06:55),Berlin Alexanderplatz
+08:05,RE 33647,Potsdam Hbf (ab 07:31),Berlin Alexanderplatz
+08:20,RE 33718,Potsdam Hbf (ab 07:50),Berlin Alexanderplatz
+08:33,RE 33723,Frankfurt(Oder) (ab 07:26),Berlin Alexanderplatz
+08:53,RE 33684,Frankfurt(Oder) (ab 07:55),Berlin Alexanderplatz
+09:06,RE 33649,Potsdam Hbf (ab 08:31),Berlin Alexanderplatz
+09:17,RE 3747,Berlin Ostkreuz (ab 09:09),Berlin Alexanderplatz
+09:20,RE 33720,Potsdam Hbf (ab 08:50),Berlin Alexanderplatz
+09:33,RE 33725,Frankfurt(Oder) (ab 08:26),Berlin Alexanderplatz
+09:53,RE 33686,Frankfurt(Oder) (ab 08:55),Berlin Alexanderplatz
+10:04,RE 33681,Potsdam Hbf (ab 09:31),Berlin Alexanderplatz
+10:20,RE 33722,Potsdam Hbf (ab 09:50),Berlin Alexanderplatz
+10:33,RE 33727,Frankfurt(Oder) (ab 09:26),Berlin Alexanderplatz
+10:53,RE 33688,Frankfurt(Oder) (ab 09:55),Berlin Alexanderplatz
+11:05,RE 33683,Potsdam Hbf (ab 10:31),Berlin Alexanderplatz
+11:20,RE 33724,Potsdam Hbf (ab 10:50),Berlin Alexanderplatz
+11:33,RE 33729,Frankfurt(Oder) (ab 10:26),Berlin Alexanderplatz
+11:53,RE 33690,Frankfurt(Oder) (ab 10:55),Berlin Alexanderplatz
+12:05,RE 33685,Potsdam Hbf (ab 11:31),Berlin Alexanderplatz
+12:05 Ausfall,RE 3721,Senftenberg (ab 10:14),Berlin Alexanderplatz
+12:20,RE 33726,Potsdam Hbf (ab 11:50),Berlin Alexanderplatz
+12:33,RE 33731,Frankfurt(Oder) (ab 11:26),Berlin Alexanderplatz
+12:53,RE 33692,Frankfurt(Oder) (ab 11:55),Berlin Alexanderplatz
+13:05,RE 33687,Potsdam Hbf (ab 12:31),Berlin Alexanderplatz
+13:20,RE 33728,Potsdam Hbf (ab 12:50),Berlin Alexanderplatz
+13:33,RE 33733,Frankfurt(Oder) (ab 12:26),Berlin Alexanderplatz
+13:53,RE 33694,Frankfurt(Oder) (ab 12:55),Berlin Alexanderplatz
+14:05,RE 33689,Potsdam Hbf (ab 13:31),Berlin Alexanderplatz
+14:20,RE 33730,Potsdam Hbf (ab 13:50),Berlin Alexanderplatz
+14:33,RE 33735,Frankfurt(Oder) (ab 13:26),Berlin Alexanderplatz
+14:53,RE 33696,Frankfurt(Oder) (ab 13:55),Berlin Alexanderplatz
+15:04,RE 33691,Potsdam Hbf (ab 14:31),Berlin Alexanderplatz
+15:20,RE 33732,Potsdam Hbf (ab 14:50),Berlin Alexanderplatz
+15:33,RE 33737,Frankfurt(Oder) (ab 14:26),Berlin Alexanderplatz
+15:53,RE 33698,Frankfurt(Oder) (ab 14:55),Berlin Alexanderplatz
+16:04,RE 33693,Potsdam Hbf (ab 15:31),Berlin Alexanderplatz
+16:20,RE 33734,Potsdam Hbf (ab 15:50),Berlin Alexanderplatz
+16:33,RE 33739,Frankfurt(Oder) (ab 15:26),Berlin Alexanderplatz
+16:53,RE 33700,Frankfurt(Oder) (ab 15:55),Berlin Alexanderplatz
+17:04,RE 33695,Potsdam Hbf (ab 16:31),Berlin Alexanderplatz
+17:20,RE 33736,Magdeburg Hbf (ab 09:42),Berlin Alexanderplatz
+17:33,RE 33741,Frankfurt(Oder) (ab 16:26),Berlin Alexanderplatz
+17:52,RE 33702,Frankfurt(Oder) (ab 16:55),Berlin Alexanderplatz
+18:05,RE 33697,Potsdam Hbf (ab 17:31),Berlin Alexanderplatz
+18:20,RE 33738,Potsdam Hbf (ab 17:50),Berlin Alexanderplatz
+18:33,RE 33743,Frankfurt(Oder) (ab 17:26),Berlin Alexanderplatz
+18:53,RE 33704,Frankfurt(Oder) (ab 17:55),Berlin Alexanderplatz
+19:05,RE 33699,Potsdam Hbf (ab 18:31),Berlin Alexanderplatz
+19:20,RE 33740,Magdeburg Hbf (ab 13:42),Berlin Alexanderplatz
+19:33,RE 33745,Frankfurt(Oder) (ab 18:26),Berlin Alexanderplatz
+19:53,RE 33706,Frankfurt(Oder) (ab 18:55),Berlin Alexanderplatz
+20:05,RE 33701,Potsdam Hbf (ab 19:31),Berlin Alexanderplatz
+20:20,RE 33742,Magdeburg Hbf (ab 15:42),Berlin Alexanderplatz
+20:33,RE 33747,Frankfurt(Oder) (ab 19:26),Berlin Alexanderplatz
+20:52,RE 33708,Frankfurt(Oder) (ab 19:55),Berlin Alexanderplatz
+21:05,RE 33703,Potsdam Hbf (ab 20:31),Berlin Alexanderplatz
+21:33,RE 33748,Frankfurt(Oder) (ab 20:26),Berlin Alexanderplatz
+22:05,RE 33705,Berlin Friedrichstr (ab 22:02),Berlin Alexanderplatz
+22:33,RE 33749,Frankfurt(Oder) (ab 21:24),Berlin Alexanderplatz
+23:02,RE 33707,Berlin Friedrichstr (ab 22:59),Berlin Alexanderplatz
+23:33,RE 56381,Frankfurt(Oder) (ab 22:24),Berlin Alexanderplatz
