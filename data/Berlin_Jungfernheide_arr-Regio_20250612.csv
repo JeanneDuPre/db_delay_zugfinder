@@ -1,0 +1,69 @@
+Ankunft,Zugnr.,von (Abfahrt),Ankunftsbhf.
+00:59,RE 3165,Berlin Hbf (ab 00:54),Berlin Jungfernheide
+04:20,RB 18241,Berlin Gesundbrunnen (ab 04:13),Berlin Jungfernheide
+04:57,RE 3144,Rathenow (ab 04:06),Berlin Jungfernheide
+05:56,RE 3164,Stendal Hbf (ab 04:44),Berlin Jungfernheide
+06:32,RB 18242,Potsdam Hbf (ab 05:35),Berlin Jungfernheide
+06:57,RE 3146,Stendal Hbf (ab 05:46),Berlin Jungfernheide
+07:01,RE 3147,Herzberg(Elster) (ab 05:23),Berlin Jungfernheide
+07:39,RB 18505,Nauen (ab 07:08),Berlin Jungfernheide
+07:56,RE 3166,Stendal Hbf (ab 06:40),Berlin Jungfernheide
+08:01,RE 3169,Jüterbog (ab 07:03),Berlin Jungfernheide
+08:23,RB 18249,Berlin Gesundbrunnen (ab 08:13),Berlin Jungfernheide
+08:40,RB 18507,Nauen (ab 08:08),Berlin Jungfernheide
+08:57,RE 3148,Rathenow (ab 08:06),Berlin Jungfernheide
+09:01,RE 3149,Herzberg(Elster) (ab 07:23),Berlin Jungfernheide
+09:39,RB 18509,Nauen (ab 09:08),Berlin Jungfernheide
+09:56,RE 3168,Stendal Hbf (ab 08:45),Berlin Jungfernheide
+10:02,RE 3171,Jüterbog (ab 09:03),Berlin Jungfernheide
+10:40,RB 18511,Nauen (ab 10:08),Berlin Jungfernheide
+10:57,RE 3150,Rathenow (ab 10:02),Berlin Jungfernheide
+11:01,RE 3151,Falkenberg(Elster) (ab 09:14),Berlin Jungfernheide
+11:23,RB 18255,Berlin Gesundbrunnen (ab 11:15),Berlin Jungfernheide
+11:39,RB 18513,Nauen (ab 11:08),Berlin Jungfernheide
+11:56,RE 3170,Stendal Hbf (ab 10:44),Berlin Jungfernheide
+12:02,RE 3173,Jüterbog (ab 11:03),Berlin Jungfernheide
+12:57,RE 3152,Rathenow (ab 12:02),Berlin Jungfernheide
+13:01,RE 3153,Falkenberg(Elster) (ab 11:14),Berlin Jungfernheide
+13:31,RB 18256,Potsdam Hbf (ab 12:36),Berlin Jungfernheide
+13:39,RB 18517,Nauen (ab 13:08),Berlin Jungfernheide
+13:56,RE 3172,Stendal Hbf (ab 12:44),Berlin Jungfernheide
+14:16,RB 18518,Berlin Südkreuz (ab 14:02),Berlin Jungfernheide
+14:57 Ausfall,RE 3154,Rathenow (ab 14:02),Berlin Jungfernheide
+15:01 (+8),RE 3155,Falkenberg(Elster) (ab 13:14),Berlin Jungfernheide
+15:16,RB 18520,Berlin Südkreuz (ab 15:01),Berlin Jungfernheide
+15:23,RB 18263,Berlin Gesundbrunnen (ab 15:14),Berlin Jungfernheide
+15:31,RB 18260,Potsdam Hbf (ab 14:36),Berlin Jungfernheide
+15:39,RB 18521,Nauen (ab 15:08),Berlin Jungfernheide
+15:56,RE 3174,Stendal Hbf (ab 14:44),Berlin Jungfernheide
+16:02 (+35),RE 3177,Jüterbog (ab 15:03),Berlin Jungfernheide
+16:16,RB 18522,Berlin Südkreuz (ab 16:02),Berlin Jungfernheide
+16:57 (+2),RE 3156,Rathenow (ab 16:02),Berlin Jungfernheide
+17:01,RE 3157,Falkenberg(Elster) (ab 15:14),Berlin Jungfernheide
+17:23,RB 18267,Berlin Gesundbrunnen (ab 17:14),Berlin Jungfernheide
+17:56,RE 3176,Stendal Hbf (ab 16:44),Berlin Jungfernheide
+18:01,RE 3179,Jüterbog (ab 17:03),Berlin Jungfernheide
+18:16,RB 18526,Berlin Südkreuz (ab 18:02),Berlin Jungfernheide
+18:23,RB 18269,Berlin Gesundbrunnen (ab 18:14),Berlin Jungfernheide
+18:40,RB 18527,Nauen (ab 18:08),Berlin Jungfernheide
+18:57,RE 3158,Rathenow (ab 18:02),Berlin Jungfernheide
+19:01 (+6),RE 3159,Falkenberg(Elster) (ab 17:14),Berlin Jungfernheide
+19:16,RB 18528,Berlin Südkreuz (ab 19:01),Berlin Jungfernheide
+19:23,RB 18271,Berlin Gesundbrunnen (ab 19:16),Berlin Jungfernheide
+19:32 (+1),RB 18268,Potsdam Hbf (ab 18:36),Berlin Jungfernheide
+19:39,RB 18529,Nauen (ab 19:08),Berlin Jungfernheide
+19:56,RE 3178,Stendal Hbf (ab 18:44),Berlin Jungfernheide
+20:02,RE 3181,Jüterbog (ab 19:03),Berlin Jungfernheide
+20:16,RB 18530,Berlin Südkreuz (ab 20:02),Berlin Jungfernheide
+20:23,RB 18273,Berlin Gesundbrunnen (ab 20:13),Berlin Jungfernheide
+20:39,RB 18531,Nauen (ab 20:08),Berlin Jungfernheide
+20:57,RE 3160,Rathenow (ab 20:02),Berlin Jungfernheide
+21:01,RE 3161,Berlin Hbf (ab 20:57),Berlin Jungfernheide
+21:16,RB 18532,Berlin Südkreuz (ab 21:02),Berlin Jungfernheide
+21:23,RB 18275,Berlin Gesundbrunnen (ab 21:14),Berlin Jungfernheide
+21:56,RE 3180,Stendal Hbf (ab 20:50),Berlin Jungfernheide
+22:02,RE 3183,Berlin Südkreuz (ab 21:45),Berlin Jungfernheide
+22:57,RE 3162,Rathenow (ab 22:06),Berlin Jungfernheide
+23:09,RB 18537,Nauen (ab 22:35),Berlin Jungfernheide
+23:11,RE 3185,Berlin Hbf (ab 23:07),Berlin Jungfernheide
+23:56,RE 3182,Stendal Hbf (ab 22:45),Berlin Jungfernheide

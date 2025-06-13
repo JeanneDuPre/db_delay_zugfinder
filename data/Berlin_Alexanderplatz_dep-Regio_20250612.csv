@@ -1,0 +1,75 @@
+Abfahrt,Zugnr.,nach (Ankunft),Abfahrtsbhf.
+00:05,RE 93750,Frankfurt(Oder) (an 01:14),Berlin Alexanderplatz
+00:28,FEX19878,Berlin Hbf (an 00:33),Berlin Alexanderplatz
+00:34,RE 56382,Potsdam Hbf (an 01:09),Berlin Alexanderplatz
+01:29,RE 56380,Frankfurt(Oder) (an 02:37),Berlin Alexanderplatz
+01:34,RE 73753,Berlin Hbf (an 01:39),Berlin Alexanderplatz
+01:40,FEX19880,Berlin Hbf (an 01:46),Berlin Alexanderplatz
+03:21,FEX19801,Flughafen BER (an 03:46),Berlin Alexanderplatz
+03:35,FEX19803,Flughafen BER (an 04:00),Berlin Alexanderplatz
+04:18,RE 73752,Frankfurt(Oder) (an 05:31),Berlin Alexanderplatz
+04:34,RE 73757,Brandenburg Hbf (an 05:38),Berlin Alexanderplatz
+04:40,RE 73800,Eisenhüttenstadt (an 06:05),Berlin Alexanderplatz
+04:54,RE 33646,Potsdam Hbf (an 05:29),Berlin Alexanderplatz
+05:21,RE 33712,Frankfurt(Oder) (an 06:33),Berlin Alexanderplatz
+05:34,RE 33717,Berlin-Wannsee (an 05:58),Berlin Alexanderplatz
+05:34,RE 73759,Potsdam Hbf (an 06:05),Berlin Alexanderplatz
+05:54,RE 63448,Potsdam Hbf (an 06:29),Berlin Alexanderplatz
+06:21,RE 33714,Frankfurt(Oder) (an 07:31),Berlin Alexanderplatz
+06:34,RE 33719,Potsdam Hbf (an 07:05),Berlin Alexanderplatz
+06:54,RE 33680,Magdeburg Hbf (an 08:47),Berlin Alexanderplatz
+07:21,RE 33716,Frankfurt(Oder) (an 08:31),Berlin Alexanderplatz
+07:34,RE 33721,Brandenburg Hbf (an 08:38),Berlin Alexanderplatz
+07:54,RE 33682,Magdeburg Hbf (an 09:47),Berlin Alexanderplatz
+08:34,RE 33723,Brandenburg Hbf (an 09:38),Berlin Alexanderplatz
+08:54,RE 33684,Magdeburg Hbf (an 10:47),Berlin Alexanderplatz
+09:34,RE 33725,Brandenburg Hbf (an 10:38),Berlin Alexanderplatz
+09:54,RE 33686,Magdeburg Hbf (an 11:47),Berlin Alexanderplatz
+10:34,RE 33727,Brandenburg Hbf (an 11:38),Berlin Alexanderplatz
+10:54,RE 33688,Magdeburg Hbf (an 12:47),Berlin Alexanderplatz
+11:06,RE 33683,Frankfurt(Oder) (an 12:05),Berlin Alexanderplatz
+11:21,RE 33724,Frankfurt(Oder) (an 12:31),Berlin Alexanderplatz
+11:34,RE 33729,Brandenburg Hbf (an 12:38),Berlin Alexanderplatz
+11:54,RE 33690,Magdeburg Hbf (an 13:47),Berlin Alexanderplatz
+12:06,RE 33685,Frankfurt(Oder) (an 13:05),Berlin Alexanderplatz
+12:06 Ausfall,RE 3721,Dessau Hbf (an 13:53),Berlin Alexanderplatz
+12:06,RE 7,Berlin Hbf (an 12:12),Berlin Alexanderplatz
+12:34,RE 33731,Brandenburg Hbf (an 13:38),Berlin Alexanderplatz
+12:54,RE 33692,Magdeburg Hbf (an 14:47),Berlin Alexanderplatz
+13:34,RE 33733,Brandenburg Hbf (an 14:38),Berlin Alexanderplatz
+13:54,RE 33694,Magdeburg Hbf (an 15:47),Berlin Alexanderplatz
+14:21,RE 33730,Frankfurt(Oder) (an 15:31),Berlin Alexanderplatz
+14:34,RE 33735,Brandenburg Hbf (an 15:38),Berlin Alexanderplatz
+14:54,RE 33696,Magdeburg Hbf (an 16:47),Berlin Alexanderplatz
+15:21,RE 33732,Frankfurt(Oder) (an 16:31),Berlin Alexanderplatz
+15:34,RE 33737,Brandenburg Hbf (an 16:38),Berlin Alexanderplatz
+15:54,RE 33698,Magdeburg Hbf (an 17:47),Berlin Alexanderplatz
+16:05,RE 33693,Frankfurt(Oder) (an 17:05),Berlin Alexanderplatz
+16:21,RE 33734,Frankfurt(Oder) (an 17:31),Berlin Alexanderplatz
+16:34,RE 33739,Brandenburg Hbf (an 17:38),Berlin Alexanderplatz
+16:54,RE 33700,Magdeburg Hbf (an 18:47),Berlin Alexanderplatz
+17:34,RE 3184,Brandenburg Hbf (an 18:38),Berlin Alexanderplatz
+17:34,RE 33741,Potsdam Hbf (an 18:05),Berlin Alexanderplatz
+17:53,RE 33702,Magdeburg Hbf (an 19:47),Berlin Alexanderplatz
+18:06,RE 33697,Eisenhüttenstadt (an 19:22),Berlin Alexanderplatz
+18:21,RE 33738,Frankfurt(Oder) (an 19:31),Berlin Alexanderplatz
+18:34,RE 3186,Brandenburg Hbf (an 19:38),Berlin Alexanderplatz
+18:34,RE 33743,Potsdam Hbf (an 19:05),Berlin Alexanderplatz
+18:54,RE 33704,Brandenburg Hbf (an 19:53),Berlin Alexanderplatz
+19:06,RE 33699,Frankfurt(Oder) (an 20:05),Berlin Alexanderplatz
+19:34,RE 3188,Brandenburg Hbf (an 20:38),Berlin Alexanderplatz
+19:34,RE 33745,Potsdam Hbf (an 20:05),Berlin Alexanderplatz
+19:54,RE 33706,Magdeburg Hbf (an 21:47),Berlin Alexanderplatz
+20:06,RE 33701,Frankfurt(Oder) (an 21:05),Berlin Alexanderplatz
+20:21,RE 33742,Frankfurt(Oder) (an 21:31),Berlin Alexanderplatz
+20:34,RE 33747,Brandenburg Hbf (an 21:39),Berlin Alexanderplatz
+20:53,RE 33708,Magdeburg Hbf (an 22:47),Berlin Alexanderplatz
+21:06,RE 33703,Frankfurt(Oder) (an 22:05),Berlin Alexanderplatz
+21:21,RE 33744,Frankfurt(Oder) (an 22:31),Berlin Alexanderplatz
+21:34,RE 33748,Magdeburg Hbf (an 23:40),Berlin Alexanderplatz
+22:06,RE 33705,Frankfurt(Oder) (an 23:15),Berlin Alexanderplatz
+22:34,RE 33749,Brandenburg Hbf (an 23:39),Berlin Alexanderplatz
+22:54,RE 73827,Berlin Hbf (an 23:00),Berlin Alexanderplatz
+23:03,RE 33707,Frankfurt(Oder) (an 00:15),Berlin Alexanderplatz
+23:34,RE 56381,Berlin-Wannsee (an 23:59),Berlin Alexanderplatz
+23:56,RE 73829,Berlin Hbf (an 00:01),Berlin Alexanderplatz
