@@ -1,0 +1,266 @@
+Ankunft,Zugnr.,von (Abfahrt),Ankunftsbhf.
+00:21,RE 3361,Bernau(b Berlin) (ab 00:08),Berlin Gesundbrunnen
+00:21,RE 3363,Eberswalde Hbf (ab 23:53),Berlin Gesundbrunnen
+00:25 (+7),ICE 1018,München Hbf (ab 19:55),Berlin Gesundbrunnen
+00:31,FEX19878,Flughafen BER (ab 00:02),Berlin Gesundbrunnen
+00:41,RE 3360,Birkengrund (ab 00:07),Berlin Gesundbrunnen
+00:41 (+1),RE 3366,Berlin Potsdamer Platz (ab 00:32),Berlin Gesundbrunnen
+01:27 (+66),RE 3321,Warnitz(Uckermark) (ab 00:13),Berlin Gesundbrunnen
+01:49,FEX19880,Flughafen BER (ab 01:15),Berlin Gesundbrunnen
+02:09,RE 3364,Berlin Hbf (ab 02:05),Berlin Gesundbrunnen
+04:26 Ausfall,FEX19807,Berlin Hbf (ab 04:21),Berlin Gesundbrunnen
+04:26,RB 18653,Berlin Hbf (ab 04:21),Berlin Gesundbrunnen
+04:31,RE 3302,Berlin Hbf (ab 04:26),Berlin Gesundbrunnen
+04:37,RE 3369,Eberswalde Hbf (ab 04:03),Berlin Gesundbrunnen
+04:57,FEX19800,Flughafen BER (ab 04:25),Berlin Gesundbrunnen
+05:22,RE 3301,Eberswalde Hbf (ab 04:48),Berlin Gesundbrunnen
+05:22,RE 91801,Eberswalde Hbf (ab 04:48),Berlin Gesundbrunnen
+05:26,RB 18655,Berlin Hbf (ab 05:21),Berlin Gesundbrunnen
+05:27,FEX19802,Ludwigsfelde (ab 04:39),Berlin Gesundbrunnen
+05:36 (+1),RE 3340,Falkenberg(Elster) (ab 03:50),Berlin Gesundbrunnen
+05:56,FEX19804,Flughafen BER (ab 05:28),Berlin Gesundbrunnen
+06:21,RE 3341,Schwedt(Oder) (ab 05:06),Berlin Gesundbrunnen
+06:26,RB 18657,Berlin Hbf (ab 06:21),Berlin Gesundbrunnen
+06:27,FEX19806,Ludwigsfelde (ab 05:39),Berlin Gesundbrunnen
+06:37,RE 3304,Lutherstadt Wittenberg Hbf (ab 05:05),Berlin Gesundbrunnen
+06:56,FEX19808,Flughafen BER (ab 06:28),Berlin Gesundbrunnen
+07:22,RE 3,Altefähr (ab 04:11),Berlin Gesundbrunnen
+07:22,RE 3303,Pasewalk (ab 05:44),Berlin Gesundbrunnen
+07:26,RB 18659,Berlin Hbf (ab 07:21),Berlin Gesundbrunnen
+07:27 (+2),FEX19810,Ludwigsfelde (ab 06:39),Berlin Gesundbrunnen
+07:35 (+1),RE 3342,Jüterbog (ab 06:33),Berlin Gesundbrunnen
+07:40 (+1),RB 18244,Potsdam Hbf (ab 06:36),Berlin Gesundbrunnen
+07:42 (+3),IC 2274,Dresden Hbf (ab 05:43),Berlin Gesundbrunnen
+07:48 (+1),ICE 1078,Berlin Südkreuz (ab 07:36),Berlin Gesundbrunnen
+07:48 (+2),RE 51078,Berlin Südkreuz (ab 07:36),Berlin Gesundbrunnen
+07:56 (+1),FEX19812,Flughafen BER (ab 07:28),Berlin Gesundbrunnen
+07:57,FEX19821,Berlin Hbf (ab 07:51),Berlin Gesundbrunnen
+08:06 (+17),IC 2432,Cottbus Hbf (ab 06:42),Berlin Gesundbrunnen
+08:07,RE 3530,Berlin Hbf (ab 08:03),Berlin Gesundbrunnen
+08:18 (+4),IC 2173,Rostock Hbf (ab 06:19),Berlin Gesundbrunnen
+08:21,RE 3343,Schwedt(Oder) (ab 07:06),Berlin Gesundbrunnen
+08:26,FEX19823,Berlin Hbf (ab 08:21),Berlin Gesundbrunnen
+08:26,RB 18661,Berlin Hbf (ab 08:21),Berlin Gesundbrunnen
+08:27,FEX19814,Ludwigsfelde (ab 07:40),Berlin Gesundbrunnen
+08:38 (+1),RE 3306,Halle(Saale)Hbf (ab 05:51),Berlin Gesundbrunnen
+08:38,RE 93406,Halle(Saale)Hbf (ab 05:51),Berlin Gesundbrunnen
+08:41 (+5),ICE 1974,Berlin Südkreuz (ab 08:17),Berlin Gesundbrunnen Bhf
+08:56,FEX19816,Flughafen BER (ab 08:28),Berlin Gesundbrunnen
+09:08 (+2),ICE 1636,Eisenach Hbf (ab 06:38),Berlin Gesundbrunnen
+09:08,RE 51636,Berlin Südkreuz (ab 08:52),Berlin Gesundbrunnen
+09:22,RE 3305,Altefähr (ab 06:11),Berlin Gesundbrunnen
+09:22,RE 93405,Altefähr (ab 06:11),Berlin Gesundbrunnen
+09:26,RB 18663,Berlin Hbf (ab 09:21),Berlin Gesundbrunnen
+09:27,FEX19818,Ludwigsfelde (ab 08:32),Berlin Gesundbrunnen
+09:35 (+15),RE 3344,Jüterbog (ab 08:33),Berlin Gesundbrunnen
+09:39 (+5),RB 18248,Potsdam Hbf (ab 08:36),Berlin Gesundbrunnen
+09:42 (+10),IC 2272,Chemnitz Hbf (ab 06:26),Berlin Gesundbrunnen Bhf
+09:42 (+24),IC 2272,Chemnitz Hbf (ab 06:26),Berlin Gesundbrunnen
+09:48 (+6),ICE 1714,Jena-Göschwitz (ab 06:52),Berlin Gesundbrunnen
+09:48 (+4),RE 51714,Berlin Südkreuz (ab 09:24),Berlin Gesundbrunnen
+09:56 (+1),FEX19820,Flughafen BER (ab 09:28),Berlin Gesundbrunnen
+10:02 (+17),RE 3532,Berlin Hbf (ab 09:57),Berlin Gesundbrunnen
+10:07 (+1),RE 18492,Berlin Südkreuz (ab 09:55),Berlin Gesundbrunnen
+10:21,IC 2175,Rostock Hbf (ab 08:19),Berlin Gesundbrunnen
+10:21,RE 3345,Schwedt(Oder) (ab 09:06),Berlin Gesundbrunnen
+10:26,RB 18665,Berlin Hbf (ab 10:21),Berlin Gesundbrunnen
+10:28,FEX19822,Ludwigsfelde (ab 09:38),Berlin Gesundbrunnen
+10:28 (+4),RB 18660,Ludwigsfelde (ab 09:38),Berlin Gesundbrunnen
+10:33 (+2),EC 248,Warszawa Wschodnia (ab 04:44),Berlin Gesundbrunnen
+10:37 (+7),RE 3308,Lutherstadt Wittenberg Hbf (ab 09:00),Berlin Gesundbrunnen
+10:40 Ausfall,IC 2472,Dresden Hbf (ab 08:21),Berlin Gesundbrunnen
+10:40 (+9),IC 2912,Dresden Hbf (ab 08:21),Berlin Gesundbrunnen
+10:44,RB 18250,Potsdam Hbf (ab 09:35),Berlin Gesundbrunnen
+10:47 (+5),ICE 696,Frankfurt(Main)Hbf (ab 06:14),Berlin Gesundbrunnen
+10:56 (+1),FEX19824,Flughafen BER (ab 10:28),Berlin Gesundbrunnen
+11:07 (+6),ICE 1114,München Hbf (ab 06:51),Berlin Gesundbrunnen
+11:13 (+2),EC 54,Krakow Glowny (ab 04:18),Berlin Gesundbrunnen
+11:20 (+2),RE 3307,Altefähr (ab 08:11),Berlin Gesundbrunnen
+11:27,FEX19826,Ludwigsfelde (ab 10:32),Berlin Gesundbrunnen
+11:27,RB 18667,Berlin Hbf (ab 11:21),Berlin Gesundbrunnen
+11:36 (+6),RE 3346,Jüterbog (ab 10:33),Berlin Gesundbrunnen
+11:40 (+1),RB 18252,Potsdam Hbf (ab 10:36),Berlin Gesundbrunnen
+11:42 (+16),IC 2270,Chemnitz Hbf (ab 08:26),Berlin Gesundbrunnen
+11:48 (+6),ICE 1076,Berlin Hbf (ab 11:44),Berlin Gesundbrunnen
+11:48,RE 51076,Berlin Hbf (ab 11:44),Berlin Gesundbrunnen
+11:50 (+36),IC 2035,Norddeich (ab 05:35),Berlin Gesundbrunnen
+11:50 (+39),IC 2035,Norddeich (ab 05:35),Berlin Gesundbrunnen Bhf
+11:56 (+10),FEX19828,Flughafen BER (ab 11:28),Berlin Gesundbrunnen
+11:59 (+2),ICE 1073,Ostseebad Binz (ab 08:19),Berlin Gesundbrunnen
+11:59 (+2),RE 51073,Prenzlau (ab 10:54),Berlin Gesundbrunnen
+12:01 (+146),EN 13471,Malmö Central (ab 01:55),Berlin Gesundbrunnen
+12:01,EN 345,Stockholm Central (ab 17:09),Berlin-Gesundbrunnen
+12:01 (+149),EN 345,Stockholm Central (ab 17:09),Berlin Gesundbrunnen
+12:19 (+1),IC 2177,Rostock Hbf (ab 10:19),Berlin Gesundbrunnen
+12:22,RB 18669,Berlin Hbf (ab 12:18),Berlin Gesundbrunnen
+12:22 (+3),RE 3347,Schwedt(Oder) (ab 11:06),Berlin Gesundbrunnen
+12:28,FEX19830,Ludwigsfelde (ab 11:39),Berlin Gesundbrunnen
+12:33,EC 246,Warszawa Wschodnia (ab 06:44),Berlin Gesundbrunnen
+12:33,EC 280,Budapest-Nyugati (ab 05:30),Berlin Gesundbrunnen
+12:34,ICE 1978,Berlin Südkreuz (ab 12:16),Berlin Gesundbrunnen
+12:37 (+9),RE 3310,Lutherstadt Wittenberg Hbf (ab 11:03),Berlin Gesundbrunnen
+12:40 (+4),RB 18254,Potsdam Hbf (ab 11:36),Berlin Gesundbrunnen
+12:56 (+2),FEX19832,Flughafen BER (ab 12:28),Berlin Gesundbrunnen
+13:08 (+7),ICE 932,Saarbrücken Hbf (ab 06:28),Berlin Gesundbrunnen
+13:08 (+6),RE 50932,Berlin Südkreuz (ab 12:53),Berlin Gesundbrunnen
+13:22 (+1),RE 3309,Altefähr (ab 10:11),Berlin Gesundbrunnen
+13:22 (+1),RE 93409,Altefähr (ab 10:11),Berlin Gesundbrunnen
+13:25,RB 18671,Berlin Hbf (ab 13:21),Berlin Gesundbrunnen
+13:27,FEX19834,Ludwigsfelde (ab 12:32),Berlin Gesundbrunnen
+13:34 (+15),EC 230,Gdynia Glowna (ab 07:01),Berlin Gesundbrunnen
+13:35 (+1),RE 3348,Luckenwalde (ab 12:39),Berlin Gesundbrunnen
+13:39 (+23),RB 18256,Potsdam Hbf (ab 12:36),Berlin Gesundbrunnen
+13:41 (+6),IC 2178,Dresden Hbf (ab 11:43),Berlin Gesundbrunnen
+13:47 (+15),ICE 1710,München Hbf (ab 08:54),Berlin Gesundbrunnen
+13:47,RE 51710,Berlin Südkreuz (ab 13:24),Berlin Gesundbrunnen
+13:56 (+1),FEX19836,Flughafen BER (ab 13:28),Berlin Gesundbrunnen
+14:06,ICE 1711,Ostseebad Binz (ab 10:21),Berlin Gesundbrunnen
+14:06,RE 51711,Prenzlau (ab 12:54),Berlin Gesundbrunnen
+14:19 (+5),IC 2179,Rostock Hbf (ab 12:19),Berlin Gesundbrunnen
+14:19 (+4),IC 2179,Rostock Hbf (ab 12:19),Berlin Gesundbrunnen Bhf
+14:22,RE 3349,Schwedt(Oder) (ab 13:06),Berlin Gesundbrunnen
+14:26,RB 18673,Berlin Hbf (ab 14:21),Berlin Gesundbrunnen
+14:28,FEX19838,Ludwigsfelde (ab 13:39),Berlin Gesundbrunnen
+14:32 (+16),EC 48,Warszawa Wschodnia (ab 08:44),Berlin Gesundbrunnen
+14:37 (+2),RE 3312,Lutherstadt Wittenberg Hbf (ab 13:00),Berlin Gesundbrunnen
+14:41 (+1),RB 18258,Potsdam Hbf (ab 13:36),Berlin Gesundbrunnen
+14:44 (+17),ICE 933,Ostseebad Binz (ab 10:56),Berlin Gesundbrunnen
+14:44 (+6),RE 50933,Prenzlau (ab 13:37),Berlin Gesundbrunnen
+14:56 (+1),FEX19840,Flughafen BER (ab 14:28),Berlin Gesundbrunnen
+15:00 (+36),IC 143,Amsterdam Centraal (ab 08:00),Berlin Gesundbrunnen Bhf
+15:00 (+38),IC 143,Amsterdam Centraal (ab 08:00),Berlin Gesundbrunnen
+15:00 (+36),IC 143,Trakiszki (ab 14:48),Berlin Gesundbrunnen Bhf
+15:00 (+38),IC 143,Suwalki (ab 15:47),Berlin Gesundbrunnen
+15:00 (+36),IC 143,Augustow (ab 16:11),Berlin Gesundbrunnen Bhf
+15:00 (+38),IC 143,Augustow (ab 16:11),Berlin Gesundbrunnen
+15:00 (+36),IC 143,Dabrowa Bialostocka (ab 16:35),Berlin Gesundbrunnen Bhf
+15:00 (+38),IC 143,Sokolka (ab 17:00),Berlin Gesundbrunnen
+15:00 (+36),IC 143,Sokolka (ab 17:00),Berlin Gesundbrunnen Bhf
+15:00 (+38),IC 143,Bialystok Zielone Wzgorza (ab 18:12),Berlin Gesundbrunnen
+15:00 (+36),IC 143,Warszawa Sluzewiec (ab 20:24),Berlin Gesundbrunnen Bhf
+15:00 (+38),IC 143,Piaseczno (ab 20:33),Berlin Gesundbrunnen
+15:00 (+36),IC 143,Piaseczno (ab 20:33),Berlin Gesundbrunnen Bhf
+15:00 (+38),IC 143,Warka (ab 20:51),Berlin Gesundbrunnen
+15:00 (+36),IC 143,Jedrzejow (ab 22:50),Berlin Gesundbrunnen Bhf
+15:00 (+38),IC 143,Jedrzejow (ab 22:50),Berlin Gesundbrunnen
+15:00 (+36),IC 143,Sedziszow (ab 23:07),Berlin Gesundbrunnen Bhf
+15:00 (+38),IC 143,Sedziszow (ab 23:07),Berlin Gesundbrunnen
+15:08 (+1),ICE 930,Frankfurt(Main)Hbf (ab 11:02),Berlin Gesundbrunnen
+15:13 (+31),EC 56,Przemysl Glowny (ab 05:05),Berlin Gesundbrunnen
+15:20,ICE 1979,Rostock Hbf (ab 13:22),Berlin Gesundbrunnen
+15:22 (+4),RE 3311,Altefähr (ab 11:57),Berlin Gesundbrunnen
+15:22,RE 93411,Altefähr (ab 11:57),Berlin Gesundbrunnen
+15:25 (+52),ICE 203,Stralsund Hbf (ab 11:37),Berlin Gesundbrunnen Bhf
+15:25 (+52),ICE 203,Stralsund Hbf (ab 11:37),Berlin Gesundbrunnen
+15:26,RB 18675,Berlin Hbf (ab 15:21),Berlin Gesundbrunnen
+15:27,FEX19842,Ludwigsfelde (ab 14:32),Berlin Gesundbrunnen
+15:35 (+9),RE 3350,Jüterbog (ab 14:33),Berlin Gesundbrunnen
+15:38 (+7),RB 18260,Potsdam Hbf (ab 14:36),Berlin Gesundbrunnen
+15:41 (+11),IC 2176,Dresden Hbf (ab 13:43),Berlin Gesundbrunnen Bhf
+15:41 (+17),IC 2176,Dresden Hbf (ab 13:43),Berlin Gesundbrunnen
+15:41 (+11),IC 2176,Dresden-Neustadt (ab 13:50),Berlin Gesundbrunnen Bhf
+15:41 (+17),IC 2176,Dresden-Neustadt (ab 13:50),Berlin Gesundbrunnen
+15:48,ICE 1072,Berlin Hbf (ab 15:44),Berlin Gesundbrunnen
+15:48,RE 51072,Berlin Hbf (ab 15:44),Berlin Gesundbrunnen
+15:53,RE 3531,Altefähr (ab 12:33),Berlin Gesundbrunnen
+15:53,RE 92631,Altefähr (ab 12:33),Berlin Gesundbrunnen
+15:56 (+3),FEX19844,Flughafen BER (ab 15:28),Berlin Gesundbrunnen
+15:59 (+1),ICE 1075,Ostseebad Binz (ab 12:21),Berlin Gesundbrunnen
+15:59,RE 51040,Prenzlau (ab 14:54),Berlin Gesundbrunnen
+15:59 (+1),RE 51075,Prenzlau (ab 14:54),Berlin Gesundbrunnen
+16:19,IC 2271,Rostock Hbf (ab 14:19),Berlin Gesundbrunnen
+16:21 (+4),RE 3351,Schwedt(Oder) (ab 15:06),Berlin Gesundbrunnen
+16:23,RB 18677,Berlin Hbf (ab 16:18),Berlin Gesundbrunnen
+16:28 (+27),FEX19846,Ludwigsfelde (ab 15:39),Berlin Gesundbrunnen
+16:33 (+1),EC 46,Warszawa Wschodnia (ab 10:44),Berlin Gesundbrunnen
+16:37 (+5),RE 3314,Lutherstadt Wittenberg Hbf (ab 15:03),Berlin Gesundbrunnen
+16:41 (+4),ICE 690,München Hbf (ab 08:46),Berlin Gesundbrunnen Bhf
+16:41 (+7),ICE 690,München Hbf (ab 08:46),Berlin Gesundbrunnen
+16:44,RB 18262,Potsdam Hbf (ab 15:36),Berlin Gesundbrunnen
+16:56 (+3),FEX19848,Flughafen BER (ab 16:28),Berlin Gesundbrunnen
+17:00 (+16),IC 145,Amsterdam Centraal (ab 10:00),Berlin Gesundbrunnen
+17:00 (+16),IC 145,Amsterdam Centraal (ab 10:00),Berlin Gesundbrunnen Bhf
+17:08 (+2),ICE 1001,S+U Gesundbrunnen Bhf (ab 05:50),Berlin Gesundbrunnen
+17:08 (+2),ICE 938,Frankfurt(Main)Hbf (ab 13:02),Berlin Gesundbrunnen
+17:22,RE 3313,Altefähr (ab 14:11),Berlin Gesundbrunnen
+17:22,RE 93413,Altefähr (ab 14:11),Berlin Gesundbrunnen
+17:26,FEX19859,Berlin Hbf (ab 17:19),Berlin Gesundbrunnen
+17:26,RB 18679,Berlin Hbf (ab 17:19),Berlin Gesundbrunnen
+17:27 (+4),FEX19850,Ludwigsfelde (ab 16:32),Berlin Gesundbrunnen
+17:36 (+11),RE 3352,Jüterbog (ab 16:33),Berlin Gesundbrunnen
+17:39 (+2),RB 18264,Potsdam Hbf (ab 16:36),Berlin Gesundbrunnen
+17:42 (+8),IC 2174,Dresden Hbf (ab 15:43),Berlin Gesundbrunnen
+17:45 (+3),RE 3533,Altefähr (ab 14:31),Berlin Gesundbrunnen
+17:45,RE 92633,Altefähr (ab 14:31),Berlin Gesundbrunnen
+17:54 (+13),IC 2431,Emden Außenhafen (ab 12:01),Berlin Gesundbrunnen
+17:54 (+13),IC 2431,Emden Außenhafen (ab 12:01),Berlin Gesundbrunnen Bhf
+17:54 (+14),IC 2539,Braunschweig Hbf (ab 16:10),Berlin Gesundbrunnen
+17:54 (+13),IC 2539,Braunschweig Hbf (ab 16:10),Berlin Gesundbrunnen Bhf
+17:57,FEX19852,Flughafen BER (ab 17:28),Berlin Gesundbrunnen
+17:57,FEX19861,Berlin Hbf (ab 17:51),Berlin Gesundbrunnen
+18:08,ICE 1715,Ostseebad Binz (ab 14:20),Berlin Gesundbrunnen
+18:08,RE 51715,Prenzlau (ab 16:55),Berlin Gesundbrunnen
+18:13,RB 55767,Joachimsthal (ab 17:25),Berlin Gesundbrunnen
+18:17 (+2),IC 2273,Rostock Hbf (ab 16:21),Berlin Gesundbrunnen Bhf
+18:17 (+2),IC 2273,Rostock Hbf (ab 16:21),Berlin Gesundbrunnen
+18:23 (+1),RE 3353,Schwedt(Oder) (ab 17:06),Berlin Gesundbrunnen
+18:26,RB 18681,Berlin Hbf (ab 18:21),Berlin Gesundbrunnen
+18:28,FEX19854,Ludwigsfelde (ab 17:39),Berlin Gesundbrunnen
+18:29 (+2),RE 18493,Neustrelitz Hbf (ab 17:12),Berlin Gesundbrunnen
+18:32 (+4),EC 44,Warszawa Wschodnia (ab 12:44),Berlin Gesundbrunnen
+18:37 (+7),RE 3316,Lutherstadt Wittenberg Hbf (ab 17:00),Berlin Gesundbrunnen
+18:37 (+7),RE 93416,Lutherstadt Wittenberg Hbf (ab 17:00),Berlin Gesundbrunnen
+18:40 (+1),RB 18266,Potsdam Hbf (ab 17:36),Berlin Gesundbrunnen
+18:44 (+25),ICE 1218,Innsbruck Hbf (ab 08:42),Berlin Gesundbrunnen
+18:56,FEX19856,Flughafen BER (ab 18:28),Berlin Gesundbrunnen
+19:00 (+53),IC 147,Amsterdam Centraal (ab 12:00),Berlin Gesundbrunnen
+19:12 (+3),ICE 836,Frankfurt(Main)Hbf (ab 15:02),Berlin Gesundbrunnen
+19:14 Ausfall,IC 2473,Stralsund Hbf (ab 16:16),Berlin Gesundbrunnen
+19:14 (+2),IC 2913,Stralsund Hbf (ab 16:16),Berlin Gesundbrunnen
+19:15 (+23),EC 58,Przemysl Glowny (ab 09:18),Berlin Gesundbrunnen
+19:21 (+5),RE 3315,Altefähr (ab 15:59),Berlin Gesundbrunnen
+19:26,FEX19867,Berlin Hbf (ab 19:20),Berlin Gesundbrunnen
+19:26,RB 18683,Berlin Hbf (ab 19:20),Berlin Gesundbrunnen
+19:27,FEX19858,Ludwigsfelde (ab 18:32),Berlin Gesundbrunnen
+19:39 (+4),RB 18268,Potsdam Hbf (ab 18:36),Berlin Gesundbrunnen
+19:42 (+16),IC 2172,Dresden Hbf (ab 17:43),Berlin Gesundbrunnen
+19:46,RE 3354,Jüterbog (ab 18:33),Berlin Gesundbrunnen
+19:46,Re 3374,Jüterbog (ab 18:33),Berlin Gesundbrunnen
+19:56 (+1),FEX19860,Flughafen BER (ab 19:28),Berlin Gesundbrunnen
+20:00 (+2),ICE 1002,Garmisch-Partenkirchen (ab 14:15),Berlin Gesundbrunnen
+20:07,ICE 1717,Ostseebad Binz (ab 16:20),Berlin Gesundbrunnen
+20:07,RE 51717,Prenzlau (ab 18:54),Berlin Gesundbrunnen
+20:17,IC 2275,Rostock Hbf (ab 18:21),Berlin Gesundbrunnen
+20:21,RE 3355,Schwedt(Oder) (ab 19:06),Berlin Gesundbrunnen
+20:26,RB 18685,Berlin Hbf (ab 20:18),Berlin Gesundbrunnen
+20:27,FEX19862,Ludwigsfelde (ab 19:39),Berlin Gesundbrunnen
+20:37 (+1),RE 3318,Lutherstadt Wittenberg Hbf (ab 19:05),Berlin Gesundbrunnen
+20:40 (+2),RB 18270,Potsdam Hbf (ab 19:36),Berlin Gesundbrunnen
+20:43 Ausfall,ICE 596,München Hbf (ab 12:46),Berlin Gesundbrunnen
+20:57 Ausfall,FEX19864,Flughafen BER (ab 20:28),Berlin Gesundbrunnen
+20:59 (+19),IC 149,Amsterdam Centraal (ab 14:00),Berlin Gesundbrunnen Bhf
+20:59 (+19),IC 149,Amsterdam Centraal (ab 14:00),Berlin Gesundbrunnen
+21:07 (+1),ICE 834,Frankfurt(Main)Hbf (ab 17:02),Berlin Gesundbrunnen
+21:21 (+1),RE 3317,Altefähr (ab 18:11),Berlin Gesundbrunnen
+21:27,FEX19866,Ludwigsfelde (ab 20:32),Berlin Gesundbrunnen
+21:37,RE 3356,Ludwigsfelde (ab 20:56),Berlin Gesundbrunnen
+21:42 (+11),RB 18272,Potsdam Hbf (ab 20:36),Berlin Gesundbrunnen
+21:56 Ausfall,FEX19868,Flughafen BER (ab 21:28),Berlin Gesundbrunnen
+22:01 (+2),ICE 1000,München Hbf (ab 17:51),Berlin Gesundbrunnen
+22:18 Ausfall,ICE 1975,Rostock Hbf (ab 20:21),Berlin Gesundbrunnen
+22:22 Ausfall,RE 94027,Angermünde (ab 21:33),Berlin Gesundbrunnen
+22:26,FEX19879,Berlin Hbf (ab 22:21),Berlin Gesundbrunnen
+22:28 Ausfall,FEX19870,Ludwigsfelde (ab 21:39),Berlin Gesundbrunnen
+22:37 (+1),RE 3320,Lutherstadt Wittenberg Hbf (ab 21:00),Berlin Gesundbrunnen
+22:44,RB 18274,Potsdam Hbf (ab 21:35),Berlin Gesundbrunnen
+22:56 Ausfall,FEX19872,Flughafen BER (ab 22:28),Berlin Gesundbrunnen
+23:03,ICE 832,Frankfurt(Main)Hbf (ab 19:02),Berlin Gesundbrunnen
+23:07 Ausfall,IC 241,Amsterdam Centraal (ab 16:00),Berlin Gesundbrunnen
+23:07 (+15),IC 241,Amsterdam Centraal (ab 16:00),Berlin Gesundbrunnen Bhf
+23:07 (+33),IC 2945,Rheine (ab 18:26),Berlin Gesundbrunnen
+23:27,FEX19874,Ludwigsfelde (ab 22:39),Berlin Gesundbrunnen
+23:27,RE 3319,Bülzig (ab 00:54),Berlin Gesundbrunnen
+23:27,RE 3325,Altefähr (ab 20:11),Berlin Gesundbrunnen
+23:36,RE 3358,Berlin Hbf (ab 23:33),Berlin Gesundbrunnen
+23:40 (+4),ICE 500,München Hbf (ab 18:55),Berlin Gesundbrunnen
+23:56,FEX19876,Flughafen BER (ab 23:28),Berlin Gesundbrunnen
