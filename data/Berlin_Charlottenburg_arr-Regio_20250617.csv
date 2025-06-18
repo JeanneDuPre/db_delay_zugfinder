@@ -1,0 +1,51 @@
+Ankunft,Zugnr.,von (Abfahrt),Ankunftsbhf.
+05:42,RE 33644,Potsdam Hbf (ab 05:27),Berlin-Charlottenburg
+05:48,RE 3601,Neuruppin West (ab 04:22),Berlin-Charlottenburg
+06:10,RE 33648,Eisenhüttenstadt (ab 04:26),Berlin-Charlottenburg
+06:23,RE 94709,Berlin Hbf (ab 06:14),Berlin-Charlottenburg
+06:35,RE 94706,Dessau Hbf (ab 05:05),Berlin-Charlottenburg
+06:47,RE 3605,Wittstock(Dosse) (ab 04:52),Berlin-Charlottenburg
+06:48,RE 33645,Potsdam Hbf (ab 06:31),Berlin-Charlottenburg
+07:10,RE 33680,Eisenhüttenstadt (ab 05:36),Berlin-Charlottenburg
+07:23,RE 94711,Berlin Hbf (ab 07:14),Berlin-Charlottenburg
+07:35,RE 94708,Dessau Hbf (ab 06:05),Berlin-Charlottenburg
+07:48,RE 33647,Potsdam Hbf (ab 07:31),Berlin-Charlottenburg
+07:48,RE 3607,Wittenberge (ab 05:06),Berlin-Charlottenburg
+08:10,RE 33682,Frankfurt(Oder) (ab 06:55),Berlin-Charlottenburg
+08:23,RE 94713,Berlin Hbf (ab 08:14),Berlin-Charlottenburg
+08:35,RE 94710,Dessau Hbf (ab 07:05),Berlin-Charlottenburg
+08:46,RE 3609,Wittenberge (ab 06:06),Berlin-Charlottenburg
+08:46 (+1),RE 3609,Wittenberge (ab 06:06),Berlin Charlottenburg
+08:50,RE 33649,Potsdam Hbf (ab 08:31),Berlin-Charlottenburg
+09:10,RE 33684,Eisenhüttenstadt (ab 07:36),Berlin-Charlottenburg
+09:23,RE 94715,Berlin Hbf (ab 09:14),Berlin-Charlottenburg
+09:35,RE 94712,Dessau Hbf (ab 08:05),Berlin-Charlottenburg
+09:47,RE 33681,Potsdam Hbf (ab 09:31),Berlin-Charlottenburg
+09:47,RE 3611,Wittenberge (ab 07:06),Berlin-Charlottenburg
+10:10,RE 33686,Eisenhüttenstadt (ab 08:36),Berlin-Charlottenburg
+10:35,RE 94714,Dessau Hbf (ab 09:05),Berlin-Charlottenburg
+10:47,RE 3613,Wittenberge (ab 08:06),Berlin-Charlottenburg
+10:48,RE 33683,Potsdam Hbf (ab 10:31),Berlin-Charlottenburg
+11:10,RE 33688,Frankfurt(Oder) (ab 09:55),Berlin-Charlottenburg
+11:23,RE 92519,Berlin Hbf (ab 11:14),Berlin-Charlottenburg
+11:35,RE 94716,Dessau Hbf (ab 10:05),Berlin-Charlottenburg
+11:47,RE 3615,Wittenberge (ab 09:06),Berlin-Charlottenburg
+11:48,RE 33685,Potsdam Hbf (ab 11:31),Berlin-Charlottenburg
+12:11,RE 33690,Frankfurt(Oder) (ab 10:55),Berlin-Charlottenburg
+12:23,RE 3721,Senftenberg (ab 10:14),Berlin-Charlottenburg
+12:35,RE 91918,Dessau Hbf (ab 11:05),Berlin-Charlottenburg
+12:47 (+12),RE 3617,Wittenberge (ab 10:06),Berlin-Charlottenburg
+12:47 (+11),RE 3617,Wittenberge (ab 10:06),Berlin Charlottenburg
+12:47 (+12),RE 3617,Hennigsdorf (ab 12:10),Berlin-Charlottenburg
+12:47 (+11),RE 3617,Hennigsdorf (ab 12:10),Berlin Charlottenburg
+12:48,RE 33687,Potsdam Hbf (ab 12:31),Berlin-Charlottenburg
+13:10,RE 33692,Frankfurt(Oder) (ab 11:55),Berlin-Charlottenburg
+13:23,RE 94723,Berlin Hbf (ab 13:14),Berlin-Charlottenburg
+13:35 Ausfall,RE 3720,Dessau Hbf (ab 12:05),Berlin-Charlottenburg
+13:35,RE 92520,Dessau Hbf (ab 12:05),Berlin-Charlottenburg
+15:47 (+3),RE 3623,Wittenberge (ab 13:06),Berlin Charlottenburg
+16:47 (+3),RE 3625,Wittenberge (ab 14:06),Berlin Charlottenburg
+17:47 (+14),RE 3627,Wittenberge (ab 15:06),Berlin Charlottenburg
+18:47 (+10),RE 3629,Wittenberge (ab 16:06),Berlin Charlottenburg
+19:46 (+11),RE 3631,Wittenberge (ab 17:06),Berlin Charlottenburg
+20:47 Ausfall,RE 3633,Wittenberge (ab 18:06),Berlin-Charlottenburg
