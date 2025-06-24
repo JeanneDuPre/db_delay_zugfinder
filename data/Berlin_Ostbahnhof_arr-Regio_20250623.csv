@@ -1,0 +1,159 @@
+Ankunft,Zugnr.,von (Abfahrt),Ankunftsbhf.
+00:08,RE 73750,Magdeburg Hbf (ab 22:06),Berlin Ostbahnhof
+00:14 (+5),RE 3745,Senftenberg (ab 22:26),Berlin Ostbahnhof
+00:14,RE 7,Berlin Zoologischer Garten (ab 05:20),Berlin Ostbahnhof
+00:29,RE 56382,Fangschleuse (ab 00:04),Berlin Ostbahnhof
+01:29,RE 73753,Frankfurt(Oder) (ab 00:24),Berlin Ostbahnhof
+01:29,RE 91453,Frankfurt(Oder) (ab 00:24),Berlin Ostbahnhof
+01:33,RE 56380,Potsdam Hbf (ab 00:54),Berlin Ostbahnhof
+04:21,RE 73752,Berlin Friedrichstr (ab 04:14),Berlin Ostbahnhof
+04:29,RE 73757,Berlin Ostkreuz (ab 04:25),Berlin Ostbahnhof
+04:43,RE 73800,Berlin-Charlottenburg (ab 04:23),Berlin Ostbahnhof
+04:47,RE 63446,Frankfurt(Oder) (ab 03:41),Berlin Ostbahnhof
+04:47,RE 73717,Frankfurt(Oder) (ab 03:41),Berlin Ostbahnhof
+05:23 (+1),RE 3103,Cottbus Hbf (ab 04:01),Berlin Ostbahnhof
+05:24,RE 33712,Potsdam Hbf (ab 04:50),Berlin Ostbahnhof
+05:24,RE 73754,Brandenburg Hbf (ab 04:08),Berlin Ostbahnhof
+05:29,RE 73759,Berlin Ostkreuz (ab 05:26),Berlin Ostbahnhof
+05:35,RE 2,Nauen (ab 04:25),Berlin Ostbahnhof
+05:48,RE 63448,Eisenhüttenstadt (ab 04:26),Berlin Ostbahnhof
+05:48,RE 73719,Eisenhüttenstadt (ab 04:26),Berlin Ostbahnhof
+06:05,RE 1,Leverkusen Mitte (ab 00:04),Berlin Ostbahnhof
+06:05,RE 33644,Potsdam Hbf (ab 05:27),Berlin Ostbahnhof
+06:23,RE 3105,Cottbus Hbf (ab 05:01),Berlin Ostbahnhof
+06:24,RE 73756,Groß Kreutz (ab 05:30),Berlin Ostbahnhof
+06:29,RE 33719,Erkner (ab 06:10),Berlin Ostbahnhof
+06:48,RE 33680,Eisenhüttenstadt (ab 05:36),Berlin Ostbahnhof
+06:48,RE 93721,Eisenhüttenstadt (ab 05:36),Berlin Ostbahnhof
+07:09 (+6),RE 33645,Potsdam Hbf (ab 06:31),Berlin Ostbahnhof
+07:09,RE 73716,Groß Kreutz (ab 06:13),Berlin Ostbahnhof
+07:23,RE 3107,Cottbus Hbf (ab 06:07),Berlin Ostbahnhof
+07:24,RE 18541,Groß Kreutz (ab 06:30),Berlin Ostbahnhof
+07:24,RE 73758,Groß Kreutz (ab 06:30),Berlin Ostbahnhof
+07:29,RE 33721,Erkner (ab 07:10),Berlin Ostbahnhof
+07:29 (+1),RE 73763,Erkner (ab 07:10),Berlin Ostbahnhof
+07:48 (+26),RE 73723,Frankfurt(Oder) (ab 06:55),Berlin Ostbahnhof
+07:48,RE 93723,Frankfurt(Oder) (ab 06:55),Berlin Ostbahnhof
+08:09 (+2),RE 33647,Potsdam Hbf (ab 07:31),Berlin Ostbahnhof
+08:09 Ausfall,RE 73718,Groß Kreutz (ab 07:13),Berlin Ostbahnhof
+08:23 (+4),RE 3109,Cottbus Hbf (ab 07:03),Berlin Ostbahnhof
+08:24,RE 73760,Groß Kreutz (ab 07:30),Berlin Ostbahnhof
+08:29,RE 33723,Erkner (ab 08:10),Berlin Ostbahnhof
+08:29,RE 73765,Erkner (ab 08:10),Berlin Ostbahnhof
+08:48,RE 73725,Eisenhüttenstadt (ab 07:36),Berlin Ostbahnhof
+08:48,RE 93725,Eisenhüttenstadt (ab 07:36),Berlin Ostbahnhof
+09:23,RE 3111,Cottbus Hbf (ab 08:04),Berlin Ostbahnhof
+09:24,RE 73762,Groß Kreutz (ab 08:30),Berlin Ostbahnhof
+09:29,RE 33725,Erkner (ab 09:10),Berlin Ostbahnhof
+09:29,RE 73767,Erkner (ab 09:10),Berlin Ostbahnhof
+09:48,RE 93727,Eisenhüttenstadt (ab 08:36),Berlin Ostbahnhof
+10:08 (+3),RE 33681,Potsdam Hbf (ab 09:31),Berlin Ostbahnhof
+10:08,RE 73722,Groß Kreutz (ab 09:13),Berlin Ostbahnhof
+10:23,RE 3113,Cottbus Hbf (ab 09:04),Berlin Ostbahnhof
+10:24,RE 73764,Groß Kreutz (ab 09:30),Berlin Ostbahnhof
+10:29,RE 33727,Erkner (ab 10:10),Berlin Ostbahnhof
+10:29,RE 73769,Erkner (ab 10:10),Berlin Ostbahnhof
+10:48 (+2),RE 33688,Frankfurt(Oder) (ab 09:55),Berlin Ostbahnhof
+10:48,RE 73729,Frankfurt(Oder) (ab 09:55),Berlin Ostbahnhof
+11:09,RE 33683,Potsdam Hbf (ab 10:31),Berlin Ostbahnhof
+11:09,RE 73724,Groß Kreutz (ab 10:13),Berlin Ostbahnhof
+11:23,RE 3115,Cottbus Hbf (ab 10:04),Berlin Ostbahnhof
+11:24,RE 73766,Groß Kreutz (ab 10:30),Berlin Ostbahnhof
+11:29,RE 33729,Erkner (ab 11:10),Berlin Ostbahnhof
+11:48 (+6),RE 33690,Frankfurt(Oder) (ab 10:55),Berlin Ostbahnhof
+11:48,RE 93731,Frankfurt(Oder) (ab 10:55),Berlin Ostbahnhof
+12:09,RE 33685,Potsdam Hbf (ab 11:31),Berlin Ostbahnhof
+12:09,RE 73726,Groß Kreutz (ab 11:13),Berlin Ostbahnhof
+12:23,RE 3117,Cottbus Hbf (ab 11:04),Berlin Ostbahnhof
+12:24,RE 73768,Groß Kreutz (ab 11:30),Berlin Ostbahnhof
+12:29,RE 33731,Erkner (ab 12:10),Berlin Ostbahnhof
+12:29,RE 73773,Erkner (ab 12:10),Berlin Ostbahnhof
+12:48 (+23),RE 33692,Frankfurt(Oder) (ab 11:55),Berlin Ostbahnhof
+12:48,RE 73733,Frankfurt(Oder) (ab 11:55),Berlin Ostbahnhof
+12:48,RE 93733,Frankfurt(Oder) (ab 11:55),Berlin Ostbahnhof
+13:23,RE 3119,Cottbus Hbf (ab 12:04),Berlin Ostbahnhof
+13:24,RE 73770,Groß Kreutz (ab 12:30),Berlin Ostbahnhof
+13:29,RE 33733,Erkner (ab 13:10),Berlin Ostbahnhof
+13:29,RE 73775,Erkner (ab 13:10),Berlin Ostbahnhof
+13:48,RE 33694,Frankfurt(Oder) (ab 12:55),Berlin Ostbahnhof
+13:48,RE 73735,Frankfurt(Oder) (ab 12:55),Berlin Ostbahnhof
+13:48,RE 93735,Frankfurt(Oder) (ab 12:55),Berlin Ostbahnhof
+14:09 (+14),RE 33689,Groß Kreutz (ab 12:13),Berlin Ostbahnhof
+14:09 (+1),RE 73730,Magdeburg Hbf (ab 12:12),Berlin Ostbahnhof
+14:23 (+1),RE 3121,Cottbus Hbf (ab 13:04),Berlin Ostbahnhof
+14:24,RE 73772,Groß Kreutz (ab 13:30),Berlin Ostbahnhof
+14:29,RE 33735,Erkner (ab 14:10),Berlin Ostbahnhof
+14:29,RE 73777,Erkner (ab 14:10),Berlin Ostbahnhof
+14:48,RE 33696,Frankfurt(Oder) (ab 13:55),Berlin Ostbahnhof
+14:48 Ausfall,RE 73737,Frankfurt(Oder) (ab 13:55),Berlin Ostbahnhof
+15:08 (+4),RE 33691,Groß Kreutz (ab 12:13),Berlin Ostbahnhof
+15:08,RE 73732,Magdeburg Hbf (ab 13:12),Berlin Ostbahnhof
+15:23,RE 3123,Cottbus Hbf (ab 14:04),Berlin Ostbahnhof
+15:24,RE 73774,Groß Kreutz (ab 14:30),Berlin Ostbahnhof
+15:29,RE 33737,Erkner (ab 15:10),Berlin Ostbahnhof
+15:29,RE 73779,Erkner (ab 15:10),Berlin Ostbahnhof
+15:48,RE 73739,Eisenhüttenstadt (ab 14:36),Berlin Ostbahnhof
+15:48,RE 93739,Eisenhüttenstadt (ab 14:36),Berlin Ostbahnhof
+16:08,RE 33693,Groß Kreutz (ab 15:13),Berlin Ostbahnhof
+16:08,RE 73734,Magdeburg Hbf (ab 14:12),Berlin Ostbahnhof
+16:23,RE 3125,Cottbus Hbf (ab 15:04),Berlin Ostbahnhof
+16:24 (+26),RE 73776,Groß Kreutz (ab 15:30),Berlin Ostbahnhof
+16:29,RE 33739,Erkner (ab 16:10),Berlin Ostbahnhof
+16:29,RE 73781,Erkner (ab 16:10),Berlin Ostbahnhof
+16:48 (+8),RE 33700,Frankfurt(Oder) (ab 15:55),Berlin Ostbahnhof
+16:48 Ausfall,RE 73741,Frankfurt(Oder) (ab 15:55),Berlin Ostbahnhof
+17:08 (+34),RE 33695,Groß Kreutz (ab 16:13),Berlin Ostbahnhof
+17:08,RE 73736,Magdeburg Hbf (ab 15:12),Berlin Ostbahnhof
+17:23,RE 3127,Cottbus Hbf (ab 16:04),Berlin Ostbahnhof
+17:25 (+25),RE 73778,Groß Kreutz (ab 16:30),Berlin Ostbahnhof
+17:29,RE 33741,Erkner (ab 17:10),Berlin Ostbahnhof
+17:29,RE 73783,Erkner (ab 17:10),Berlin Ostbahnhof
+17:48 (+6),RE 73743,Frankfurt(Oder) (ab 16:55),Berlin Ostbahnhof
+17:48,RE 93743,Frankfurt(Oder) (ab 16:55),Berlin Ostbahnhof
+18:09 (+125),RE 33697,Groß Kreutz (ab 17:13),Berlin Ostbahnhof
+18:09 Ausfall,RE 73738,Magdeburg Hbf (ab 16:12),Berlin Ostbahnhof
+18:23,RE 18769,Cottbus Hbf (ab 17:04),Berlin Ostbahnhof
+18:23 (+18),RE 3129,Cottbus Hbf (ab 17:04),Berlin Ostbahnhof
+18:24,RE 73780,Groß Kreutz (ab 17:30),Berlin Ostbahnhof
+18:29,RE 33743,Erkner (ab 18:10),Berlin Ostbahnhof
+18:29,RE 73785,Erkner (ab 18:10),Berlin Ostbahnhof
+18:32 (+34),IC 2431,Emden Außenhafen (ab 12:01),Berlin Ostbahnhof
+18:32 (+34),RE 62431,Potsdam Hbf (ab 18:02),Berlin Ostbahnhof
+18:48 (+229),RE 73745,Cottbus Hbf (ab 16:56),Berlin Ostbahnhof
+18:48,RE 93745,Cottbus Hbf (ab 16:56),Berlin Ostbahnhof
+19:09 (+69),RE 33699,Groß Kreutz (ab 18:13),Berlin Ostbahnhof
+19:09,RE 73740,Magdeburg Hbf (ab 17:12),Berlin Ostbahnhof
+19:23 (+3),RE 3131,Cottbus Hbf (ab 18:04),Berlin Ostbahnhof
+19:24,RE 73782,Groß Kreutz (ab 18:30),Berlin Ostbahnhof
+19:29,RE 33745,Erkner (ab 19:10),Berlin Ostbahnhof
+19:29 (+50),RE 73787,Erkner (ab 19:10),Berlin Ostbahnhof
+19:48 (+166),RE 33706,Eisenhüttenstadt (ab 18:36),Berlin Ostbahnhof
+19:48,RE 73747,Eisenhüttenstadt (ab 18:36),Berlin Ostbahnhof
+19:48,RE 93747,Eisenhüttenstadt (ab 18:36),Berlin Ostbahnhof
+20:09 (+65),RE 33701,Groß Kreutz (ab 19:13),Berlin Ostbahnhof
+20:09 Ausfall,RE 73742,Magdeburg Hbf (ab 18:12),Berlin Ostbahnhof
+20:23 Ausfall,RE 3133,Cottbus Hbf (ab 19:04),Berlin Ostbahnhof
+20:24 (+84),RE 73784,Groß Kreutz (ab 19:30),Berlin Ostbahnhof
+20:29,RE 33747,Erkner (ab 20:10),Berlin Ostbahnhof
+20:29,RE 73789,Erkner (ab 20:10),Berlin Ostbahnhof
+20:48,RE 33708,Frankfurt(Oder) (ab 19:55),Berlin Ostbahnhof
+20:48 Ausfall,RE 73749,Frankfurt(Oder) (ab 19:55),Berlin Ostbahnhof
+20:48,RE 91567,Frankfurt(Oder) (ab 19:55),Berlin Ostbahnhof
+21:09 (+108),RE 33703,Groß Kreutz (ab 20:13),Berlin Ostbahnhof
+21:09 Ausfall,RE 73744,Magdeburg Hbf (ab 19:12),Berlin Ostbahnhof
+21:23 (+17),RE 3135,Cottbus Hbf (ab 20:04),Berlin Ostbahnhof
+21:24 (+67),RE 73786,Groß Kreutz (ab 20:30),Berlin Ostbahnhof
+21:29,RE 33748,Frankfurt(Oder) (ab 20:26),Berlin Ostbahnhof
+21:29,RE 73791,Erkner (ab 21:10),Berlin Ostbahnhof
+22:09 (+28),RE 33705,Groß Kreutz (ab 21:13),Berlin Ostbahnhof
+22:09,RE 4829,Groß Kreutz (ab 21:13),Berlin Ostbahnhof
+22:09 Ausfall,RE 73746,Magdeburg Hbf (ab 20:12),Berlin Ostbahnhof
+22:23 (+14),RE 3137,Cottbus Hbf (ab 21:04),Berlin Ostbahnhof
+22:24,RE 73788,Groß Kreutz (ab 21:30),Berlin Ostbahnhof
+22:29 (+41),RE 33749,Frankfurt(Oder) (ab 21:24),Berlin Ostbahnhof
+22:29 Ausfall,RE 73793,Frankfurt(Oder) (ab 21:24),Berlin Ostbahnhof
+23:06,RE 33707,Groß Kreutz (ab 22:13),Berlin Ostbahnhof
+23:06 Ausfall,RE 73748,Magdeburg Hbf (ab 21:06),Berlin Ostbahnhof
+23:22 (+29),RE 3139,Cottbus Hbf (ab 22:03),Berlin Ostbahnhof
+23:29,RE 56381,Erkner (ab 23:10),Berlin Ostbahnhof
+23:29,RE 73795,Erkner (ab 23:10),Berlin Ostbahnhof
