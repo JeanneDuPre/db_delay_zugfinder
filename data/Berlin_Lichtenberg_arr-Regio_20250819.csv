@@ -1,0 +1,81 @@
+Ankunft,Zugnr.,von (Abfahrt),Ankunftsbhf.
+00:24,RB 5188,Herrensee (ab 00:01),Berlin-Lichtenberg
+04:47,RB 18301,Eberswalde Hbf (ab 04:08),Berlin-Lichtenberg
+04:51,RB 61111,Berlin Ostkreuz (ab 04:48),Berlin-Lichtenberg
+05:12,RB 18300,Schönefeld(bei Berlin) (ab 04:49),Berlin-Lichtenberg
+05:24,RB 5150,Kostrzyn (ab 04:02),Berlin-Lichtenberg
+05:39,RB 18200,Schönefeld(bei Berlin) (ab 05:18),Berlin-Lichtenberg
+05:47,RB 18303,Eberswalde Hbf (ab 05:08),Berlin-Lichtenberg
+05:51,RB 61113,Berlin Ostkreuz (ab 05:48),Berlin-Lichtenberg
+05:56,RB 61112,Templin Stadt (ab 04:33),Berlin-Lichtenberg
+05:59,EC 41,Berlin Gesundbrunnen (ab 05:49),Berlin-Lichtenberg
+06:05,RB 61251,Müncheberg(Mark) (ab 05:24),Berlin-Lichtenberg
+06:09,RB 61254,Berlin Ostkreuz (ab 06:06),Berlin-Lichtenberg
+06:12,RB 18302,Schönefeld(bei Berlin) (ab 05:49),Berlin-Lichtenberg
+06:24,RB 5152,Kostrzyn (ab 05:02),Berlin-Lichtenberg
+06:39,RB 18202,Schönefeld(bei Berlin) (ab 06:18),Berlin-Lichtenberg
+06:47,RB 18305,Eberswalde Hbf (ab 06:08),Berlin-Lichtenberg
+06:51,RB 61115,Berlin Ostkreuz (ab 06:48),Berlin-Lichtenberg
+06:56,RB 61114,Templin Stadt (ab 05:33),Berlin-Lichtenberg
+07:05,RB 61253,Müncheberg(Mark) (ab 06:24),Berlin-Lichtenberg
+07:09,RB 61256,Prenzlau (ab 04:59),Berlin-Lichtenberg
+07:12,RB 18304,Schönefeld(bei Berlin) (ab 06:49),Berlin-Lichtenberg
+07:24,RB 5154,Kostrzyn (ab 06:02),Berlin-Lichtenberg
+07:25,RB 61169,Berlin Ostkreuz (ab 07:22),Berlin-Lichtenberg
+07:39,RB 18204,Schönefeld(bei Berlin) (ab 07:18),Berlin-Lichtenberg
+07:47,RB 18307,Eberswalde Hbf (ab 07:08),Berlin-Lichtenberg
+07:51,RB 61117,Berlin Ostkreuz (ab 07:48),Berlin-Lichtenberg
+07:56,RB 61116,Templin Stadt (ab 06:33),Berlin-Lichtenberg
+08:05,RB 61255,Müncheberg(Mark) (ab 07:24),Berlin-Lichtenberg
+08:09,RB 61258,Berlin Ostkreuz (ab 08:06),Berlin-Lichtenberg
+08:12,RB 18306,Schönefeld(bei Berlin) (ab 07:49),Berlin-Lichtenberg
+08:24,RB 5156,Kostrzyn (ab 07:02),Berlin-Lichtenberg
+08:39,RB 18206,Schönefeld(bei Berlin) (ab 08:18),Berlin-Lichtenberg
+08:47,RB 18309,Eberswalde Hbf (ab 08:08),Berlin-Lichtenberg
+08:51,RB 61119,Berlin Ostkreuz (ab 08:48),Berlin-Lichtenberg
+08:56,RB 61118,Templin Stadt (ab 07:33),Berlin-Lichtenberg
+09:05,RB 61257,Müncheberg(Mark) (ab 08:24),Berlin-Lichtenberg
+09:09,RB 61260,Berlin Ostkreuz (ab 09:06),Berlin-Lichtenberg
+09:12,RB 18308,Schönefeld(bei Berlin) (ab 08:49),Berlin-Lichtenberg
+09:24,RB 5158,Kostrzyn (ab 08:02),Berlin-Lichtenberg
+09:51,RB 61121,Berlin Ostkreuz (ab 09:48),Berlin-Lichtenberg
+09:56,RB 61120,Templin Stadt (ab 08:33),Berlin-Lichtenberg
+10:12,EC 248,Warszawa Wschodnia (ab 04:44),Berlin-Lichtenberg
+10:12,RB 18310,Schönefeld(bei Berlin) (ab 09:49),Berlin-Lichtenberg
+10:51,RB 61123,Berlin Ostkreuz (ab 10:48),Berlin-Lichtenberg
+10:56,RB 61122,Templin Stadt (ab 09:33),Berlin-Lichtenberg
+11:12,RB 18312,Schönefeld(bei Berlin) (ab 10:49),Berlin-Lichtenberg
+11:15,EC 54,Krakow Glowny (ab 04:18),Berlin-Lichtenberg
+11:56,RB 61124,Templin Stadt (ab 10:33),Berlin-Lichtenberg
+12:12,RB 18314,Schönefeld(bei Berlin) (ab 11:49),Berlin-Lichtenberg
+12:15,EC 246,Warszawa Wschodnia (ab 06:44),Berlin-Lichtenberg
+12:51,RB 61127,Berlin Ostkreuz (ab 12:48),Berlin-Lichtenberg
+12:56,RB 61126,Templin Stadt (ab 11:33),Berlin-Lichtenberg
+13:12,RB 18316,Schönefeld(bei Berlin) (ab 12:49),Berlin-Lichtenberg
+13:47,RB 18319,Eberswalde Hbf (ab 13:08),Berlin-Lichtenberg
+13:51,RB 61129,Berlin Ostkreuz (ab 13:48),Berlin-Lichtenberg
+13:56,RB 61128,Templin Stadt (ab 12:33),Berlin-Lichtenberg
+14:04 (+7),EC 48,Warszawa Wschodnia (ab 08:44),Berlin-Lichtenberg
+14:12,RB 18318,Schönefeld(bei Berlin) (ab 13:49),Berlin-Lichtenberg
+14:51,RB 61131,Berlin Ostkreuz (ab 14:48),Berlin-Lichtenberg
+14:56,RB 61130,Templin Stadt (ab 13:33),Berlin-Lichtenberg
+15:12,RB 18320,Schönefeld(bei Berlin) (ab 14:49),Berlin-Lichtenberg
+15:15 (+52),EC 56,Przemysl Glowny (ab 05:05),Berlin-Lichtenberg
+15:51,RB 61133,Berlin Ostkreuz (ab 15:48),Berlin-Lichtenberg
+15:56,RB 61132,Templin Stadt (ab 14:33),Berlin-Lichtenberg
+16:11 (+18),EC 46,Warszawa Wschodnia (ab 10:44),Berlin-Lichtenberg
+16:12,RB 18322,Schönefeld(bei Berlin) (ab 15:49),Berlin-Lichtenberg
+16:51,RB 61135,Berlin Ostkreuz (ab 16:48),Berlin-Lichtenberg
+16:56,RB 61134,Templin Stadt (ab 15:33),Berlin-Lichtenberg
+17:12,RB 18324,Schönefeld(bei Berlin) (ab 16:49),Berlin-Lichtenberg
+17:51,RB 61137,Berlin Ostkreuz (ab 17:48),Berlin-Lichtenberg
+17:56,RB 61136,Templin Stadt (ab 16:33),Berlin-Lichtenberg
+18:12,RB 18326,Schönefeld(bei Berlin) (ab 17:49),Berlin-Lichtenberg
+18:28 (+30),EC 44,Warszawa Wschodnia (ab 12:44),Berlin-Lichtenberg
+18:56,RB 61138,Templin Stadt (ab 17:33),Berlin-Lichtenberg
+19:15 (+96),EC 58,Przemysl Glowny (ab 09:18),Berlin-Lichtenberg
+20:51,RB 61143,Berlin Ostkreuz (ab 20:48),Berlin-Lichtenberg
+20:56,RB 61142,Templin Stadt (ab 19:33),Berlin-Lichtenberg
+21:12,RB 18332,Schönefeld(bei Berlin) (ab 20:49),Berlin-Lichtenberg
+21:56,RB 61144,Templin Stadt (ab 20:33),Berlin-Lichtenberg
+23:56 (+3),RB 61148,Pfungstadt (ab 11:35),Berlin-Lichtenberg
