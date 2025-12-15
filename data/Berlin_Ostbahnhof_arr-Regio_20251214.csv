@@ -1,0 +1,66 @@
+Ankunft,Zugnr.,von (Abfahrt),Ankunftsbhf.
+00:19,ICE 945,Düsseldorf Hbf (ab 17:50),Berlin Ostbahnhof
+00:19,ICE 955,Köln Hbf (ab 17:45),Berlin Ostbahnhof
+00:23 (+35),ICE 2825,Hamburg-Altona (ab 21:26),Berlin Ostbahnhof
+00:23 (+35),ICE 901,Hamburg-Altona (ab 21:26),Berlin Ostbahnhof
+00:27 (+36),ICE 645,Düsseldorf Hbf (ab 18:48),Berlin Ostbahnhof
+00:27 (+36),ICE 655,Köln Hbf (ab 18:44),Berlin Ostbahnhof
+01:23 (+48),ICE 947,Düsseldorf Hbf (ab 19:49),Berlin Ostbahnhof
+01:23 (+48),ICE 957,Köln Hbf (ab 19:46),Berlin Ostbahnhof
+02:21,S,Hennigsdorf (S) (ab 00:08),Berlin Ostbahnhof (S)
+02:22 (+172),ICE 657,Köln Hbf (ab 20:45),Berlin Ostbahnhof
+03:17 (+23),ICE 1707,Hamburg-Altona (ab 22:34),Berlin Ostbahnhof
+03:17 (+46),ICE 2959,Stendal Hbf (ab 00:30),Berlin Ostbahnhof
+07:02,ICE 1272,Frankfurt(Main)Hbf (ab 23:35),Berlin Ostbahnhof
+09:03 (+2),ICE 841,Hannover Hbf (ab 06:50),Berlin Ostbahnhof
+10:29 (+1),ICE 843,Köln Hbf (ab 05:26),Berlin Ostbahnhof
+10:29 (+1),ICE 853,Köln Hbf (ab 05:44),Berlin Ostbahnhof
+10:49 (+24),ICE 2824,Kassel-Wilhelmshöhe (ab 07:49),Berlin Ostbahnhof
+10:49 (+24),ICE 996,Kassel-Wilhelmshöhe (ab 07:49),Berlin Ostbahnhof
+11:01 (+8),EC 54,Krakow Glowny (ab 04:10),Berlin Ostbahnhof
+11:28 (+10),ICE 543,Köln Hbf (ab 06:25),Berlin Ostbahnhof
+11:50,ICE 378,Karlsruhe Hbf (ab 05:59),Berlin Ostbahnhof
+12:06 (+8),EC 246,Warszawa Wschodnia (ab 06:49),Berlin Ostbahnhof
+12:28 Ausfall,ICE 845,Köln Hbf (ab 07:26),Berlin Ostbahnhof
+12:28 (+56),ICE 855,Köln Hbf (ab 07:45),Berlin Ostbahnhof
+12:39 Ausfall,IC 2035,Norddeich Mole (ab 05:36),Berlin Ostbahnhof
+12:50 (+12),ICE 2910,München Hbf (ab 04:03),Berlin Ostbahnhof
+12:50 (+12),ICE 994,Stuttgart Hbf (ab 06:36),Berlin Ostbahnhof
+13:06 (+8),EC 230,Gdynia Glowna (ab 07:15),Berlin Ostbahnhof
+13:28 (+12),ICE 545,Köln Hbf (ab 08:25),Berlin Ostbahnhof
+13:40, 1321,Köln Hbf (ab 08:14),Berlin Ostbahnhof
+13:50,ICE 376,Basel SBB (ab 06:16),Berlin Ostbahnhof
+14:06 (+8),EC 48,Warszawa Wschodnia (ab 08:49),Berlin Ostbahnhof
+14:28 (+35),ICE 847,Köln Hbf (ab 09:25),Berlin Ostbahnhof
+14:28 (+43),ICE 857,Köln Hbf (ab 09:45),Berlin Ostbahnhof
+14:49 (+24),ICE 992,Frankfurt(M) Flughafen Fernbf (ab 10:09),Berlin Ostbahnhof
+15:01 (+33),EC 56,Przemysl Glowny (ab 05:11),Berlin Ostbahnhof
+15:28 (+11),ICE 547,Köln Hbf (ab 10:24),Berlin Ostbahnhof
+15:50 (+1),ICE 374,Interlaken Ost (ab 05:59),Berlin Ostbahnhof
+16:06 (+8),EC 46,Warszawa Wschodnia (ab 10:49),Berlin Ostbahnhof
+16:29 (+12),ICE 849,Düsseldorf Hbf (ab 11:50),Berlin Ostbahnhof
+16:29 (+12),ICE 859,Köln Hbf (ab 11:45),Berlin Ostbahnhof
+16:49 Ausfall,ICE 798,Karlsruhe Hbf (ab 10:40),Berlin Ostbahnhof
+17:28 (+15),ICE 549,Düsseldorf Hbf (ab 12:47),Berlin Ostbahnhof
+17:50 (+9),ICE 372,Brig (ab 07:45),Berlin Ostbahnhof
+18:06 (+1),EC 44,Warszawa Wschodnia (ab 12:49),Berlin Ostbahnhof
+18:29 (+11),ICE 941,Düsseldorf Hbf (ab 13:50),Berlin Ostbahnhof
+18:29 (+11),ICE 951,Köln Hbf (ab 13:45),Berlin Ostbahnhof
+19:01 (+8),EC 58,Przemysl Glowny (ab 09:09),Berlin Ostbahnhof
+19:01 Ausfall,ICE 1549,Köln Hbf (ab 13:34),Berlin Ostbahnhof
+19:01 Ausfall,ICE 2927,Köln Hbf (ab 13:34),Berlin Ostbahnhof
+19:28 (+1),ICE 641,Düsseldorf Hbf (ab 14:48),Berlin Ostbahnhof
+19:50,ICE 370,Zürich HB (ab 10:59),Berlin Ostbahnhof
+20:06 (+8),EC 42,Warszawa Wschodnia (ab 14:49),Berlin Ostbahnhof
+20:28 (+5),ICE 943,Düsseldorf Hbf (ab 15:50),Berlin Ostbahnhof
+20:28 (+5),ICE 953,Köln Hbf (ab 15:45),Berlin Ostbahnhof
+20:41 (+63),ICE 1059,Köln Hbf (ab 16:18),Berlin Ostbahnhof
+20:41 (+51),ICE 2861,Hamburg Dammtor (ab 09:53),Berlin Ostbahnhof
+20:49 (+7),ICE 794,Karlsruhe Hbf (ab 14:40),Berlin Ostbahnhof
+21:02 (+28),ICE 1055,Köln Hbf (ab 15:36),Berlin Ostbahnhof
+21:18 (+34),ICE 643,Düsseldorf Hbf (ab 16:48),Berlin Ostbahnhof
+21:18 (+34),ICE 653,Köln Hbf (ab 16:44),Berlin Ostbahnhof
+21:51 (+48),ICE 278,Basel SBB (ab 14:16),Berlin Ostbahnhof
+22:09 (+27),EC 40,Warszawa Wschodnia (ab 16:49),Berlin Ostbahnhof
+22:45,ES 452,Praha hl.n. (ab 18:00),Berlin Ostbahnhof
+23:48 (+8),ICE 1159,Köln Hbf (ab 18:18),Berlin Ostbahnhof
