@@ -1,0 +1,183 @@
+Abfahrt,Zugnr.,nach (Ankunft),Abfahrtsbhf.
+00:00,RB 21962,Berlin Hbf (an 00:16),Berlin Ostkreuz
+00:06,RE 73826,Berlin Hbf (an 00:21),Berlin Ostkreuz
+00:10,RE 3138,Cottbus Hbf (an 02:06),Berlin Ostkreuz
+00:12,RE 3745,Bad Belzig (an 01:31),Berlin Ostkreuz
+00:12,RE 7,Karlsruhe Hbf (an 21:26),Berlin Ostkreuz
+00:33,RE 3141,Berlin-Charlottenburg (an 01:00),Berlin Ostkreuz
+00:38,RE 73796,Magdeburg Hbf (an 02:59),Berlin Ostkreuz
+00:48,RB 21968,Berlin Hbf (an 01:04),Berlin Ostkreuz
+01:09,RE 3140,Cottbus Hbf (an 03:13),Berlin Ostkreuz
+01:33,RE 73752,Brandenburg Hbf (an 02:51),Berlin Ostkreuz
+02:13,RE 3701,Bad Belzig (an 03:33),Berlin Ostkreuz
+02:13,RE 3703,Berlin-Wannsee (an 02:48),Berlin Ostkreuz
+02:51,RE 73754,Magdeburg Hbf (an 05:15),Berlin Ostkreuz
+02:53,RE 73793,Erkner (an 03:09),Berlin Ostkreuz
+03:54,RE 3705,Lübbenau(Spreewald) (an 04:57),Berlin Ostkreuz
+04:22,RB 18301,Flughafen BER (an 04:40),Berlin Ostkreuz
+04:23,RE 73756,Brandenburg Hbf (an 05:33),Berlin Ostkreuz
+04:46,RE 73716,Genthin (an 06:17),Berlin Ostkreuz
+04:59,RE 3707,Berlin-Wannsee (an 05:34),Berlin Ostkreuz
+05:07,RE 73758,Berlin-Wannsee (an 05:41),Berlin Ostkreuz
+05:20,RE 3103,Berlin-Spandau (an 05:54),Berlin Ostkreuz
+05:32,RE 73753,Erkner (an 05:48),Berlin Ostkreuz
+05:42,RE 3102,Cottbus Hbf (an 06:56),Berlin Ostkreuz
+05:44,RE 73718,Magdeburg Hbf (an 08:05),Berlin Ostkreuz
+05:48,RB 61103,Oranienburg (an 06:21),Berlin Ostkreuz
+06:01,RE 3704,Senftenberg (an 07:41),Berlin Ostkreuz
+06:07,RE 73760,Brandenburg Hbf (an 07:19),Berlin Ostkreuz
+06:20,RE 3105,Hennigsdorf(b Berlin) (an 07:23),Berlin Ostkreuz
+06:41,RB 18304,Bernau(b Berlin) (an 07:07),Berlin Ostkreuz
+06:41,RB 24,Köln Messe/Deutz (an 21:18),Berlin Ostkreuz
+06:42,RE 3104,Cottbus Hbf (an 07:57),Berlin Ostkreuz
+06:44,RE 73720,Genthin (an 08:18),Berlin Ostkreuz
+06:48,RB 61105,Oranienburg (an 07:21),Berlin Ostkreuz
+06:59,RE 3711,Dessau Hbf (an 08:53),Berlin Ostkreuz
+07:07,RE 73762,Brandenburg Hbf (an 08:23),Berlin Ostkreuz
+07:16,RE 73715,Erkner (an 07:31),Berlin Ostkreuz
+07:20,RE 3107,Hennigsdorf(b Berlin) (an 08:23),Berlin Ostkreuz
+07:41,RB 18306,Eberswalde Hbf (an 08:27),Berlin Ostkreuz
+07:42,RE 3106,Cottbus Hbf (an 08:56),Berlin Ostkreuz
+07:44,RE 73722,Magdeburg Hbf (an 10:05),Berlin Ostkreuz
+08:02,RE 3708,Lübbenau(Spreewald) (an 09:03),Berlin Ostkreuz
+08:07,RE 73764,Brandenburg Hbf (an 09:19),Berlin Ostkreuz
+08:16,RE 73717,Erkner (an 08:31),Berlin Ostkreuz
+08:20,RE 3109,Berlin-Spandau (an 08:54),Berlin Ostkreuz
+08:41,RB 18308,Eberswalde Hbf (an 09:27),Berlin Ostkreuz
+08:42,RE 3108,Cottbus Hbf (an 09:55),Berlin Ostkreuz
+08:44,RE 73724,Brandenburg Hbf (an 09:57),Berlin Ostkreuz
+08:59,RE 3715,Berlin-Wannsee (an 09:34),Berlin Ostkreuz
+09:02,RE 3710,Senftenberg (an 10:41),Berlin Ostkreuz
+09:07,RE 73766,Brandenburg Hbf (an 10:19),Berlin Ostkreuz
+09:16,RE 73719,Erkner (an 09:31),Berlin Ostkreuz
+09:20,RE 3111,Berlin-Spandau (an 09:54),Berlin Ostkreuz
+09:41,RB 18310,Eberswalde Hbf (an 10:27),Berlin Ostkreuz
+09:42,RE 3110,Cottbus Hbf (an 10:56),Berlin Ostkreuz
+09:44,RE 73726,Magdeburg Hbf (an 12:05),Berlin Ostkreuz
+09:59,RE 3717,Berlin-Wannsee (an 10:34),Berlin Ostkreuz
+10:02,RE 3712,Senftenberg (an 11:41),Berlin Ostkreuz
+10:07,RE 73768,Brandenburg Hbf (an 11:19),Berlin Ostkreuz
+10:20,RE 3113,Berlin-Spandau (an 10:54),Berlin Ostkreuz
+10:41,RB 18312,Eberswalde Hbf (an 11:27),Berlin Ostkreuz
+10:42,RE 3112,Cottbus Hbf (an 11:55),Berlin Ostkreuz
+10:44,RE 73728,Genthin (an 12:18),Berlin Ostkreuz
+10:59,RE 3719,Dessau Hbf (an 12:53),Berlin Ostkreuz
+11:02,RE 3714,Senftenberg (an 12:41),Berlin Ostkreuz
+11:07,RE 73770,Brandenburg Hbf (an 12:19),Berlin Ostkreuz
+11:16,RE 73723,Erkner (an 11:31),Berlin Ostkreuz
+11:20,RE 3115,Hennigsdorf(b Berlin) (an 12:23),Berlin Ostkreuz
+11:41,RB 18314,Eberswalde Hbf (an 12:27),Berlin Ostkreuz
+11:42,RE 3114,Cottbus Hbf (an 12:56),Berlin Ostkreuz
+11:44,RE 73730,Magdeburg Hbf (an 14:05),Berlin Ostkreuz
+11:46,RB 18215,Ludwigsfelde (an 12:24),Berlin Ostkreuz
+11:48,RB 61115,Oranienburg (an 12:21),Berlin Ostkreuz
+11:53,RE 73765,Erkner (an 12:11),Berlin Ostkreuz
+11:59,RE 3721,Dessau Hbf (an 13:53),Berlin Ostkreuz
+12:02,RE 3716,Senftenberg (an 13:41),Berlin Ostkreuz
+12:07,RE 73772,Brandenburg Hbf (an 13:19),Berlin Ostkreuz
+12:16,RE 73725,Erkner (an 12:31),Berlin Ostkreuz
+12:18,RB 18214,Berlin-Lichtenberg (an 12:22),Berlin Ostkreuz
+12:20,RE 3117,Hennigsdorf(b Berlin) (an 13:23),Berlin Ostkreuz
+12:41,RB 18316,Eberswalde Hbf (an 13:27),Berlin Ostkreuz
+12:42,RE 3116,Cottbus Hbf (an 13:55),Berlin Ostkreuz
+12:44,RE 73732,Brandenburg Hbf (an 13:57),Berlin Ostkreuz
+12:48,RB 61117,Oranienburg (an 13:21),Berlin Ostkreuz
+12:53,RE 73767,Erkner (an 13:11),Berlin Ostkreuz
+12:59,RE 3723,Dessau Hbf (an 14:53),Berlin Ostkreuz
+13:02,RE 3718,Senftenberg (an 14:41),Berlin Ostkreuz
+13:07,RE 73774,Brandenburg Hbf (an 14:19),Berlin Ostkreuz
+13:16,RE 73727,Erkner (an 13:31),Berlin Ostkreuz
+13:20,RE 3119,Berlin-Spandau (an 13:54),Berlin Ostkreuz
+13:41,RB 18318,Eberswalde Hbf (an 14:27),Berlin Ostkreuz
+13:42,RE 3118,Cottbus Hbf (an 14:56),Berlin Ostkreuz
+13:44,RE 73734,Magdeburg Hbf (an 16:05),Berlin Ostkreuz
+13:48,RB 61119,Oranienburg (an 14:21),Berlin Ostkreuz
+13:59,RE 3725,Dessau Hbf (an 15:53),Berlin Ostkreuz
+14:02,RE 3720,Lübbenau(Spreewald) (an 15:03),Berlin Ostkreuz
+14:06,RE 73776,Brandenburg Hbf (an 15:19),Berlin Ostkreuz
+14:20,RE 3121,Berlin-Spandau (an 14:54),Berlin Ostkreuz
+14:41,RB 18320,Eberswalde Hbf (an 15:27),Berlin Ostkreuz
+14:42,RE 3120,Cottbus Hbf (an 15:55),Berlin Ostkreuz
+14:44,RE 73736,Genthin (an 16:18),Berlin Ostkreuz
+14:48,RB 61121,Oranienburg (an 15:21),Berlin Ostkreuz
+14:59,RE 3727,Berlin-Wannsee (an 15:34),Berlin Ostkreuz
+15:02,RE 3722,Senftenberg (an 16:41),Berlin Ostkreuz
+15:07,RE 73778,Brandenburg Hbf (an 16:23),Berlin Ostkreuz
+15:20,RE 3123,Berlin-Spandau (an 15:54),Berlin Ostkreuz
+15:41,RB 18322,Eberswalde Hbf (an 16:27),Berlin Ostkreuz
+15:42,RE 3122,Cottbus Hbf (an 16:55),Berlin Ostkreuz
+15:44,RE 73738,Magdeburg Hbf (an 18:05),Berlin Ostkreuz
+15:48,RB 61123,Oranienburg (an 16:21),Berlin Ostkreuz
+15:53,RE 73773,Erkner (an 16:11),Berlin Ostkreuz
+15:59,RE 3729,Dessau Hbf (an 17:53),Berlin Ostkreuz
+16:02,RE 3724,Senftenberg (an 17:41),Berlin Ostkreuz
+16:07,RE 73780,Brandenburg Hbf (an 17:19),Berlin Ostkreuz
+16:16,RE 73733,Erkner (an 16:31),Berlin Ostkreuz
+16:20,RE 3125,Hennigsdorf(b Berlin) (an 17:23),Berlin Ostkreuz
+16:41,RB 18324,Eberswalde Hbf (an 17:27),Berlin Ostkreuz
+16:42,RE 3124,Cottbus Hbf (an 17:56),Berlin Ostkreuz
+16:44,RE 73740,Brandenburg Hbf (an 17:57),Berlin Ostkreuz
+16:48,RB 61125,Oranienburg (an 17:21),Berlin Ostkreuz
+16:59,RE 3731,Dessau Hbf (an 18:53),Berlin Ostkreuz
+17:02,RE 3726,Lübbenau(Spreewald) (an 18:03),Berlin Ostkreuz
+17:07,RE 73782,Brandenburg Hbf (an 18:23),Berlin Ostkreuz
+17:16,RE 73735,Erkner (an 17:31),Berlin Ostkreuz
+17:20,RE 3127,Hennigsdorf(b Berlin) (an 18:23),Berlin Ostkreuz
+17:22,RB 18327,Blankenfelde(Teltow-Fläming) (an 17:51),Berlin Ostkreuz
+17:41,RB 18326,Eberswalde Hbf (an 18:27),Berlin Ostkreuz
+17:42,RE 3126,Cottbus Hbf (an 18:55),Berlin Ostkreuz
+17:44,RE 73742,Magdeburg Hbf (an 20:05),Berlin Ostkreuz
+17:53,RE 73777,Erkner (an 18:11),Berlin Ostkreuz
+17:59,RE 3733,Dessau Hbf (an 19:53),Berlin Ostkreuz
+18:02,RE 3728,Senftenberg (an 19:41),Berlin Ostkreuz
+18:07,RE 73784,Brandenburg Hbf (an 19:19),Berlin Ostkreuz
+18:20,RE 3129,Hennigsdorf(b Berlin) (an 19:23),Berlin Ostkreuz
+18:41,RB 18328,Eberswalde Hbf (an 19:27),Berlin Ostkreuz
+18:42,RE 3128,Cottbus Hbf (an 19:55),Berlin Ostkreuz
+18:44,RE 73744,Genthin (an 20:18),Berlin Ostkreuz
+18:46,RB 18229,Ludwigsfelde (an 19:24),Berlin Ostkreuz
+18:48,RB 61129,Templin Stadt (an 20:18),Berlin Ostkreuz
+18:54,RE 73779,Erkner (an 19:11),Berlin Ostkreuz
+18:59,RE 3735,Dessau Hbf (an 20:53),Berlin Ostkreuz
+19:02,RE 3730,Senftenberg (an 20:41),Berlin Ostkreuz
+19:07,RE 73786,Brandenburg Hbf (an 20:19),Berlin Ostkreuz
+19:16,RE 73739,Erkner (an 19:31),Berlin Ostkreuz
+19:19,RB 18228,Berlin-Lichtenberg (an 19:22),Berlin Ostkreuz
+19:20,RE 3131,Hennigsdorf(b Berlin) (an 20:23),Berlin Ostkreuz
+19:22,RB 18331,Blankenfelde(Teltow-Fläming) (an 19:51),Berlin Ostkreuz
+19:41,RB 18330,Eberswalde Hbf (an 20:27),Berlin Ostkreuz
+19:42,RE 3130,Cottbus Hbf (an 20:55),Berlin Ostkreuz
+19:44,RE 73746,Magdeburg Hbf (an 22:05),Berlin Ostkreuz
+19:48,RB 61131,Templin Stadt (an 21:18),Berlin Ostkreuz
+19:53,RE 73781,Erkner (an 20:11),Berlin Ostkreuz
+19:59,RE 3737,Dessau Hbf (an 21:53),Berlin Ostkreuz
+20:02,RE 3732,Senftenberg (an 21:41),Berlin Ostkreuz
+20:07,RE 73788,Brandenburg Hbf (an 21:21),Berlin Ostkreuz
+20:16,RE 73741,Erkner (an 20:31),Berlin Ostkreuz
+20:20,RE 3133,Hennigsdorf(b Berlin) (an 21:23),Berlin Ostkreuz
+20:31,RE 73823,Erkner (an 20:49),Berlin Ostkreuz
+20:41,RB 18332,Eberswalde Hbf (an 21:27),Berlin Ostkreuz
+20:42,RE 3132,Cottbus Hbf (an 22:14),Berlin Ostkreuz
+20:44,RE 73748,Genthin (an 22:18),Berlin Ostkreuz
+20:48,RB 61133,Oranienburg (an 21:21),Berlin Ostkreuz
+20:54,RE 73783,Erkner (an 21:11),Berlin Ostkreuz
+20:59,RE 3739,Dessau Hbf (an 22:53),Berlin Ostkreuz
+21:02,RE 3734,Lübbenau(Spreewald) (an 22:04),Berlin Ostkreuz
+21:16,RE 73743,Erkner (an 21:31),Berlin Ostkreuz
+21:20,RE 3135,Hennigsdorf(b Berlin) (an 22:25),Berlin Ostkreuz
+21:38,RE 73790,Magdeburg Hbf (an 00:02),Berlin Ostkreuz
+21:41,RB 18334,Eberswalde Hbf (an 22:27),Berlin Ostkreuz
+21:42,RE 3134,Cottbus Hbf (an 23:19),Berlin Ostkreuz
+21:48,RB 61135,Oranienburg (an 22:21),Berlin Ostkreuz
+21:53,RE 73785,Erkner (an 22:11),Berlin Ostkreuz
+22:01,RE 3741,Bad Belzig (an 23:19),Berlin Ostkreuz
+22:02,RE 3736,Lübbenau(Spreewald) (an 23:04),Berlin Ostkreuz
+22:16,RE 73745,Erkner (an 22:32),Berlin Ostkreuz
+22:20,RE 3137,Hennigsdorf(b Berlin) (an 23:25),Berlin Ostkreuz
+22:38,RE 73792,Brandenburg Hbf (an 23:54),Berlin Ostkreuz
+22:41,RB 18336,Eberswalde Hbf (an 23:27),Berlin Ostkreuz
+22:52,RB 73824,Berlin Hbf (an 23:07),Berlin Ostkreuz
+23:10,RE 3136,Cottbus Hbf (an 01:05),Berlin Ostkreuz
+23:19,RE 3139,Berlin-Charlottenburg (an 23:46),Berlin Ostkreuz
+23:28,RB 21958,Berlin Hbf (an 23:44),Berlin Ostkreuz
+23:38,RE 73794,Berlin Hbf (an 23:53),Berlin Ostkreuz
