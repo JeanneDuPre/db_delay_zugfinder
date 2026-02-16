@@ -1,0 +1,103 @@
+Ankunft,Zugnr.,von (Abfahrt),Ankunftsbhf.
+00:02,RE 3138,Hennigsdorf(b Berlin) (ab 23:00),Berlin Ostbahnhof
+00:03,RB 21962,Flughafen BER (ab 23:42),Berlin Ostbahnhof
+00:23 (+1),ICE 901,Berlin Zoologischer GartenGarten (ab 00:09),Berlin Ostbahnhof
+00:36,ICE 947,Köln Hbf (ab 19:27),Berlin Ostbahnhof
+00:37,RE 3141,Zeesen (ab 00:10),Berlin Ostbahnhof
+00:51,FEX,Berlin Ostkreuz (ab 00:00),Berlin Ostbahnhof
+01:14,RE 3742,Dessau Hbf (ab 23:23),Berlin Ostbahnhof
+01:40 (+129),ICE 1707,Hamburg-Altona (ab 22:34),Berlin Ostbahnhof
+02:07 (+14),ICE 274,Basel SBB (ab 18:16),Berlin Ostbahnhof
+02:30 (+48),ICE 647,Gevelsberg West (ab 19:38),Berlin Ostbahnhof
+02:55,RE 73754,Berlin Ostkreuz (ab 02:51),Berlin Ostbahnhof
+05:26,RE 73753,Brandenburg Hbf (ab 04:17),Berlin Ostbahnhof
+05:36,RB 91431,Berlin-Charlottenburg (ab 05:15),Berlin Ostbahnhof
+05:36,RE 2,Bestensee (ab 00:38),Berlin Ostbahnhof
+06:36,RB 91432,Hennigsdorf(b Berlin) (ab 05:35),Berlin Ostbahnhof
+06:46,RE 73755,Brandenburg Hbf (ab 05:44),Berlin Ostbahnhof
+06:56,RE 3706,Dessau Hbf (ab 05:05),Berlin Ostbahnhof
+07:04,ICE 1272,Frankfurt(Main)Hbf (ab 23:35),Berlin Ostbahnhof
+07:36,RB 91434,Hennigsdorf(b Berlin) (ab 06:35),Berlin Ostbahnhof
+07:46,RE 73757,Brandenburg Hbf (ab 06:44),Berlin Ostbahnhof
+08:36,RE 3108,Hennigsdorf(b Berlin) (ab 07:35),Berlin Ostbahnhof
+08:46,RE 73759,Brandenburg Hbf (ab 07:44),Berlin Ostbahnhof
+09:03 (+5),ICE 841,Hannover Hbf (ab 06:50),Berlin Ostbahnhof
+09:10,RE 73766,Berlin Ostkreuz (ab 09:07),Berlin Ostbahnhof
+09:36,RB 91440,Hennigsdorf(b Berlin) (ab 08:35),Berlin Ostbahnhof
+09:46,RE 73761,Brandenburg Hbf (ab 08:44),Berlin Ostbahnhof
+10:10,RE 73768,Berlin Ostkreuz (ab 10:07),Berlin Ostbahnhof
+10:29,ICE 843,Mettmann Stadtwald (ab 05:24),Berlin Ostbahnhof
+10:36,RB 91445,Hennigsdorf(b Berlin) (ab 09:35),Berlin Ostbahnhof
+10:46,RE 73763,Brandenburg Hbf (ab 09:44),Berlin Ostbahnhof
+10:49,ICE 996,Kassel-Wilhelmshöhe (ab 07:49),Berlin Ostbahnhof
+11:10,RE 73770,Berlin Ostkreuz (ab 11:07),Berlin Ostbahnhof
+11:28 (+11),ICE 543,Köln Hbf (ab 06:25),Berlin Ostbahnhof
+11:36,RB 91469,Hennigsdorf(b Berlin) (ab 10:35),Berlin Ostbahnhof
+11:46,RE 73765,Brandenburg Hbf (ab 10:44),Berlin Ostbahnhof
+11:50 (+7),ICE 378,Frankfurt(Main)Hbf (ab 07:15),Berlin Ostbahnhof
+12:10,RE 73772,Berlin Ostkreuz (ab 12:07),Berlin Ostbahnhof
+12:28 (+1),ICE 845,Köln Hbf (ab 07:27),Berlin Ostbahnhof
+12:36,RB 91492,Hennigsdorf(b Berlin) (ab 11:35),Berlin Ostbahnhof
+12:46,RE 73767,Brandenburg Hbf (ab 11:44),Berlin Ostbahnhof
+12:50,ICE 994,Stuttgart Hbf (ab 06:36),Berlin Ostbahnhof
+13:10,RE 73774,Berlin Ostkreuz (ab 13:07),Berlin Ostbahnhof
+13:28 (+22),ICE 545,Köln Hbf (ab 08:25),Berlin Ostbahnhof
+13:36,RB 91494,Hennigsdorf(b Berlin) (ab 12:35),Berlin Ostbahnhof
+13:46,RE 73769,Brandenburg Hbf (ab 12:44),Berlin Ostbahnhof
+14:09,RE 73776,Berlin Ostkreuz (ab 14:06),Berlin Ostbahnhof
+14:28 (+11),ICE 847,Köln Hbf (ab 09:27),Berlin Ostbahnhof
+14:36,RB 91496,Hennigsdorf(b Berlin) (ab 13:35),Berlin Ostbahnhof
+14:46,RE 73771,Brandenburg Hbf (ab 13:44),Berlin Ostbahnhof
+14:49 (+2),ICE 992,Frankfurt(M) Flughafen Fernbahnhof (ab 10:09),Berlin Ostbahnhof
+15:28,ICE 547,Köln Hbf (ab 10:24),Berlin Ostbahnhof
+15:36,RB 91498,Hennigsdorf(b Berlin) (ab 14:35),Berlin Ostbahnhof
+15:46,RE 73773,Brandenburg Hbf (ab 14:44),Berlin Ostbahnhof
+16:29 (+1),ICE 849,Köln Hbf (ab 11:28),Berlin Ostbahnhof
+16:36,RE 91088,Hennigsdorf(b Berlin) (ab 15:35),Berlin Ostbahnhof
+16:36,RE 91500,Hennigsdorf(b Berlin) (ab 15:35),Berlin Ostbahnhof
+16:46,RE 73775,Brandenburg Hbf (ab 15:44),Berlin Ostbahnhof
+16:49 (+2),ICE 798,Karlsruhe Hbf (ab 10:40),Berlin Ostbahnhof
+17:10,RE 73782,Berlin Ostkreuz (ab 17:07),Berlin Ostbahnhof
+17:28 (+30),ICE 549,Köln Hbf (ab 12:26),Berlin Ostbahnhof
+17:36,RB 91503,Hennigsdorf(b Berlin) (ab 16:35),Berlin Ostbahnhof
+17:46,RE 73777,Brandenburg Hbf (ab 16:44),Berlin Ostbahnhof
+17:50,ICE 372,Brig (ab 07:45),Berlin Ostbahnhof
+18:10,RE 73784,Berlin Ostkreuz (ab 18:07),Berlin Ostbahnhof
+18:23,RE 91512,Berlin Ostkreuz (ab 18:20),Berlin Ostbahnhof
+18:29 (+13),ICE 941,Köln Hbf (ab 13:27),Berlin Ostbahnhof
+18:36,RB 91507,Hennigsdorf(b Berlin) (ab 17:35),Berlin Ostbahnhof
+18:46,RE 73779,Brandenburg Hbf (ab 17:45),Berlin Ostbahnhof
+19:02,ICE 1549,Köln Hbf (ab 13:34),Berlin Ostbahnhof
+19:10,RE 73786,Berlin Ostkreuz (ab 19:07),Berlin Ostbahnhof
+19:28 (+21),ICE 641,Köln Hbf (ab 14:26),Berlin Ostbahnhof
+19:46,RE 73781,Brandenburg Hbf (ab 18:44),Berlin Ostbahnhof
+19:50 Ausfall,ICE 370,Zürich HB (ab 10:59),Berlin Ostbahnhof
+20:36,RB 91441,Hennigsdorf(b Berlin) (ab 19:35),Berlin Ostbahnhof
+20:36,RE 3132,Hennigsdorf(b Berlin) (ab 19:35),Berlin Ostbahnhof
+20:46,RE 73783,Brandenburg Hbf (ab 19:44),Berlin Ostbahnhof
+20:49 (+1),ICE 794,Karlsruhe Hbf (ab 14:40),Berlin Ostbahnhof
+20:56,RE 3734,Dessau Hbf (ab 19:05),Berlin Ostbahnhof
+21:00,RB 80429,Goslar (ab 17:05),Berlin Ostbahnhof
+21:00,RB 80439,Thale Hbf (ab 17:17),Berlin Ostbahnhof
+21:02 Ausfall,ICE 1055,Köln Hbf (ab 15:36),Berlin Ostbahnhof
+21:02,RE 3739,Senftenberg (ab 19:14),Berlin Ostbahnhof
+21:23,RE 3135,Cottbus Hbf (ab 20:03),Berlin Ostbahnhof
+21:31 (+27),ICE 643,Köln Hbf (ab 16:26),Berlin Ostbahnhof
+21:36,RB 91396,Hennigsdorf(b Berlin) (ab 20:35),Berlin Ostbahnhof
+21:36,RE 3134,Hennigsdorf(b Berlin) (ab 20:35),Berlin Ostbahnhof
+21:46,RE 73785,Brandenburg Hbf (ab 20:44),Berlin Ostbahnhof
+21:51,ICE 278,Basel SBB (ab 14:16),Berlin Ostbahnhof
+21:56,RE 3736,Dessau Hbf (ab 20:05),Berlin Ostbahnhof
+22:04,RE 3741,Senftenberg (Sachs) (ab 20:14),Berlin Ostbahnhof
+22:23,RE 3137,Cottbus Hbf (ab 21:03),Berlin Ostbahnhof
+22:31 (+37),ICE 945,Köln Hbf (ab 17:24),Berlin Ostbahnhof
+22:45 Ausfall,ES 452,Praha hl.n. (ab 18:00),Berlin Ostbahnhof
+22:46,RE 73787,Brandenburg Hbf (ab 21:44),Berlin Ostbahnhof
+22:49 (+3),ICE 792,Frankfurt(M) Flughafen Fernbf (ab 18:09),Berlin Ostbahnhof
+22:56,RE 3738,Dessau Hbf (ab 21:05),Berlin Ostbahnhof
+23:03,RE 3136,Schönwalde(Spreewald) (ab 00:01),Berlin Ostbahnhof
+23:22,RE 3139,Cottbus Hbf (ab 22:00),Berlin Ostbahnhof
+23:29 (+3),ICE 645,Salzburg Hbf (ab 12:11),Berlin Ostbahnhof
+23:31,RB 21958,Flughafen BER (ab 23:10),Berlin Ostbahnhof
+23:47,ICE 276,Brig (ab 13:45),Berlin Ostbahnhof
+23:56,RE 3740,Dessau Hbf (ab 22:05),Berlin Ostbahnhof
