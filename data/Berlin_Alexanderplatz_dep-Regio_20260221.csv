@@ -1,0 +1,100 @@
+Abfahrt,Zugnr.,nach (Ankunft),Abfahrtsbhf.
+00:10,RB 21962,Berlin-Charlottenburg (an 00:26),Berlin Alexanderplatz
+00:21,RE 3745,Bad Belzig (an 01:31),Berlin Alexanderplatz
+00:43,RE 2,Koblenz Hbf (an 23:09),Berlin Alexanderplatz
+00:43,RE 3141,Lübben(Spreewald) (an 23:35),Berlin Alexanderplatz
+00:48,RE 73796,Magdeburg Hbf (an 02:59),Berlin Alexanderplatz
+00:58,RB 21968,Berlin-Charlottenburg (an 01:13),Berlin Alexanderplatz
+01:11,RE 3742,Berlin Ostkreuz (an 01:20),Berlin Alexanderplatz
+02:23,RE 3701,Berlin Hbf (an 02:29),Berlin Alexanderplatz
+02:23,RE 3703,Berlin-Wannsee (an 02:48),Berlin Alexanderplatz
+02:44,RE 73793,Berlin Ostbahnhof (an 02:48),Berlin Alexanderplatz
+03:00,RE 73754,Magdeburg Hbf (an 05:15),Berlin Alexanderplatz
+04:32,RE 73756,Brandenburg Hbf (an 05:33),Berlin Alexanderplatz
+05:08,RE 3707,Dessau Hbf (an 06:53),Berlin Alexanderplatz
+05:08,RE 7,Baden-Baden (an 23:03),Berlin Alexanderplatz
+05:16,RE 73758,Brandenburg Hbf (an 06:19),Berlin Alexanderplatz
+05:22,RE 73753,Berlin Ostbahnhof (an 05:26),Berlin Alexanderplatz
+05:29,RE 3103,Hennigsdorf(b Berlin) (an 06:23),Berlin Alexanderplatz
+05:33,RE 3102,Cottbus Hbf (an 06:56),Berlin Alexanderplatz
+05:48,S,Chiasso (an 21:40),Berlin Alexanderplatz (S)
+05:52,RE 3704,Senftenberg (an 07:41),Berlin Alexanderplatz
+06:16,RE 73760,Berlin Hbf (an 06:22),Berlin Alexanderplatz
+06:29,RE 3105,Hennigsdorf(b Berlin) (an 07:23),Berlin Alexanderplatz
+06:33,RE 3104,Cottbus Hbf (an 07:57),Berlin Alexanderplatz
+06:43,RE 73755,Berlin Ostbahnhof (an 06:46),Berlin Alexanderplatz
+06:53,RE 3706,Berlin Ostbahnhof (an 06:56),Berlin Alexanderplatz
+07:08,RE 3711,Dessau Hbf (an 08:53),Berlin Alexanderplatz
+07:16,RE 73762,Berlin Hbf (an 07:22),Berlin Alexanderplatz
+07:29,RE 3107,Berlin-Spandau (an 07:54),Berlin Alexanderplatz
+08:08,RE 3713,Wiesenburg(Mark) (an 09:26),Berlin Alexanderplatz
+08:16,RE 73764,Potsdam Hbf (an 08:51),Berlin Alexanderplatz
+09:08,RE 3715,Wiesenburg(Mark) (an 10:26),Berlin Alexanderplatz
+09:16,RE 73766,Berlin Hbf (an 09:22),Berlin Alexanderplatz
+10:08,RE 3717,Berlin Hbf (an 10:13),Berlin Alexanderplatz
+10:16,RE 73768,Berlin Hbf (an 10:22),Berlin Alexanderplatz
+10:53,RE 3714,Senftenberg (an 12:41),Berlin Alexanderplatz
+11:08,RE 3719,Berlin-Wannsee (an 11:34),Berlin Alexanderplatz
+11:16,RE 73770,Potsdam Hbf (an 11:51),Berlin Alexanderplatz
+12:08,RE 3721,Dessau Hbf (an 13:53),Berlin Alexanderplatz
+12:16,RE 73772,Brandenburg Hbf (an 13:19),Berlin Alexanderplatz
+12:43,RE 73767,Berlin Ostbahnhof (an 12:46),Berlin Alexanderplatz
+12:53,RE 3718,Senftenberg (an 14:41),Berlin Alexanderplatz
+13:08,RE 3723,Dessau Hbf (an 14:53),Berlin Alexanderplatz
+13:16,RE 73774,Brandenburg Hbf (an 14:19),Berlin Alexanderplatz
+13:43,RE 73769,Berlin Ostbahnhof (an 13:46),Berlin Alexanderplatz
+13:53,RE 3720,Senftenberg (an 15:41),Berlin Alexanderplatz
+14:08,RE 3725,Dessau Hbf (an 15:53),Berlin Alexanderplatz
+14:16,RE 73776,Brandenburg Hbf (an 15:19),Berlin Alexanderplatz
+14:43,RE 73771,Berlin Ostbahnhof (an 14:46),Berlin Alexanderplatz
+14:53,RE 3722,Senftenberg (an 16:41),Berlin Alexanderplatz
+15:08,RE 3727,Dessau Hbf (an 16:53),Berlin Alexanderplatz
+15:16,RE 73778,Brandenburg Hbf (an 16:23),Berlin Alexanderplatz
+15:29,RE 3123,Hennigsdorf(b Berlin) (an 16:23),Berlin Alexanderplatz
+15:33,RE 3122,Cottbus Hbf (an 16:55),Berlin Alexanderplatz
+15:43,RE 73773,Berlin Ostbahnhof (an 15:46),Berlin Alexanderplatz
+15:53,RE 3724,Senftenberg (an 17:41),Berlin Alexanderplatz
+16:08,RE 3729,Dessau Hbf (an 17:53),Berlin Alexanderplatz
+16:16,RE 73780,Brandenburg Hbf (an 17:19),Berlin Alexanderplatz
+16:29,RE 3125,Hennigsdorf(b Berlin) (an 17:23),Berlin Alexanderplatz
+16:33,RE 3124,Cottbus Hbf (an 17:55),Berlin Alexanderplatz
+16:43,RE 73775,Berlin Ostbahnhof (an 16:46),Berlin Alexanderplatz
+16:53,RE 3726,Senftenberg (an 18:41),Berlin Alexanderplatz
+17:08,RE 3731,Dessau Hbf (an 18:53),Berlin Alexanderplatz
+17:16,RE 73782,Brandenburg Hbf (an 18:23),Berlin Alexanderplatz
+17:29,RE 3127,Hennigsdorf(b Berlin) (an 18:23),Berlin Alexanderplatz
+17:33,RE 3126,Cottbus Hbf (an 18:55),Berlin Alexanderplatz
+17:43,RE 73777,Berlin Ostbahnhof (an 17:46),Berlin Alexanderplatz
+17:53,RE 3728,Senftenberg (an 19:41),Berlin Alexanderplatz
+18:08,RE 3733,Dessau Hbf (an 19:53),Berlin Alexanderplatz
+18:16,RE 73784,Brandenburg Hbf (an 19:19),Berlin Alexanderplatz
+18:29,RE 3129,Hennigsdorf(b Berlin) (an 19:23),Berlin Alexanderplatz
+18:33,RE 3128,Cottbus Hbf (an 19:55),Berlin Alexanderplatz
+18:53,RE 3730,Senftenberg (an 20:41),Berlin Alexanderplatz
+19:08,RE 3735,Dessau Hbf (an 20:53),Berlin Alexanderplatz
+19:16,RE 73786,Brandenburg Hbf (an 20:19),Berlin Alexanderplatz
+19:29,RE 3131,Hennigsdorf(b Berlin) (an 20:23),Berlin Alexanderplatz
+19:33,RE 3130,Cottbus Hbf (an 20:55),Berlin Alexanderplatz
+19:43,RE 73781,Berlin Ostbahnhof (an 19:46),Berlin Alexanderplatz
+19:53,RE 3732,Senftenberg (an 21:41),Berlin Alexanderplatz
+20:08,RE 3737,Dessau Hbf (an 21:53),Berlin Alexanderplatz
+20:16,RE 73788,Brandenburg Hbf (an 21:21),Berlin Alexanderplatz
+20:29,RE 3133,Hennigsdorf(b Berlin) (an 21:23),Berlin Alexanderplatz
+20:33,RE 3132,Cottbus Hbf (an 21:55),Berlin Alexanderplatz
+20:43,RE 73783,Berlin Ostbahnhof (an 20:46),Berlin Alexanderplatz
+20:53,RE 3734,Lübbenau(Spreewald) (an 22:04),Berlin Alexanderplatz
+21:08,RE 3739,Dessau Hbf (an 22:53),Berlin Alexanderplatz
+21:29,RE 3135,Hennigsdorf(b Berlin) (an 22:25),Berlin Alexanderplatz
+21:33,RE 3134,Cottbus Hbf (an 22:55),Berlin Alexanderplatz
+21:43,RE 73785,Berlin Ostbahnhof (an 21:46),Berlin Alexanderplatz
+21:53,RE 3736,Lübbenau(Spreewald) (an 23:04),Berlin Alexanderplatz
+22:10,RE 3741,Bad Belzig (an 23:19),Berlin Alexanderplatz
+22:29,RE 3137,Hennigsdorf(b Berlin) (an 23:26),Berlin Alexanderplatz
+22:43,RE 73787,Berlin Ostbahnhof (an 22:46),Berlin Alexanderplatz
+22:53,RE 3738,Berlin Ostbahnhof (an 22:56),Berlin Alexanderplatz
+23:00,RE 3136,Cottbus Hbf (an 00:40),Berlin Alexanderplatz
+23:08,RE 3743,Dessau Hbf (an 00:53),Berlin Alexanderplatz
+23:29,RE 3139,Berlin-Charlottenburg (an 23:46),Berlin Alexanderplatz
+23:38,RB 21958,Berlin-Charlottenburg (an 23:54),Berlin Alexanderplatz
+23:53,RE 3740,Berlin Ostbahnhof (an 23:56),Berlin Alexanderplatz
+23:59,RE 3138,Berlin Ostbahnhof (an 00:02),Berlin Alexanderplatz

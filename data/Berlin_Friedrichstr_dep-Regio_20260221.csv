@@ -1,0 +1,101 @@
+Abfahrt,Zugnr.,nach (Ankunft),Abfahrtsbhf.
+00:14,RB 21962,Berlin-Charlottenburg (an 00:26),Berlin Friedrichstr
+00:25,RE 3745,Bad Belzig (an 01:31),Berlin Friedrichstr
+00:47,RE 2,Koblenz Hbf (an 23:09),Berlin Friedrichstr
+00:47,RE 3141,Lübben(Spreewald) (an 23:35),Berlin Friedrichstr
+00:51,RE 73796,Magdeburg Hbf (an 02:59),Berlin Friedrichstr
+00:55,RE 3140,Cottbus Hbf (an 02:40),Berlin Friedrichstr
+01:02,RB 21968,Berlin-Charlottenburg (an 01:13),Berlin Friedrichstr
+01:07,RE 3742,Berlin Ostkreuz (an 01:20),Berlin Friedrichstr
+02:27,RE 3703,Berlin-Wannsee (an 02:48),Berlin Friedrichstr
+02:41,RE 73793,Berlin Ostbahnhof (an 02:48),Berlin Friedrichstr
+03:03,RE 73754,Magdeburg Hbf (an 05:15),Berlin Friedrichstr
+04:35,RE 73756,Brandenburg Hbf (an 05:33),Berlin Friedrichstr
+05:12,RE 3707,Dessau Hbf (an 06:53),Berlin Friedrichstr
+05:12,RE 7,Baden-Baden (an 23:03),Berlin Friedrichstr
+05:19,RE 73753,Berlin Ostbahnhof (an 05:26),Berlin Friedrichstr
+05:20,RE 73758,Brandenburg Hbf (an 06:19),Berlin Friedrichstr
+05:29,RE 3102,Cottbus Hbf (an 06:56),Berlin Friedrichstr
+05:33,RE 3103,Hennigsdorf(b Berlin) (an 06:23),Berlin Friedrichstr
+05:48,RE 3704,Senftenberg (an 07:41),Berlin Friedrichstr
+06:29,RE 3104,Cottbus Hbf (an 07:57),Berlin Friedrichstr
+06:33,RE 3105,Hennigsdorf(b Berlin) (an 07:23),Berlin Friedrichstr
+06:40,RE 73755,Berlin Ostbahnhof (an 06:46),Berlin Friedrichstr
+06:49,RE 3706,Berlin Ostbahnhof (an 06:56),Berlin Friedrichstr
+07:12,RE 3711,Dessau Hbf (an 08:53),Berlin Friedrichstr
+07:33,RE 3107,Berlin-Spandau (an 07:54),Berlin Friedrichstr
+08:12,RE 3713,Wiesenburg(Mark) (an 09:26),Berlin Friedrichstr
+08:20,RE 73764,Potsdam Hbf (an 08:51),Berlin Friedrichstr
+08:40,RE 73759,Berlin Ostbahnhof (an 08:46),Berlin Friedrichstr
+08:49,RE 3710,Lübbenau(Spreewald) (an 10:03),Berlin Friedrichstr
+09:40,RE 73761,Berlin Ostbahnhof (an 09:46),Berlin Friedrichstr
+09:49,RE 3712,Lübbenau(Spreewald) (an 11:03),Berlin Friedrichstr
+10:40,RE 73763,Berlin Ostbahnhof (an 10:46),Berlin Friedrichstr
+10:49,RE 3714,Senftenberg (an 12:41),Berlin Friedrichstr
+11:12,RE 3719,Berlin-Wannsee (an 11:34),Berlin Friedrichstr
+11:20,RE 73770,Potsdam Hbf (an 11:51),Berlin Friedrichstr
+11:40,RE 73765,Berlin Ostbahnhof (an 11:46),Berlin Friedrichstr
+11:49,RE 3716,Lübbenau(Spreewald) (an 13:03),Berlin Friedrichstr
+12:12,RE 3721,Dessau Hbf (an 13:53),Berlin Friedrichstr
+12:20,RE 73772,Brandenburg Hbf (an 13:19),Berlin Friedrichstr
+12:40,RE 73767,Berlin Ostbahnhof (an 12:46),Berlin Friedrichstr
+12:49,RE 3718,Senftenberg (an 14:41),Berlin Friedrichstr
+13:12,RE 3723,Dessau Hbf (an 14:53),Berlin Friedrichstr
+13:20,RE 73774,Brandenburg Hbf (an 14:19),Berlin Friedrichstr
+13:40,RE 73769,Berlin Ostbahnhof (an 13:46),Berlin Friedrichstr
+13:49,RE 3720,Senftenberg (an 15:41),Berlin Friedrichstr
+14:12,RE 3725,Dessau Hbf (an 15:53),Berlin Friedrichstr
+14:20,RE 73776,Brandenburg Hbf (an 15:19),Berlin Friedrichstr
+14:40,RE 73771,Berlin Ostbahnhof (an 14:46),Berlin Friedrichstr
+14:49,RE 3722,Senftenberg (an 16:41),Berlin Friedrichstr
+15:12,RE 3727,Dessau Hbf (an 16:53),Berlin Friedrichstr
+15:20,RE 73778,Brandenburg Hbf (an 16:23),Berlin Friedrichstr
+15:29,RE 3122,Cottbus Hbf (an 16:55),Berlin Friedrichstr
+15:33,RE 3123,Hennigsdorf(b Berlin) (an 16:23),Berlin Friedrichstr
+15:40,RE 73773,Berlin Ostbahnhof (an 15:46),Berlin Friedrichstr
+15:49,RE 3724,Senftenberg (an 17:41),Berlin Friedrichstr
+16:12,RE 3729,Dessau Hbf (an 17:53),Berlin Friedrichstr
+16:20,RE 73780,Brandenburg Hbf (an 17:19),Berlin Friedrichstr
+16:29,RE 3124,Cottbus Hbf (an 17:55),Berlin Friedrichstr
+16:33,RE 3125,Hennigsdorf(b Berlin) (an 17:23),Berlin Friedrichstr
+16:40,RE 73775,Berlin Ostbahnhof (an 16:46),Berlin Friedrichstr
+16:49,RE 3726,Senftenberg (an 18:41),Berlin Friedrichstr
+17:12,RE 3731,Dessau Hbf (an 18:53),Berlin Friedrichstr
+17:20,RE 73782,Brandenburg Hbf (an 18:23),Berlin Friedrichstr
+17:29,RE 3126,Cottbus Hbf (an 18:55),Berlin Friedrichstr
+17:33,RE 3127,Hennigsdorf(b Berlin) (an 18:23),Berlin Friedrichstr
+17:40,RE 73777,Berlin Ostbahnhof (an 17:46),Berlin Friedrichstr
+17:49,RE 3728,Senftenberg (an 19:41),Berlin Friedrichstr
+18:12,RE 3733,Dessau Hbf (an 19:53),Berlin Friedrichstr
+18:20,RE 73784,Brandenburg Hbf (an 19:19),Berlin Friedrichstr
+18:29,RE 3128,Cottbus Hbf (an 19:55),Berlin Friedrichstr
+18:33,RE 3129,Hennigsdorf(b Berlin) (an 19:23),Berlin Friedrichstr
+18:40,RE 73779,Berlin Ostbahnhof (an 18:46),Berlin Friedrichstr
+18:49,RE 3730,Senftenberg (an 20:41),Berlin Friedrichstr
+19:12,RE 3735,Dessau Hbf (an 20:53),Berlin Friedrichstr
+19:20,RE 73786,Brandenburg Hbf (an 20:19),Berlin Friedrichstr
+19:29,RE 3130,Cottbus Hbf (an 20:55),Berlin Friedrichstr
+19:33,RE 3131,Hennigsdorf(b Berlin) (an 20:23),Berlin Friedrichstr
+19:40,RE 73781,Berlin Ostbahnhof (an 19:46),Berlin Friedrichstr
+19:49,RE 3732,Senftenberg (an 21:41),Berlin Friedrichstr
+20:12,RE 3737,Dessau Hbf (an 21:53),Berlin Friedrichstr
+20:20,RE 73788,Brandenburg Hbf (an 21:21),Berlin Friedrichstr
+20:29,RE 3132,Cottbus Hbf (an 21:55),Berlin Friedrichstr
+20:33,RE 3133,Hennigsdorf(b Berlin) (an 21:23),Berlin Friedrichstr
+20:40,RE 73783,Berlin Ostbahnhof (an 20:46),Berlin Friedrichstr
+20:49,RE 3734,Lübbenau(Spreewald) (an 22:04),Berlin Friedrichstr
+21:12,RE 3739,Dessau Hbf (an 22:53),Berlin Friedrichstr
+21:29,RE 3134,Cottbus Hbf (an 22:55),Berlin Friedrichstr
+21:33,RE 3135,Hennigsdorf(b Berlin) (an 22:25),Berlin Friedrichstr
+21:40,RE 73785,Berlin Ostbahnhof (an 21:46),Berlin Friedrichstr
+21:49,RE 3736,Lübbenau(Spreewald) (an 23:04),Berlin Friedrichstr
+22:14,RE 3741,Bad Belzig (an 23:19),Berlin Friedrichstr
+22:33,RE 3137,Hennigsdorf(b Berlin) (an 23:26),Berlin Friedrichstr
+22:40,RE 73787,Berlin Ostbahnhof (an 22:46),Berlin Friedrichstr
+22:49,RE 3738,Berlin Ostbahnhof (an 22:56),Berlin Friedrichstr
+22:56,RE 3136,Cottbus Hbf (an 00:40),Berlin Friedrichstr
+23:12,RE 3743,Dessau Hbf (an 00:53),Berlin Friedrichstr
+23:33,RE 3139,Berlin-Charlottenburg (an 23:46),Berlin Friedrichstr
+23:42,RB 21958,Berlin-Charlottenburg (an 23:54),Berlin Friedrichstr
+23:49,RE 3740,Berlin Ostbahnhof (an 23:56),Berlin Friedrichstr
+23:55,RE 3138,Berlin Ostbahnhof (an 00:02),Berlin Friedrichstr
