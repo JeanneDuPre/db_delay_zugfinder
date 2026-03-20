@@ -1,0 +1,143 @@
+Ankunft,Zugnr.,von (Abfahrt),Gleis
+00:01,RB 61138,Templin Stadt (ab 22:33),8
+00:14 Ausfall,RE 73749,Magdeburg Hbf (ab 22:07),1
+01:36 (+53),RE 73791,Magdeburg Hbf (ab 23:21),1
+04:44,RE 73716,Frankfurt(Oder) (ab 03:38),2
+05:16,RB 18200,Ludwigsfelde (ab 04:38),14
+05:30 (+49),RE 73753,Brandenburg Hbf (ab 04:17),1
+05:42,RE 73718,Eisenhüttenstadt (ab 04:21),2
+05:44,RB 18203,Berlin-Lichtenberg (ab 05:41),13
+06:16,RB 18202,Ludwigsfelde (ab 05:38),14
+06:39,RB 18304,Blankenfelde(Teltow-Fläming) (ab 06:09),14
+06:42,RE 73720,Frankfurt(Oder) (ab 05:42),2
+06:44,RB 18205,Berlin-Lichtenberg (ab 06:41),13
+06:51,RE 73755,Brandenburg Hbf (ab 05:44),1
+07:14,RE 73715,Magdeburg Hbf (ab 05:01),1
+07:16,RB 18204,Ludwigsfelde (ab 06:38),14
+07:17,RB 61222,Werneuchen (ab 06:34),8
+07:20,RB 18307,Eberswalde Hbf (ab 06:35),13
+07:39,RB 18306,Blankenfelde(Teltow-Fläming) (ab 07:09),14
+07:42,RE 73722,Eisenhüttenstadt (ab 06:20),2
+07:44,RB 18207,Berlin-Lichtenberg (ab 07:41),13
+07:51,RE 73757,Brandenburg Hbf (ab 06:44),1
+08:01,RB 61106,Templin Stadt (ab 06:33),8
+08:13,RB 61425,Müncheberg(Mark) (ab 07:25),7
+08:14,RE 73717,Magdeburg Hbf (ab 06:12),1
+08:16,RB 18206,Ludwigsfelde (ab 07:38),14
+08:17,RB 61224,Werneuchen (ab 07:34),8
+08:20,RB 18309,Eberswalde Hbf (ab 07:35),13
+08:39,RB 18308,Blankenfelde(Teltow-Fläming) (ab 08:09),14
+08:42 (+1),RE 73724,Frankfurt(Oder) (ab 07:41),2
+08:44,RB 18209,Berlin-Lichtenberg (ab 08:41),13
+08:48,RB 61188,Werneuchen (ab 08:04),14
+08:51,RE 73759,Brandenburg Hbf (ab 07:44),1
+09:01,RB 61108,Templin Stadt (ab 07:33),7
+09:05,RE 73766,Frankfurt(Oder) (ab 08:11),2
+09:14,RE 73719,Magdeburg Hbf (ab 07:12),1
+09:16,RB 18208,Ludwigsfelde (ab 08:38),14
+09:20,RB 18311,Eberswalde Hbf (ab 08:35),13
+09:39 (+3),RB 18310,Blankenfelde(Teltow-Fläming) (ab 09:09),14
+09:42 (+1),RE 73726,Frankfurt(Oder) (ab 08:38),2
+09:44,RB 18211,Berlin-Lichtenberg (ab 09:41),13
+09:48,RB 61190,Werneuchen (ab 09:04),14
+09:51,RE 73761,Brandenburg Hbf (ab 08:44),1
+10:01,RB 61110,Templin Stadt (ab 08:33),7
+10:05,RE 73768,Frankfurt(Oder) (ab 09:08),2
+10:13,RB 61429,Müncheberg(Mark) (ab 09:25),
+10:14 (+2),RE 73721,Magdeburg Hbf (ab 08:12),1
+10:16,RB 18210,Ludwigsfelde (ab 09:38),14
+10:20,RB 18313,Eberswalde Hbf (ab 09:35),13
+10:31,RE 73811,Brandenburg Hbf (ab 09:22),1
+10:39,RB 18312,Blankenfelde(Teltow-Fläming) (ab 10:09),14
+10:42 (+1),RE 73728,Frankfurt(Oder) (ab 09:38),2
+10:48,RB 61192,Werneuchen (ab 10:04),14
+10:51,RE 73763,Brandenburg Hbf (ab 09:44),1
+11:01,RB 61112,Templin Stadt (ab 09:33),8
+11:05,RE 73770,Frankfurt(Oder) (ab 10:08),2
+11:13,RB 61431,Müncheberg(Mark) (ab 10:25),7
+11:14,RE 73723,Magdeburg Hbf (ab 09:12),1
+11:16,RB 18212,Ludwigsfelde (ab 10:38),
+11:17,RB 61228,Werneuchen (ab 10:34),8
+11:20,RB 18315,Eberswalde Hbf (ab 10:35),
+11:39,RB 18314,Blankenfelde(Teltow-Fläming) (ab 11:09),
+11:42 (+4),RE 73730,Frankfurt(Oder) (ab 10:38),2
+11:48,RB 61194,Werneuchen (ab 11:04),14
+11:51,RE 73765,Brandenburg Hbf (ab 10:44),1
+12:01,RB 61114,Templin Stadt (ab 10:33),
+12:05,RE 73772,Frankfurt(Oder) (ab 11:08),
+12:13,RB 61433,Müncheberg(Mark) (ab 11:25),
+12:14 (+4),RE 73725,Magdeburg Hbf (ab 10:12),1
+12:16,RB 18214,Ludwigsfelde (ab 11:38),
+12:20,RB 18317,Eberswalde Hbf (ab 11:35),
+12:39,RB 18316,Blankenfelde(Teltow-Fläming) (ab 12:09),
+12:42,RE 73732,Frankfurt(Oder) (ab 11:38),
+12:48,RB 61196,Werneuchen (ab 12:04),
+12:51,RE 73767,Brandenburg Hbf (ab 11:44),
+13:01,RB 61116,Templin Stadt (ab 11:33),
+13:05,RE 73774,Frankfurt(Oder) (ab 12:08),
+13:13,RB 61435,Müncheberg(Mark) (ab 12:25),
+13:14 (+1),RE 73727,Magdeburg Hbf (ab 11:12),1
+13:16,RB 18216,Ludwigsfelde (ab 12:38),
+13:17,RB 61232,Werneuchen (ab 12:34),
+13:20,RB 18319,Eberswalde Hbf (ab 12:35),
+13:39,RB 18318,Blankenfelde(Teltow-Fläming) (ab 13:09),
+13:42 (+10),RE 73734,Frankfurt(Oder) (ab 12:38),2
+13:48,RB 61198,Werneuchen (ab 13:04),
+13:51,RE 73769,Brandenburg Hbf (ab 12:44),1
+14:01,RB 61118,Templin Stadt (ab 12:33),
+14:03,RE 73776,Frankfurt(Oder) (ab 13:08),2
+14:13,RB 61437,Müncheberg(Mark) (ab 13:25),
+14:14 (+12),RE 73729,Magdeburg Hbf (ab 12:12),1
+14:16,RB 18218,Ludwigsfelde (ab 13:38),
+14:17,RB 61234,Werneuchen (ab 13:34),
+14:20,RB 18321,Eberswalde Hbf (ab 13:35),
+14:39,RB 18320,Blankenfelde(Teltow-Fläming) (ab 14:09),14
+14:42 (+15),RE 73736,Frankfurt(Oder) (ab 13:38),2
+14:48,RB 61200,Werneuchen (ab 14:04),
+14:51,RE 73771,Brandenburg Hbf (ab 13:44),1
+15:01,RB 61120,Templin Stadt (ab 13:33),
+15:05,RE 73778,Frankfurt(Oder) (ab 14:08),2
+15:13,RB 61439,Müncheberg(Mark) (ab 14:25),
+15:14,RE 73731,Magdeburg Hbf (ab 13:12),1
+15:16,RB 18220,Ludwigsfelde (ab 14:38),
+15:17,RB 61236,Werneuchen (ab 14:34),
+15:20,RB 18323,Eberswalde Hbf (ab 14:35),
+15:39,RB 18322,Blankenfelde(Teltow-Fläming) (ab 15:09),14
+15:42 (+2),RE 73738,Frankfurt(Oder) (ab 14:38),2
+15:51,RE 73773,Brandenburg Hbf (ab 14:44),1
+16:05,RE 73780,Frankfurt(Oder) (ab 15:08),2
+16:14 (+1),RE 73733,Magdeburg Hbf (ab 14:12),1
+16:39,RB 18324,Blankenfelde(Teltow-Fläming) (ab 16:09),14
+16:42 (+10),RE 73740,Frankfurt(Oder) (ab 15:38),2
+16:51,RE 73775,Brandenburg Hbf (ab 15:44),1
+17:01,RB 61124,Templin Stadt (ab 15:33),7
+17:14 (+11),RE 73735,Magdeburg Hbf (ab 15:12),1
+17:20,RB 18327,Eberswalde Hbf (ab 16:35),13
+17:39,RB 18326,Blankenfelde(Teltow-Fläming) (ab 17:09),14
+17:51,RE 73777,Brandenburg Hbf (ab 16:44),1
+18:05,RE 73784,Frankfurt(Oder) (ab 17:08),2
+18:14 (+4),RE 73737,Magdeburg Hbf (ab 16:12),1
+18:20,RB 18329,Eberswalde Hbf (ab 17:35),13
+18:42 (+6),RE 73744,Frankfurt(Oder) (ab 17:38),2
+18:47 Ausfall,IC 2431,Emden Außenhafen (ab 12:01),1
+18:52,RE 73779,Brandenburg Hbf (ab 17:45),1
+19:39,RB 18330,Blankenfelde(Teltow-Fläming) (ab 19:09),14
+20:05 (+9),RE 73788,Frankfurt(Oder) (ab 19:08),2
+20:14 (+10),RE 73741,Magdeburg Hbf (ab 18:12),1
+20:20,RB 18333,Eberswalde Hbf (ab 19:35),13
+20:39 (+11),RB 18332,Blankenfelde(Teltow-Fläming) (ab 20:09),14
+20:42 (+5),RE 73748,Frankfurt(Oder) (ab 19:42),2
+20:44,RB 18233,Berlin-Lichtenberg (ab 20:41),13
+20:52,RE 73783,Brandenburg Hbf (ab 19:44),1
+21:14,RE 73743,Magdeburg Hbf (ab 19:12),1
+21:16 (+4),RB 18232,Ludwigsfelde (ab 20:38),14
+21:20 (+1),RB 18335,Eberswalde Hbf (ab 20:35),13
+21:29 (+1),RE 73825,Berlin-Charlottenburg (ab 21:04),1
+21:36 (+2),RE 73790,Frankfurt(Oder) (ab 20:32),2
+21:44 Ausfall,RB 18235,Berlin-Lichtenberg (ab 21:41),13
+21:51,RE 73785,Brandenburg Hbf (ab 20:44),1
+22:01,RB 61134,Templin Stadt (ab 20:33),7
+22:03 (+21),EC 40,Warszawa Wschodnia (ab 16:49),2
+22:36,RE 73792,Frankfurt(Oder) (ab 21:32),2
+23:01,RB 61136,Templin Stadt (ab 21:33),8
+23:36,RE 73794,Frankfurt(Oder) (ab 22:32),2
