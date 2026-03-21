@@ -1,0 +1,105 @@
+Abfahrt,Zugnr.,nach (Ankunft),Gleis
+05:28,RE 62000,Elsterwerda (an 07:15),
+05:33,RE 62003,Elstal (an 05:53),4
+06:00,RE 3164,Jüterbog (an 06:54),3
+06:00,RE 3167,Stendal Hbf (an 07:13),4
+06:07,RB 62051,Rangsdorf (an 06:38),3
+06:28,RE 62002,Elsterwerda (an 08:31),3
+06:34,RB 18242,Berlin Gesundbrunnen (an 06:40),3
+06:59,RE 3146,Falkenberg(Elster) (an 08:44),3
+07:00,RE 3147,Rathenow (an 07:52),4
+07:07,RB 62053,Berlin Südkreuz (an 07:21),
+07:23,RB 18247,Potsdam Hbf (an 08:23),
+07:28,RE 62004,Elsterwerda (an 09:14),
+07:34,RE 62007,Elstal (an 07:53),4
+08:00,RE 3166,Jüterbog (an 08:54),3
+08:00,RE 3169,Stendal Hbf (an 09:30),4
+08:07,RB 62055,Berlin Südkreuz (an 08:21),
+08:28,RE 62006,Elsterwerda (an 10:31),3
+08:59,RE 3148,Falkenberg(Elster) (an 10:44),3
+09:00,RE 3149,Rathenow (an 09:54),4
+09:07,RB 62057,Berlin Südkreuz (an 09:21),
+09:22,RB 18251,Potsdam Hbf (an 10:23),
+09:28,RE 62008,Berlin Südkreuz (an 09:49),
+09:36,RE 62011,Elstal (an 09:55),4
+10:00,RE 3168,Jüterbog (an 10:54),3
+10:00,RE 3171,Stendal Hbf (an 11:30),4
+10:07,RB 62059,Berlin Südkreuz (an 10:22),
+10:25,RE 62010,Elsterwerda (an 12:31),3
+10:59,RE 3150,Falkenberg(Elster) (an 12:44),3
+11:00,RE 3151,Rathenow (an 11:54),4
+11:07,RB 62061,Berlin Südkreuz (an 11:21),
+11:28,RE 62012,Berlin Südkreuz (an 11:49),
+11:36,RE 62015,Elstal (an 11:53),4
+12:00,RE 3170,Jüterbog (an 12:54),3
+12:00,RE 3173,Stendal Hbf (an 13:30),4
+12:07,RB 62063,Berlin Südkreuz (an 12:21),3
+12:27,RE 62014,Elsterwerda (an 14:31),3
+12:30,RE 62017,Elstal (an 12:49),4
+12:34,RB 18254,Berlin Gesundbrunnen (an 12:40),3
+12:53 (+1),RB 62064,Wustermark (an 13:19),
+12:59 (+3),RE 3152,Falkenberg(Elster) (an 14:44),3
+13:00,RE 3153,Rathenow (an 13:54),4
+13:07 (+1),RB 62065,Berlin Südkreuz (an 13:21),3
+13:23,RB 18259,Potsdam Hbf (an 14:23),4
+13:28,RE 62016,Elsterwerda (an 15:14),3
+13:33,RB 18256,Berlin Gesundbrunnen (an 13:40),3
+13:36,RE 62019,Elstal (an 13:55),4
+13:53,RB 62066,Wustermark (an 14:18),4
+14:00,RE 3172,Jüterbog (an 14:54),3
+14:00,RE 3175,Stendal Hbf (an 15:30),4
+14:07,RB 62067,Rangsdorf (an 14:39),3
+14:27,RB 62018,Elsterwerda (an 16:31),3
+14:30,RE 62021,Elstal (an 14:49),4
+14:34,RB 18258,Berlin Gesundbrunnen (an 14:40),3
+14:53,RB 62068,Wustermark (an 15:18),4
+14:59 (+2),RE 3154,Falkenberg(Elster) (an 16:45),3
+15:00,RE 3155,Rathenow (an 15:54),4
+15:07,RB 62069,Rangsdorf (an 15:38),3
+15:23,RB 18263,Potsdam Hbf (an 16:23),4
+15:28,RE 62020,Elsterwerda (an 17:15),3
+15:33,RB 18260,Berlin Gesundbrunnen (an 15:40),3
+15:36,RE 62023,Elstal (an 15:55),4
+15:53,RB 62070,Wustermark (an 16:18),4
+16:00,RE 3174,Jüterbog (an 16:55),3
+16:00,RE 3177,Stendal Hbf (an 17:30),4
+16:07,RB 62071,Rangsdorf (an 16:39),3
+16:27,RE 62022,Elsterwerda (an 18:31),3
+16:30,RE 62025,Elstal (an 16:49),4
+16:34 (+3),RB 18262,Berlin Gesundbrunnen (an 16:40),3
+16:53,RB 62072,Wustermark (an 17:18),4
+16:59 (+2),RE 3156,Falkenberg(Elster) (an 18:49),3
+17:00,RE 3157,Rathenow (an 17:54),4
+17:07,RB 62073,Rangsdorf (an 17:38),3
+17:23,RB 18267,Potsdam Hbf (an 18:23),4
+17:28 (+5),RE 62024,Elsterwerda (an 19:15),3
+17:28,RE 62027,Elstal (an 17:47),4
+17:34,RB 18264,Berlin Gesundbrunnen (an 17:40),3
+17:53 (+2),RB 62074,Wustermark (an 18:18),4
+18:00,RE 26117,Stendal Hbf (an 19:30),
+18:00 (+7),RE 3176,Jüterbog (an 18:54),3
+18:00 (+13),RE 3179,Stendal Hbf (an 19:30),4
+18:07,RB 62075,Blankenfelde(Teltow-Fläming) (an 18:31),
+18:28,RE 62026,Elsterwerda (an 20:31),3
+18:30,RE 62029,Elstal (an 18:49),4
+18:34,RB 18266,Berlin Gesundbrunnen (an 18:40),3
+18:53,RB 62076,Wustermark (an 19:18),4
+18:59,RE 3158,Falkenberg(Elster) (an 20:44),3
+19:00,RE 3159,Rathenow (an 19:49),4
+19:07,RB 62077,Berlin Südkreuz (an 19:21),
+19:23,RB 18271,Potsdam Hbf (an 20:26),4
+19:28,RE 62028,Baruth(Mark) (an 20:35),3
+19:33,RB 18268,Berlin Gesundbrunnen (an 19:40),3
+19:34,RE 62031,Elstal (an 19:53),4
+20:00,RE 3178,Jüterbog (an 20:54),3
+20:00,RE 3181,Stendal Hbf (an 21:13),4
+20:07,RB 62079,Berlin Südkreuz (an 20:24),
+20:28,RE 62030,Baruth(Mark) (an 21:41),3
+20:30,RE 62033,Elstal (an 20:49),4
+20:34,RB 18270,Berlin Gesundbrunnen (an 20:40),3
+20:59,RE 3160,Jüterbog (an 21:56),3
+21:00,RE 3161,Rathenow (an 21:52),4
+21:07,RB 62081,Berlin Südkreuz (an 21:21),
+21:23,RB 18275,Werder(Havel) (an 22:17),4
+21:28,RE 62032,Baruth(Mark) (an 22:35),3
+21:34,RB 18272,Berlin Gesundbrunnen (an 21:40),3

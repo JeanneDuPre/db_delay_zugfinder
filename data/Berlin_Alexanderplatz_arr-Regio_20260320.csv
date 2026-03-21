@@ -1,0 +1,113 @@
+Ankunft,Zugnr.,von (Abfahrt),Gleis
+00:05,RE 73749,Magdeburg Hbf (ab 22:07),1
+01:28 (+1),RE 73791,Magdeburg Hbf (ab 23:21),1
+05:07,RE 3707,Berlin Ostbahnhof (ab 05:04),2
+05:21,RE 73753,Brandenburg Hbf (ab 04:17),1
+05:53 (+1),RE 73718,Eisenhüttenstadt (ab 04:21),2
+06:15,RE 73760,Frankfurt(Oder) (ab 05:08),2
+06:42,RE 73755,Brandenburg Hbf (ab 05:44),1
+07:05,RE 73715,Magdeburg Hbf (ab 05:01),1
+07:07,RE 3711,Berlin Ostbahnhof (ab 07:04),2
+07:42,RE 73757,Brandenburg Hbf (ab 06:44),1
+07:53,RE 73722,Eisenhüttenstadt (ab 06:20),2
+08:42,RB 18148,Berlin Ostbahnhof (ab 08:39),2
+08:51 (+10),RE 3710,Dessau Hbf (ab 07:05),1
+08:53 (+5),RE 73724,Frankfurt(Oder) (ab 07:41),2
+09:05 (+2),RE 73719,Magdeburg Hbf (ab 07:12),1
+09:07,RE 3715,Berlin Ostbahnhof (ab 09:04),2
+09:15,RE 73766,Frankfurt(Oder) (ab 08:11),2
+09:16,RB 18147,Golm (ab 08:27),1
+09:20,RE 73809,Brandenburg Hbf (ab 08:22),1
+09:33,RB 73810,Berlin Ostbahnhof (ab 09:30),2
+09:42,RB 18150,Berlin Ostbahnhof (ab 09:39),2
+09:42,RE 73761,Brandenburg Hbf (ab 08:44),1
+09:51 (+1),RE 3712,Dessau Hbf (ab 08:05),1
+09:53 (+1),RE 73726,Frankfurt(Oder) (ab 08:38),2
+10:05 (+2),RE 73721,Magdeburg Hbf (ab 08:12),1
+10:07,RE 3717,Berlin Ostbahnhof (ab 10:04),2
+10:15,RE 73768,Frankfurt(Oder) (ab 09:08),2
+10:16,RB 18149,Golm (ab 09:27),1
+10:20,RE 73811,Brandenburg Hbf (ab 09:22),1
+10:42,RE 73763,Brandenburg Hbf (ab 09:44),1
+10:51,RE 3714,Dessau Hbf (ab 09:05),1
+10:53,RE 73728,Frankfurt(Oder) (ab 09:38),2
+11:05,RE 73723,Magdeburg Hbf (ab 09:12),1
+11:07,RE 3719,Berlin Ostbahnhof (ab 11:04),2
+11:15,RE 73770,Frankfurt(Oder) (ab 10:08),2
+11:42 (+1),RE 73765,Brandenburg Hbf (ab 10:44),1
+11:51 (+5),RE 3716,Dessau Hbf (ab 10:05),1
+11:53 (+2),RE 73730,Frankfurt(Oder) (ab 10:38),2
+12:05,RE 73725,Magdeburg Hbf (ab 10:12),1
+12:07,RE 3721,Berlin Ostbahnhof (ab 12:04),2
+12:15,RE 73772,Frankfurt(Oder) (ab 11:08),2
+12:42,RE 73767,Brandenburg Hbf (ab 11:44),1
+12:51 (+1),RE 3718,Dessau Hbf (ab 11:05),1
+12:53,RE 73732,Frankfurt(Oder) (ab 11:38),2
+13:05,RE 73727,Magdeburg Hbf (ab 11:12),1
+13:07,RE 3723,Berlin Ostbahnhof (ab 13:04),2
+13:15,RE 73774,Frankfurt(Oder) (ab 12:08),2
+13:42,RE 73769,Brandenburg Hbf (ab 12:44),1
+13:51 (+3),RE 3720,Dessau Hbf (ab 12:05),1
+13:53,RE 73734,Frankfurt(Oder) (ab 12:38),2
+14:05 (+1),RE 73729,Magdeburg Hbf (ab 12:12),1
+14:07,RE 3725,Berlin Ostbahnhof (ab 14:04),2
+14:15,RE 73776,Frankfurt(Oder) (ab 13:08),2
+14:33,RE 73812,Berlin Ostkreuz (ab 14:26),2
+14:42,RB 18160,Berlin Ostbahnhof (ab 14:39),2
+14:42,RE 73771,Brandenburg Hbf (ab 13:44),1
+14:51 (+1),RE 3722,Dessau Hbf (ab 13:05),1
+14:53 (+1),RE 73736,Frankfurt(Oder) (ab 13:38),2
+15:05,RE 73731,Magdeburg Hbf (ab 13:12),1
+15:07,RE 3727,Berlin Ostbahnhof (ab 15:04),2
+15:15,RE 73778,Frankfurt(Oder) (ab 14:08),2
+15:16,RB 18159,Golm (ab 14:27),1
+15:20,RB 73813,Brandenburg Hbf (ab 14:22),1
+15:42,RE 73773,Brandenburg Hbf (ab 14:44),1
+15:53 (+3),RE 73738,Frankfurt(Oder) (ab 14:38),2
+16:05 (+3),RE 73733,Magdeburg Hbf (ab 14:12),1
+16:15,RE 73780,Frankfurt(Oder) (ab 15:08),2
+16:33,RE 73816,Berlin Ostbahnhof (ab 16:30),2
+16:42,RB 18164,Berlin Ostbahnhof (ab 16:39),2
+16:42,RE 73775,Brandenburg Hbf (ab 15:44),1
+16:53 (+6),RE 73740,Frankfurt(Oder) (ab 15:38),2
+17:05 (+3),RE 73735,Magdeburg Hbf (ab 15:12),1
+17:07,RE 3731,Berlin Ostbahnhof (ab 17:04),2
+17:15 (+2),RE 73782,Frankfurt(Oder) (ab 16:08),2
+17:16,RB 18163,Golm (ab 16:27),1
+17:20,RE 73817,Brandenburg Hbf (ab 16:22),1
+17:42 (+1),RE 73777,Brandenburg Hbf (ab 16:44),1
+17:51 (+10),RE 3728,Dessau Hbf (ab 16:05),1
+17:53,RE 73742,Frankfurt(Oder) (ab 16:38),2
+18:05 (+3),RE 73737,Magdeburg Hbf (ab 16:12),1
+18:07 (+8),RE 3733,Berlin Ostbahnhof (ab 18:04),2
+18:15 (+3),RE 73784,Frankfurt(Oder) (ab 17:08),2
+18:16,RB 18165,Golm (ab 17:27),1
+18:20 (+1),RE 73819,Brandenburg Hbf (ab 17:22),1
+18:33,RE 73820,Berlin Ostbahnhof (ab 18:30),2
+18:42 (+4),RE 73779,Brandenburg Hbf (ab 17:45),1
+18:51,RE 3730,Dessau Hbf (ab 17:05),1
+18:53,RE 73744,Frankfurt(Oder) (ab 17:38),2
+19:05,RE 73739,Magdeburg Hbf (ab 17:12),1
+19:07,RE 3735,Senftenberg (ab 17:14),2
+19:42,RE 73781,Brandenburg Hbf (ab 18:44),1
+19:51,RE 3732,Dessau Hbf (ab 18:05),1
+19:53,RE 73746,Frankfurt(Oder) (ab 18:38),2
+20:05,RE 73741,Magdeburg Hbf (ab 18:12),1
+20:07,RE 3737,Senftenberg (ab 18:14),2
+20:15,RE 73788,Frankfurt(Oder) (ab 19:08),2
+20:42,RE 73783,Brandenburg Hbf (ab 19:44),1
+20:51,RE 3734,Dessau Hbf (ab 19:05),1
+20:53,RE 73748,Frankfurt(Oder) (ab 19:42),2
+20:56,RB 80439,Thale Hbf (ab 17:17),1
+21:05,RE 73743,Magdeburg Hbf (ab 19:12),1
+21:07,RE 3739,Senftenberg (ab 19:14),2
+21:42,RE 73785,Brandenburg Hbf (ab 20:44),1
+21:47,RE 73790,Frankfurt(Oder) (ab 20:32),2
+21:51,RE 3736,Dessau Hbf (ab 20:05),1
+22:05,RE 73745,Magdeburg Hbf (ab 20:12),1
+22:42,RE 73787,Brandenburg Hbf (ab 21:44),1
+22:47,RE 73792,Frankfurt(Oder) (ab 21:32),2
+22:51,RE 3738,Dessau Hbf (ab 21:05),1
+23:00,RB 73824,Fürstenwalde(Spree) (ab 22:15),2
+23:05 (+23),RE 73747,Magdeburg Hbf (ab 21:07),1
+23:07 (+1),RE 3743,Berlin Ostbahnhof (ab 23:04),2
