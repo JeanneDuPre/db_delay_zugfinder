@@ -1,0 +1,135 @@
+Ankunft,Zugnr.,von (Abfahrt),Gleis
+00:07 (+11),ICE 901,Hamburg-Altona (ab 21:26),2
+00:30 (+28),ICE 947,Köln Hbf (ab 19:27),1
+00:55,RE 3141,Rudersberg-Oberndorf (ab 10:19),4
+01:23 (+4),ICE 1707,Hamburg-Altona (ab 22:34),2
+01:36,RB 21969,Eisenach Hbf (ab 12:13),2
+01:49 (+39),ICE 274,Basel SBB (ab 18:16),2
+04:08 (+15),ICE 646,Berlin Ostbahnhof (ab 04:09),4
+04:33,ICE 277,Berlin Ostbahnhof (ab 04:15),3
+04:40,RE 3101,Berlin Ostkreuz (ab 04:16),4
+04:49,FEX,Berlin Potsdamer Platz (ab 09:56),
+05:08,RE 94716,Erkner (ab 04:24),
+05:18,RE 2,Hof (Saale)Hbf (ab 20:40),
+05:18,RE 3102,Hennigsdorf(b Berlin) (ab 04:41),1
+05:20,RE 3707,Lübbenau(Spreewald) (ab 03:53),3
+05:32,ICE 946,Berlin Ostbahnhof (ab 05:08),3
+05:38 (+2),RE 3704,Dessau Hbf (ab 04:05),2
+05:42,RE 3103,Cottbus Hbf (ab 04:00),3
+06:07,RE 94718,Eisenhüttenstadt (ab 04:21),
+06:18 (+4),RE 3104,Hennigsdorf(b Berlin) (ab 05:35),1
+06:20,RB 93009,Lübben(Spreewald) (ab 05:00),3
+06:22 (+86),EC 430,Nowy Tomysl (ab 03:56),4
+06:34,ICE 279,Berlin Ostbahnhof (ab 06:15),3
+06:38 (+1),RE 3706,Dessau Hbf (ab 05:05),2
+06:42 (+15),ICE 1272,Frankfurt(Main)Hbf (ab 23:35),1
+06:42,RE 3105,Cottbus Hbf (ab 04:57),4
+07:07,RE 94720,Frankfurt(Oder) (ab 05:42),
+07:18 (+3),RE 3106,Hennigsdorf(b Berlin) (ab 06:35),1
+07:20 (+18),RE 3711,Senftenberg (ab 05:11),4
+07:38 (+2),RE 3708,Dessau Hbf (ab 06:05),2
+07:42 (+61),RE 3107,Cottbus Hbf (ab 06:07),4
+07:45,ICE 649,Hannover Hbf (ab 05:30),2
+07:57,RB 18146,Berlin Ostbahnhof (ab 07:39),3
+08:03,RB 18145,Berlin-Wannsee (ab 07:51),1
+08:07,RE 94722,Frankfurt(Oder) (ab 06:42),
+08:11 (+36),ICE 851,Hannover Hbf (ab 05:46),1
+08:18,RE 3108,Hennigsdorf(b Berlin) (ab 07:35),1
+08:20,RE 3713,Senftenberg (ab 06:14),3
+08:38 (+1),RE 3710,Dessau Hbf (ab 07:05),2
+08:42,RE 3109,Cottbus Hbf (ab 07:03),4
+08:57,RB 18148,Berlin Ostbahnhof (ab 08:39),3
+09:18 (+5),RE 3110,Hennigsdorf(b Berlin) (ab 08:35),2
+09:20,RE 3715,Senftenberg (ab 07:14),3
+09:38 (+2),RE 3712,Dessau Hbf (ab 08:05),2
+09:42,RE 3111,Cottbus Hbf (ab 08:04),4
+09:57,RB 18150,Berlin Ostbahnhof (ab 09:39),3
+10:03,RB 18149,Berlin-Wannsee (ab 09:51),1
+10:07,RE 94726,Frankfurt(Oder) (ab 08:38),
+10:18 (+20),RE 3112,Hennigsdorf(b Berlin) (ab 09:35),3
+10:20,RE 3717,Senftenberg (ab 08:14),4
+10:38 (+3),RE 3714,Dessau Hbf (ab 09:05),2
+10:43 (+1),RE 3113,Cottbus Hbf (ab 09:03),4
+11:07 (+1),RE 94728,Frankfurt(Oder) (ab 09:38),
+11:18 (+2),RE 3114,Hennigsdorf(b Berlin) (ab 10:35),2
+11:20,RE 3719,Senftenberg (ab 09:14),3
+11:38 (+1),RE 3716,Dessau Hbf (ab 10:05),2
+11:42,RE 3115,Cottbus Hbf (ab 10:03),4
+12:07,RE 94730,Frankfurt(Oder) (ab 10:38),
+12:18 (+6),RE 3116,Hennigsdorf(b Berlin) (ab 11:35),2
+12:20 (+2),RE 3721,Senftenberg (ab 10:14),3
+12:38,RE 3718,Dessau Hbf (ab 11:05),2
+12:42 (+2),RE 3117,Cottbus Hbf (ab 11:03),4
+12:46,IC 2035,Norddeich (ab 05:39),2
+13:07,RE 94732,Frankfurt(Oder) (ab 11:38),
+13:18 (+14),RE 3118,Hennigsdorf(b Berlin) (ab 12:35),1
+13:20 (+11),RE 3723,Senftenberg (ab 11:14),3
+13:20,RE 7,Wilhelmshorst (ab 01:04),
+13:38,RE 3720,Dessau Hbf (ab 12:05),2
+13:42 (+3),RE 3119,Cottbus Hbf (ab 12:03),4
+14:07,RE 94734,Frankfurt(Oder) (ab 12:38),
+14:18,RE 3120,Hennigsdorf(b Berlin) (ab 13:35),1
+14:20,RE 3725,Senftenberg (ab 12:14),3
+14:38,RE 3722,Dessau Hbf (ab 13:05),2
+14:43,RE 3121,Cottbus Hbf (ab 13:03),4
+14:57,RB 18160,Berlin Ostbahnhof (ab 14:39),3
+15:03,RB 18159,Berlin-Wannsee (ab 14:51),1
+15:07,RE 94736,Frankfurt(Oder) (ab 13:38),
+15:10 (+1),IC 2034,Berlin Ostbahnhof (ab 14:53),3
+15:18 (+2),RE 3122,Hennigsdorf(b Berlin) (ab 14:35),1
+15:20 (+30),RE 3727,Senftenberg (ab 13:14),3
+15:38 (+7),RE 3724,Dessau Hbf (ab 14:05),2
+15:42,RE 3123,Cottbus Hbf (ab 14:03),4
+15:57,RB 18162,Berlin Ostbahnhof (ab 15:39),3
+16:03,RB 18161,Berlin-Wannsee (ab 15:51),1
+16:03,RB 23,Zinnowitz (ab 21:11),
+16:18,RE 3124,Hennigsdorf(b Berlin) (ab 15:35),1
+16:20,RE 3729,Troisvierges (ab 04:35),4
+16:20,RE 7,Schwerte(Ruhr) (ab 22:11),
+16:38,RE 3726,Dessau Hbf (ab 15:05),2
+16:42,RE 3125,Cottbus Hbf (ab 15:03),4
+16:57,RB 18164,Berlin Ostbahnhof (ab 16:39),3
+17:03,RB 18163,Berlin-Wannsee (ab 16:51),1
+17:18,RE 3126,Hennigsdorf(b Berlin) (ab 16:35),1
+17:20,RE 3731,Senftenberg (ab 15:14),3
+17:38,RE 3728,Dessau Hbf (ab 16:05),2
+17:42,RE 3127,Cottbus Hbf (ab 16:03),4
+17:57,RB 18166,Berlin Ostbahnhof (ab 17:39),3
+18:03,RB 18165,Berlin-Wannsee (ab 17:51),1
+18:18,RE 3128,Hennigsdorf(b Berlin) (ab 17:35),1
+18:20,RE 3733,Senftenberg (ab 16:14),3
+18:38,RE 3730,Dessau Hbf (ab 17:05),2
+18:40 (+3),IC 2431,Emden  Außenhafen (ab 12:01),2
+18:42,RE 3129,Cottbus Hbf (ab 17:03),4
+18:56 (+4),ICE 1549,Köln Hbf (ab 13:34),2
+19:18,RE 3130,Hennigsdorf(b Berlin) (ab 18:35),1
+19:20,RE 3735,Senftenberg (ab 17:14),3
+19:20,RE 4300,Rostock Hbf (ab 04:00),3
+19:38,RE 3732,Dessau Hbf (ab 18:05),2
+19:42,RE 3131,Cottbus Hbf (ab 18:03),4
+19:46,RB 73822,Berlin Ostbahnhof (ab 19:30),3
+20:11,ICE 540,Berlin Ostbahnhof (ab 19:55),4
+20:18,RE 3132,Hennigsdorf(b Berlin) (ab 19:35),1
+20:20,RE 3737,Senftenberg (ab 18:14),3
+20:33 (+5),ICE 679,Berlin Ostbahnhof (ab 20:14),3
+20:33,ICE 792,Karlsruhe Hbf (ab 14:40),2
+20:33 Ausfall,ICE 794,Karlsruhe Hbf (ab 14:40),1
+20:38,RE 3734,Dessau Hbf (ab 19:05),2
+20:42,RE 3133,Cottbus Hbf (ab 19:03),3
+20:58 (+3),ICE 1055,Köln Hbf (ab 15:36),2
+21:14 (+11),ICE 643,Köln Hbf (ab 16:26),1
+21:20,RE 3134,Hennigsdorf(b Berlin) (ab 20:36),1
+21:33 (+25),ICE 278,Basel SBB (ab 14:16),1
+21:38,RE 3736,Dessau Hbf (ab 20:05),2
+21:42,RE 3135,Cottbus Hbf (ab 20:03),4
+21:51,ICE 840,Berlin Ostbahnhof (ab 21:32),3
+22:12 (+9),ICE 945,Köln Hbf (ab 17:24),2
+22:26,EC 40,Warszawa Wschodnia (ab 16:49),4
+22:35,ICE 273,Berlin Ostbahnhof (ab 22:18),3
+22:38,RE 3738,Medewitz(Mark) (ab 21:28),
+22:42,RE 3137,Cottbus Hbf (ab 21:03),4
+23:01,RB 94792,Erkner (ab 22:19),
+23:20,RE 3743,Berlin Ostbahnhof (ab 23:04),
+23:24 (+1),ICE 645,Köln Hbf (ab 18:25),1
+23:27 (+31),ICE 276,Brig (ab 13:45),2
+23:29 (+2),ICE 1540,Berlin Ostbahnhof (ab 23:13),3
