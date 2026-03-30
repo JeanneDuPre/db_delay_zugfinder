@@ -1,0 +1,100 @@
+Abfahrt,Zugnr.,nach (Ankunft),Gleis
+00:00,RE 3182,Berlin Hbf (an 00:05),3
+00:29,RE 62038,Berlin Hbf (an 00:36),3
+00:58,RE 3165,Rathenow (an 01:54),4
+03:08,RE 62090,Wustermark (an 03:33),4
+04:41,RE 62040,Elsterwerda (an 06:29),
+04:59,RE 3144,Falkenberg(Elster) (an 06:44),
+05:00,RE 3145,Stendal Hbf (an 06:13),
+05:23,RB 18243,Werder(Havel) (an 06:17),4
+05:28,RE 62000,Elsterwerda (an 07:15),3
+05:33,RE 62003,Elstal (an 05:53),4
+06:00,RE 3164,Jüterbog (an 06:54),3
+06:00,RE 3167,Stendal Hbf (an 07:13),4
+06:07,RB 62051,Berlin Südkreuz (an 06:21),3
+06:28,RE 62002,Elsterwerda (an 08:31),3
+06:30,RE 62005,Elstal (an 06:49),4
+06:59,RE 3146,Falkenberg(Elster) (an 08:44),3
+07:00,RE 3147,Rathenow (an 07:52),4
+07:07,RB 62053,Berlin Südkreuz (an 07:21),3
+07:28,RE 62004,Elsterwerda (an 09:14),3
+07:34,RE 62007,Elstal (an 07:53),4
+08:00,RE 3166,Jüterbog (an 08:54),3
+08:00,RE 3169,Stendal Hbf (an 09:30),4
+08:07,RB 62055,Berlin Südkreuz (an 08:21),3
+08:28,RE 62006,Elsterwerda (an 10:31),3
+08:30,RE 62009,Elstal (an 08:49),4
+08:53,RB 62056,Wustermark (an 09:18),4
+08:59,RE 3148,Falkenberg(Elster) (an 10:44),3
+09:00,RE 3149,Rathenow (an 09:54),4
+09:07,RB 62057,Berlin Südkreuz (an 09:21),3
+09:28,RE 62008,Baruth(Mark) (an 10:36),3
+09:36,RE 62011,Elstal (an 09:55),4
+10:00,RE 3168,Jüterbog (an 10:54),3
+10:00,RE 3171,Stendal Hbf (an 11:30),4
+10:07,RB 62059,Berlin Südkreuz (an 10:22),3
+10:25,RE 62010,Elsterwerda (an 12:31),3
+10:30,RE 62013,Elstal (an 10:49),4
+10:34 (+1),RB 18250,Berlin Gesundbrunnen (an 10:40),3
+10:59,RE 3150,Falkenberg(Elster) (an 12:44),3
+11:00,RE 3151,Rathenow (an 11:54),4
+11:07,RB 62061,Berlin Südkreuz (an 11:21),3
+11:28,RE 62012,Baruth(Mark) (an 12:36),3
+11:36,RE 62015,Elstal (an 11:53),4
+12:00,RE 3170,Berlin Südkreuz (an 12:13),
+12:00,RE 3173,Stendal Hbf (an 13:30),
+12:07,RB 62063,Berlin Südkreuz (an 12:21),
+12:27,RE 62014,Elsterwerda (an 14:31),3
+12:30,RE 62017,Elstal (an 12:49),4
+12:59,RE 3152,Berlin Südkreuz (an 13:15),
+13:07,RB 62065,Berlin Südkreuz (an 13:21),
+13:23,RB 18259,Werder(Havel) (an 14:17),4
+13:28,RE 62016,Baruth(Mark) (an 14:36),3
+13:33 (+34),RB 18256,Berlin Gesundbrunnen (an 13:40),3
+13:36,RE 62019,Elstal (an 14:00),4
+13:53,RB 62066,Wustermark (an 14:18),4
+14:00,RE 3172,Jüterbog (an 14:54),3
+14:00,RE 3175,Stendal Hbf (an 15:30),4
+14:07,RB 62067,Berlin Südkreuz (an 14:21),3
+14:25,RB 62018,Elsterwerda (an 16:28),3
+14:25,RE 62018,Elsterwerda (an 16:28),
+14:30,RE 62021,Elstal (an 14:49),4
+14:59,RE 3154,Berlin Südkreuz (an 15:15),
+15:07,RB 62069,Berlin Südkreuz (an 15:21),
+15:28,RE 62020,Baruth(Mark) (an 16:36),3
+15:36,RE 62023,Elstal (an 15:55),4
+16:00,RE 3174,Berlin Südkreuz (an 16:13),
+16:00,RE 3177,Stendal Hbf (an 17:30),
+16:07,RB 62071,Berlin Südkreuz (an 16:21),
+16:27,RE 62022,Elsterwerda (an 18:31),3
+16:30,RE 62025,Elstal (an 16:49),4
+16:59,RE 3156,Berlin Südkreuz (an 17:15),
+17:07,RB 62073,Berlin Südkreuz (an 17:21),
+17:28,RE 62024,Baruth(Mark) (an 18:35),3
+17:28,RE 62027,Elstal (an 17:47),4
+18:00,RE 26117,Stendal Hbf (an 19:30),
+18:00,RE 3176,Berlin Südkreuz (an 18:13),
+18:00,RE 3179,Stendal Hbf (an 19:30),4
+18:07,RB 62075,Berlin Südkreuz (an 18:21),
+18:28,RE 62026,Elsterwerda (an 20:31),3
+18:30,RE 62029,Elstal (an 18:49),4
+18:34 (+1),RB 18266,Berlin Gesundbrunnen (an 18:40),3
+18:59,RE 3158,Berlin Südkreuz (an 19:15),
+19:07,RB 62077,Berlin Südkreuz (an 19:21),
+19:28,RE 62028,Baruth(Mark) (an 20:35),3
+19:34,RE 62031,Elstal (an 19:53),4
+20:00,RE 3178,Berlin Südkreuz (an 20:13),
+20:00,RE 3181,Stendal Hbf (an 21:13),
+20:07,RB 62079,Berlin Südkreuz (an 20:24),
+20:28,RE 62030,Elsterwerda (an 22:31),3
+20:30,RE 62033,Elstal (an 20:49),4
+20:59,RE 3160,Berlin Südkreuz (an 21:15),
+21:07,RB 62081,Berlin Südkreuz (an 21:21),
+21:28,RE 62032,Baruth(Mark) (an 22:35),3
+21:33,RE 62035,Elstal (an 21:53),4
+22:00,RE 3183,Stendal Hbf (an 23:13),4
+22:07,RB 62083,Berlin Südkreuz (an 22:21),
+23:07,RB 62085,Berlin Südkreuz (an 23:21),
+23:14,RE 3185,Stendal Hbf (an 00:18),4
+23:28,RE 62036,Baruth(Mark) (an 00:35),3
+23:30,RE 62039,Wustermark (an 23:54),4
