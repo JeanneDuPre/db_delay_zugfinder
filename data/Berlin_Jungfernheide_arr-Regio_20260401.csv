@@ -1,0 +1,88 @@
+Ankunft ▼,Ist ▼,Zugnr. ▼,von (Abfahrt) ▼,Gleis ▼
+04:59,04:59,RE 3145,Berlin Hbf (ab 04:54),4
+05:27,05:27,RE 62000,Elstal (ab 05:07),3
+05:29,05:29,RE 62003,Baruth(Mark) (ab 04:19),4
+05:59,05:59,RE 3167,Jüterbog (ab 05:02),4
+06:05,06:05,RB 62051,Wustermark (ab 05:39),3
+06:27,06:27,RE 62002,Elstal (ab 06:07),3
+06:29,06:29,RE 62005,Elsterwerda (ab 04:29),4
+07:05,07:05,RB 62053,Wustermark (ab 06:39),3
+07:27,07:27,RE 62004,Elstal (ab 07:07),3
+07:29,07:29,RE 62007,Elsterwerda (ab 05:29),4
+08:27,08:27,RE 62006,Elstal (ab 08:07),3
+08:29,08:29,RE 62009,Elsterwerda (ab 06:40),4
+08:52,08:52,RB 62056,Rangsdorf (ab 08:21),4
+09:27,09:27,RE 62008,Elstal (ab 09:07),3
+09:31,09:31,RE 62011,Elsterwerda (ab 07:29),4
+09:32 (+2),09:34,RB 18248,Werder(Havel) (ab 08:41),3
+09:59,09:59,RE 3168,Stendal Hbf (ab 08:47),3
+09:59,09:59,RE 3171,Jüterbog (ab 09:02),4
+10:04,10:04,RB 62059,Wustermark (ab 09:39),3
+10:24,10:24,RE 62010,Elstal (ab 10:05),3
+10:29,10:29,RE 62013,Elsterwerda (ab 08:40),4
+10:32 (+1),10:33,RB 18250,Werder(Havel) (ab 09:41),3
+10:59,10:59,RE 3151,Falkenberg(Elster) (ab 09:18),4
+11:05,11:05,RB 62061,Wustermark (ab 10:39),3
+11:22,11:22,RB 18255,Berlin Gesundbrunnen (ab 11:14),4
+11:27,11:27,RE 62012,Elstal (ab 11:07),3
+11:31,11:31,RE 62015,Elsterwerda (ab 09:29),4
+11:32 (+4),11:36,RB 18252,Werder(Havel) (ab 10:41),3
+11:59,11:59,RE 3170,Stendal Hbf (ab 10:32),3
+11:59,11:59,RE 3173,Jüterbog (ab 11:02),4
+12:05,12:05,RB 62063,Wustermark (ab 11:39),3
+12:26,12:26,RE 62014,Elstal (ab 12:05),3
+12:58 (+3),13:01,RE 3152,Rathenow (ab 12:02),3
+12:59,12:59,RE 3153,Falkenberg(Elster) (ab 11:18),4
+13:05,13:05,RB 62065,Wustermark (ab 12:39),3
+13:22,13:22,RB 18259,Berlin Gesundbrunnen (ab 13:14),4
+13:27,13:27,RE 62016,Elstal (ab 13:07),3
+13:31,13:31,RE 62019,Elsterwerda (ab 11:29),4
+13:32 (+4),13:36,RB 18256,Werder(Havel) (ab 12:41),3
+13:59,13:59,RE 3172,Stendal Hbf (ab 12:31),3
+13:59,13:59,RE 3175,Jüterbog (ab 13:02),4
+14:05,14:05,RB 62067,Wustermark (ab 13:39),3
+14:24,14:24,RB 62018,Elstal (ab 14:07),3
+14:32 (+1),14:33,RB 18258,Werder(Havel) (ab 13:41),3
+14:58 (+3),15:01,RE 3154,Rathenow (ab 14:02),3
+14:59,14:59,RE 3155,Falkenberg(Elster) (ab 13:18),4
+15:05,15:05,RB 62069,Wustermark (ab 14:39),3
+15:27,15:27,RE 62020,Elstal (ab 15:07),3
+15:31,15:31,RE 62023,Elsterwerda (ab 13:29),4
+15:32 (+1),15:33,RB 18260,Werder(Havel) (ab 14:41),3
+15:52,15:52,RB 62070,Rangsdorf (ab 15:21),4
+15:59,15:59,RE 3174,Stendal Hbf (ab 14:32),3
+15:59,15:59,RE 3177,Jüterbog (ab 15:02),4
+16:04,16:04,RB 62071,Wustermark (ab 15:39),3
+16:26,16:26,RE 62022,Elstal (ab 16:05),3
+16:29,16:29,RE 62025,Elsterwerda (ab 14:41),4
+16:32 (+1),16:33,RB 18262,Werder(Havel) (ab 15:41),3
+16:52,16:52,RB 62072,Rangsdorf (ab 16:21),4
+16:58 (+1),16:59,RE 3156,Rathenow (ab 16:02),3
+16:59 (+5),17:04,RE 3157,Falkenberg(Elster) (ab 15:18),4
+17:05,17:05,RB 62073,Wustermark (ab 16:39),3
+17:22,17:22,RB 18267,Berlin Gesundbrunnen (ab 17:14),4
+17:27,17:27,RE 62024,Elstal (ab 17:07),3
+17:27,17:27,RE 62027,Elsterwerda (ab 15:29),4
+17:32 (+4),17:36,RB 18264,Werder(Havel) (ab 16:41),3
+17:52,17:52,RB 62074,Rangsdorf (ab 17:20),4
+17:59,17:59,RE 3176,Stendal Hbf (ab 16:30),3
+17:59,17:59,RE 3179,Jüterbog (ab 17:02),4
+18:27,18:27,RE 62026,Elstal (ab 18:05),3
+18:29,18:29,RE 62029,Elsterwerda (ab 16:41),4
+18:32 (+7),18:39,RB 18266,Werder(Havel) (ab 17:41),3
+18:52,18:52,RB 62076,Rangsdorf (ab 18:21),4
+18:58 (+18),19:16,RE 3158,Rathenow (ab 18:02),3
+18:59,18:59,RE 3159,Falkenberg(Elster) (ab 17:18),4
+19:27,19:27,RE 62028,Elstal (ab 19:07),3
+19:30,19:30,RE 62031,Elsterwerda (ab 17:29),4
+19:59 (+1),20:00,RE 3178,Stendal Hbf (ab 18:32),3
+20:27,20:27,RE 62030,Elstal (ab 20:06),3
+20:29 (+2),20:31,RE 62033,Elsterwerda (ab 18:41),4
+20:59 (+1),21:00,RE 3161,Falkenberg(Elster) (ab 19:18),4
+21:27,21:27,RE 62032,Elstal (ab 21:07),3
+21:29,21:29,RE 62035,Elsterwerda (ab 19:29),4
+21:59,21:59,RE 3183,Jüterbog (ab 21:02),4
+22:27,22:27,RE 62034,Elstal (ab 22:06),3
+22:29,22:29,RE 62037,Baruth(Mark) (ab 21:20),4
+23:13,23:13,RE 3185,Jüterbog (ab 22:04),4
+23:29,23:29,RE 62039,Elsterwerda (ab 21:30),4
