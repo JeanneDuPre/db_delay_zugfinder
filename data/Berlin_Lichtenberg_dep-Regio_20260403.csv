@@ -1,0 +1,79 @@
+Abfahrt ▼,Ist ▼,Zugnr. ▼,nach (Ankunft) ▼,Gleis ▼
+00:38,00:38,RB 5189,Kostrzyn (an 01:53),
+04:17,04:17,RB 18301,Wünsdorf-Waldstadt (an 05:17),22
+04:47,04:47,RB 18300,Eberswalde Hbf (an 05:27),15
+04:53,04:53,RB 61101,Oranienburg (an 05:21),
+05:38,05:38,RB 5151,Kostrzyn (an 06:55),
+05:47,05:47,RB 18302,Eberswalde Hbf (an 06:27),16
+05:47,05:47,RB 24,Eberswalde Hbf (an 22:27),
+05:53,05:53,RB 61103,Oranienburg (an 06:21),
+06:17,06:17,RB 18305,Blankenfelde(Teltow-Fläming) (an 06:51),22
+06:38,06:38,RB 5153,Kostrzyn (an 07:45),15
+06:47,06:47,RB 18304,Eberswalde Hbf (an 07:27),15
+06:52 (+9),07:01,IC 2432,Norddeich Mole (an 14:20),
+06:53,06:53,RB 61105,Oranienburg (an 07:21),
+07:17,07:17,RB 18307,Blankenfelde(Teltow-Fläming) (an 07:51),22
+07:38,07:38,RB 5155,Kostrzyn (an 08:55),15
+07:47,07:47,RB 18306,Eberswalde Hbf (an 08:27),
+07:53,07:53,RB 61107,Oranienburg (an 08:21),
+08:17,08:17,RB 18309,Blankenfelde(Teltow-Fläming) (an 08:51),22
+08:38,08:38,RB 5157,Kostrzyn (an 09:52),15
+08:47,08:47,RB 18308,Eberswalde Hbf (an 09:27),16
+08:53,08:53,RB 61109,Templin Stadt (an 10:18),15
+09:17,09:17,RB 18311,Blankenfelde(Teltow-Fläming) (an 09:51),22
+09:38,09:38,RB 5159,Kostrzyn (an 10:55),
+09:41,09:41,RB 18211,Ludwigsfelde (an 10:24),22
+09:47,09:47,RB 18310,Eberswalde Hbf (an 10:27),
+09:58,09:58,RB 61110,Berlin Ostkreuz (an 10:01),20
+10:17,10:17,RB 18313,Blankenfelde(Teltow-Fläming) (an 10:51),22
+10:38,10:38,RB 5161,Kostrzyn (an 11:52),15
+10:41,10:41,RB 18213,Flughafen BER (an 11:05),
+10:47,10:47,RB 18312,Eberswalde Hbf (an 11:27),16
+11:17,11:17,RB 18315,Flughafen BER (an 11:40),
+11:38,11:38,RB 5163,Kostrzyn (an 12:55),15
+11:41,11:41,RB 18215,Flughafen BER (an 12:05),
+11:47,11:47,RB 18314,Eberswalde Hbf (an 12:27),16
+11:53,11:53,RB 61115,Templin Stadt (an 13:18),15
+11:53,11:53,RB 61125,Oranienburg (an 17:21),
+12:17,12:17,RB 18317,Flughafen BER (an 12:40),
+12:38,12:38,RB 5165,Kostrzyn (an 13:53),15
+12:41,12:41,RB 18217,Ludwigsfelde (an 13:24),22
+12:47,12:47,RB 18316,Eberswalde Hbf (an 13:27),15
+12:53,12:53,RB 61127,Oranienburg (an 13:21),
+12:58,12:58,RB 61116,Berlin Ostkreuz (an 13:01),20
+13:17,13:17,RB 18319,Blankenfelde(Teltow-Fläming) (an 13:51),22
+13:38,13:38,RB 5167,Kostrzyn (an 14:55),15
+13:41,13:41,RB 18219,Ludwigsfelde (an 14:24),22
+13:47,13:47,RB 18318,Eberswalde Hbf (an 14:27),16
+13:53,13:53,RB 61119,Oranienburg (an 14:21),
+14:17,14:17,RB 18321,Blankenfelde(Teltow-Fläming) (an 14:51),22
+14:38,14:38,RB 5169,Kostrzyn (an 15:52),15
+14:41,14:41,RB 18221,Ludwigsfelde (an 15:24),22
+14:47,14:47,RB 18320,Eberswalde Hbf (an 15:27),16
+15:17,15:17,RB 18323,Blankenfelde(Teltow-Fläming) (an 15:51),22
+15:38,15:38,RB 5171,Kostrzyn (an 16:55),15
+15:41,15:41,RB 18223,Ludwigsfelde (an 16:24),22
+15:47,15:47,RB 18322,Eberswalde Hbf (an 16:27),16
+15:53,15:53,RB 12,Oranienburg (an 16:21),
+16:17,16:17,RB 18325,Blankenfelde(Teltow-Fläming) (an 16:51),22
+16:20,16:20,EC 247,Warszawa Wschodnia (an 21:19),
+16:38,16:38,RB 5173,Kostrzyn (an 17:52),15
+16:47,16:47,RB 18324,Eberswalde Hbf (an 17:27),16
+17:17,17:17,RB 18327,Blankenfelde(Teltow-Fläming) (an 17:51),22
+17:38,17:38,RB 5175,Kostrzyn (an 18:55),15
+17:39,17:39,RB 61274,Berlin Ostkreuz (an 17:42),17
+17:41,17:41,RB 18227,Ludwigsfelde (an 18:24),22
+17:47,17:47,RB 18326,Eberswalde Hbf (an 18:27),16
+17:58,17:58,RB 61126,Berlin Ostkreuz (an 18:01),20
+18:38,18:38,RB 5177,Kostrzyn (an 19:52),15
+19:38,19:38,RB 5179,Kostrzyn (an 20:55),15
+19:41,19:41,RB 18231,Berlin Südkreuz (an 20:02),
+19:53,19:53,RB 61131,Templin Stadt (an 21:18),15
+20:17,20:17,RB 18333,Blankenfelde(Teltow-Fläming) (an 20:51),22
+20:38,20:38,RB 5181,Kostrzyn (an 21:52),15
+20:41,20:41,RB 18233,Ludwigsfelde (an 21:24),22
+20:58,20:58,RB 61132,Berlin Ostkreuz (an 21:01),20
+21:38,21:38,RB 5183,Kostrzyn (an 22:55),15
+22:38,22:38,RB 5185,Kostrzyn (an 23:53),15
+22:41,22:41,RE 4368,Rostock Hbf (an 01:21),
+22:41,22:41,RE 93368,Rostock Hbf (an 01:21),
