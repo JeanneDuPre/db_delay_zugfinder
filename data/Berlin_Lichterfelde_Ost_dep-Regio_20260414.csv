@@ -1,0 +1,72 @@
+Abfahrt ▼,Ist ▼,Zugnr. ▼,nach (Ankunft) ▼,Gleis ▼
+00:05,00:05,RE 3366,Eberswalde Hbf (an 01:04),
+00:05,00:05,RE 93066,Berlin Gesundbrunnen (an 00:26),
+05:03,05:03,RE 3302,Stralsund Hbf (an 08:45),4
+05:37,05:37,RE 3167,Stendal Hbf (an 07:13),
+05:51,05:51,RE 3341,Lutherstadt Wittenberg Hbf (an 07:06),3
+06:05,06:05,RE 3342,Schwedt(Oder) (an 07:55),4
+06:37,06:37,RE 3147,Berlin-Spandau (an 07:04),
+06:37,06:37,RE 91503,Berlin-Spandau (an 07:04),
+06:54,06:54,RE 3301,Lutherstadt Wittenberg Hbf (an 08:07),3
+07:03,07:03,RE 3304,Stralsund Hbf (an 10:44),4
+07:22,07:22,RE 3146,Herzberg(Elster) (an 08:31),3
+07:37,07:37,RE 3169,Stendal Hbf (an 09:30),4
+07:51,07:51,RE 3343,Luckenwalde (an 08:27),3
+08:05,08:05,RE 3344,Schwedt(Oder) (an 09:55),4
+08:37,08:37,RE 3149,Berlin-Spandau (an 09:04),
+08:37,08:37,RE 91506,Berlin-Spandau (an 09:04),
+08:54,08:54,RE 3303,Lutherstadt Wittenberg Hbf (an 10:07),3
+09:03,09:03,RE 3306,Stralsund Hbf (an 12:44),4
+09:22,09:22,RE 3148,Herzberg(Elster) (an 10:31),3
+09:37 (+6),09:43,RE 3171,Stendal Hbf (an 11:30),4
+09:51,09:51,RE 3345,Luckenwalde (an 10:27),3
+10:05,10:05,RE 3346,Schwedt(Oder) (an 11:55),4
+10:20,10:20,RE 3168,Jüterbog (an 10:54),3
+10:37,10:37,RE 3151,Rathenow (an 11:54),4
+10:37,10:37,RE 91516,Berlin-Spandau (an 11:04),
+10:54,10:54,RE 3305,Lutherstadt Wittenberg Hbf (an 12:07),3
+11:03,11:03,RE 3308,Stralsund Hbf (an 14:44),4
+11:22,11:22,RE 3150,Thyrow (an 11:35),
+11:51,11:51,RE 3347,Luckenwalde (an 12:27),3
+12:06,12:06,RE 3348,Schwedt(Oder) (an 13:55),4
+12:20,12:20,RE 3170,Thyrow (an 12:33),
+12:37,12:37,RE 3153,Rathenow (an 13:54),4
+12:54,12:54,RE 3307,Lutherstadt Wittenberg Hbf (an 14:07),3
+13:03,13:03,RE 3310,Stralsund Hbf (an 16:44),4
+13:22,13:22,RE 3152,Herzberg(Elster) (an 14:31),3
+13:37,13:37,RE 3175,Stendal Hbf (an 15:30),4
+13:51,13:51,RE 3349,Luckenwalde (an 14:27),3
+14:05,14:05,RE 3350,Schwedt(Oder) (an 15:55),4
+14:20,14:20,RE 3172,Jüterbog (an 14:54),3
+14:37,14:37,RE 3155,Rathenow (an 15:54),4
+14:54,14:54,RE 3309,Lutherstadt Wittenberg Hbf (an 16:07),3
+15:03,15:03,RE 3312,Stralsund Hbf (an 18:44),4
+15:22,15:22,RE 3154,Herzberg(Elster) (an 16:32),3
+15:37,15:37,RE 3177,Stendal Hbf (an 17:30),4
+15:51,15:51,RE 3351,Lutherstadt Wittenberg Hbf (an 17:06),3
+16:05,16:05,RE 3352,Schwedt(Oder) (an 17:55),4
+16:19,16:19,RE 3174,Jüterbog (an 16:55),3
+16:37,16:37,RE 3157,Rathenow (an 17:54),4
+16:54,16:54,RE 3311,Lutherstadt Wittenberg Hbf (an 18:07),3
+17:03,17:03,RE 3314,Stralsund Hbf (an 20:44),4
+17:22,17:22,RE 3156,Herzberg(Elster) (an 18:36),3
+17:37,17:37,RE 26117,Stendal Hbf (an 19:30),
+17:37,17:37,RE 3179,Stendal Hbf (an 19:30),4
+17:51,17:51,RE 3353,Lutherstadt Wittenberg Hbf (an 19:06),3
+18:05,18:05,RE 3354,Angermünde (an 19:23),
+18:20,18:20,RE 3176,Jüterbog (an 18:54),3
+18:37,18:37,RE 3159,Rathenow (an 19:49),4
+18:37,18:37,RE 4,Hagen Hbf (an 23:54),
+18:54,18:54,RE 3313,Lutherstadt Wittenberg Hbf (an 20:07),3
+19:03,19:03,RE 3316,Stralsund Hbf (an 22:49),4
+19:37,19:37,RE 3181,Stendal Hbf (an 21:13),4
+19:51,19:51,RE 3355,Luckenwalde (an 20:27),3
+20:05,20:05,RE 3356,Schwedt(Oder) (an 21:55),4
+20:37,20:37,RE 3161,Berlin-Spandau (an 21:04),
+20:37,20:37,RE 92461,Berlin-Spandau (an 21:04),
+21:03,21:03,RE 3318,Pasewalk (an 23:19),4
+21:38,21:38,RE 3183,Stendal Hbf (an 23:13),
+21:48,21:48,RE 3357,Jüterbog (an 22:30),3
+22:05,22:05,RE 3358,Schwedt(Oder) (an 23:56),4
+22:48,22:48,RE 3185,Stendal Hbf (an 00:18),
+22:54,22:54,RE 3317,Lutherstadt Wittenberg Hbf (an 00:08),3
