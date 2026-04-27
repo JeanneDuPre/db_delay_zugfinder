@@ -1,0 +1,89 @@
+Ankunft ▼,Ist ▼,Zugnr. ▼,von (Abfahrt) ▼,Gleis ▼
+05:27,05:27,RE 62000,Elstal (ab 05:07),3
+05:59,05:59,RE 3167,Jüterbog (ab 05:02),4
+06:27,06:27,RE 62002,Elstal (ab 06:07),3
+06:29,06:29,RE 62005,Elsterwerda (ab 04:29),4
+07:27,07:27,RE 62004,Elstal (ab 07:07),3
+07:29,07:29,RE 62007,Elsterwerda (ab 05:29),4
+07:59,07:59,RE 3169,Jüterbog (ab 07:02),4
+08:05,08:05,RB 62055,Wustermark (ab 07:39),3
+08:27,08:27,RE 62006,Elstal (ab 08:07),3
+08:29,08:29,RE 62009,Elsterwerda (ab 06:40),4
+08:52,08:52,RB 62056,Berlin Südkreuz (ab 08:38),4
+08:58,08:58,RE 3148,Rathenow (ab 08:05),3
+08:59,08:59,RE 3149,Herzberg(Elster) (ab 07:29),4
+09:05,09:05,RB 62057,Wustermark (ab 08:39),3
+09:27,09:27,RE 62008,Elstal (ab 09:07),3
+09:31,09:31,RE 62011,Elsterwerda (ab 07:29),4
+09:32,09:32,RB 18248,Werder(Havel) (ab 08:41),3
+09:59,09:59,RE 3168,Stendal Hbf (ab 08:47),3
+09:59,09:59,RE 3171,Jüterbog (ab 09:02),4
+10:04,10:04,RB 62059,Wustermark (ab 09:39),3
+10:24,10:24,RE 62010,Elstal (ab 10:05),3
+10:29,10:29,RE 62013,Elsterwerda (ab 08:40),4
+10:58,10:58,RE 3150,Rathenow (ab 10:02),3
+10:59,10:59,RE 3151,Herzberg(Elster) (ab 09:29),4
+11:05,11:05,RB 62061,Wustermark (ab 10:39),3
+11:27,11:27,RE 62012,Elstal (ab 11:07),3
+11:31,11:31,RE 62015,Elsterwerda (ab 09:29),4
+11:59,11:59,RE 3170,Stendal Hbf (ab 10:32),3
+11:59,11:59,RE 3173,Jüterbog (ab 11:02),4
+12:05,12:05,RB 62063,Wustermark (ab 11:39),3
+12:26,12:26,RE 62014,Elstal (ab 12:05),3
+12:28,12:28,RE 62017,Baruth(Mark) (ab 11:21),4
+12:58,12:58,RE 3152,Rathenow (ab 12:02),3
+12:59,12:59,RE 3153,Herzberg(Elster) (ab 11:29),4
+13:05,13:05,RB 62065,Wustermark (ab 12:39),3
+13:27,13:27,RE 62016,Elstal (ab 13:07),3
+13:31,13:31,RE 62019,Elsterwerda (ab 11:29),4
+13:52,13:52,RB 62066,Berlin Südkreuz (ab 13:38),4
+13:59,13:59,RE 3172,Stendal Hbf (ab 12:31),3
+13:59,13:59,RE 3175,Jüterbog (ab 13:02),4
+14:05,14:05,RB 62067,Wustermark (ab 13:39),3
+14:24,14:24,RB 62018,Elstal (ab 14:07),3
+14:29,14:29,RE 62021,Baruth(Mark) (ab 13:20),4
+14:32,14:32,RB 18258,Werder(Havel) (ab 13:41),3
+14:52,14:52,RB 62068,Berlin Südkreuz (ab 14:38),4
+14:58,14:58,RE 3154,Rathenow (ab 14:02),3
+14:59,14:59,RE 3155,Herzberg(Elster) (ab 13:29),4
+15:05,15:05,RB 62069,Wustermark (ab 14:39),3
+15:22,15:22,RB 18263,Berlin Gesundbrunnen (ab 15:14),4
+15:27,15:27,RE 62020,Elstal (ab 15:07),3
+15:31,15:31,RE 62023,Elsterwerda (ab 13:29),4
+15:32,15:32,RB 18260,Werder(Havel) (ab 14:41),3
+15:52,15:52,RB 62070,Berlin Südkreuz (ab 15:38),4
+15:59,15:59,RE 3174,Stendal Hbf (ab 14:32),3
+15:59,15:59,RE 3177,Jüterbog (ab 15:02),4
+16:04,16:04,RB 62071,Wustermark (ab 15:39),3
+16:26,16:26,RE 62022,Elstal (ab 16:05),3
+16:29,16:29,RE 62025,Elsterwerda (ab 14:41),4
+16:52,16:52,RB 62072,Berlin Südkreuz (ab 16:38),4
+16:58,16:58,RE 3156,Rathenow (ab 16:02),3
+16:59,16:59,RE 3157,Herzberg(Elster) (ab 15:29),4
+17:05,17:05,RB 62073,Wustermark (ab 16:39),3
+17:27,17:27,RE 62024,Elstal (ab 17:07),3
+17:27,17:27,RE 62027,Elsterwerda (ab 15:29),4
+17:59,17:59,RE 3176,Stendal Hbf (ab 16:30),3
+17:59,17:59,RE 3179,Jüterbog (ab 17:02),4
+18:27,18:27,RE 62026,Elstal (ab 18:05),3
+18:29,18:29,RE 62029,Elsterwerda (ab 16:41),4
+18:58,18:58,RE 3158,Rathenow (ab 18:02),3
+18:59,18:59,RE 3159,Herzberg(Elster) (ab 17:31),4
+19:27,19:27,RE 62028,Elstal (ab 19:07),3
+19:30,19:30,RE 62031,Elsterwerda (ab 17:29),4
+19:59,19:59,RE 3178,Stendal Hbf (ab 18:32),3
+19:59,19:59,RE 3181,Jüterbog (ab 19:02),4
+20:27,20:27,RE 62030,Elstal (ab 20:06),3
+20:29,20:29,RE 62033,Elsterwerda (ab 18:41),4
+20:58,20:58,RE 3160,Rathenow (ab 20:04),3
+20:59,20:59,RE 3161,Herzberg(Elster) (ab 19:31),4
+21:22,21:22,RB 18275,Berlin Gesundbrunnen (ab 21:14),4
+21:27,21:27,RE 62032,Elstal (ab 21:07),3
+21:29,21:29,RE 62035,Elsterwerda (ab 19:29),4
+21:32,21:32,RB 18272,Werder(Havel) (ab 20:41),3
+21:59,21:59,RE 3183,Jüterbog (ab 21:02),4
+22:06,22:06,RB 62083,Wustermark (ab 21:39),3
+22:29,22:29,RE 62037,Baruth(Mark) (ab 21:20),4
+23:13,23:13,RE 3185,Jüterbog (ab 22:04),4
+23:27,23:27,RE 62036,Elstal (ab 23:07),3
+23:29,23:29,RE 62039,Elsterwerda (ab 21:30),4
