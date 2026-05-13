@@ -1,0 +1,110 @@
+Abfahrt ▼,Ist ▼,Zugnr. ▼,nach (Ankunft) ▼,Gleis ▼
+00:02,00:02,RE 3138,Cottbus Hbf (an 01:40),
+04:47,04:47,RB 18340,Eberswalde Hbf (an 05:31),
+05:04,05:04,RE 3707,Dessau Hbf (an 06:58),22
+05:47,05:47,RB 18302,Eberswalde Hbf (an 06:21),
+05:57,05:57,RE 3704,Senftenberg (an 07:41),
+06:01,06:01,RE 3709,Dessau Hbf (an 07:53),15
+06:25,06:25,RE 3105,Hennigsdorf(b Berlin) (an 07:23),
+06:47,06:47,RB 18304,Eberswalde Hbf (an 07:27),
+06:53,06:53,RB 61105,Oranienburg (an 07:21),
+07:02,07:02,RE 3711,Dessau Hbf (an 08:53),22
+07:22,07:22,RE 3107,Hennigsdorf(b Berlin) (an 08:23),16
+07:35,07:35,RE 3106,Cottbus Hbf (an 08:56),16
+07:41,07:41,RB 18207,Flughafen BER (an 08:05),
+07:53,07:53,RB 61107,Oranienburg (an 08:21),
+08:26,08:26,RE 3109,Hennigsdorf(b Berlin) (an 09:23),16
+08:41,08:41,RB 18209,Flughafen BER (an 09:05),
+08:53,08:53,RB 61109,Oranienburg (an 09:21),
+08:58,08:58,RE 3710,Senftenberg (an 10:41),15
+09:01,09:01,RE 3715,Dessau Hbf (an 11:00),16
+09:24,09:24,RE 3111,Hennigsdorf(b Berlin) (an 10:23),20
+09:41,09:41,RB 18211,Flughafen BER (an 10:05),
+09:47,09:47,RB 18310,Eberswalde Hbf (an 10:27),
+10:03,10:03,RE 3717,Dessau Hbf (an 11:59),22
+10:24,10:24,RE 3113,Hennigsdorf(b Berlin) (an 11:23),20
+10:41,10:41,RB 18213,Ludwigsfelde (an 11:24),22
+10:45,10:45,RB 61192,Berlin Ostkreuz (an 10:48),17
+11:04,11:04,RE 3719,Dessau Hbf (an 12:53),22
+11:17,11:17,RB 18315,Blankenfelde(Teltow-Fläming) (an 11:51),22
+11:23,11:23,RE 3115,Hennigsdorf(b Berlin) (an 12:23),16
+11:41,11:41,RB 18215,Flughafen BER (an 12:05),
+11:47,11:47,RB 18314,Eberswalde Hbf (an 12:27),
+12:03,12:03,RE 3721,Dessau Hbf (an 13:53),22
+12:17,12:17,RB 18317,Blankenfelde(Teltow-Fläming) (an 12:51),22
+12:41,12:41,RB 18217,Flughafen BER (an 13:05),
+12:47,12:47,RB 18316,Eberswalde Hbf (an 13:27),
+13:00,13:00,RE 3718,Senftenberg (an 14:41),
+13:03,13:03,RE 14073,Dessau Hbf (an 14:53),22
+13:03,13:03,RE 3723,Dessau Hbf (an 14:53),22
+13:17,13:17,RB 18319,Blankenfelde(Teltow-Fläming) (an 13:51),
+13:47,13:47,RB 18318,Eberswalde Hbf (an 14:27),
+14:03,14:03,RE 3720,Senftenberg (an 15:45),
+14:03,14:03,RE 3725,Dessau Hbf (an 15:53),22
+14:17,14:17,RB 18321,Blankenfelde(Teltow-Fläming) (an 14:51),
+14:22,14:22,RE 3121,Hennigsdorf(b Berlin) (an 15:23),20
+14:47,14:47,RB 18320,Eberswalde Hbf (an 15:27),
+14:58,14:58,RE 3722,Senftenberg (an 16:41),
+15:03,15:03,RE 3727,Dessau Hbf (an 16:53),
+15:17,15:17,RB 18323,Blankenfelde(Teltow-Fläming) (an 15:51),
+15:24,15:24,RE 3123,Hennigsdorf(b Berlin) (an 16:23),20
+15:41,15:41,RB 18223,Ludwigsfelde (an 16:24),22
+15:41,15:41,RE 3122,Cottbus Hbf (an 16:56),16
+15:47,15:47,RB 18322,Eberswalde Hbf (an 16:27),16
+16:02,16:02,RE 3724,Senftenberg (an 17:41),
+16:03,16:03,RE 3729,Beroun (an 18:05),
+16:17,16:17,RB 18325,Blankenfelde(Teltow-Fläming) (an 16:51),22
+16:23,16:23,RE 3125,Hennigsdorf(b Berlin) (an 17:23),20
+16:47,16:47,RB 18324,Eberswalde Hbf (an 17:27),16
+17:05,17:05,RE 3731,Dessau Hbf (an 18:53),
+17:17,17:17,RB 18327,Blankenfelde(Teltow-Fläming) (an 17:51),22
+17:26,17:26,RE 11238,Brokstedt (an 23:53),20
+17:26,17:26,RE 3127,Hennigsdorf(b Berlin) (an 18:23),20
+17:41,17:41,RB 18227,Ludwigsfelde (an 18:24),22
+17:45,17:45,RB 61206,Berlin Ostkreuz (an 17:48),17
+17:47,17:47,RB 18326,Eberswalde Hbf (an 18:27),16
+17:53,17:53,RB 61137,Oranienburg (an 23:21),
+17:58,17:58,RB 61126,Berlin Ostkreuz (an 18:01),20
+18:03,18:03,RE 3733,Dessau Hbf (an 19:59),
+18:10,18:10,RB 61445,Berlin Ostkreuz (an 18:13),16
+18:14,18:14,RB 61242,Berlin Ostkreuz (an 18:17),17
+18:17,18:17,RB 18329,Blankenfelde(Teltow-Fläming) (an 18:51),22
+18:24,18:24,RE 3129,Hennigsdorf(b Berlin) (an 19:23),
+18:41,18:41,RB 18229,Ludwigsfelde (an 19:24),22
+18:45,18:45,RB 61208,Berlin Ostkreuz (an 18:48),17
+18:47,18:47,RB 18328,Eberswalde Hbf (an 19:27),16
+18:53,18:53,RB 61139,Oranienburg (an 19:21),
+18:58,18:58,RB 61128,Berlin Ostkreuz (an 19:01),20
+19:03,19:03,RE 3735,Dessau Hbf (an 20:59),
+19:10,19:10,RB 61447,Berlin Ostkreuz (an 19:13),15
+19:17,19:17,RB 18331,Blankenfelde(Teltow-Fläming) (an 19:51),22
+19:21,19:21,RE 3131,Hennigsdorf(b Berlin) (an 20:23),
+19:41,19:41,RB 18231,Ludwigsfelde (an 20:24),22
+19:45,19:45,RB 61210,Berlin Ostkreuz (an 19:48),17
+19:47,19:47,RB 18330,Eberswalde Hbf (an 20:27),15
+19:53,19:53,RB 61141,Oranienburg (an 20:21),
+19:58,19:58,RB 61130,Berlin Ostkreuz (an 20:01),20
+20:03,20:03,RE 3737,Dessau Hbf (an 21:59),
+20:10,20:10,RB 61449,Berlin Ostkreuz (an 20:13),16
+20:14,20:14,RB 61246,Berlin Ostkreuz (an 20:17),17
+20:17,20:17,RB 18333,Blankenfelde(Teltow-Fläming) (an 20:51),22
+20:24,20:24,RE 3133,Hennigsdorf(b Berlin) (an 21:23),
+20:38,20:38,RB 5181,Kostrzyn (an 21:52),15
+20:41,20:41,RB 18233,Ludwigsfelde (an 21:24),22
+20:45,20:45,RB 61212,Berlin Ostkreuz (an 20:48),17
+20:47,20:47,RB 18332,Eberswalde Hbf (an 21:27),16
+20:53,20:53,RB 61143,Oranienburg (an 21:21),
+20:58,20:58,RB 61132,Berlin Ostkreuz (an 21:01),20
+21:04,21:04,RE 3739,Dessau Hbf (an 22:59),
+21:14,21:14,RB 61248,Berlin Ostkreuz (an 21:17),17
+21:17,21:17,RB 18335,Blankenfelde(Teltow-Fläming) (an 21:51),22
+21:23,21:23,RE 3135,Hennigsdorf(b Berlin) (an 22:25),
+21:35,21:35,RE 73790,Magdeburg Hbf (an 23:55),
+21:38,21:38,RB 5183,Kostrzyn (an 22:55),
+21:40,21:40,RE 3134,Cottbus Hbf (an 22:55),
+21:58,21:58,RB 61134,Berlin Ostkreuz (an 22:01),17
+22:01,22:01,RE 3741,Bad Belzig (an 23:19),
+22:01,22:01,RE 7,Rendsburg (an 23:58),
+22:32,22:32,RE 3137,Hennigsdorf(b Berlin) (an 23:26),
+22:38,22:38,RB 5185,Kostrzyn (an 23:53),
+23:22,23:22,RE 11288,Pinneberg (an 23:56),22
