@@ -1,0 +1,223 @@
+Ankunft ▼,Ist ▼,Zugnr. ▼,von (Abfahrt) ▼,Gleis ▼
+00:07,00:07,RE 3138,Hennigsdorf(b Berlin) (ab 23:00),1
+00:10,00:10,RB 93045,Senftenberg (ab 22:26),2
+00:14,00:14,RE 93249,Berlin Friedrichstr (ab 00:02),
+00:31,00:31,RE 3141,Lübbenau(Spreewald) (ab 23:29),2
+00:36,00:36,RE 93296,Fürstenwalde(Spree) (ab 00:00),
+00:46,00:46,RB 21968,Flughafen BER (ab 00:30),2
+01:31,01:31,RE 73752,Frankfurt(Oder) (ab 00:29),2
+01:56,01:56,RB 21800,Flughafen BER (ab 01:29),2
+01:58,01:58,RB 21969,Berlin-Charlottenburg (ab 01:33),1
+02:38,02:38,RB 21802,Flughafen BER (ab 02:22),2
+03:13,03:13,RB 21803,Berlin-Charlottenburg (ab 02:48),1
+03:43,03:43,RB 21805,Berlin-Charlottenburg (ab 03:18),1
+04:44,04:44,RE 73716,Frankfurt(Oder) (ab 03:38),2
+05:00,05:00,RE 3702,Bad Belzig (ab 03:41),1
+05:05,05:05,RE 73758,Frankfurt(Oder) (ab 04:15),2
+05:18,05:18,RE 3103,Cottbus Hbf (ab 03:48),2
+05:20,05:20,RB 18303,Eberswalde Hbf (ab 04:35),13
+05:30,05:30,RE 73753,Kirchmöser (ab 04:16),1
+05:39,05:39,RB 18302,Blankenfelde(Teltow-Fläming) (ab 05:09),14
+05:39,05:39,RE 73718,Eisenhüttenstadt (ab 04:21),2
+05:40,05:40,RE 3102,Hennigsdorf(b Berlin) (ab 04:33),1
+05:56,05:56,RE 3709,Senftenberg (ab 04:11),2
+05:59,05:59,RE 3704,Dessau Hbf (ab 04:05),1
+06:05,06:05,RE 73760,Frankfurt(Oder) (ab 05:08),2
+06:18,06:18,RE 3105,Cottbus Hbf (ab 04:57),2
+06:20,06:20,RB 18305,Eberswalde Hbf (ab 05:35),13
+06:39,06:39,RB 18304,Blankenfelde(Teltow-Fläming) (ab 06:09),14
+06:40,06:40,RE 3104,Hennigsdorf(b Berlin) (ab 05:35),1
+06:42,06:42,RE 73720,Frankfurt(Oder) (ab 05:42),2
+06:51,06:51,RE 73755,Brandenburg Hbf (ab 05:44),1
+06:57,06:57,RE 3711,Senftenberg (ab 05:11),2
+07:00,07:00,RE 3706,Dessau Hbf (ab 05:05),1
+07:02,07:02,RE 73762,Eisenhüttenstadt (ab 05:36),2
+07:10,07:10,IC 2432,Cottbus Hbf (ab 06:01),2
+07:14,07:14,RE 73715,Magdeburg Hbf (ab 05:01),1
+07:18,07:18,RE 3107,Cottbus Hbf (ab 06:07),2
+07:20,07:20,RB 18307,Eberswalde Hbf (ab 06:35),13
+07:39,07:39,RB 18306,Blankenfelde(Teltow-Fläming) (ab 07:09),14
+07:40,07:40,RE 3106,Hennigsdorf(b Berlin) (ab 06:35),1
+07:42,07:42,RE 73722,Eisenhüttenstadt (ab 06:20),2
+07:51,07:51,RE 73757,Brandenburg Hbf (ab 06:44),1
+08:00,08:00,RE 3708,Dessau Hbf (ab 06:05),1
+08:02,08:02,RE 73764,Eisenhüttenstadt (ab 06:20),2
+08:14,08:14,RE 73717,Magdeburg Hbf (ab 06:12),1
+08:18,08:18,RE 3109,Cottbus Hbf (ab 07:03),2
+08:20,08:20,RB 18309,Eberswalde Hbf (ab 07:35),13
+08:39 (+3),08:42,RB 18308,Blankenfelde(Teltow-Fläming) (ab 08:09),14
+08:40 (+1),08:41,RE 3108,Hennigsdorf(b Berlin) (ab 07:35),1
+08:42,08:42,RE 73724,Frankfurt(Oder) (ab 07:41),2
+08:44,08:44,RB 18209,Berlin-Lichtenberg (ab 08:41),13
+08:48,08:48,RB 61188,Werneuchen (ab 08:04),14
+08:51,08:51,RE 73759,Brandenburg Hbf (ab 07:44),1
+08:56 (+1),08:57,RE 3715,Senftenberg (ab 07:14),2
+09:00 (+4),09:04,RE 3710,Dessau Hbf (ab 07:05),1
+09:01 (+6),09:07,RB 61108,Templin Stadt (ab 07:33),7
+09:05,09:05,RE 73766,Frankfurt(Oder) (ab 08:11),2
+09:13,09:13,RB 61427,Müncheberg(Mark) (ab 08:25),
+09:14,09:14,RE 73719,Magdeburg Hbf (ab 07:12),1
+09:16 (+2),09:18,RB 18208,Ludwigsfelde (ab 08:38),14
+09:18,09:18,RE 3111,Cottbus Hbf (ab 08:04),2
+09:20,09:20,RB 18311,Eberswalde Hbf (ab 08:35),13
+09:39,09:39,RB 18310,Blankenfelde(Teltow-Fläming) (ab 09:09),14
+09:40,09:40,RE 3110,Hennigsdorf(b Berlin) (ab 08:35),1
+09:42,09:42,RE 73726,Frankfurt(Oder) (ab 08:38),2
+09:44,09:44,RB 18211,Berlin-Lichtenberg (ab 09:41),13
+09:48,09:48,RB 61190,Werneuchen (ab 09:04),14
+09:51,09:51,RE 73761,Brandenburg Hbf (ab 08:44),1
+09:56,09:56,RE 3717,Senftenberg (ab 08:14),2
+10:00,10:00,RE 3712,Dessau Hbf (ab 08:05),1
+10:01,10:01,RB 61110,Templin Stadt (ab 08:33),7
+10:03,10:03,RE 73768,Frankfurt(Oder) (ab 09:08),2
+10:13,10:13,RB 61429,Müncheberg(Mark) (ab 09:25),
+10:14,10:14,RE 73721,Magdeburg Hbf (ab 08:12),1
+10:16,10:16,RB 18210,Ludwigsfelde (ab 09:38),14
+10:18,10:18,RE 3113,Cottbus Hbf (ab 09:03),2
+10:20,10:20,RB 18313,Eberswalde Hbf (ab 09:35),13
+10:39,10:39,RB 18312,Blankenfelde(Teltow-Fläming) (ab 10:09),14
+10:40,10:40,RE 3112,Hennigsdorf(b Berlin) (ab 09:35),1
+10:42,10:42,RE 73728,Frankfurt(Oder) (ab 09:38),2
+10:51,10:51,RE 73763,Brandenburg Hbf (ab 09:44),1
+11:00,11:00,RE 3714,Dessau Hbf (ab 09:05),1
+11:01,11:01,RB 61112,Templin Stadt (ab 09:33),8
+11:02,11:02,RE 73770,Frankfurt(Oder) (ab 10:07),2
+11:14,11:14,RE 73723,Magdeburg Hbf (ab 09:12),1
+11:18,11:18,RE 3115,Cottbus Hbf (ab 10:03),2
+11:39,11:39,RB 18314,Blankenfelde(Teltow-Fläming) (ab 11:09),14
+11:42,11:42,RE 73730,Frankfurt(Oder) (ab 10:38),2
+11:56,11:56,RE 3721,Senftenberg (ab 10:14),2
+12:01,12:01,RB 61114,Templin Stadt (ab 10:33),7
+12:14,12:14,RE 73725,Magdeburg Hbf (ab 10:12),1
+12:16,12:16,RB 18214,Ludwigsfelde (ab 11:38),14
+12:18,12:18,RE 3117,Cottbus Hbf (ab 11:03),2
+12:20,12:20,RB 18317,Eberswalde Hbf (ab 11:35),13
+12:40,12:40,RE 3116,Hennigsdorf(b Berlin) (ab 11:35),1
+12:42,12:42,RE 73732,Frankfurt(Oder) (ab 11:38),2
+12:51,12:51,RE 73767,Brandenburg Hbf (ab 11:44),1
+12:56,12:56,RE 3723,Senftenberg (ab 11:14),2
+13:00,13:00,RE 3718,Dessau Hbf (ab 11:05),1
+13:01,13:01,RB 61116,Templin Stadt (ab 11:33),8
+13:14,13:14,RE 73727,Magdeburg Hbf (ab 11:12),1
+13:18,13:18,RE 3119,Cottbus Hbf (ab 12:03),2
+13:42,13:42,RE 73734,Frankfurt(Oder) (ab 12:38),2
+14:01,14:01,RB 61118,Templin Stadt (ab 12:33),7
+14:14,14:14,RE 73729,Magdeburg Hbf (ab 12:12),1
+14:18,14:18,RE 3121,Cottbus Hbf (ab 13:03),2
+14:39,14:39,RB 18320,Blankenfelde(Teltow-Fläming) (ab 14:09),14
+14:40,14:40,RE 3120,Hennigsdorf(b Berlin) (ab 13:35),1
+14:42,14:42,RE 73736,Frankfurt(Oder) (ab 13:38),2
+14:56,14:56,RE 3727,Senftenberg (ab 13:14),2
+15:00,15:00,RE 3722,Dessau Hbf (ab 13:05),1
+15:01,15:01,RB 61120,Templin Stadt (ab 13:33),8
+15:02,15:02,RE 73778,Frankfurt(Oder) (ab 14:07),2
+15:14,15:14,RE 73731,Magdeburg Hbf (ab 13:12),1
+15:18,15:18,RE 3123,Cottbus Hbf (ab 14:03),2
+15:20,15:20,RB 18323,Eberswalde Hbf (ab 14:35),13
+15:39,15:39,RB 18322,Blankenfelde(Teltow-Fläming) (ab 15:09),14
+15:40,15:40,RE 3122,Hennigsdorf(b Berlin) (ab 14:35),1
+15:42,15:42,RE 73738,Frankfurt(Oder) (ab 14:38),2
+15:51,15:51,RE 73773,Brandenburg Hbf (ab 14:44),1
+15:56 (+3),15:59,RE 3729,Troisvierges (ab 04:35),2
+16:00 (+10),16:10,RE 3724,Dessau Hbf (ab 14:05),1
+16:01 (+2),16:03,RB 61122,Templin Stadt (ab 14:33),8
+16:02,16:02,RE 73780,Frankfurt(Oder) (ab 15:07),2
+16:13,16:13,RB 61441,Müncheberg(Mark) (ab 15:25),7
+16:14 (+3),16:17,RE 73733,Magdeburg Hbf (ab 14:12),1
+16:16 (+2),16:18,RB 18222,Ludwigsfelde (ab 15:38),14
+16:18 (+1),16:19,RE 3125,Cottbus Hbf (ab 15:03),2
+16:20 (+1),16:21,RB 18325,Eberswalde Hbf (ab 15:35),13
+16:39 (+4),16:43,RB 18324,Blankenfelde(Teltow-Fläming) (ab 16:09),14
+16:40 (+14),16:54,RE 3124,Hennigsdorf(b Berlin) (ab 15:35),1
+16:42,16:42,RE 73740,Frankfurt(Oder) (ab 15:38),2
+16:44,16:44,RB 18225,Berlin-Lichtenberg (ab 16:41),13
+16:48,16:48,RB 61204,Werneuchen (ab 16:04),14
+16:51 (+3),16:54,RE 73775,Brandenburg Hbf (ab 15:44),1
+16:56 (+14),17:10,RE 3731,Senftenberg (ab 15:14),2
+17:00 (+10),17:10,RE 3726,Dessau Hbf (ab 15:05),1
+17:01,17:01,RB 61124,Templin Stadt (ab 15:33),7
+17:02,17:02,RE 73782,Frankfurt(Oder) (ab 16:07),2
+17:13,17:13,RB 61443,Müncheberg(Mark) (ab 16:25),7
+17:14 (+15),17:29,RE 73735,Magdeburg Hbf (ab 15:12),1
+17:16 (+2),17:18,RB 18224,Ludwigsfelde (ab 16:38),14
+17:17,17:17,RB 61240,Werneuchen (ab 16:34),8
+17:18,17:18,RE 3127,Cottbus Hbf (ab 16:03),2
+17:20 (+4),17:24,RB 18327,Eberswalde Hbf (ab 16:35),13
+17:39 (+3),17:42,RB 18326,Blankenfelde(Teltow-Fläming) (ab 17:09),14
+17:40,17:40,RE 3126,Hennigsdorf(b Berlin) (ab 16:35),1
+17:42,17:42,RE 73742,Frankfurt(Oder) (ab 16:38),2
+17:44,17:44,RB 18227,Berlin-Lichtenberg (ab 17:41),13
+17:48,17:48,RB 61206,Werneuchen (ab 17:04),14
+17:51 (+17),18:08,RE 73777,Brandenburg Hbf (ab 16:44),1
+17:56 (+4),18:00,RE 3733,Senftenberg (ab 16:14),2
+18:00 (+14),18:14,RE 3728,Dessau Hbf (ab 16:05),1
+18:01 (+2),18:03,RB 61126,Templin Stadt (ab 16:33),8
+18:02,18:02,RE 73784,Frankfurt(Oder) (ab 17:07),2
+18:13,18:13,RB 61445,Müncheberg(Mark) (ab 17:25),7
+18:14 (+3),18:17,RE 73737,Magdeburg Hbf (ab 16:12),1
+18:16 (+2),18:18,RB 18226,Ludwigsfelde (ab 17:38),14
+18:17,18:17,RB 61242,Werneuchen (ab 17:34),8
+18:18,18:18,RE 3129,Cottbus Hbf (ab 17:03),2
+18:20,18:20,RB 18329,Eberswalde Hbf (ab 17:35),13
+18:39,18:39,RB 18328,Blankenfelde(Teltow-Fläming) (ab 18:09),14
+18:40,18:40,RE 3128,Hennigsdorf(b Berlin) (ab 17:34),1
+18:42,18:42,RE 73744,Frankfurt(Oder) (ab 17:38),2
+18:44,18:44,RB 18229,Berlin-Lichtenberg (ab 18:41),13
+18:46 (+45),19:31,IC 2431,Hannover Hbf (ab 15:36),1
+18:52 (+8),19:00,RE 73779,Brandenburg Hbf (ab 17:45),1
+18:56 (+2),18:58,RE 3735,Senftenberg (ab 17:14),2
+19:00 (+12),19:12,RE 3730,Dessau Hbf (ab 17:05),1
+19:01,19:01,RB 61128,Templin Stadt (ab 17:33),8
+19:02,19:02,RE 73786,Frankfurt(Oder) (ab 18:07),2
+19:13,19:13,RB 61447,Müncheberg(Mark) (ab 18:25),7
+19:14 (+6),19:20,RE 73739,Magdeburg Hbf (ab 17:12),1
+19:16 (+2),19:18,RB 18228,Ludwigsfelde (ab 18:38),14
+19:18 (+5),19:23,RE 3131,Cottbus Hbf (ab 18:03),2
+19:20 (+3),19:23,RB 18331,Eberswalde Hbf (ab 18:35),13
+19:39 (+3),19:42,RB 18330,Blankenfelde(Teltow-Fläming) (ab 19:09),14
+19:40,19:40,RE 3130,Hennigsdorf(b Berlin) (ab 18:34),1
+19:42 (+1),19:43,RE 73746,Frankfurt(Oder) (ab 18:38),2
+19:44,19:44,RB 18231,Berlin-Lichtenberg (ab 19:41),13
+19:48,19:48,RB 61210,Werneuchen (ab 19:04),14
+19:51,19:51,RE 73781,Brandenburg Hbf (ab 18:44),1
+19:56,19:56,RE 3737,Senftenberg (ab 18:14),2
+20:00,20:00,RE 3732,Dessau Hbf (ab 18:05),1
+20:01,20:01,RB 61130,Templin Stadt (ab 18:33),7
+20:02,20:02,RE 73788,Frankfurt(Oder) (ab 19:07),2
+20:14,20:14,RE 73741,Magdeburg Hbf (ab 18:12),1
+20:18,20:18,RE 3133,Cottbus Hbf (ab 19:03),2
+20:20,20:20,RB 18333,Eberswalde Hbf (ab 19:35),13
+20:25,20:25,RE 83734,Fangschleuse Tesla Süd (ab 19:54),2
+20:32,20:32,RE 73823,Berlin Zoologischer Garten (ab 20:08),1
+20:39,20:39,RB 18332,Blankenfelde(Teltow-Fläming) (ab 20:09),14
+20:40,20:40,RE 3132,Hennigsdorf(b Berlin) (ab 19:35),1
+20:42,20:42,RE 73748,Frankfurt(Oder) (ab 19:42),2
+20:52 (+5),20:57,RE 73783,Brandenburg Hbf (ab 19:44),1
+20:56 (+10),21:06,RE 3739,Senftenberg (ab 19:14),2
+21:00 (+10),21:10,RE 3734,Dessau Hbf (ab 19:05),1
+21:01,21:01,RB 61132,Templin Stadt (ab 19:33),8
+21:14 (+13),21:27,RE 73743,Magdeburg Hbf (ab 19:12),1
+21:16 (+33),21:49,RB 18232,Ludwigsfelde (ab 20:38),14
+21:17,21:17,RB 61248,Werneuchen (ab 20:34),8
+21:18 (+10),21:28,RE 3135,Cottbus Hbf (ab 20:03),2
+21:20 (+2),21:22,RB 18335,Eberswalde Hbf (ab 20:35),13
+21:29 (+2),21:31,RE 73825,Berlin-Charlottenburg (ab 21:04),1
+21:36,21:36,RE 73790,Frankfurt(Oder) (ab 20:32),2
+21:39 (+7),21:46,RB 92974,Blankenfelde(Teltow-Fläming) (ab 21:09),
+21:43,21:43,RB 61214,Werneuchen (ab 21:04),7
+21:44,21:44,RB 18235,Berlin-Lichtenberg (ab 21:41),13
+21:51 (+1),21:52,RE 73785,Brandenburg Hbf (ab 20:44),1
+21:59 (+3),22:02,RE 3741,Senftenberg (ab 20:14),2
+22:00 (+16),22:16,RE 3736,Dessau Hbf (ab 20:05),1
+22:01 (+2),22:03,RB 61134,Templin Stadt (ab 20:33),7
+22:03,22:03,EC 40,Warszawa Wschodnia (ab 16:49),2
+22:14,22:14,RE 73745,Magdeburg Hbf (ab 20:12),1
+22:16 (+2),22:18,RB 18234,Ludwigsfelde (ab 21:38),14
+22:18,22:18,RE 3137,Rudersberg-Oberndorf (ab 09:19),2
+22:20,22:20,RB 18337,Eberswalde Hbf (ab 21:35),13
+22:39,22:39,RB 18336,Blankenfelde(Teltow-Fläming) (ab 22:09),14
+22:50,22:50,RB 73824,Fürstenwalde(Spree) (ab 22:15),2
+23:01,23:01,RB 61136,Templin Stadt (ab 21:33),8
+23:14,23:14,RE 73747,Magdeburg Hbf (ab 21:07),1
+23:26,23:26,RB 21958,Flughafen BER (ab 23:10),2
+23:58,23:58,RB 21962,Flughafen BER (ab 23:42),2
