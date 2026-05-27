@@ -1,0 +1,82 @@
+Ankunft ▼,Ist ▼,Zugnr. ▼,von (Abfahrt) ▼,Gleis ▼
+04:50,04:50,RE 4350,Berlin-Lichtenberg (ab 04:43),3
+05:01,05:01,RB 61101,Berlin Ostkreuz (ab 04:48),3
+05:47,05:47,RE 3377,Angermünde (ab 04:55),4
+05:49,05:49,RE 3504,Berlin-Lichtenberg (ab 05:42),3
+05:54,05:54,RB 18302,Blankenfelde(Teltow-Fläming) (ab 05:09),3
+05:58,05:58,RE 3503,Neubrandenburg (ab 04:27),4
+06:06,06:06,RB 18305,Eberswalde Hbf (ab 05:35),4
+06:12,06:12,RE 3376,Berlin-Lichtenberg (ab 06:05),3
+06:54,06:54,RB 18304,Blankenfelde(Teltow-Fläming) (ab 06:09),3
+06:58 (+9),07:07,RE 4353,Rostock Hbf (ab 04:43),4
+07:06,07:06,RB 18307,Eberswalde Hbf (ab 06:35),4
+07:50,07:50,RE 3506,Berlin-Lichtenberg (ab 07:43),3
+07:54,07:54,RB 18306,Blankenfelde(Teltow-Fläming) (ab 07:09),3
+07:54,07:54,RE 3335,Angermünde (ab 07:10),4
+07:58,07:58,RE 3505,Stralsund Hbf (ab 05:02),4
+08:06,08:06,RB 18309,Eberswalde Hbf (ab 07:35),4
+08:50,08:50,RE 4354,Berlin-Lichtenberg (ab 08:43),3
+08:54,08:54,RB 18308,Blankenfelde(Teltow-Fläming) (ab 08:09),3
+08:58,08:58,RE 34922,Rostock Hbf (ab 06:36),
+08:58 (+10),09:08,RE 4355,Rostock Hbf (ab 06:36),
+09:06,09:06,RB 18311,Eberswalde Hbf (ab 08:35),4
+09:54,09:54,RB 18310,Blankenfelde(Teltow-Fläming) (ab 09:09),3
+09:57,09:57,RE 3508,Berlin-Lichtenberg (ab 09:50),3
+09:58,09:58,RE 34983,Stralsund Hbf (ab 07:02),
+09:58,09:58,RE 3507,Stralsund Hbf (ab 07:02),4
+10:06,10:06,RB 18313,Eberswalde Hbf (ab 09:35),4
+10:44,10:44,RE 4356,Berlin-Lichtenberg (ab 10:36),3
+10:54,10:54,RB 18312,Blankenfelde(Teltow-Fläming) (ab 10:09),3
+10:58,10:58,RE 4357,Rostock Hbf (ab 08:33),4
+11:01,11:01,RE 56307,Berlin-Lichtenberg (ab 10:54),3
+11:06,11:06,RB 18315,Eberswalde Hbf (ab 10:35),4
+11:50,11:50,RE 3510,Berlin-Lichtenberg (ab 11:42),3
+11:54,11:54,RB 18314,Blankenfelde(Teltow-Fläming) (ab 11:09),3
+11:58,11:58,RE 3509,Stralsund Hbf (ab 09:02),4
+12:06,12:06,RB 18317,Eberswalde Hbf (ab 11:35),4
+12:50,12:50,RE 4358,Berlin-Lichtenberg (ab 12:43),3
+12:54,12:54,RB 18316,Blankenfelde(Teltow-Fläming) (ab 12:09),3
+12:58 (+6),13:04,RE 4359,Rostock Hbf (ab 10:25),4
+13:06,13:06,RB 18319,Eberswalde Hbf (ab 12:35),4
+13:54,13:54,RB 18318,Blankenfelde(Teltow-Fläming) (ab 13:09),3
+13:55,13:55,RE 34988,Berlin-Lichtenberg (ab 13:46),3
+13:55,13:55,RE 3512,Berlin-Lichtenberg (ab 13:46),3
+13:58,13:58,RE 3511,Stralsund Hbf (ab 11:02),4
+14:06,14:06,RB 18321,Eberswalde Hbf (ab 13:35),4
+14:54,14:54,RB 18320,Blankenfelde(Teltow-Fläming) (ab 14:09),3
+15:02,15:02,RE 3183,Rostock Hbf (ab 12:50),4
+15:02,15:02,RE 4361,Rostock Hbf (ab 12:50),4
+15:06,15:06,RB 18323,Eberswalde Hbf (ab 14:35),4
+15:14,15:14,RE 3336,Berlin-Lichtenberg (ab 15:06),3
+15:50,15:50,RE 3514,Berlin-Lichtenberg (ab 15:43),3
+15:54,15:54,RB 18322,Blankenfelde(Teltow-Fläming) (ab 15:09),3
+15:58,15:58,RE 3513,Stralsund Hbf (ab 13:02),4
+16:06,16:06,RB 18325,Eberswalde Hbf (ab 15:35),4
+16:12,16:12,RE 3330,Berlin-Lichtenberg (ab 16:04),3
+16:48,16:48,RB 92888,Schwerin Hbf (ab 14:14),
+16:54,16:54,RB 18324,Blankenfelde(Teltow-Fläming) (ab 16:09),3
+16:58,16:58,RB 34940,Rostock Hbf (ab 14:52),
+16:58 (+8),17:06,RE 4363,Rostock Hbf (ab 14:52),
+17:06,17:06,RB 18327,Eberswalde Hbf (ab 16:35),4
+17:11,17:11,RE 3337,Angermünde (ab 16:17),4
+17:11,17:11,RE 34937,Angermünde (ab 16:17),
+17:21,17:21,RE 3338,Berlin-Lichtenberg (ab 17:13),3
+17:50,17:50,RE 3516,Berlin-Lichtenberg (ab 17:43),3
+17:54,17:54,RB 18326,Blankenfelde(Teltow-Fläming) (ab 17:09),3
+17:54,17:54,RE 3333,Angermünde (ab 17:09),4
+17:58,17:58,RE 3515,Stralsund Hbf (ab 15:02),4
+18:06,18:06,RB 18329,Eberswalde Hbf (ab 17:35),4
+18:54,18:54,RB 18328,Blankenfelde(Teltow-Fläming) (ab 18:09),3
+18:58 (+7),19:05,RE 4365,Rostock Hbf (ab 16:52),
+19:06,19:06,RB 18331,Eberswalde Hbf (ab 18:35),4
+19:14,19:14,RE 3339,Angermünde (ab 18:16),4
+19:25,19:25,RE 3378,Berlin-Lichtenberg (ab 19:18),3
+19:50,19:50,RE 3518,Berlin-Lichtenberg (ab 19:43),3
+19:54,19:54,RB 18330,Blankenfelde(Teltow-Fläming) (ab 19:09),3
+19:58,19:58,RE 3517,Stralsund Hbf (ab 17:02),4
+20:06,20:06,RB 18333,Eberswalde Hbf (ab 19:35),4
+20:54,20:54,RB 18332,Blankenfelde(Teltow-Fläming) (ab 20:09),3
+20:58 (+6),21:04,RE 4367,Rostock Hbf (ab 18:52),4
+21:06,21:06,RB 18335,Eberswalde Hbf (ab 20:35),4
+22:04,22:04,RE 3519,Stralsund Hbf (ab 19:02),4
+22:59 (+6),23:05,RE 4369,Rostock Hbf (ab 20:37),

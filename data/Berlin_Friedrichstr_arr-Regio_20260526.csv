@@ -1,0 +1,163 @@
+Ankunft ▼,Ist ▼,Zugnr. ▼,von (Abfahrt) ▼,Gleis ▼
+00:01,00:01,RE 93249,Berlin-Wannsee (ab 23:39),
+00:12 (+5),00:17,RB 21962,Flughafen BER (ab 23:42),4
+00:18,00:18,RE 73826,Frankfurt(Oder) (ab 23:07),4
+00:24,00:24,RB 93045,Senftenberg (ab 22:26),
+00:46 (+5),00:51,RE 3141,Cottbus Hbf (ab 23:03),3
+00:50,00:50,RE 93296,Frankfurt(Oder) (ab 23:32),
+04:13,04:13,RE 73751,Berlin Zoologischer Garten (ab 04:04),1
+04:48,04:48,RE 3702,Bad Belzig (ab 03:41),1
+04:58,04:58,RE 73716,Frankfurt(Oder) (ab 03:38),3
+05:11,05:11,RE 3707,Lübbenau(Spreewald) (ab 03:53),3
+05:47,05:47,RE 3704,Dessau Hbf (ab 04:05),1
+06:11,06:11,RE 3709,Senftenberg (ab 04:11),3
+06:28,06:28,RE 3104,Hennigsdorf(b Berlin) (ab 05:35),1
+06:32,06:32,RE 3105,Cottbus Hbf (ab 04:57),4
+06:48,06:48,RE 3706,Dessau Hbf (ab 05:05),1
+07:11,07:11,RE 3711,Senftenberg (ab 05:11),3
+07:28,07:28,RE 3106,Hennigsdorf(b Berlin) (ab 06:35),1
+07:32,07:32,RE 3107,Cottbus Hbf (ab 06:07),3
+07:48,07:48,RE 3708,Dessau Hbf (ab 06:05),1
+08:11,08:11,RE 3713,Senftenberg (ab 06:14),4
+08:28,08:28,RE 3108,Hennigsdorf(b Berlin) (ab 07:35),1
+08:32,08:32,RE 3109,Cottbus Hbf (ab 07:03),4
+08:36,08:36,RE 73808,Berlin Ostbahnhof (ab 08:30),4
+08:39,08:39,RE 73759,Brandenburg Hbf (ab 07:44),1
+08:46,08:46,RB 18148,Berlin Ostbahnhof (ab 08:39),3
+08:48,08:48,RE 3710,Dessau Hbf (ab 07:05),1
+08:56,08:56,RE 73724,Frankfurt(Oder) (ab 07:41),3
+09:01,09:01,RE 73719,Magdeburg Hbf (ab 07:12),1
+09:11,09:11,RE 3715,Senftenberg (ab 07:14),3
+09:12,09:12,RB 18147,Berlin Zoologischer Garten (ab 09:04),2
+09:17,09:17,RE 73809,Brandenburg Hbf (ab 08:22),1
+09:19,09:19,RE 73766,Frankfurt(Oder) (ab 08:11),3
+09:28,09:28,RE 3110,Hennigsdorf(b Berlin) (ab 08:35),1
+09:32,09:32,RE 3111,Cottbus Hbf (ab 08:04),3
+09:36,09:36,RB 73810,Berlin Ostbahnhof (ab 09:30),4
+09:39,09:39,RE 73761,Brandenburg Hbf (ab 08:44),2
+09:46,09:46,RB 18150,Berlin Ostbahnhof (ab 09:39),3
+09:48,09:48,RE 3712,Dessau Hbf (ab 08:05),1
+09:56,09:56,RE 73726,Frankfurt(Oder) (ab 08:38),3
+10:01,10:01,RE 73721,Magdeburg Hbf (ab 08:12),1
+10:11,10:11,RE 3717,Senftenberg (ab 08:14),4
+10:12,10:12,RB 18149,Berlin Zoologischer Garten (ab 10:04),2
+10:19,10:19,RE 73768,Frankfurt(Oder) (ab 09:08),3
+10:28,10:28,RE 3112,Hennigsdorf(b Berlin) (ab 09:35),1
+10:32,10:32,RE 3113,Cottbus Hbf (ab 09:03),4
+10:39,10:39,RE 73763,Brandenburg Hbf (ab 09:44),1
+10:48,10:48,RE 3714,Dessau Hbf (ab 09:05),1
+10:56,10:56,RE 73728,Frankfurt(Oder) (ab 09:38),3
+11:01,11:01,RE 73723,Magdeburg Hbf (ab 09:12),1
+11:11,11:11,RE 3719,Senftenberg (ab 09:14),3
+11:28,11:28,RE 3114,Hennigsdorf(b Berlin) (ab 10:35),1
+11:32,11:32,RE 3115,Cottbus Hbf (ab 10:03),3
+11:39,11:39,RE 73765,Brandenburg Hbf (ab 10:44),1
+11:48,11:48,RE 3716,Dessau Hbf (ab 10:05),1
+11:56,11:56,RE 73730,Frankfurt(Oder) (ab 10:38),3
+11:56,11:56,REX 1685,Frankenmarkt (ab 05:05),3
+12:01,12:01,RE 73725,Magdeburg Hbf (ab 10:12),1
+12:11,12:11,RE 3721,Senftenberg (ab 10:14),3
+12:19,12:19,RE 73772,Frankfurt(Oder) (ab 11:07),3
+12:28,12:28,RE 3116,Hennigsdorf(b Berlin) (ab 11:35),1
+12:32,12:32,RE 3117,Cottbus Hbf (ab 11:03),4
+12:39,12:39,RE 73767,Brandenburg Hbf (ab 11:44),1
+12:48,12:48,RE 3718,Dessau Hbf (ab 11:05),1
+12:56,12:56,RE 73732,Frankfurt(Oder) (ab 11:38),3
+13:01,13:01,RE 73727,Magdeburg Hbf (ab 11:12),1
+13:11,13:11,RE 3723,Senftenberg (ab 11:14),3
+13:19,13:19,RE 73774,Frankfurt(Oder) (ab 12:07),3
+13:28,13:28,RE 3118,Hennigsdorf(b Berlin) (ab 12:35),1
+13:32,13:32,RE 3119,Cottbus Hbf (ab 12:03),3
+13:39,13:39,RE 73769,Brandenburg Hbf (ab 12:44),1
+13:48,13:48,RE 3720,Dessau Hbf (ab 12:05),1
+13:56,13:56,RE 73734,Frankfurt(Oder) (ab 12:38),3
+14:01,14:01,RE 73729,Magdeburg Hbf (ab 12:12),1
+14:11,14:11,RE 3725,Senftenberg (ab 12:14),3
+14:19,14:19,RE 73776,Frankfurt(Oder) (ab 13:07),3
+14:28,14:28,RE 3120,Hennigsdorf(b Berlin) (ab 13:35),1
+14:32,14:32,RE 3121,Cottbus Hbf (ab 13:03),4
+14:36,14:36,RE 73812,Berlin Ostkreuz (ab 14:26),4
+14:39,14:39,RE 73771,Brandenburg Hbf (ab 13:44),1
+14:46,14:46,RB 18160,Berlin Ostbahnhof (ab 14:39),3
+14:48,14:48,RE 3722,Dessau Hbf (ab 13:05),1
+14:56,14:56,RE 73736,Frankfurt(Oder) (ab 13:38),3
+15:01,15:01,RE 73731,Magdeburg Hbf (ab 13:12),1
+15:11,15:11,RE 3727,Senftenberg (ab 13:14),3
+15:12,15:12,RB 18159,Berlin Zoologischer Garten (ab 15:04),2
+15:17,15:17,RB 73813,Brandenburg Hbf (ab 14:22),1
+15:19,15:19,RE 73778,Frankfurt(Oder) (ab 14:07),3
+15:28,15:28,RE 3122,Hennigsdorf(b Berlin) (ab 14:35),1
+15:32,15:32,RE 3123,Cottbus Hbf (ab 14:03),3
+15:36,15:36,RE 73814,Berlin Ostbahnhof (ab 15:30),4
+15:39,15:39,RE 73773,Brandenburg Hbf (ab 14:44),1
+15:46,15:46,RB 18162,Berlin Ostbahnhof (ab 15:39),3
+15:48,15:48,RE 3724,Dessau Hbf (ab 14:05),1
+15:56,15:56,RE 73738,Frankfurt(Oder) (ab 14:38),3
+16:01,16:01,RE 73733,Magdeburg Hbf (ab 14:12),1
+16:11,16:11,RE 3729,Senftenberg (ab 14:14),3
+16:12,16:12,RB 18161,Berlin Zoologischer Garten (ab 16:04),2
+16:17,16:17,RE 73815,Brandenburg Hbf (ab 15:22),1
+16:19,16:19,RE 73780,Frankfurt(Oder) (ab 15:07),3
+16:28,16:28,RE 3124,Hennigsdorf(b Berlin) (ab 15:35),1
+16:32,16:32,RE 3125,Cottbus Hbf (ab 15:03),4
+16:36,16:36,RE 73816,Berlin Ostbahnhof (ab 16:30),4
+16:39,16:39,RE 73775,Brandenburg Hbf (ab 15:44),1
+16:46,16:46,RB 18164,Berlin Ostbahnhof (ab 16:39),3
+16:48,16:48,RE 3726,Dessau Hbf (ab 15:05),1
+16:56,16:56,RE 73740,Frankfurt(Oder) (ab 15:38),3
+17:01,17:01,RE 73735,Magdeburg Hbf (ab 15:12),1
+17:11,17:11,RE 3731,Senftenberg (ab 15:14),3
+17:12,17:12,RB 18163,Berlin Zoologischer Garten (ab 17:04),2
+17:17,17:17,RE 73817,Brandenburg Hbf (ab 16:22),1
+17:19,17:19,RE 73782,Frankfurt(Oder) (ab 16:07),3
+17:28,17:28,RE 3126,Hennigsdorf(b Berlin) (ab 16:35),1
+17:32,17:32,RE 3127,Cottbus Hbf (ab 16:03),3
+17:36,17:36,RE 73818,Berlin Ostbahnhof (ab 17:30),4
+17:39,17:39,RE 73777,Brandenburg Hbf (ab 16:44),1
+17:46,17:46,RB 18166,Berlin Ostbahnhof (ab 17:39),3
+17:48,17:48,RE 3728,Dessau Hbf (ab 16:05),1
+17:56,17:56,RE 73742,Frankfurt(Oder) (ab 16:38),3
+18:01,18:01,RE 73737,Magdeburg Hbf (ab 16:12),1
+18:11,18:11,RE 3733,Senftenberg (ab 16:14),3
+18:12,18:12,RB 18165,Berlin Zoologischer Garten (ab 18:04),2
+18:17,18:17,RE 73819,Brandenburg Hbf (ab 17:22),1
+18:19,18:19,RE 73784,Frankfurt(Oder) (ab 17:07),3
+18:28,18:28,RE 3128,Hennigsdorf(b Berlin) (ab 17:34),1
+18:32,18:32,RE 3129,Cottbus Hbf (ab 17:03),4
+18:36,18:36,CJX 1934,Berlin Ostbahnhof (ab 18:30),4
+18:36,18:36,RE 73820,Berlin Ostbahnhof (ab 18:30),4
+18:39 (+3),18:42,RE 73779,Brandenburg Hbf (ab 17:45),1
+18:48 (+48),19:36,RE 3730,Dessau Hbf (ab 17:05),1
+18:56,18:56,RE 73744,Frankfurt(Oder) (ab 17:38),3
+19:01 (+57),19:58,RE 73739,Magdeburg Hbf (ab 17:12),1
+19:11 (+6),19:17,RE 3735,Senftenberg (ab 17:14),3
+19:17,19:17,RE 73821,Brandenburg Hbf (ab 18:21),1
+19:19,19:19,RE 73786,Frankfurt(Oder) (ab 18:07),3
+19:28 (+11),19:39,RE 3130,Hennigsdorf(b Berlin) (ab 18:34),1
+19:32,19:32,RE 3131,Cottbus Hbf (ab 18:03),3
+19:36,19:36,RB 73822,Berlin Ostbahnhof (ab 19:30),3
+19:39,19:39,RE 73781,Brandenburg Hbf (ab 18:44),1
+19:48,19:48,RE 3732,Dessau Hbf (ab 18:05),1
+19:56,19:56,RE 73746,Frankfurt(Oder) (ab 18:38),4
+20:01,20:01,RE 73741,Magdeburg Hbf (ab 18:12),1
+20:11,20:11,RE 3737,Senftenberg (ab 18:14),3
+20:17,20:17,RE 73823,Berlin Zoologischer Garten (ab 20:08),1
+20:19,20:19,RE 73788,Frankfurt(Oder) (ab 19:07),3
+20:28,20:28,RE 3132,Hennigsdorf(b Berlin) (ab 19:35),1
+20:32,20:32,RE 3133,Cottbus Hbf (ab 19:03),4
+20:39,20:39,RE 73783,Brandenburg Hbf (ab 19:44),1
+20:48,20:48,RE 3734,Dessau Hbf (ab 19:05),1
+20:56,20:56,RE 73748,Frankfurt(Oder) (ab 19:42),3
+21:01,21:01,RE 73743,Magdeburg Hbf (ab 19:12),1
+21:11,21:11,RE 3739,Senftenberg (ab 19:14),3
+21:28,21:28,RE 3134,Hennigsdorf(b Berlin) (ab 20:35),1
+21:32,21:32,RE 3135,Cottbus Hbf (ab 20:03),3
+21:39,21:39,RE 73785,Brandenburg Hbf (ab 20:44),1
+21:48,21:48,RE 3736,Dessau Hbf (ab 20:05),1
+21:50,21:50,RE 73790,Frankfurt(Oder) (ab 20:32),3
+22:01,22:01,RE 73745,Magdeburg Hbf (ab 20:12),1
+22:13,22:13,RE 3741,Senftenberg (ab 20:14),3
+22:55,22:55,RE 3136,Hennigsdorf(b Berlin) (ab 22:02),1
+23:01,23:01,RE 73747,Magdeburg Hbf (ab 21:07),1
+23:04,23:04,CJX 1940,Wien Westbahnhof (ab 00:18),4
+23:54,23:54,RE 3138,Hennigsdorf(b Berlin) (ab 23:00),1
