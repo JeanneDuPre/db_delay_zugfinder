@@ -1,0 +1,91 @@
+Ankunft ▼,Ist ▼,Zugnr. ▼,von (Abfahrt) ▼,Gleis ▼
+04:15,04:15,RB 18301,Eberswalde Hbf (ab 03:35),22
+04:45,04:45,RB 18300,Wünsdorf-Waldstadt (ab 03:43),15
+05:01,05:01,RE 3102,Hennigsdorf(b Berlin) (ab 04:33),
+05:25,05:25,RE 3103,Cottbus Hbf (ab 04:00),
+05:45,05:45,RB 18302,Blankenfelde(Teltow-Fläming) (ab 05:09),15
+06:03,06:03,RE 3104,Hennigsdorf(b Berlin) (ab 05:35),
+06:07,06:07,RE 3503,Neubrandenburg (ab 04:27),21
+06:22,06:22,RB 18202,Ludwigsfelde (ab 05:38),22
+06:45,06:45,RB 18304,Wünsdorf-Waldstadt (ab 05:43),15
+07:01,07:01,RE 3331,Angermünde (ab 06:01),15
+07:03,07:03,RE 3106,Hennigsdorf(b Berlin) (ab 06:35),
+07:10 (+4),07:14,RE 4353,Rostock Hbf (ab 04:43),21
+07:15,07:15,RB 18307,Eberswalde Hbf (ab 06:35),22
+07:25,07:25,RE 3107,Cottbus Hbf (ab 06:07),
+07:45,07:45,RB 18306,Blankenfelde(Teltow-Fläming) (ab 07:09),16
+08:03,08:03,RE 3108,Hennigsdorf(b Berlin) (ab 07:35),
+08:08,08:08,RE 3505,Stralsund Hbf (ab 05:02),21
+08:25,08:25,RE 3109,Cottbus Hbf (ab 07:03),
+09:03,09:03,RE 3110,Hennigsdorf(b Berlin) (ab 08:35),
+09:07 (+4),09:11,RE 4355,Rostock Hbf (ab 06:36),21
+09:25,09:25,RE 3111,Cottbus Hbf (ab 08:04),
+09:45,09:45,RB 18310,Blankenfelde(Teltow-Fläming) (ab 09:09),16
+10:03,10:03,RE 3112,Hennigsdorf(b Berlin) (ab 09:35),
+10:09,10:09,RE 3507,Stralsund Hbf (ab 07:02),20
+10:45,10:45,RB 18312,Blankenfelde(Teltow-Fläming) (ab 10:09),16
+11:03,11:03,RE 3114,Hennigsdorf(b Berlin) (ab 10:35),
+11:14 (+2),11:16,RE 4357,Rostock Hbf (ab 08:33),20
+11:25,11:25,RE 3115,Cottbus Hbf (ab 10:03),
+11:35,11:35,RB 61194,Werneuchen (ab 11:04),17
+11:45,11:45,RB 18314,Blankenfelde(Teltow-Fläming) (ab 11:09),16
+12:03,12:03,RE 3116,Hennigsdorf(b Berlin) (ab 11:35),
+12:14,12:14,RE 3509,Stralsund Hbf (ab 09:02),21
+12:15,12:15,RB 18317,Eberswalde Hbf (ab 11:35),22
+12:22,12:22,RB 18214,Ludwigsfelde (ab 11:38),22
+12:25,12:25,RE 3117,Cottbus Hbf (ab 11:03),
+13:03,13:03,RE 3118,Hennigsdorf(b Berlin) (ab 12:35),
+13:14 (+4),13:18,RE 4359,Rostock Hbf (ab 10:25),20
+14:22,14:22,RB 18218,Ludwigsfelde (ab 13:38),22
+14:25,14:25,RE 3121,Cottbus Hbf (ab 13:03),
+14:45,14:45,RB 18320,Blankenfelde(Teltow-Fläming) (ab 14:09),16
+15:03,15:03,RE 3122,Hennigsdorf(b Berlin) (ab 14:35),
+15:10 (+7),15:17,RE 4361,Rostock Hbf (ab 12:50),20
+15:15,15:15,RB 18323,Eberswalde Hbf (ab 14:35),22
+15:25,15:25,RE 3123,Cottbus Hbf (ab 14:03),
+15:45,15:45,RB 18322,Blankenfelde(Teltow-Fläming) (ab 15:09),16
+16:03,16:03,RE 3124,Hennigsdorf(b Berlin) (ab 15:35),
+16:11,16:11,RE 3513,Stralsund Hbf (ab 13:02),20
+16:15,16:15,RB 18325,Eberswalde Hbf (ab 15:35),22
+16:22,16:22,RB 18222,Ludwigsfelde (ab 15:38),22
+16:25,16:25,RE 3125,Cottbus Hbf (ab 15:03),
+16:35,16:35,RB 61204,Werneuchen (ab 16:04),17
+16:45,16:45,RB 18324,Blankenfelde(Teltow-Fläming) (ab 16:09),16
+17:03,17:03,RE 3126,Hennigsdorf(b Berlin) (ab 16:35),
+17:06,17:06,RB 61240,Werneuchen (ab 16:34),17
+17:06,17:06,RB 61443,Müncheberg(Mark) (ab 16:25),16
+17:13 (+2),17:15,RE 4363,Rostock Hbf (ab 14:52),20
+17:15,17:15,RB 18327,Eberswalde Hbf (ab 16:35),22
+17:22,17:22,RB 18224,Ludwigsfelde (ab 16:38),22
+17:25,17:25,RE 3127,Cottbus Hbf (ab 16:03),
+17:45,17:45,RB 18326,Blankenfelde(Teltow-Fläming) (ab 17:09),16
+18:02,18:02,RE 3333,Angermünde (ab 17:09),22
+18:03,18:03,RE 3128,Hennigsdorf(b Berlin) (ab 17:34),
+18:12,18:12,RE 3515,Stralsund Hbf (ab 15:02),20
+18:15,18:15,RB 18329,Eberswalde Hbf (ab 17:35),22
+18:25,18:25,RE 3129,Cottbus Hbf (ab 17:03),
+18:45,18:45,RB 18328,Blankenfelde(Teltow-Fläming) (ab 18:09),16
+19:03,19:03,RE 3130,Hennigsdorf(b Berlin) (ab 18:34),
+19:06,19:06,RB 61447,Müncheberg(Mark) (ab 18:25),15
+19:10 (+5),19:15,RE 4365,Rostock Hbf (ab 16:52),20
+19:15,19:15,RB 18331,Eberswalde Hbf (ab 18:35),22
+19:16,19:16,RE 3339,Angermünde (ab 18:16),21
+19:22,19:22,RB 18228,Ludwigsfelde (ab 18:38),22
+19:25,19:25,RE 3131,Cottbus Hbf (ab 18:03),
+19:35,19:35,RB 61210,Werneuchen (ab 19:04),17
+19:45,19:45,RB 18330,Blankenfelde(Teltow-Fläming) (ab 19:09),15
+20:03,20:03,RE 3132,Hennigsdorf(b Berlin) (ab 19:35),
+20:12,20:12,RE 3517,Stralsund Hbf (ab 17:02),20
+20:15,20:15,RB 18333,Eberswalde Hbf (ab 19:35),22
+20:22,20:22,RB 18230,Ludwigsfelde (ab 19:38),22
+20:25,20:25,RE 3133,Cottbus Hbf (ab 19:03),
+20:45,20:45,RB 18332,Blankenfelde(Teltow-Fläming) (ab 20:09),16
+21:03,21:03,RE 3134,Hennigsdorf(b Berlin) (ab 20:35),
+21:09 (+3),21:12,RE 4367,Rostock Hbf (ab 18:52),21
+21:15,21:15,RB 18335,Eberswalde Hbf (ab 20:35),22
+21:25,21:25,RE 3135,Cottbus Hbf (ab 20:03),
+22:14,22:14,RE 3519,Stralsund Hbf (ab 19:02),15
+22:25,22:25,RE 3137,Cottbus Hbf (ab 21:03),
+22:45,22:45,RB 18336,Blankenfelde(Teltow-Fläming) (ab 22:09),16
+23:10 (+1),23:11,RE 4369,Rostock Hbf (ab 20:32),
+23:28,23:28,RE 3138,Hennigsdorf(b Berlin) (ab 23:00),
