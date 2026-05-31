@@ -1,0 +1,211 @@
+Ankunft ▼,Ist ▼,Zugnr. ▼,von (Abfahrt) ▼,Gleis ▼
+00:05,00:05,RE 3138,Hennigsdorf(b Berlin) (ab 23:00),1
+00:09,00:09,RE 73749,Magdeburg Hbf (ab 22:07),1
+00:15,00:15,RB 93045,Senftenberg (ab 22:26),
+00:15,00:15,RE 7,Sedlitz Ost (ab 05:17),
+00:23 (+9),00:32,ICE 901,Hamburg-Altona (ab 21:26),1
+00:36 Ausfall,--:--,ICE 947,Köln Hbf (ab 19:27),3
+00:37,00:37,RE 3141,Cottbus Hbf (ab 23:03),6
+00:41,00:41,RE 73796,Frankfurt(Oder) (ab 23:32),7
+00:51,00:51,FEX,Ludwigsfelde (ab 23:32),
+01:02,01:02,RE 3140,Berlin-Charlottenburg (ab 00:42),
+01:33,01:33,RE 73791,Magdeburg Hbf (ab 23:21),1
+01:36,01:36,RE 73752,Frankfurt(Oder) (ab 00:29),6
+01:40 (+55),02:35,ICE 1707,Hamburg-Altona (ab 22:34),
+02:16,02:16,RE 3701,Berlin Ostkreuz (ab 02:13),7
+02:30 Ausfall,--:--,ICE 647,Köln Hbf (ab 21:00),2
+02:42 (+2),02:44,RB 21802,Flughafen BER (ab 02:22),7
+02:48,02:48,RE 3143,Magdeburg Hbf (ab 00:42),
+02:48 (+3),02:51,RE 73793,Magdeburg Hbf (ab 00:42),1
+02:55,02:55,RE 73754,Berlin Ostkreuz (ab 02:51),7
+03:08,03:08,RB 21803,Berlin-Charlottenburg (ab 02:48),6
+04:21,04:21,RE 1,Merzig(Saar) (ab 00:36),
+04:40,04:40,RE 73801,Berlin-Charlottenburg (ab 04:20),
+04:49,04:49,RE 73716,Frankfurt(Oder) (ab 03:38),
+04:50,04:50,FEX,Berlin-Charlottenburg (ab 01:33),
+05:26,05:26,RE 73753,Brandenburg Hbf (ab 04:17),1
+05:36,05:36,RE 3102,Berlin-Charlottenburg (ab 05:15),1
+05:46 (+17),06:03,ICE 1541,Köln Hbf (ab 23:24),2
+05:46 (+20),06:06,ICE 2911,Hannover Hbf (ab 02:42),
+06:27,06:27,ES 453,Bruxelles Midi (ab 19:22),2
+06:56,06:56,RE 3706,Dessau Hbf (ab 05:05),2
+07:02,07:02,ICE 2572,Frankfurt(Main)Hbf (ab 00:10),
+07:02,07:02,RE 3711,Senftenberg (ab 05:11),7
+07:09 (+1),07:10,RE 73715,Magdeburg Hbf (ab 05:01),1
+07:09,07:09,RE 73762,Frankfurt(Oder) (ab 06:11),7
+07:15,07:15,IC 2432,Cottbus Hbf (ab 06:01),6
+07:23 Ausfall,--:--,RE 3107,Cottbus Hbf (ab 06:07),7
+07:36 Ausfall,--:--,RE 3106,Hennigsdorf(b Berlin) (ab 06:35),1
+07:46,07:46,RE 73757,Brandenburg Hbf (ab 06:44),1
+07:47 (+5),07:52,RE 73722,Frankfurt(Oder) (ab 06:42),7
+07:56,07:56,RE 3708,Bad Belzig (ab 06:41),
+08:09,08:09,RE 73717,Magdeburg Hbf (ab 06:12),
+08:09,08:09,RE 73764,Frankfurt(Oder) (ab 07:11),7
+08:28 (+15),08:43,ICE 851,Hannover Hbf (ab 06:09),2
+08:37 Ausfall,--:--,RE 3108,Hennigsdorf(b Berlin) (ab 07:35),1
+08:46,08:46,RE 73759,Brandenburg Hbf (ab 07:44),1
+08:47,08:47,RE 73724,Frankfurt(Oder) (ab 07:41),7
+08:56 (+4),09:00,RE 3710,Dessau Hbf (ab 07:05),2
+09:02,09:02,RE 3715,Calau(Nl) (ab 07:43),7
+09:03 (+3),09:06,ICE 841,Hannover Hbf (ab 06:50),2
+09:09 (+2),09:11,RE 73719,Magdeburg Hbf (ab 07:12),1
+09:10,09:10,RE 73766,Frankfurt(Oder) (ab 08:11),7
+09:23 Ausfall,--:--,RE 3111,Cottbus Hbf (ab 08:04),7
+09:28,09:28,ICE 541,Köln Hbf (ab 04:16),2
+09:37,09:37,RE 3110,Hennigsdorf(b Berlin) (ab 08:35),1
+09:42,09:42,ICE 676,Kassel-Wilhelmshöhe (ab 06:45),3
+09:46,09:46,RE 73761,Brandenburg Hbf (ab 08:44),1
+09:56,09:56,RE 3712,Bad Belzig (ab 08:41),2
+10:02 Ausfall,--:--,ICE 741,Münster(Westf)Hbf (ab 06:24),2
+10:06,10:06,EC 248,Warszawa Wschodnia (ab 04:49),7
+10:09,10:09,RE 73721,Magdeburg Hbf (ab 08:12),1
+10:23,10:23,RE 3113,Cottbus Hbf (ab 09:03),7
+10:29 (+2),10:31,ICE 843,Köln Hbf (ab 05:26),2
+10:37,10:37,RE 3112,Hennigsdorf(b Berlin) (ab 09:35),1
+10:47,10:47,RE 73728,Frankfurt(Oder) (ab 09:38),7
+10:49 (+3),10:52,ICE 996,Kassel-Wilhelmshöhe (ab 07:49),3
+10:56,10:56,RE 3714,Dessau Hbf (ab 09:05),2
+11:01 (+32),11:33,EC 54,Kraków Główny (ab 04:07),6
+11:02,11:02,RE 3719,Calau(Nl) (ab 09:43),7
+11:09 (+7),11:16,RE 73723,Magdeburg Hbf (ab 09:12),
+11:09,11:09,RE 73770,Frankfurt(Oder) (ab 10:07),7
+11:23,11:23,RE 3115,Cottbus Hbf (ab 10:03),7
+11:28 (+14),11:42,ICE 543,Köln Hbf (ab 06:25),2
+11:37,11:37,RE 3114,Hennigsdorf(b Berlin) (ab 10:35),
+11:42 (+51),12:33,ICE 378,Karlsruhe Hbf (ab 05:59),3
+11:46 (+3),11:49,RE 73765,Brandenburg Hbf (ab 10:44),1
+11:47,11:47,RE 73730,Frankfurt(Oder) (ab 10:38),7
+11:56 (+8),12:04,RE 3716,Dessau Hbf (ab 10:05),2
+12:02 (+12),12:14,ICE 141,Amsterdam Centraal (ab 06:00),2
+12:02,12:02,RE 3721,Calau(Nl) (ab 10:43),6
+12:06,12:06,EC 246,Warszawa Wschodnia (ab 06:49),7
+12:09 (+2),12:11,RE 73725,Magdeburg Hbf (ab 10:12),1
+12:09,12:09,RE 73772,Frankfurt(Oder) (ab 11:07),7
+12:23,12:23,RE 3117,Cottbus Hbf (ab 11:03),7
+12:28,12:28,ICE 845,Köln Hbf (ab 07:26),2
+12:37,12:37,RE 3116,Hennigsdorf(b Berlin) (ab 11:35),1
+12:39 (+4),12:43,IC 2035,Hannover Hbf (ab 09:36),2
+12:46 (+20),13:06,RE 73767,Brandenburg Hbf (ab 11:44),1
+12:47,12:47,RE 73732,Frankfurt(Oder) (ab 11:38),7
+12:50 (+6),12:56,ICE 994,Stuttgart Hbf (ab 06:36),2
+12:56 (+6),13:02,RE 3718,Dessau Hbf (ab 11:05),3
+13:02,13:02,RE 3723,Calau(Nl) (ab 11:43),7
+13:06 (+7),13:13,EC 230,Gdynia Główna (ab 07:15),6
+13:09 (+8),13:17,RE 73727,Magdeburg Hbf (ab 11:12),1
+13:09,13:09,RE 73774,Frankfurt(Oder) (ab 12:07),7
+13:23 Ausfall,--:--,RE 3119,Cottbus Hbf (ab 12:03),7
+13:28 (+29),13:57,ICE 545,Köln Hbf (ab 08:25),2
+13:37 Ausfall,--:--,RE 3118,Hennigsdorf(b Berlin) (ab 12:35),1
+13:45,13:45,ICE 376,Basel SBB (ab 06:16),3
+13:46,13:46,RE 73769,Brandenburg Hbf (ab 12:44),1
+13:47,13:47,RE 73734,Frankfurt(Oder) (ab 12:38),7
+13:56 (+10),14:06,RE 3720,Dessau Hbf (ab 12:05),2
+14:02 (+6),14:08,ICE 143,Amsterdam Centraal (ab 08:00),2
+14:02,14:02,RE 3725,Calau(Nl) (ab 12:43),7
+14:06,14:06,EC 48,Warszawa Wschodnia (ab 08:49),7
+14:09 (+8),14:17,RE 73729,Magdeburg Hbf (ab 12:12),1
+14:09,14:09,RE 73776,Frankfurt(Oder) (ab 13:07),7
+14:23,14:23,RE 3121,Cottbus Hbf (ab 13:03),7
+14:28 (+31),14:59,ICE 847,Köln Hbf (ab 09:26),2
+14:37,14:37,RE 3120,Hennigsdorf(b Berlin) (ab 13:35),1
+14:46,14:46,RE 28086,Brandenburg Hbf (ab 13:44),
+14:46,14:46,RE 73771,Brandenburg Hbf (ab 13:44),1
+14:47,14:47,RE 73736,Frankfurt(Oder) (ab 13:38),7
+14:49,14:49,ICE 2622,Frankfurt(Main)Hbf (ab 10:11),
+14:56 (+6),15:02,RE 3722,Dessau Hbf (ab 13:05),2
+15:01 (+3),15:04,EC 56,Przemyśl Główny (ab 05:15),6
+15:02,15:02,RE 3727,Calau(Nl) (ab 13:43),7
+15:09 (+3),15:12,RE 73731,Magdeburg Hbf (ab 13:12),1
+15:09 (+2),15:11,RE 73778,Frankfurt(Oder) (ab 14:07),7
+15:23,15:23,RE 3123,Cottbus Hbf (ab 14:03),7
+15:28,15:28,ICE 547,Köln Hbf (ab 10:24),2
+15:37,15:37,RE 3122,Hennigsdorf(b Berlin) (ab 14:35),1
+15:42 (+13),15:55,ICE 374,Interlaken Ost (ab 05:59),3
+15:56,15:56,RE 3724,Dessau Hbf (ab 14:05),2
+16:02 (+39),16:41,ICE 145,Amsterdam Centraal (ab 10:00),2
+16:02,16:02,RE 3729,Calau(Nl) (ab 14:43),7
+16:06 (+10),16:16,EC 46,Warszawa Wschodnia (ab 10:49),7
+16:09,16:09,RE 73733,Magdeburg Hbf (ab 14:12),1
+16:23,16:23,RE 3125,Cottbus Hbf (ab 15:03),7
+16:29 (+61),17:30,ICE 849,Köln Hbf (ab 11:28),2
+16:37,16:37,RE 3124,Hennigsdorf(b Berlin) (ab 15:35),1
+16:46,16:46,RE 17454,Brandenburg Hbf (ab 15:44),
+16:46,16:46,RE 73775,Brandenburg Hbf (ab 15:44),1
+16:47,16:47,RE 73740,Frankfurt(Oder) (ab 15:38),
+16:49,16:49,ICE 798,Karlsruhe Hbf (ab 10:40),3
+16:56,16:56,RE 3726,Dessau Hbf (ab 15:05),2
+17:02,17:02,RE 3731,Calau(Nl) (ab 15:43),7
+17:09,17:09,RE 73735,Magdeburg Hbf (ab 15:12),1
+17:09,17:09,RE 73782,Frankfurt(Oder) (ab 16:07),
+17:23,17:23,RE 3127,Cottbus Hbf (ab 16:03),7
+17:28 (+223),21:11,ICE 549,Köln Hbf (ab 12:26),2
+17:37,17:37,RE 3126,Hennigsdorf(b Berlin) (ab 16:35),1
+17:42 (+3),17:45,ICE 372,Brig (ab 07:45),3
+17:46,17:46,RE 73777,Brandenburg Hbf (ab 16:44),1
+17:47,17:47,RE 73742,Frankfurt(Oder) (ab 16:38),7
+17:56,17:56,RE 3728,Dessau Hbf (ab 16:05),2
+18:02 (+21),18:23,ICE 147,Amsterdam Centraal (ab 12:00),2
+18:02,18:02,RE 3733,Calau(Nl) (ab 16:43),6
+18:06 (+19),18:25,EC 44,Warszawa Wschodnia (ab 12:49),7
+18:09,18:09,RE 73737,Magdeburg Hbf (ab 16:12),1
+18:09,18:09,RE 73784,Frankfurt(Oder) (ab 17:07),
+18:23,18:23,RE 3129,Cottbus Hbf (ab 17:03),7
+18:29 (+151),21:00,ICE 941,Köln Hbf (ab 13:27),2
+18:37,18:37,RE 3128,Hennigsdorf(b Berlin) (ab 17:34),1
+18:40 (+37),19:17,IC 2431,Hannover Hbf (ab 15:36),
+18:46,18:46,RE 26078,Brandenburg Hbf (ab 17:45),
+18:46,18:46,RE 73779,Brandenburg Hbf (ab 17:45),1
+18:47,18:47,RE 73744,Frankfurt(Oder) (ab 17:38),7
+18:49,18:49,ICE 2616,Frankfurt(Main)Hbf (ab 14:14),
+18:56,18:56,RE 3730,Dessau Hbf (ab 17:05),1
+19:01,19:01,EC 58,Przemyśl Główny (ab 09:09),6
+19:02 Ausfall,--:--,ICE 1549,Köln Hbf (ab 13:34),2
+19:02,19:02,RE 3735,Calau(Nl) (ab 17:43),7
+19:09,19:09,RE 73739,Magdeburg Hbf (ab 17:12),
+19:09,19:09,RE 73786,Frankfurt(Oder) (ab 18:07),7
+19:23,19:23,RE 3131,Cottbus Hbf (ab 18:03),7
+19:28 (+171),22:19,ICE 641,Köln Hbf (ab 14:26),2
+19:42 (+4),19:46,ICE 370,Zürich HB (ab 10:59),3
+19:47,19:47,RE 73746,Frankfurt(Oder) (ab 18:38),7
+20:01 (+52),20:53,ICE 149,Amsterdam Centraal (ab 14:00),2
+20:02,20:02,RE 3737,Calau(Nl) (ab 18:43),6
+20:06 (+20),20:26,EC 42,179215 (ab 13:55),7
+20:09,20:09,RE 73741,Magdeburg Hbf (ab 18:12),1
+20:09,20:09,RE 73788,Frankfurt(Oder) (ab 19:07),7
+20:23,20:23,RE 3133,Cottbus Hbf (ab 19:03),6
+20:28 (+138),22:46,ICE 2831,Köln Hbf (ab 15:28),2
+20:28 (+138),22:46,ICE 943,Köln Hbf (ab 15:28),2
+20:36,20:36,RE 3132,Hennigsdorf(b Berlin) (ab 19:35),
+20:46,20:46,RE 17456,Brandenburg Hbf (ab 19:44),
+20:46,20:46,RE 73783,Brandenburg Hbf (ab 19:44),1
+20:47,20:47,RE 73748,Frankfurt(Oder) (ab 19:42),7
+20:49 (+18),21:07,ICE 794,Karlsruhe Hbf (ab 14:40),3
+20:56,20:56,RE 3734,Dessau Hbf (ab 19:05),
+21:00,21:00,HBX,Goslar (ab 17:05),
+21:00,21:00,RB 80429,Goslar (ab 17:05),6
+21:00,21:00,RB 80439,Thale Hbf (ab 17:17),6
+21:02 Ausfall,--:--,ICE 1055,Köln Hbf (ab 15:36),2
+21:02,21:02,RE 3739,Calau(Nl) (ab 19:43),7
+21:09,21:09,RE 73743,Magdeburg Hbf (ab 19:12),1
+21:23,21:23,RE 3135,Cottbus Hbf (ab 20:03),
+21:31 Ausfall,--:--,ICE 643,Köln Hbf (ab 16:26),2
+21:37,21:37,RE 3134,Hennigsdorf(b Berlin) (ab 20:35),1
+21:41 (+23),22:04,ICE 278,Basel SBB (ab 14:16),3
+21:41,21:41,RE 73790,Frankfurt(Oder) (ab 20:32),7
+21:46,21:46,RE 28960,Brandenburg Hbf (ab 20:44),
+21:46,21:46,RE 73785,Brandenburg Hbf (ab 20:44),1
+21:56,21:56,RE 3736,Dessau Hbf (ab 20:05),1
+22:03 (+32),22:35,ICE 241,Amsterdam Centraal (ab 16:00),2
+22:04,22:04,RE 7,Berlin Ostkreuz (ab 00:12),
+22:09,22:09,RE 73745,Magdeburg Hbf (ab 20:12),1
+22:31 (+64),23:35,ICE 945,Köln Hbf (ab 17:24),1
+22:41 (+7),22:48,RE 93292,Frankfurt(Oder) (ab 21:32),
+22:46 (+3),22:49,RE 73787,Brandenburg Hbf (ab 21:44),1
+22:50 (+13),23:03,ICE 2612,Frankfurt(Main)Hbf (ab 18:08),3
+22:55,22:55,RE 73824,Fürstenwalde(Spree) (ab 22:15),6
+22:56,22:56,RE 3738,Dessau Hbf (ab 21:05),7
+23:05 Ausfall,--:--,RE 3136,Hennigsdorf(b Berlin) (ab 22:02),2
+23:09 (+21),23:30,RE 73747,Magdeburg Hbf (ab 21:07),1
+23:22 (+4),23:26,RE 3139,Cottbus Hbf (ab 22:00),6
+23:29 (+118),01:27,ICE 645,Köln Hbf (ab 18:25),2
+23:47,23:47,ICE 276,Brig (ab 13:45),2
