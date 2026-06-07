@@ -1,0 +1,77 @@
+Ankunft ▼,Ist ▼,Zugnr. ▼,von (Abfahrt) ▼,Gleis ▼
+00:42,00:42,RE 3363,Berlin Hbf (ab 00:40),2
+00:55,00:55,RB 21967,Berlin Hbf (ab 00:52),1
+05:11,05:11,RE 3144,Berlin Hbf (ab 05:09),2
+06:10,06:10,RB 18500,Berlin Hbf (ab 06:07),1
+07:11,07:11,RE 3146,Rathenow (ab 06:09),2
+07:48,07:48,RE 3169,Jüterbog (ab 07:02),3
+08:15,08:15,RE 3344,Halle(Saale)Hbf (ab 05:46),3
+11:34,11:34,RE 3347,Schwedt(Oder) (ab 10:04),1
+12:19,12:19,RB 21868,Flughafen BER (ab 12:01),4
+12:25,12:25,RB 21873,Berlin Hbf (ab 12:22),1
+12:35,12:35,RB 21870,Flughafen BER (ab 12:16),4
+12:40,12:40,RB 21875,Berlin Hbf (ab 12:37),1
+12:42,12:42,RE 3307,Stralsund Hbf (ab 09:10),2
+12:47,12:47,RE 62014,Elstal (ab 12:05),1
+13:14,13:14,RE 3310,Luckenwalde (ab 12:35),3
+13:34,13:34,RE 3349,Schwedt(Oder) (ab 12:04),1
+13:45,13:45,RE 62016,Elstal (ab 13:07),1
+14:09,14:09,RE 3172,Stendal Hbf (ab 12:31),2
+14:11,14:11,RE 62021,Baruth(Mark) (ab 13:20),4
+14:15,14:15,RE 3350,Lutherstadt Wittenberg Hbf (ab 12:52),3
+14:41,14:41,RB 62068,Berlin Südkreuz (ab 14:38),4
+14:42,14:42,RE 3309,Stralsund Hbf (ab 11:10),2
+14:46 (+6),14:52,RE 3155,Falkenberg(Elster) (ab 13:18),3
+14:47,14:47,RB 62018,Elstal (ab 14:05),1
+15:04,15:04,RB 21890,Flughafen BER (ab 14:46),4
+15:09,15:09,RE 62023,Elsterwerda (ab 13:29),4
+15:11,15:11,RE 3154,Rathenow (ab 14:02),2
+15:14,15:14,RE 3312,Luckenwalde (ab 14:35),3
+15:16,15:16,RB 62069,Wustermark (ab 14:39),1
+15:19,15:19,RB 21892,Flughafen BER (ab 15:01),4
+15:34,15:34,RE 3351,Schwedt(Oder) (ab 14:04),1
+15:35,15:35,RB 21894,Flughafen BER (ab 15:16),
+15:41,15:41,RB 62070,Berlin Südkreuz (ab 15:38),4
+15:45,15:45,RE 62020,Elstal (ab 15:07),1
+15:47,15:47,RE 3177,Jüterbog (ab 15:02),3
+16:09,16:09,RE 3174,Stendal Hbf (ab 14:32),2
+16:11,16:11,RE 62025,Baruth(Mark) (ab 15:21),4
+16:15,16:15,RE 3352,Lutherstadt Wittenberg Hbf (ab 14:52),3
+16:17,16:17,RB 62071,Wustermark (ab 15:39),1
+16:42,16:42,RE 3311,Stralsund Hbf (ab 13:10),2
+16:46,16:46,RE 3157,Falkenberg(Elster) (ab 15:18),3
+16:47,16:47,RE 62022,Elstal (ab 16:05),1
+17:09,17:09,RE 62027,Elsterwerda (ab 15:29),4
+17:11,17:11,RE 3156,Rathenow (ab 16:02),2
+17:14,17:14,RE 3314,Luckenwalde (ab 16:35),3
+17:34,17:34,RE 3353,Schwedt(Oder) (ab 16:04),1
+17:49,17:49,RE 3179,Jüterbog (ab 17:02),3
+18:09,18:09,RE 3176,Stendal Hbf (ab 16:30),2
+18:11,18:11,RE 62029,Baruth(Mark) (ab 17:21),4
+18:15,18:15,RE 3354,Lutherstadt Wittenberg Hbf (ab 16:52),3
+18:42,18:42,RE 3313,Stralsund Hbf (ab 15:14),2
+18:46,18:46,RE 3159,Falkenberg(Elster) (ab 17:18),3
+18:47,18:47,RE 62026,Elstal (ab 18:05),1
+19:09,19:09,RE 62031,Elsterwerda (ab 17:29),4
+19:11,19:11,RE 3158,Rathenow (ab 18:02),2
+19:34,19:34,RE 3355,Schwedt(Oder) (ab 18:04),1
+19:47,19:47,RE 3181,Jüterbog (ab 19:02),3
+20:09,20:09,RE 3178,Stendal Hbf (ab 18:32),2
+20:15,20:15,RE 3356,Lutherstadt Wittenberg Hbf (ab 18:52),3
+20:25,20:25,RE 21937,Berlin Hbf (ab 20:22),1
+20:40,20:40,RB 21939,Berlin Hbf (ab 20:37),1
+20:46,20:46,RE 3161,Falkenberg(Elster) (ab 19:18),3
+20:55,20:55,RB 18530,Berlin Hbf (ab 20:52),1
+21:02,21:02,RB 21941,Berlin Hbf (ab 21:00),1
+21:11,21:11,RE 3160,Rathenow (ab 20:04),2
+21:16,21:16,RB 62081,Wustermark (ab 20:39),1
+21:25,21:25,RB 21945,Berlin Hbf (ab 21:22),1
+21:34,21:34,RE 3357,Schwedt(Oder) (ab 20:04),1
+21:35,21:35,RB 21942,Flughafen BER (ab 21:16),4
+21:40,21:40,RB 21947,Berlin Hbf (ab 21:37),1
+21:47,21:47,RE 3183,Jüterbog (ab 21:02),3
+22:10,22:10,RB 21951,Berlin Hbf (ab 22:07),1
+22:15,22:15,RE 3358,Lutherstadt Wittenberg Hbf (ab 20:52),3
+22:55,22:55,RB 21957,Berlin Hbf (ab 22:52),1
+23:10,23:10,RB 21959,Eisenach Hbf (ab 07:13),1
+23:40,23:40,RB 21963,Eisenach Hbf (ab 09:13),1

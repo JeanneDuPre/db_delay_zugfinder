@@ -1,0 +1,93 @@
+Ankunft ▼,Ist ▼,Zugnr. ▼,von (Abfahrt) ▼,Gleis ▼
+00:05,00:05,RE 73749,Magdeburg Hbf (ab 22:07),1
+00:14,00:14,RE 73826,Frankfurt(Oder) (ab 23:07),2
+00:20,00:20,RE 3745,Senftenberg (ab 22:26),2
+00:42,00:42,RE 3141,Cottbus Hbf (ab 23:03),2
+05:31,05:31,RE 3102,Berlin-Charlottenburg (ab 05:15),1
+05:35,05:35,RE 3103,Cottbus Hbf (ab 04:00),2
+06:15,06:15,RE 73760,Frankfurt(Oder) (ab 05:08),2
+06:31,06:31,RE 3104,Hennigsdorf(b Berlin) (ab 05:35),1
+06:42,06:42,RE 73755,Brandenburg Hbf (ab 05:44),1
+06:53,06:53,RE 73720,Frankfurt(Oder) (ab 05:42),2
+07:42,07:42,RE 73757,Brandenburg Hbf (ab 06:44),1
+07:53,07:53,RE 73722,Frankfurt(Oder) (ab 06:42),2
+08:05,08:05,RE 73717,Magdeburg Hbf (ab 06:12),1
+08:31,08:31,RE 3108,Hennigsdorf(b Berlin) (ab 07:35),1
+08:42,08:42,RE 73759,Brandenburg Hbf (ab 07:44),1
+09:05,09:05,RE 73719,Magdeburg Hbf (ab 07:12),1
+09:31,09:31,RE 3110,Hennigsdorf(b Berlin) (ab 08:35),1
+09:42,09:42,RE 73761,Brandenburg Hbf (ab 08:44),1
+09:51,09:51,RE 3712,Bad Belzig (ab 08:41),1
+10:05,10:05,RE 73721,Magdeburg Hbf (ab 08:12),1
+10:31,10:31,RE 3112,Hennigsdorf(b Berlin) (ab 09:35),1
+10:35,10:35,RE 3113,Cottbus Hbf (ab 09:03),2
+10:42,10:42,RE 73763,Brandenburg Hbf (ab 09:44),1
+11:05,11:05,RE 73723,Magdeburg Hbf (ab 09:12),1
+11:31,11:31,RE 3114,Hennigsdorf(b Berlin) (ab 10:35),1
+11:42,11:42,RE 73765,Brandenburg Hbf (ab 10:44),1
+11:51,11:51,RE 3716,Dessau Hbf (ab 10:05),1
+12:05,12:05,RE 73725,Magdeburg Hbf (ab 10:12),1
+12:07,12:07,RE 3721,Senftenberg (ab 10:14),2
+12:31,12:31,RE 3116,Hennigsdorf(b Berlin) (ab 11:35),1
+12:35,12:35,RE 3117,Cottbus Hbf (ab 11:03),2
+12:42,12:42,RE 73767,Brandenburg Hbf (ab 11:44),1
+12:53,12:53,RE 73732,Frankfurt(Oder) (ab 11:38),2
+13:05,13:05,RE 73727,Magdeburg Hbf (ab 11:12),1
+13:31,13:31,RE 3118,Hennigsdorf(b Berlin) (ab 12:35),1
+13:35,13:35,RE 3119,Cottbus Hbf (ab 12:01),2
+13:42,13:42,RE 73769,Brandenburg Hbf (ab 12:44),1
+13:51,13:51,RE 3720,Dessau Hbf (ab 12:05),1
+13:53,13:53,RE 73734,Frankfurt(Oder) (ab 12:38),2
+14:05,14:05,RE 73729,Magdeburg Hbf (ab 12:12),1
+14:07,14:07,RE 3725,Senftenberg (ab 12:14),2
+14:15,14:15,RE 73776,Frankfurt(Oder) (ab 13:07),2
+14:28,14:28,RE 3121,Cottbus Hbf (ab 13:01),2
+14:31,14:31,RE 3120,Hennigsdorf(b Berlin) (ab 13:35),1
+14:42,14:42,RE 73771,Brandenburg Hbf (ab 13:44),1
+14:51,14:51,RE 3722,Dessau Hbf (ab 13:05),1
+14:53,14:53,RE 73736,Frankfurt(Oder) (ab 13:38),2
+15:05,15:05,RE 73731,Magdeburg Hbf (ab 13:12),1
+15:07,15:07,RE 3727,Berlin Ostbahnhof (ab 15:04),2
+15:15,15:15,RE 73778,Frankfurt(Oder) (ab 14:07),2
+15:28,15:28,RE 3123,Cottbus Hbf (ab 14:01),2
+15:31,15:31,RE 3122,Hennigsdorf(b Berlin) (ab 14:35),1
+15:42,15:42,RE 73773,Brandenburg Hbf (ab 14:44),1
+15:51,15:51,RE 3724,Dessau Hbf (ab 14:05),1
+15:53,15:53,RE 73738,Frankfurt(Oder) (ab 14:38),2
+16:05,16:05,RE 73733,Magdeburg Hbf (ab 14:12),1
+16:07,16:07,RE 3729,Senftenberg (ab 14:14),2
+16:31,16:31,RE 3124,Hennigsdorf(b Berlin) (ab 15:34),1
+16:35,16:35,RE 3125,Cottbus Hbf (ab 15:01),2
+16:42,16:42,RE 73775,Brandenburg Hbf (ab 15:44),1
+17:05,17:05,RE 73735,Magdeburg Hbf (ab 15:12),1
+17:31,17:31,RE 3126,Hennigsdorf(b Berlin) (ab 16:34),1
+17:35,17:35,RE 3127,Cottbus Hbf (ab 16:01),2
+17:42,17:42,RE 73777,Brandenburg Hbf (ab 16:44),1
+17:51,17:51,RE 3728,Dessau Hbf (ab 16:05),1
+18:07,18:07,RE 3733,Senftenberg (ab 16:14),2
+18:31,18:31,RE 3128,Hennigsdorf(b Berlin) (ab 17:34),1
+19:05,19:05,RE 73739,Magdeburg Hbf (ab 17:12),1
+19:31,19:31,RE 3130,Hennigsdorf(b Berlin) (ab 18:34),1
+19:35,19:35,RE 3131,Cottbus Hbf (ab 18:03),2
+19:42,19:42,RE 73781,Brandenburg Hbf (ab 18:44),1
+19:51,19:51,RE 3732,Dessau Hbf (ab 18:05),1
+19:53,19:53,RE 73746,Frankfurt(Oder) (ab 18:38),2
+20:07,20:07,RE 3737,Senftenberg (ab 18:14),2
+20:15,20:15,RE 73788,Frankfurt(Oder) (ab 19:07),2
+20:28,20:28,RE 3133,Cottbus Hbf (ab 19:01),2
+20:31,20:31,RE 3132,Hennigsdorf(b Berlin) (ab 19:35),1
+20:53,20:53,RE 73748,Frankfurt(Oder) (ab 19:42),2
+21:05,21:05,RE 73743,Magdeburg Hbf (ab 19:12),1
+21:31,21:31,RE 3134,Hennigsdorf(b Berlin) (ab 20:35),1
+21:35,21:35,RE 3135,Cottbus Hbf (ab 20:01),2
+21:42,21:42,RE 73785,Brandenburg Hbf (ab 20:44),1
+21:47,21:47,RE 73790,Frankfurt(Oder) (ab 20:32),2
+21:51,21:51,RE 3736,Dessau Hbf (ab 20:05),1
+22:05,22:05,RE 73745,Magdeburg Hbf (ab 20:12),1
+22:09,22:09,RE 3741,Senftenberg (ab 20:14),2
+22:28,22:28,RE 3137,Cottbus Hbf (ab 21:03),2
+22:42,22:42,RE 73787,Brandenburg Hbf (ab 21:44),1
+22:47,22:47,RE 73792,Fürstenwalde(Spree) (ab 22:00),2
+22:59,22:59,RE 3136,Hennigsdorf(b Berlin) (ab 22:02),1
+23:05,23:05,RE 73747,Magdeburg Hbf (ab 21:07),1
+23:27,23:27,RE 3139,Cottbus Hbf (ab 22:00),2
