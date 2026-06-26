@@ -1,0 +1,115 @@
+Abfahrt ▼,Ist ▼,Zugnr. ▼,nach (Ankunft) ▼,Gleis ▼
+00:06,00:06,RE 73794,Brandenburg Hbf (an 00:54),4
+04:49,04:49,RE 1,Koblenz Hbf (an 21:56),
+04:49,04:49,RE 73756,Brandenburg Hbf (an 05:33),
+05:06,05:06,RE 3604,Wittenberge (an 07:53),
+05:13,05:13,RE 73716,Magdeburg Hbf (an 06:50),4
+05:20,05:20,RE 3707,Potsdam Hbf (an 05:38),
+05:33,05:33,RE 73758,Brandenburg Hbf (an 06:19),
+06:02,06:02,RE 3606,Wittenberge (an 08:54),2
+06:12,06:12,RE 73718,Magdeburg Hbf (an 07:50),4
+06:20,06:20,RE 3709,Potsdam Hbf (an 06:38),
+06:34,06:34,RE 73760,Brandenburg Hbf (an 07:19),
+06:50,06:50,RE 73804,Brandenburg Hbf (an 07:33),
+07:03,07:03,RE 3608,Wittenberge (an 09:54),
+07:10,07:10,RE 73720,Magdeburg Hbf (an 08:50),4
+07:20,07:20,RE 3711,Dessau Hbf (an 08:53),2
+07:39 (+5),07:44,IC 2432,Hannover Hbf (an 10:25),4
+08:02,08:02,RE 3610,Wittenberge (an 10:54),
+08:12,08:12,RE 73722,Magdeburg Hbf (an 09:50),4
+08:20,08:20,RE 3713,Dessau Hbf (an 09:53),2
+09:03,09:03,RE 3612,Wittenberge (an 11:54),2
+09:09,09:09,RB 18608,Nauen (an 09:49),3
+09:12,09:12,RE 73724,Magdeburg Hbf (an 10:50),4
+09:20,09:20,RE 3715,Potsdam Hbf (an 09:38),
+09:22,09:22,RB 18251,Potsdam Hbf (an 10:23),3
+09:34,09:34,RE 73766,Potsdam Hbf (an 09:51),
+09:50,09:50,RB 73810,Potsdam Hbf (an 10:05),
+10:02,10:02,RE 3614,Wittenberge (an 12:54),2
+10:09,10:09,RB 18610,Nauen (an 10:49),3
+10:12,10:12,RE 73726,Magdeburg Hbf (an 11:50),4
+10:16,10:16,RE 3717,Potsdam Hbf (an 10:38),
+10:22,10:22,RB 18253,Potsdam Hbf (an 11:23),
+10:34,10:34,RE 73768,Brandenburg Hbf (an 11:19),
+11:03,11:03,RE 3616,Wittenberge (an 13:54),2
+11:10,11:10,RB 18612,Nauen (an 11:49),1
+11:12,11:12,RE 73728,Magdeburg Hbf (an 12:50),4
+11:15 (+1),11:16,ICE 1546,Aachen Hbf (an 17:09),3
+11:16,11:16,RE 3719,Potsdam Hbf (an 11:38),
+11:22,11:22,RB 18255,Potsdam Hbf (an 12:23),1
+11:34,11:34,RE 73770,Potsdam Hbf (an 11:51),
+12:02,12:02,RE 3618,Wittenberge (an 14:54),2
+12:10,12:10,RB 18614,Nauen (an 12:49),3
+12:12,12:12,RE 73730,Magdeburg Hbf (an 13:50),4
+12:20,12:20,RE 3721,Potsdam Hbf (an 12:38),
+12:22,12:22,RB 18257,Potsdam Hbf (an 13:23),
+12:34,12:34,RE 73772,Potsdam Hbf (an 12:51),
+13:03 (+5),13:08,RE 3620,Wittenberge (an 15:54),
+13:10,13:10,RB 18616,Nauen (an 13:49),1
+13:12,13:12,RE 73732,Magdeburg Hbf (an 14:50),4
+13:15 (+19),13:34,ICE 1050,Aachen Hbf (an 19:10),3
+13:16,13:16,RE 3723,Potsdam Hbf (an 13:38),
+13:22,13:22,RB 18259,Potsdam Hbf (an 14:23),1
+13:34,13:34,RE 73774,Potsdam Hbf (an 13:51),
+14:02 (+1),14:03,RE 3622,Wittenberge (an 16:54),
+14:10,14:10,RB 18618,Nauen (an 14:49),3
+14:12,14:12,RE 73734,Magdeburg Hbf (an 15:50),4
+14:20,14:20,RE 3725,Dessau Hbf (an 15:53),2
+14:22,14:22,RB 18261,Potsdam Hbf (an 15:23),3
+14:34,14:34,RE 73776,Brandenburg Hbf (an 15:19),1
+14:48,14:48,RE 73812,Brandenburg Hbf (an 15:33),1
+15:03,15:03,RE 3624,Wittenberge (an 17:54),2
+15:08,15:08,RB 18620,Nauen (an 15:49),1
+15:11,15:11,RE 73736,Magdeburg Hbf (an 16:50),4
+15:16 (+20),15:36,ICE 1544,Aachen Hbf (an 20:52),
+15:20,15:20,RE 3727,Dessau Hbf (an 16:53),1
+15:22,15:22,RB 18263,Potsdam Hbf (an 16:23),4
+15:34,15:34,RE 73778,Brandenburg Hbf (an 16:23),4
+15:41 (+3),15:44,IC 2034,Hannover Hbf (an 18:23),3
+15:51,15:51,RE 73814,Brandenburg Hbf (an 16:33),4
+16:02,16:02,RE 3626,Wittenberge (an 18:54),2
+16:10,16:10,RB 18622,Nauen (an 16:49),3
+16:10,16:10,RE 73738,Magdeburg Hbf (an 17:50),1
+16:20,16:20,RE 3729,Dessau Hbf (an 17:53),2
+16:22,16:22,RB 18265,Potsdam Hbf (an 17:23),3
+16:34,16:34,RE 73780,Brandenburg Hbf (an 17:19),1
+16:48,16:48,RE 73816,Brandenburg Hbf (an 17:33),1
+17:03,17:03,RE 3628,Wittenberge (an 19:54),2
+17:08,17:08,RB 18624,Nauen (an 17:49),1
+17:10,17:10,RE 73740,Magdeburg Hbf (an 18:50),4
+17:16,17:16,ICE 1542,Köln Hbf (an 22:17),3
+17:20,17:20,RE 3731,Dessau Hbf (an 18:53),1
+17:22,17:22,RB 18267,Potsdam Hbf (an 18:23),4
+17:34,17:34,RE 73782,Brandenburg Hbf (an 18:19),4
+17:50,17:50,RE 73818,Brandenburg Hbf (an 18:34),2
+18:02,18:02,RB 3630,Wittenberge (an 20:54),
+18:02,18:02,RE 3630,Wittenberge (an 20:54),
+18:10,18:10,RB 18626,Nauen (an 18:49),3
+18:12,18:12,RE 73742,Magdeburg Hbf (an 19:50),4
+18:20,18:20,RE 3733,Potsdam Hbf (an 18:38),
+18:22,18:22,RB 18269,Potsdam Hbf (an 19:23),3
+18:34,18:34,RE 73784,Brandenburg Hbf (an 19:19),
+18:51,18:51,RE 73820,Brandenburg Hbf (an 19:33),
+19:03,19:03,RB 3632,Wittenberge (an 21:54),2
+19:03,19:03,RE 3632,Wittenberge (an 21:54),
+19:10,19:10,RB 18628,Nauen (an 19:49),3
+19:12,19:12,RE 73744,Magdeburg Hbf (an 20:50),4
+19:20,19:20,RE 3735,Potsdam Hbf (an 19:38),
+19:22,19:22,RB 18271,Potsdam Hbf (an 20:23),3
+19:28,19:28,ICE 999,Kassel-Wilhelmshöhe (an 22:13),4
+19:34,19:34,RE 26768,Brandenburg Hbf (an 20:19),
+19:34,19:34,RE 73786,Brandenburg Hbf (an 20:19),1
+20:02,20:02,RB 3634,Wittenberge (an 22:54),
+20:02,20:02,RE 3634,Wittenberge (an 22:54),
+20:10,20:10,RB 18630,Nauen (an 20:49),3
+20:12,20:12,RE 73746,Magdeburg Hbf (an 21:50),4
+20:20,20:20,RE 3737,Dessau Hbf (an 21:53),2
+20:22,20:22,RB 18273,Potsdam Hbf (an 21:23),3
+20:34,20:34,RE 73788,Brandenburg Hbf (an 21:21),1
+21:10,21:10,RB 18632,Nauen (an 21:49),
+21:12,21:12,RE 73748,Magdeburg Hbf (an 22:50),
+21:20,21:20,RE 3739,Dessau Hbf (an 22:53),
+21:22,21:22,RB 18275,Wustermark (an 21:46),
+22:06,22:06,RE 73790,Magdeburg Hbf (an 23:55),
+23:06,23:06,RE 73792,Magdeburg Hbf (an 00:48),4
+23:20,23:20,RE 3743,Potsdam Hbf (an 23:36),
