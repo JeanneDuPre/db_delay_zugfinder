@@ -1,0 +1,86 @@
+Ankunft ▼,Ist ▼,Zugnr. ▼,von (Abfahrt) ▼,Gleis ▼
+04:37,04:37,RE 3702,Michendorf (ab 04:11),1
+06:38,06:38,RE 3706,Dessau Hbf (ab 05:05),4
+06:55,06:55,RE 3605,Wittstock(Dosse) (ab 04:52),2
+07:34,07:34,RB 18244,Potsdam Hbf (ab 06:36),2
+07:38,07:38,RE 3708,Dessau Hbf (ab 06:05),3
+07:50,07:50,RB 18605,Nauen (ab 07:11),3
+07:54,07:54,RE 3607,Wittenberge (ab 05:05),2
+08:34,08:34,RB 18246,Potsdam Hbf (ab 07:36),2
+08:38,08:38,RE 3710,Dessau Hbf (ab 07:05),3
+08:55,08:55,RE 3609,Wittenberge (ab 06:05),2
+09:38,09:38,RE 3712,Dessau Hbf (ab 08:05),2
+09:54,09:54,RE 3611,Wittenberge (ab 07:05),2
+10:32 (+45),11:17,ICE 996,Kassel-Wilhelmshöhe (ab 07:49),4
+10:34 (+59),11:33,RB 18250,Potsdam Hbf (ab 09:36),2
+10:37,10:37,RE 3714,Dessau Hbf (ab 09:05),1
+10:47 (+24),11:11,ICE 1543,Köln Hbf (ab 05:43),
+10:48 (+5),10:53,RE 73723,Magdeburg Hbf (ab 09:12),4
+10:50 (+3),10:53,RB 18611,Nauen (ab 10:11),1
+10:55 (+5),11:00,RE 3613,Wittenberge (ab 08:05),
+11:26,11:26,RE 73765,Brandenburg Hbf (ab 10:44),4
+11:34,11:34,RB 18252,Potsdam Hbf (ab 10:36),2
+11:37,11:37,RE 3716,Dessau Hbf (ab 10:05),1
+11:54,11:54,RE 3615,Wittenberge (ab 09:05),2
+12:20 (+5),12:25,IC 2035,Hannover Hbf (ab 09:36),
+12:26 (+2),12:28,RE 73767,Brandenburg Hbf (ab 11:44),3
+12:34 (+3),12:37,RB 18254,Potsdam Hbf (ab 11:36),2
+12:37 (+3),12:40,RE 3718,Dessau Hbf (ab 11:05),1
+12:47 (+55),13:42,ICE 1545,Aachen Hbf (ab 07:07),2
+12:48 (+15),13:03,RE 73727,Magdeburg Hbf (ab 11:12),4
+12:50,12:50,RB 18615,Nauen (ab 12:11),1
+12:55 (+2),12:57,RE 3617,Wittenberge (ab 10:05),
+13:26,13:26,RE 73769,Brandenburg Hbf (ab 12:44),3
+13:34,13:34,RB 18256,Potsdam Hbf (ab 12:36),2
+13:37,13:37,RE 3720,Dessau Hbf (ab 12:05),1
+13:48,13:48,RE 73729,Magdeburg Hbf (ab 12:12),4
+13:50,13:50,RB 18617,Nauen (ab 13:10),3
+13:54,13:54,RE 3619,Wittenberge (ab 11:05),2
+14:38,14:38,RE 3722,Dessau Hbf (ab 13:05),4
+14:47 (+39),15:26,ICE 1547,Aachen Hbf (ab 09:06),
+14:50,14:50,RE 73731,Magdeburg Hbf (ab 13:12),4
+14:52,14:52,RB 18619,Nauen (ab 14:11),1
+14:55,14:55,RE 3621,Wittenberge (ab 12:05),3
+15:34,15:34,RB 18260,Potsdam Hbf (ab 14:36),1
+15:37,15:37,RE 3724,Dessau Hbf (ab 14:05),2
+15:48,15:48,RE 73733,Magdeburg Hbf (ab 14:12),1
+15:50,15:50,RB 18621,Nauen (ab 15:10),3
+15:54,15:54,RE 3623,Wittenberge (ab 13:05),2
+16:25,16:25,RE 73775,Brandenburg Hbf (ab 15:44),1
+16:34,16:34,RB 18262,Potsdam Hbf (ab 15:36),3
+16:43,16:43,RE 3726,Dessau Hbf (ab 15:05),4
+16:47 (+24),17:11,ICE 1053,Köln Hbf (ab 11:38),2
+16:49,16:49,RE 73735,Magdeburg Hbf (ab 15:12),4
+16:51,16:51,RB 18623,Nauen (ab 16:11),1
+16:55,16:55,RE 3625,Wittenberge (ab 14:05),3
+17:07,17:07,RE 73817,Brandenburg Hbf (ab 16:22),3
+17:26,17:26,RE 73777,Brandenburg Hbf (ab 16:44),4
+17:38,17:38,RE 3728,Dessau Hbf (ab 16:05),1
+17:48,17:48,RE 73737,Magdeburg Hbf (ab 16:12),4
+17:50,17:50,RB 18625,Nauen (ab 17:10),3
+17:54,17:54,RE 3627,Wittenberge (ab 15:05),2
+18:20,18:20,IC 2431,Hannover Hbf (ab 15:36),1
+18:37,18:37,RE 3730,Dessau Hbf (ab 17:05),3
+18:48,18:48,RE 73739,Magdeburg Hbf (ab 17:12),4
+18:50,18:50,RB 18627,Nauen (ab 18:11),3
+18:55,18:55,RB 3629,Diekirch (ab 04:51),2
+19:04,19:04,RE 73821,Brandenburg Hbf (ab 18:21),1
+19:25,19:25,RE 73781,Brandenburg Hbf (ab 18:44),1
+19:38,19:38,RE 3732,Dessau Hbf (ab 18:05),3
+19:48,19:48,RE 73741,Magdeburg Hbf (ab 18:12),4
+19:50,19:50,RB 18629,Nauen (ab 19:10),3
+19:56,19:56,RB 3631,Diekirch (ab 06:51),2
+20:25,20:25,RE 73783,Brandenburg Hbf (ab 19:44),1
+20:34,20:34,RB 18270,Potsdam Hbf (ab 19:36),2
+20:38,20:38,RE 3734,Dessau Hbf (ab 19:05),3
+20:48 (+30),21:18,RE 73743,Magdeburg Hbf (ab 19:12),4
+20:50,20:50,RB 18631,Nauen (ab 20:11),3
+20:56,20:56,RB 3633,Diekirch (ab 08:51),2
+21:26,21:26,RE 73785,Brandenburg Hbf (ab 20:44),1
+21:34 (+1),21:35,RB 18272,Potsdam Hbf (ab 20:36),2
+21:37,21:37,RE 3736,Dessau Hbf (ab 20:05),3
+21:48 (+15),22:03,RE 73745,Magdeburg Hbf (ab 20:12),4
+21:50,21:50,RB 18633,Nauen (ab 21:10),1
+22:25,22:25,RE 73787,Brandenburg Hbf (ab 21:44),3
+22:48,22:48,RE 73747,Magdeburg Hbf (ab 21:07),3
+23:48,23:48,RE 73749,Magdeburg Hbf (ab 22:07),4
