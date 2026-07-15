@@ -1,0 +1,89 @@
+Ankunft ▼,Ist ▼,Zugnr. ▼,von (Abfahrt) ▼,Gleis ▼
+04:37,04:37,RE 3702,Bad Belzig (ab 03:41),1
+05:04,05:04,RE 73753,Kirchmöser (ab 04:16),1
+05:34,05:34,RB 18240,Potsdam Hbf (ab 04:36),2
+05:37,05:37,RE 3704,Medewitz(Mark) (ab 04:28),
+05:48,05:48,RE 73713,Magdeburg Hbf (ab 04:10),
+05:50,05:50,RB 18601,Nauen (ab 05:11),
+05:54 (+5),05:59,RE 3601,Kremmen (ab 04:50),
+06:04,06:04,RB 73803,Brandenburg Hbf (ab 05:22),1
+06:25,06:25,RE 73755,Brandenburg Hbf (ab 05:44),1
+06:35,06:35,RB 18242,Potsdam Hbf (ab 05:36),2
+06:38,06:38,RE 3706,Dessau Hbf (ab 05:05),4
+06:49,06:49,RE 73715,Magdeburg Hbf (ab 04:59),4
+06:50,06:50,RB 18603,Nauen (ab 06:11),3
+06:55,06:55,RE 3605,Kremmen (ab 05:49),2
+07:04,07:04,RE 73805,Magdeburg Hbf (ab 05:20),1
+07:26,07:26,RE 73757,Brandenburg Hbf (ab 06:44),1
+07:34,07:34,RB 18244,Potsdam Hbf (ab 06:36),2
+07:38,07:38,RE 3708,Dessau Hbf (ab 06:05),3
+07:49,07:49,RE 73717,Magdeburg Hbf (ab 06:10),4
+07:50,07:50,RB 18605,Nauen (ab 07:11),3
+07:54,07:54,RE 3607,Kremmen (ab 06:50),2
+08:04,08:04,RE 73807,Brandenburg Hbf (ab 07:22),1
+08:25,08:25,RE 73759,Brandenburg Hbf (ab 07:44),1
+08:34,08:34,RB 18246,Potsdam Hbf (ab 07:36),2
+08:38,08:38,RE 3710,Dessau Hbf (ab 07:05),3
+08:48,08:48,RE 73719,Magdeburg Hbf (ab 07:10),4
+08:50,08:50,RB 18607,Nauen (ab 08:11),3
+08:55,08:55,RE 3609,Kremmen (ab 07:49),2
+09:04,09:04,RE 73809,Brandenburg Hbf (ab 08:22),1
+09:25,09:25,RE 73761,Brandenburg Hbf (ab 08:44),1
+09:49,09:49,RE 73721,Magdeburg Hbf (ab 08:10),4
+09:50,09:50,RB 18609,Nauen (ab 09:10),3
+09:54 (+5),09:59,RE 3611,Kremmen (ab 08:50),
+10:04,10:04,RE 73811,Brandenburg Hbf (ab 09:22),1
+10:26,10:26,RE 73763,Brandenburg Hbf (ab 09:44),3
+10:48,10:48,RE 73723,Magdeburg Hbf (ab 09:10),4
+10:50,10:50,RB 18611,Nauen (ab 10:11),1
+10:55 (+6),11:01,RE 3613,Kremmen (ab 09:49),
+11:48,11:48,RE 73725,Magdeburg Hbf (ab 10:10),4
+11:50,11:50,RB 18613,Nauen (ab 11:10),3
+11:54 (+7),12:01,RE 3615,Kremmen (ab 10:50),
+12:20 (+6),12:26,IC 2035,Norddeich (ab 05:39),1
+12:37 (+26),13:03,RE 3718,Dessau Hbf (ab 11:05),1
+12:47 (+51),13:38,ICE 994,Kassel-Wilhelmshöhe (ab 09:48),
+12:48,12:48,RE 73727,Magdeburg Hbf (ab 11:10),4
+12:50,12:50,RB 18615,Nauen (ab 12:11),1
+12:55 (+1),12:56,RE 3617,Kremmen (ab 11:49),
+13:26,13:26,RE 73769,Brandenburg Hbf (ab 12:44),3
+13:34,13:34,RB 18256,Potsdam Hbf (ab 12:36),2
+13:37 (+20),13:57,RE 3720,Dessau Hbf (ab 12:05),1
+13:48,13:48,RE 73729,Magdeburg Hbf (ab 12:10),4
+13:50,13:50,RB 18617,Nauen (ab 13:10),3
+13:54,13:54,RE 3619,Kremmen (ab 12:50),2
+14:25,14:25,RE 73771,Brandenburg Hbf (ab 13:44),1
+14:34,14:34,RB 18258,Potsdam Hbf (ab 13:36),2
+14:50,14:50,RE 73731,Magdeburg Hbf (ab 13:10),4
+14:52,14:52,RB 18619,Nauen (ab 14:11),1
+15:34,15:34,RE 4322,Rostock Hbf (ab 00:08),1
+15:48,15:48,RE 73733,Magdeburg Hbf (ab 14:10),1
+15:50,15:50,RB 18621,Nauen (ab 15:10),3
+16:04,16:04,RE 73815,Brandenburg Hbf (ab 15:22),4
+16:25,16:25,RE 73775,Brandenburg Hbf (ab 15:44),1
+16:40,16:40,ICE 798,Kassel-Wilhelmshöhe (ab 13:48),4
+16:43,16:43,RE 3726,Dessau Hbf (ab 15:05),3
+16:49,16:49,RE 73735,Magdeburg Hbf (ab 15:10),4
+16:51,16:51,RB 18623,Nauen (ab 16:11),1
+17:07,17:07,RE 73817,Brandenburg Hbf (ab 16:22),3
+17:26,17:26,RE 73777,Brandenburg Hbf (ab 16:44),4
+17:38,17:38,RE 3728,Dessau Hbf (ab 16:05),1
+17:48,17:48,RE 73737,Magdeburg Hbf (ab 16:10),4
+17:54 (+2),17:56,RE 3627,Kremmen (ab 16:50),
+18:20 (+1),18:21,IC 2431,Emden Außenhafen (ab 12:01),
+18:48,18:48,RE 73739,Magdeburg Hbf (ab 17:10),4
+18:55,18:55,ICE 796,Kassel-Wilhelmshöhe (ab 15:48),4
+19:48,19:48,RE 73741,Magdeburg Hbf (ab 18:10),4
+20:48,20:48,RE 73743,Magdeburg Hbf (ab 19:10),4
+20:53,20:53,ICE 794,Kassel-Wilhelmshöhe (ab 17:48),1
+21:48 (+27),22:15,RE 73745,Magdeburg Hbf (ab 20:10),4
+21:50,21:50,RB 18633,Nauen (ab 20:57),1
+21:54,21:54,RB 3635,Diekirch (ab 10:51),2
+22:25,22:25,RE 73787,Brandenburg Hbf (ab 21:44),
+22:34,22:34,RB 18274,Potsdam Hbf (ab 21:36),
+22:37,22:37,RE 3738,Ludwigsfelde (ab 18:38),
+22:48,22:48,RE 73747,Magdeburg Hbf (ab 21:07),
+22:56,22:56,RB 3637,Diekirch (ab 12:51),
+23:37,23:37,RE 3740,Medewitz(Mark) (ab 22:28),
+23:48,23:48,RE 73749,Magdeburg Hbf (ab 22:07),
+23:55,23:55,RB 3639,Cottbus Hbf (ab 07:53),
