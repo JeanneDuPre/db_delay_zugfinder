@@ -1,0 +1,74 @@
+Ankunft ▼,Ist ▼,Zugnr. ▼,von (Abfahrt) ▼,Gleis ▼
+02:26,02:26,RE 73793,Magdeburg Hbf (ab 00:40),1
+03:59,03:59,RE 73751,Brandenburg Hbf (ab 03:13),4
+05:04,05:04,RE 73753,Brandenburg Hbf (ab 04:17),1
+05:48,05:48,RE 73713,Magdeburg Hbf (ab 04:10),
+06:49,06:49,RE 73715,Magdeburg Hbf (ab 04:59),4
+07:49,07:49,RE 73717,Magdeburg Hbf (ab 06:10),4
+08:48,08:48,RE 73719,Magdeburg Hbf (ab 07:10),4
+09:49,09:49,RE 73721,Magdeburg Hbf (ab 08:10),4
+09:50,09:50,RB 18609,Nauen (ab 09:10),3
+10:34,10:34,RB 18250,Wustermark (ab 10:09),2
+10:40,10:40,ICE 996,Kassel-Wilhelmshöhe (ab 07:49),4
+10:48,10:48,RE 73723,Magdeburg Hbf (ab 09:10),4
+10:50,10:50,RB 18611,Nauen (ab 10:11),1
+10:55,10:55,RE 3613,Kremmen (ab 09:49),3
+11:50,11:50,RB 18613,Nauen (ab 11:10),3
+11:54,11:54,RE 3615,Kremmen (ab 10:50),2
+12:20 (+6),12:26,IC 2035,Hannover Hbf (ab 09:31),
+12:46,12:46,ICE 994,Kassel-Wilhelmshöhe (ab 09:48),4
+12:50,12:50,RB 18615,Nauen (ab 12:11),1
+12:55,12:55,RE 3617,Kremmen (ab 11:49),3
+13:50 (+15),14:05,RB 18617,Nauen (ab 13:10),3
+13:54 (+16),14:10,RE 3619,Kremmen (ab 12:50),
+14:25,14:25,RE 73771,Brandenburg Hbf (ab 13:44),1
+14:34,14:34,RB 18258,Wustermark (ab 14:09),2
+14:38,14:38,RE 3722,Dessau Hbf (ab 13:05),4
+14:40 (+3),14:43,ICE 992,Kassel-Wilhelmshöhe (ab 11:48),4
+14:50,14:50,RE 73731,Magdeburg Hbf (ab 13:10),4
+14:52,14:52,RB 18619,Nauen (ab 14:11),1
+14:55,14:55,RE 3621,Kremmen (ab 13:49),3
+15:26,15:26,RE 73773,Brandenburg Hbf (ab 14:44),4
+15:34,15:34,RB 18260,Wustermark (ab 15:09),1
+15:37 (+5),15:42,RE 3724,Dessau Hbf (ab 14:05),2
+15:48 (+6),15:54,RE 73733,Magdeburg Hbf (ab 14:10),1
+15:50,15:50,RB 18621,Nauen (ab 15:10),3
+15:54 (+22),16:16,RE 3623,Kremmen (ab 14:50),
+16:40 (+75),17:55,ICE 798,Kassel-Wilhelmshöhe (ab 13:48),
+16:49,16:49,RE 73735,Magdeburg Hbf (ab 15:10),4
+17:54 (+3),17:57,RE 3627,Kremmen (ab 16:50),
+18:20 (+20),18:40,IC 2431,Hannover Hbf (ab 15:31),
+18:26,18:26,RE 73779,Brandenburg Hbf (ab 17:45),3
+18:34 (+1),18:35,RB 18266,Wustermark (ab 18:09),2
+18:37,18:37,RE 3730,Dessau Hbf (ab 17:05),3
+18:48 (+28),19:16,RE 73739,Magdeburg Hbf (ab 17:10),4
+18:50,18:50,RB 18627,Nauen (ab 18:11),3
+18:53,18:53,RB 3629,Diekirch (ab 04:51),2
+18:55,18:55,ICE 796,Kassel-Wilhelmshöhe (ab 15:48),4
+19:25,19:25,RE 73781,Brandenburg Hbf (ab 18:44),1
+19:34,19:34,RB 18268,Wustermark (ab 19:09),2
+19:38,19:38,RE 3732,Dessau Hbf (ab 18:05),3
+19:48,19:48,RE 73741,Magdeburg Hbf (ab 18:10),4
+19:50,19:50,RB 18629,Nauen (ab 19:10),3
+19:56,19:56,RB 3631,Diekirch (ab 06:51),2
+20:25,20:25,RE 73783,Brandenburg Hbf (ab 19:44),1
+20:34,20:34,RB 18270,Wustermark (ab 20:09),2
+20:38,20:38,RE 3734,Dessau Hbf (ab 19:05),3
+20:48,20:48,RE 73743,Magdeburg Hbf (ab 19:10),4
+20:50,20:50,RB 18631,Nauen (ab 20:11),3
+20:53,20:53,ICE 794,Kassel-Wilhelmshöhe (ab 17:48),4
+20:56,20:56,RB 3633,Diekirch (ab 08:51),2
+21:26,21:26,RE 73785,Brandenburg Hbf (ab 20:44),1
+21:34,21:34,RB 18272,Wustermark (ab 21:09),2
+21:37,21:37,RE 3736,Dessau Hbf (ab 20:05),3
+21:48,21:48,RE 73745,Magdeburg Hbf (ab 20:10),4
+21:50,21:50,RB 18633,Nauen (ab 21:10),1
+21:54,21:54,RB 3635,Diekirch (ab 10:51),2
+22:25,22:25,RE 73787,Brandenburg Hbf (ab 21:44),1
+22:34,22:34,RB 18274,Wustermark (ab 22:09),2
+22:37,22:37,RE 3738,Dessau Hbf (ab 21:05),3
+22:48,22:48,RE 73747,Magdeburg Hbf (ab 21:07),4
+22:56,22:56,RB 3637,Diekirch (ab 12:51),2
+23:37,23:37,RE 3740,Dessau Hbf (ab 22:05),3
+23:48,23:48,RE 73749,Magdeburg Hbf (ab 22:07),4
+23:55,23:55,RB 3639,Diekirch (ab 14:51),2
