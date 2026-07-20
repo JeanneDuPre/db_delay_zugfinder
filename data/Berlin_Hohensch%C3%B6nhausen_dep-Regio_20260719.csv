@@ -1,0 +1,75 @@
+Abfahrt ▼,Ist ▼,Zugnr. ▼,nach (Ankunft) ▼,Gleis ▼
+04:31,04:31,RB 18201,Ludwigsfelde (an 05:24),
+05:31,05:31,RB 18203,Ludwigsfelde (an 06:24),
+05:55,05:55,RB 18302,Eberswalde Hbf (an 06:27),
+06:31,06:31,RB 18205,Ludwigsfelde (an 07:24),
+07:31,07:31,RB 18207,Ludwigsfelde (an 08:24),
+08:02,08:02,RB 61107,Templin Stadt (an 09:18),3
+08:06,08:06,RB 18306,Eberswalde Hbf (an 08:38),3
+08:31,08:31,RB 18209,Ludwigsfelde (an 09:24),4
+08:32,08:32,RB 18206,Oranienburg (an 08:52),3
+08:49,08:49,RB 61108,Berlin Ostkreuz (an 09:01),4
+08:55,08:55,RB 18308,Eberswalde Hbf (an 09:27),3
+09:02,09:02,RB 61109,Templin Stadt (an 10:18),3
+09:26,09:26,RB 18311,Blankenfelde(Teltow-Fläming) (an 10:16),4
+09:31,09:31,RB 18211,Ludwigsfelde (an 10:24),4
+09:32,09:32,RB 18208,Oranienburg (an 09:52),3
+09:49,09:49,RB 61110,Berlin Ostkreuz (an 10:01),4
+10:07,10:07,RB 18313,Blankenfelde(Teltow-Fläming) (an 10:51),4
+10:08,10:08,RB 18310,Eberswalde Hbf (an 10:48),3
+10:31,10:31,RB 18213,Ludwigsfelde (an 11:22),
+10:32,10:32,RB 18210,Oranienburg (an 10:52),3
+11:31,11:31,RB 18215,Ludwigsfelde (an 12:24),4
+11:32,11:32,RB 18212,Oranienburg (an 11:52),3
+11:49,11:49,RB 61114,Berlin Ostkreuz (an 12:01),4
+11:55,11:55,RB 18314,Eberswalde Hbf (an 12:27),3
+12:31,12:31,RB 18217,Ludwigsfelde (an 13:24),4
+12:32,12:32,RB 18214,Oranienburg (an 12:52),3
+12:49,12:49,RB 61116,Berlin Ostkreuz (an 13:01),4
+13:07,13:07,RB 18319,Blankenfelde(Teltow-Fläming) (an 13:51),4
+13:13,13:13,RB 18316,Eberswalde Hbf (an 13:46),3
+13:31,13:31,RB 18219,Ludwigsfelde (an 14:24),4
+13:32,13:32,RB 18216,Oranienburg (an 13:52),3
+13:49,13:49,RB 61118,Berlin Ostkreuz (an 14:01),4
+14:02,14:02,RB 61119,Templin Stadt (an 15:18),3
+14:31,14:31,RB 18221,Ludwigsfelde (an 15:24),4
+14:32,14:32,RB 18218,Oranienburg (an 14:52),3
+14:49,14:49,RB 61120,Berlin Ostkreuz (an 15:01),4
+14:55,14:55,RB 18320,Eberswalde Hbf (an 15:27),3
+15:02,15:02,RB 61121,Templin Stadt (an 16:18),3
+15:31,15:31,RB 18223,Ludwigsfelde (an 16:24),4
+15:32,15:32,RB 18220,Oranienburg (an 15:52),3
+15:49,15:49,RB 61122,Berlin Ostkreuz (an 16:01),4
+16:02,16:02,RB 61123,Templin Stadt (an 17:18),3
+16:07,16:07,RB 18325,Blankenfelde(Teltow-Fläming) (an 16:51),4
+16:31,16:31,RB 18225,Ludwigsfelde (an 17:24),4
+16:32,16:32,RB 18222,Oranienburg (an 16:52),3
+16:49,16:49,RB 61124,Berlin Ostkreuz (an 17:01),4
+17:02,17:02,RB 61125,Templin Stadt (an 18:18),3
+17:11,17:11,RB 18324,Eberswalde Hbf (an 17:43),3
+17:31,17:31,RB 18227,Ludwigsfelde (an 18:24),4
+17:32,17:32,RB 18224,Oranienburg (an 17:52),3
+17:40,17:40,RB 18327,Blankenfelde(Teltow-Fläming) (an 18:36),4
+17:49 (+3),17:52,RB 61126,Berlin Ostkreuz (an 18:01),4
+17:55,17:55,RB 18326,Eberswalde Hbf (an 18:27),3
+18:02,18:02,RB 61127,Templin Stadt (an 19:18),3
+18:31,18:31,RB 18229,Flughafen BER (an 19:06),
+18:36,18:36,RB 32937,Flughafen BER (an 19:12),
+18:49,18:49,RB 61128,Berlin Ostkreuz (an 19:01),4
+19:02,19:02,RB 61129,Templin Stadt (an 20:18),3
+19:49,19:49,RB 61130,Berlin Ostkreuz (an 20:01),4
+20:02,20:02,RB 61131,Vogelsang(Kr Oberhavel) (an 21:05),
+20:31,20:31,RB 18233,Ludwigsfelde (an 21:24),4
+20:32,20:32,RB 18230,Oranienburg (an 20:52),3
+20:41,20:41,RB 18333,Blankenfelde(Teltow-Fläming) (an 21:24),4
+20:49,20:49,RB 61132,Berlin Ostkreuz (an 21:01),4
+20:55,20:55,RB 18332,Eberswalde Hbf (an 21:27),3
+21:02,21:02,RB 61133,Templin Stadt (an 22:18),3
+21:31,21:31,RB 18235,Ludwigsfelde (an 22:24),4
+21:32,21:32,RB 18232,Oranienburg (an 21:52),3
+22:02,22:02,RB 61135,Vogelsang(Kr Oberhavel) (an 23:05),
+22:07,22:07,RB 18337,Blankenfelde(Teltow-Fläming) (an 22:51),4
+23:15,23:15,RB 18336,Eberswalde Hbf (an 23:52),3
+23:15,23:15,RB 24,Köln Messe/Deutz (an 23:18),
+23:32,23:32,RB 18236,Oranienburg (an 23:52),3
+23:49,23:49,RB 61138,Berlin Ostkreuz (an 00:01),4
