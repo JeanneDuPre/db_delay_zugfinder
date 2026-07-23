@@ -1,0 +1,86 @@
+Abfahrt ▼,Ist ▼,Zugnr. ▼,nach (Ankunft) ▼,Gleis ▼
+00:00,00:00,RE 3182,Berlin Hbf (an 00:05),3
+04:11,04:11,RB 18241,Potsdam Hbf (an 05:23),
+04:28,04:28,RE 62001,Wismar (an 07:27),4
+04:28,04:28,RE 8,Würzburg Hbf (an 22:20),
+04:35,04:35,RE 62040,Elsterwerda (an 06:29),
+04:59,04:59,RE 3144,Falkenberg(Elster) (an 06:44),3
+05:00,05:00,RE 3145,Stendal Hbf (an 06:13),
+05:00,05:00,RE 4,Karlsruhe Hbf (an 21:53),
+05:12,05:12,RE 3102,Cottbus Hbf (an 06:57),
+05:30,05:30,RE 62003,Wittenberge (an 06:56),4
+05:31,05:31,RE 62000,Elsterwerda (an 07:15),3
+06:00,06:00,RE 3164,Jüterbog (an 06:54),3
+06:00,06:00,RE 3167,Stendal Hbf (an 07:13),4
+06:12,06:12,RE 3104,Cottbus Hbf (an 07:57),3
+06:28,06:28,RE 62002,Elsterwerda (an 08:31),3
+06:30,06:30,RE 62005,Wismar (an 09:37),4
+06:59,06:59,RE 3146,Berlin Südkreuz (an 07:15),
+07:12,07:12,RE 3106,Cottbus Hbf (an 08:56),3
+07:26,07:26,RE 62007,Wittenberge (an 08:56),4
+07:28,07:28,RE 62004,Elsterwerda (an 09:14),3
+08:00,08:00,RE 3169,Stendal Hbf (an 09:13),4
+08:12,08:12,RE 3108,Cottbus Hbf (an 09:55),3
+08:28,08:28,RE 62006,Elsterwerda (an 10:31),3
+08:31,08:31,RE 62009,Wismar (an 11:37),4
+08:59,08:59,RE 3148,Falkenberg(Elster) (an 10:44),3
+09:26,09:26,RE 62011,Wittenberge (an 10:56),4
+09:27,09:27,RE 62008,Baruth(Mark) (an 10:36),3
+10:00,10:00,RE 3168,Jüterbog (an 10:54),3
+10:00,10:00,RE 3171,Stendal Hbf (an 11:13),4
+10:28,10:28,RE 62010,Elsterwerda (an 12:31),3
+10:31,10:31,RE 62013,Wismar (an 13:37),4
+10:59,10:59,RE 3150,Falkenberg(Elster) (an 12:44),3
+11:00,11:00,RE 3151,Rathenow (an 11:54),4
+11:26,11:26,RE 62015,Wittenberge (an 12:56),4
+11:27,11:27,RE 62012,Baruth(Mark) (an 12:35),3
+12:00,12:00,RE 3170,Jüterbog (an 12:54),3
+12:00,12:00,RE 3173,Stendal Hbf (an 13:13),4
+12:28,12:28,RE 62014,Elsterwerda (an 14:31),3
+12:31,12:31,RE 62017,Wismar (an 15:37),4
+12:59,12:59,RE 3152,Falkenberg(Elster) (an 14:44),3
+13:00,13:00,RE 3153,Rathenow (an 13:54),4
+13:26,13:26,RE 62019,Wittenberge (an 14:56),4
+13:28,13:28,RE 62016,Elsterwerda (an 15:14),3
+14:00,14:00,RE 3172,Jüterbog (an 14:54),3
+14:00,14:00,RE 3175,Stendal Hbf (an 15:13),4
+14:28,14:28,RB 62018,Elsterwerda (an 16:31),3
+14:28,14:28,RE 62018,Elsterwerda (an 16:31),
+14:31,14:31,RE 62021,Wismar (an 17:37),4
+14:59,14:59,RE 3154,Falkenberg(Elster) (an 16:45),3
+15:00,15:00,RE 3155,Rathenow (an 15:54),4
+15:26,15:26,RE 62023,Wittenberge (an 16:56),4
+15:27,15:27,RE 62020,Elsterwerda (an 17:15),3
+16:00,16:00,RE 3174,Jüterbog (an 16:55),3
+16:00,16:00,RE 3177,Stendal Hbf (an 17:13),4
+16:28,16:28,RE 62022,Elsterwerda (an 18:31),3
+16:31,16:31,RE 62025,Wismar (an 19:37),4
+16:59,16:59,RE 3156,Falkenberg(Elster) (an 18:49),3
+17:00,17:00,RE 3157,Rathenow (an 17:54),4
+17:26,17:26,RE 62027,Wittenberge (an 18:56),4
+17:28,17:28,RE 62024,Elsterwerda (an 19:15),3
+18:00,18:00,RE 26117,Stendal Hbf (an 19:13),
+18:00,18:00,RE 3176,Jüterbog (an 18:54),3
+18:00,18:00,RE 3179,Stendal Hbf (an 19:13),4
+18:28,18:28,RE 62026,Neuhof(b Zossen) (an 19:34),
+18:31,18:31,RE 62029,Wismar (an 21:37),4
+18:59,18:59,RE 3158,Falkenberg(Elster) (an 20:44),3
+19:00,19:00,RE 3159,Rathenow (an 19:49),4
+19:26,19:26,RE 62031,Wittenberge (an 20:56),4
+19:28,19:28,RE 62028,Baruth(Mark) (an 20:35),3
+20:00,20:00,RE 3178,Jüterbog (an 20:54),3
+20:00,20:00,RE 3181,Stendal Hbf (an 21:06),4
+20:28,20:28,RE 62030,Elsterwerda (an 22:31),
+20:31,20:31,RE 62033,Schwerin Hbf (an 23:21),4
+20:59,20:59,RE 3160,Jüterbog (an 21:56),3
+21:00,21:00,RE 3161,Rathenow (an 21:48),4
+21:27,21:27,RE 62032,Baruth(Mark) (an 22:36),3
+21:31,21:31,RE 62035,Wismar (an 00:46),4
+22:00,22:00,RE 3183,Stendal Hbf (an 23:13),4
+22:28,22:28,RE 62034,Neuhof(b Zossen) (an 23:35),
+22:30,22:30,RE 62037,Wittenberge (an 23:56),
+22:41,22:41,RE 3136,Cottbus Hbf (an 00:29),3
+23:14,23:14,RE 3185,Stendal Hbf (an 00:18),4
+23:28 (+16),23:44,RE 62036,Baruth(Mark) (an 00:35),3
+23:30 (+3),23:33,RE 62039,Nauen (an 23:53),4
+23:41,23:41,RE 3138,Cottbus Hbf (an 01:30),3
