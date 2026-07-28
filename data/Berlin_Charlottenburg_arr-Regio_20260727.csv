@@ -1,0 +1,64 @@
+Ankunft ▼,Ist ▼,Zugnr. ▼,von (Abfahrt) ▼,Gleis ▼
+04:37,04:37,RE 3702,Bad Belzig (ab 03:41),1
+05:04,05:04,RE 73753,Brandenburg Hbf (ab 04:08),1
+05:34,05:34,RB 18240,Potsdam Hbf (ab 04:36),2
+05:54 (+2),05:56,RE 3601,Neuruppin Rheinsberger Tor (ab 04:29),
+06:49,06:49,RE 73715,Magdeburg Hbf (ab 04:59),4
+06:50,06:50,RB 18603,Nauen (ab 06:11),3
+06:55 (+2),06:57,RE 3605,Neuruppin Rheinsberger Tor (ab 05:28),
+07:04,07:04,RE 73805,Magdeburg Hbf (ab 05:20),1
+07:26,07:26,RE 73757,Brandenburg Hbf (ab 06:44),1
+07:34,07:34,RB 18244,Potsdam Hbf (ab 06:36),2
+07:49,07:49,RE 73717,Magdeburg Hbf (ab 06:10),4
+07:50,07:50,RB 18605,Nauen (ab 07:11),3
+07:54,07:54,RE 3607,Neuruppin Rheinsberger Tor (ab 06:31),2
+08:25,08:25,RE 73759,Brandenburg Hbf (ab 07:44),1
+08:34,08:34,RB 18246,Potsdam Hbf (ab 07:36),2
+08:38,08:38,RE 3710,Dessau Hbf (ab 07:05),3
+08:48,08:48,RE 73719,Magdeburg Hbf (ab 07:10),4
+08:50,08:50,RB 18607,Nauen (ab 08:11),3
+08:55,08:55,RE 3609,Neuruppin Rheinsberger Tor (ab 07:29),2
+09:04,09:04,RE 73809,Brandenburg Hbf (ab 08:22),1
+09:25,09:25,RE 73761,Brandenburg Hbf (ab 08:44),1
+09:35,09:35,RB 18248,Potsdam Hbf (ab 08:36),3
+09:38,09:38,RE 3712,Dessau Hbf (ab 08:05),2
+09:49,09:49,RE 73721,Magdeburg Hbf (ab 08:10),4
+09:50,09:50,RB 18609,Nauen (ab 09:10),3
+09:54,09:54,RE 3611,Neuruppin Rheinsberger Tor (ab 08:31),2
+10:26,10:26,RE 73763,Brandenburg Hbf (ab 09:44),3
+10:34,10:34,RB 18250,Potsdam Hbf (ab 09:36),2
+10:40 (+1),10:41,ICE 996,Kassel-Wilhelmshöhe (ab 07:49),
+10:48,10:48,RE 73723,Magdeburg Hbf (ab 09:10),4
+10:50,10:50,RB 18611,Nauen (ab 10:11),1
+10:55 (+4),10:59,RE 3613,Neuruppin Rheinsberger Tor (ab 09:29),
+11:26 (+2),11:28,RE 73765,Brandenburg Hbf (ab 10:44),4
+11:34,11:34,RB 18252,Potsdam Hbf (ab 10:36),2
+11:37,11:37,RE 3716,Dessau Hbf (ab 10:05),1
+11:48 (+10),11:58,RE 73725,Magdeburg Hbf (ab 10:10),4
+11:50,11:50,RB 18613,Nauen (ab 11:10),
+11:54 (+2),11:56,RE 3615,Neuruppin Rheinsberger Tor (ab 10:31),
+12:20 (+12),12:32,IC 2035,Hannover Hbf (ab 09:31),1
+12:46,12:46,ICE 994,Kassel-Wilhelmshöhe (ab 09:48),4
+12:48,12:48,RE 73727,Magdeburg Hbf (ab 11:10),4
+13:48,13:48,RE 73729,Magdeburg Hbf (ab 12:10),4
+14:25,14:25,RE 73771,Brandenburg Hbf (ab 13:44),1
+14:38,14:38,RE 3722,Dessau Hbf (ab 13:05),4
+14:40 (+14),14:54,ICE 2896,Kassel-Wilhelmshöhe (ab 11:48),
+14:40 (+15),14:55,ICE 992,Kassel-Wilhelmshöhe (ab 11:48),4
+14:50,14:50,RE 73731,Magdeburg Hbf (ab 13:10),4
+15:07,15:07,RB 73813,Brandenburg Hbf (ab 14:22),3
+15:48,15:48,RE 73733,Magdeburg Hbf (ab 14:10),1
+15:54 (+4),15:58,RE 3623,Neuruppin Rheinsberger Tor (ab 14:31),
+16:40,16:40,ICE 798,Kassel-Wilhelmshöhe (ab 13:48),4
+16:49,16:49,RE 73735,Magdeburg Hbf (ab 15:10),4
+16:55 (+2),16:57,RE 3625,Neuruppin Rheinsberger Tor (ab 15:29),
+17:48,17:48,RE 73737,Magdeburg Hbf (ab 16:10),4
+18:20 (+13),18:33,IC 2431,Hannover Hbf (ab 15:31),1
+18:48,18:48,RE 73739,Magdeburg Hbf (ab 17:10),4
+18:53 (+1),18:54,RE 3629,Neuruppin Rheinsberger Tor (ab 17:29),
+18:55 (+18),19:13,ICE 796,Kassel-Wilhelmshöhe (ab 15:48),
+19:48,19:48,RE 73741,Magdeburg Hbf (ab 18:10),4
+20:48,20:48,RE 73743,Magdeburg Hbf (ab 19:10),4
+21:48,21:48,RE 73745,Magdeburg Hbf (ab 20:10),4
+22:48,22:48,RE 73747,Magdeburg Hbf (ab 21:07),4
+23:48,23:48,RE 73749,Magdeburg Hbf (ab 22:07),4
