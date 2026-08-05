@@ -1,0 +1,50 @@
+Ankunft ▼,Ist ▼,Zugnr. ▼,von (Abfahrt) ▼,Gleis ▼
+06:35,06:35,RB 18242,Potsdam Hbf (ab 05:36),2
+06:50,06:50,RB 18603,Nauen (ab 06:11),3
+06:55 (+5),07:00,RE 3605,Neuruppin Rheinsberger Tor (ab 05:28),
+07:54 (+4),07:58,RE 3607,Neuruppin Rheinsberger Tor (ab 06:31),
+09:04,09:04,RE 73809,Brandenburg Hbf (ab 08:22),1
+09:25,09:25,RE 73761,Brandenburg Hbf (ab 08:44),1
+09:49,09:49,RE 73721,Magdeburg Hbf (ab 08:10),4
+09:54 (+3),09:57,RE 3611,Neuruppin Rheinsberger Tor (ab 08:31),
+10:04,10:04,RE 73811,Brandenburg Hbf (ab 09:22),1
+10:26,10:26,RE 73763,Brandenburg Hbf (ab 09:44),3
+10:40 (+2),10:42,ICE 996,Kassel-Wilhelmshöhe (ab 07:49),4
+10:48,10:48,RE 73723,Magdeburg Hbf (ab 09:10),4
+11:26,11:26,RE 73765,Brandenburg Hbf (ab 10:44),4
+11:48,11:48,RE 73725,Magdeburg Hbf (ab 10:10),4
+11:54 (+24),12:18,RE 3615,Neuruppin Rheinsberger Tor (ab 10:31),
+12:20 (+11),12:31,IC 2035,Leer(Ostfriesl) (ab 06:41),1
+12:26,12:26,RE 73767,Brandenburg Hbf (ab 11:44),3
+12:46 (+10),12:56,ICE 2830,Frankfurt(Main)Hbf (ab 05:54),
+12:46 (+10),12:56,ICE 994,Stuttgart Hbf (ab 06:28),
+12:48,12:48,RE 73727,Magdeburg Hbf (ab 11:10),4
+12:55 (+20),13:15,RE 3617,Neuruppin Rheinsberger Tor (ab 11:29),
+13:26,13:26,RE 73769,Brandenburg Hbf (ab 12:44),3
+13:48,13:48,RE 73729,Magdeburg Hbf (ab 12:10),4
+13:54 (+51),14:45,RE 3619,Neuruppin Rheinsberger Tor (ab 12:31),
+14:25,14:25,RE 73771,Brandenburg Hbf (ab 13:44),1
+14:40 (+60),15:40,ICE 2840,Frankfurt(M) Flughafen Fernbf (ab 10:09),
+14:40 (+60),15:40,ICE 992,Frankfurt(M) Flughafen Fernbahnhof (ab 10:09),4
+14:50,14:50,RE 73731,Magdeburg Hbf (ab 13:10),4
+14:52,14:52,RB 18619,Nauen (ab 14:11),1
+14:55,14:55,RE 3621,Neuruppin Rheinsberger Tor (ab 13:29),3
+15:34,15:34,RB 18260,Potsdam Hbf (ab 14:36),1
+15:50,15:50,RB 18621,Nauen (ab 15:10),3
+16:38,16:38,RE 3726,Dessau Hbf (ab 15:05),4
+16:40 (+3),16:43,ICE 798,Karlsruhe Hbf (ab 10:40),4
+16:49,16:49,RE 73735,Magdeburg Hbf (ab 15:10),4
+16:55 (+69),18:04,RE 3625,Neuruppin Rheinsberger Tor (ab 15:29),
+17:26,17:26,RE 73777,Brandenburg Hbf (ab 16:44),4
+17:34,17:34,RB 18264,Potsdam Hbf (ab 16:36),3
+17:38,17:38,RE 3728,Dessau Hbf (ab 16:05),1
+17:48,17:48,RE 73737,Magdeburg Hbf (ab 16:10),4
+17:50,17:50,RB 18625,Nauen (ab 17:10),3
+17:54 (+68),19:02,RE 3627,Neuruppin Rheinsberger Tor (ab 16:31),
+18:04,18:04,RE 73819,Brandenburg Hbf (ab 17:22),1
+18:20 (+22),18:42,IC 2431,Hannover Hbf (ab 15:31),
+18:55 Ausfall,--:--,ICE 796,Frankfurt(M) Flughafen Fernbf (ab 14:09),4
+20:31 (+25),20:56,ICE 794,Karlsruhe Hbf (ab 14:40),
+20:56 (+3),20:59,RE 3633,Neuruppin Rheinsberger Tor (ab 19:29),
+21:54 (+3),21:57,RE 3635,Neuruppin Rheinsberger Tor (ab 20:31),
+22:56 (+5),23:01,RE 3637,Neuruppin Rheinsberger Tor (ab 21:29),
