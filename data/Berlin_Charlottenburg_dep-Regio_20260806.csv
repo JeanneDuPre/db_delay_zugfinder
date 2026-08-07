@@ -1,0 +1,72 @@
+Abfahrt ▼,Ist ▼,Zugnr. ▼,nach (Ankunft) ▼,Gleis ▼
+00:06,00:06,RE 73794,Brandenburg Hbf (an 00:54),
+04:30,04:30,RE 62040,Elsterwerda (an 06:36),
+04:30,04:30,RE 8,Kassel-Wilhelmshöhe (an 20:55),
+04:49,04:49,CJX 1934,Amstetten NÖ (an 22:50),4
+04:49,04:49,RE 73756,Brandenburg Hbf (an 05:33),
+05:13,05:13,RE 73716,Brandenburg Hbf (an 05:57),
+05:33,05:33,RE 73758,Brandenburg Hbf (an 06:19),
+06:12,06:12,CJX 1900,Magdeburg Hbf (an 07:55),4
+06:12,06:12,RE 73718,Brandenburg Hbf (an 06:57),
+06:22,06:22,RB 18245,Potsdam Hbf (an 07:23),
+06:34,06:34,RE 73760,Brandenburg Hbf (an 07:19),
+06:50,06:50,RE 73804,Brandenburg Hbf (an 07:33),
+07:10,07:10,RE 73720,Brandenburg Hbf (an 07:57),
+07:26 (+28),07:54,ICE 795,Karlsruhe Hbf (an 13:17),4
+07:34,07:34,RE 73762,Brandenburg Hbf (an 08:23),
+07:39 (+1),07:40,IC 2432,Leer(Ostfriesl) (an 13:14),4
+07:50,07:50,RE 73806,Brandenburg Hbf (an 08:33),
+08:12,08:12,RE 73722,Brandenburg Hbf (an 08:57),
+08:34,08:34,RE 73764,Brandenburg Hbf (an 09:19),
+08:50,08:50,RE 73808,Brandenburg Hbf (an 09:33),
+09:12,09:12,RE 73724,Brandenburg Hbf (an 09:57),
+09:34,09:34,RE 73766,Brandenburg Hbf (an 10:19),
+09:50,09:50,RE 73810,Brandenburg Hbf (an 10:33),
+10:12,10:12,RE 73726,Brandenburg Hbf (an 10:57),
+11:03 (+2),11:05,RE 3616,Neuruppin Rheinsberger Tor (an 12:25),3
+11:10,11:10,RB 18612,Nauen (an 11:49),1
+11:12,11:12,RE 73728,Magdeburg Hbf (an 12:55),
+11:22,11:22,RB 18255,Potsdam Hbf (an 12:23),1
+11:28 (+1),11:29,ICE 799,Karlsruhe Hbf (an 17:19),3
+11:34,11:34,RE 73770,Brandenburg Hbf (an 12:19),
+12:02,12:02,RE 3618,Falkensee (an 12:21),
+12:10,12:10,RB 18614,Nauen (an 12:49),3
+12:12,12:12,RE 73730,Magdeburg Hbf (an 13:55),
+13:03 (+1),13:04,RE 3620,Neuruppin Rheinsberger Tor (an 14:25),3
+13:10,13:10,RB 18616,Nauen (an 13:49),1
+13:12,13:12,RE 73732,Magdeburg Hbf (an 14:55),4
+13:22,13:22,RB 18259,Potsdam Hbf (an 14:23),1
+13:28 (+6),13:34,ICE 993,Frankfurt(M) Flughafen Fernbf (an 17:52),4
+14:12,14:12,RE 73734,Magdeburg Hbf (an 15:55),4
+14:34,14:34,RE 73776,Brandenburg Hbf (an 15:19),
+14:48,14:48,RE 73812,Brandenburg Hbf (an 15:33),
+15:11,15:11,RE 73736,Magdeburg Hbf (an 16:55),4
+15:22,15:22,RB 18263,Potsdam Hbf (an 16:23),
+15:27,15:27,ICE 995,Stuttgart Hbf (an 21:29),
+15:34,15:34,RE 73778,Potsdam Hbf (an 15:51),
+15:41 (+18),15:59,IC 2034,Leer(Ostfriesl) (an 21:14),3
+15:51,15:51,RE 73814,Potsdam Hbf (an 16:05),
+16:10,16:10,RE 73738,Magdeburg Hbf (an 17:55),1
+16:22,16:22,RB 18265,Potsdam Hbf (an 17:23),
+17:10,17:10,RE 73740,Magdeburg Hbf (an 18:55),4
+17:28 (+2),17:30,ICE 997,Frankfurt(Main)Hbf (an 21:40),3
+17:34,17:34,RE 73782,Potsdam Hbf (an 17:51),
+17:50,17:50,RE 73818,Potsdam Hbf (an 18:05),
+18:12,18:12,RE 73742,Magdeburg Hbf (an 19:55),4
+19:12,19:12,RE 73744,Magdeburg Hbf (an 20:59),
+19:22,19:22,RB 18271,Potsdam Hbf (an 20:23),
+19:28 (+2),19:30,ICE 999,Kassel-Wilhelmshöhe (an 22:13),4
+20:02,20:02,RB 3634,Neuruppin Rheinsberger Tor (an 21:25),2
+20:10,20:10,RB 18630,Nauen (an 20:49),3
+20:12,20:12,RE 73746,Magdeburg Hbf (an 21:59),
+20:22,20:22,RB 18273,Potsdam Hbf (an 21:23),3
+20:34,20:34,RE 73788,Potsdam Hbf (an 20:51),
+21:03,21:03,RB 3636,Flughafen BER (an 22:40),
+21:10,21:10,RB 18632,Nauen (an 21:49),
+21:12,21:12,RE 73748,Magdeburg Hbf (an 22:55),
+22:03,22:03,RB 3638,Falkensee (an 22:21),
+22:06,22:06,RE 73790,Brandenburg Hbf (an 22:55),
+22:56,22:56,RE 92137,Falkensee (an 23:15),
+23:03 Ausfall,--:--,RB 10641,Köln/Bonn Flughafen (an 22:50),2
+23:03,23:03,RB 3640,Falkensee (an 23:21),
+23:06,23:06,RE 73792,Brandenburg Hbf (an 23:54),
