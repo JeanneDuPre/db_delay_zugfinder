@@ -1,0 +1,116 @@
+Ankunft ▼,Ist ▼,Zugnr. ▼,von (Abfahrt) ▼,Gleis ▼
+04:44,04:44,RB 18201,Oranienburg (ab 04:09),13
+04:58,04:58,RB 75800,Lübbenau(Spreewald) (ab 03:53),2
+04:59,04:59,RE 75801,Berlin Ostbahnhof (ab 04:56),1
+05:20,05:20,RB 18303,Eberswalde Hbf (ab 04:35),13
+05:23,05:23,RE 3103,Cottbus Hbf (ab 04:00),14
+05:36,05:36,RE 3102,Nauen (ab 04:39),13
+05:39,05:39,RB 18302,Blankenfelde(Teltow-Fläming) (ab 05:09),14
+05:59,05:59,RE 75803,Berlin Ostbahnhof (ab 05:56),1
+06:20,06:20,RB 18305,Eberswalde Hbf (ab 05:35),13
+06:23,06:23,RE 3105,Cottbus Hbf (ab 04:57),14
+06:36,06:36,RE 3104,Nauen (ab 05:39),13
+06:39,06:39,RB 18304,Blankenfelde(Teltow-Fläming) (ab 06:09),14
+06:59,06:59,RB 75805,Berlin Ostbahnhof (ab 06:56),1
+07:16 (+3),07:19,RB 18204,Ludwigsfelde (ab 06:38),
+07:17 (+1),07:18,RB 61222,Werneuchen (ab 06:34),8
+07:20 (+2),07:22,RB 18307,Eberswalde Hbf (ab 06:35),13
+07:23,07:23,RE 3107,Cottbus Hbf (ab 06:03),14
+07:32,07:32,IC 2274,Dresden Hbf (ab 05:35),14
+07:36,07:36,RE 3106,Nauen (ab 06:39),13
+07:39 (+1),07:40,RB 18306,Blankenfelde(Teltow-Fläming) (ab 07:09),14
+07:44 (+1),07:45,RB 18207,Oranienburg (ab 07:09),13
+07:48,07:48,RB 61186,Werneuchen (ab 07:04),
+07:56,07:56,RB 75806,Lübben(Spreewald) (ab 07:02),
+07:58,07:58,RB 62053,Schönefeld(bei Berlin) (ab 07:43),14
+07:59,07:59,RE 75807,Berlin Ostbahnhof (ab 07:56),1
+08:01,08:01,RB 61106,Templin Stadt (ab 06:33),8
+08:13,08:13,RB 61425,Müncheberg(Mark) (ab 07:25),7
+08:16,08:16,RB 18206,Ludwigsfelde (ab 07:38),14
+08:17,08:17,RB 61224,Werneuchen (ab 07:34),8
+08:20,08:20,RB 18309,Eberswalde Hbf (ab 07:35),13
+08:23,08:23,RE 3109,Cottbus Hbf (ab 07:04),14
+08:26 (+2),08:28,IC 2173,Rostock Hbf (ab 06:20),13
+08:38,08:38,RE 3108,Nauen (ab 07:39),13
+08:39,08:39,RB 18308,Blankenfelde(Teltow-Fläming) (ab 08:09),14
+09:20,09:20,RB 18311,Eberswalde Hbf (ab 08:35),13
+09:32 (+4),09:36,IC 2272,Chemnitz Hbf (ab 06:26),14
+09:36,09:36,RE 3110,Nauen (ab 08:39),13
+09:39,09:39,RB 18310,Blankenfelde(Teltow-Fläming) (ab 09:09),14
+09:44,09:44,RB 18211,Oranienburg (ab 09:09),13
+10:20,10:20,RB 18313,Eberswalde Hbf (ab 09:35),13
+10:23,10:23,RE 3113,Cottbus Hbf (ab 09:03),14
+10:26 (+10),10:36,IC 2175,Rostock Hbf (ab 08:20),13
+10:26 (+10),10:36,IC 2455,Rostock Hbf (ab 08:20),
+10:39,10:39,RB 18312,Blankenfelde(Teltow-Fläming) (ab 10:09),14
+11:16,11:16,RB 18212,Ludwigsfelde (ab 10:38),14
+11:20,11:20,RB 18315,Eberswalde Hbf (ab 10:35),13
+11:23,11:23,RE 3115,Cottbus Hbf (ab 10:03),14
+11:31,11:31,IC 2270,Chemnitz Hbf (ab 08:26),14
+11:36,11:36,RE 3114,Nauen (ab 10:39),13
+11:39,11:39,RB 18314,Blankenfelde(Teltow-Fläming) (ab 11:09),14
+12:20,12:20,RB 18317,Eberswalde Hbf (ab 11:35),13
+12:23,12:23,RE 3117,Cottbus Hbf (ab 11:03),14
+12:26 (+18),12:44,IC 2177,Rostock Hbf (ab 10:21),13
+12:36,12:36,RE 3116,Nauen (ab 11:39),13
+13:23,13:23,RE 3119,Cottbus Hbf (ab 12:03),14
+13:31,13:31,IC 2178,Dresden Hbf (ab 11:35),14
+13:36,13:36,RB 10446,Kall (ab 21:05),13
+13:36,13:36,RE 3118,Nauen (ab 12:39),13
+14:23,14:23,RE 3121,Cottbus Hbf (ab 13:03),14
+14:26 (+5),14:31,IC 2179,Rostock Hbf (ab 12:22),13
+14:36,14:36,RE 3120,Nauen (ab 13:39),13
+15:20,15:20,RB 18323,Eberswalde Hbf (ab 14:35),13
+15:23,15:23,RE 3123,Cottbus Hbf (ab 14:02),14
+15:31,15:31,IC 2176,Dresden Hbf (ab 13:35),14
+15:39,15:39,RB 18322,Blankenfelde(Teltow-Fläming) (ab 15:09),14
+15:59,15:59,RB 75823,Berlin Ostbahnhof (ab 15:56),1
+16:20,16:20,RB 18325,Eberswalde Hbf (ab 15:35),13
+16:23,16:23,RE 3125,Cottbus Hbf (ab 15:03),14
+16:26 (+8),16:34,IC 2271,Rostock Hbf (ab 14:20),13
+16:36,16:36,RE 3124,Nauen (ab 15:39),13
+16:39,16:39,RB 18324,Blankenfelde(Teltow-Fläming) (ab 16:09),14
+16:44,16:44,RB 18225,Oranienburg (ab 16:09),13
+16:59,16:59,RE 75825,Berlin Ostbahnhof (ab 16:56),1
+17:20,17:20,RB 18327,Eberswalde Hbf (ab 16:35),13
+17:23,17:23,RE 3127,Cottbus Hbf (ab 16:03),14
+17:34,17:34,IC 2174,Dresden Hbf (ab 15:35),14
+17:36,17:36,RE 3126,Nauen (ab 16:39),13
+17:40,17:40,RB 18326,Blankenfelde(Teltow-Fläming) (ab 17:09),14
+17:44,17:44,RB 18227,Oranienburg (ab 17:09),13
+17:59,17:59,RE 75827,Berlin Ostbahnhof (ab 17:56),1
+18:16,18:16,RB 18226,Ludwigsfelde (ab 17:38),14
+18:20,18:20,RB 18329,Eberswalde Hbf (ab 17:35),13
+18:23,18:23,RE 3129,Cottbus Hbf (ab 17:03),14
+18:26 (+4),18:30,IC 2273,Rostock Hbf (ab 16:20),13
+18:36,18:36,RE 3128,Nauen (ab 17:39),13
+18:39,18:39,RB 18328,Blankenfelde(Teltow-Fläming) (ab 18:09),14
+18:44,18:44,RB 18229,Oranienburg (ab 18:09),13
+19:16,19:16,RB 18228,Ludwigsfelde (ab 18:38),14
+19:23,19:23,RE 3131,Cottbus Hbf (ab 18:03),14
+19:31,19:31,IC 2172,Dresden Hbf (ab 17:35),14
+19:36,19:36,RE 3130,Nauen (ab 18:39),13
+19:39,19:39,RB 18330,Blankenfelde(Teltow-Fläming) (ab 19:09),14
+19:44,19:44,RB 18231,Oranienburg (ab 19:09),13
+19:59,19:59,RB 75831,Berlin Ostbahnhof (ab 19:56),1
+20:16,20:16,RB 18230,Ludwigsfelde (ab 19:38),14
+20:20,20:20,RB 18333,Eberswalde Hbf (ab 19:35),13
+20:23,20:23,RE 3133,Cottbus Hbf (ab 19:03),14
+20:26,20:26,IC 2275,Rostock Hbf (ab 18:20),13
+20:26,20:26,IC 2465,Rostock Hbf (ab 18:20),
+20:36,20:36,RE 3132,Nauen (ab 19:39),13
+20:44,20:44,RB 18233,Oranienburg (ab 20:09),13
+20:59,20:59,RE 75833,Berlin Ostbahnhof (ab 20:56),1
+21:16,21:16,RB 18232,Ludwigsfelde (ab 20:38),14
+21:20,21:20,RB 18335,Eberswalde Hbf (ab 20:35),13
+21:36,21:36,RE 3134,Nauen (ab 20:39),13
+21:39,21:39,RB 18334,Blankenfelde(Teltow-Fläming) (ab 21:09),14
+21:44,21:44,RB 18235,Oranienburg (ab 21:09),13
+22:16,22:16,RB 18234,Ludwigsfelde (ab 21:38),14
+22:20,22:20,RB 18337,Eberswalde Hbf (ab 21:35),13
+22:23 (+4),22:27,RE 3137,Cottbus Hbf (ab 21:03),14
+22:44,22:44,RB 18237,Oranienburg (ab 22:09),13
+22:58,22:58,RE 3136,Nauen (ab 22:08),13
+23:16,23:16,RB 18236,Ludwigsfelde (ab 22:38),14
+23:23,23:23,RE 3139,Cottbus Hbf (ab 22:00),14
+23:58,23:58,RE 3138,Nauen (ab 23:08),13
