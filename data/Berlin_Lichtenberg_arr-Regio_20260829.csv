@@ -1,0 +1,82 @@
+Ankunft ▼,Ist ▼,Zugnr. ▼,von (Abfahrt) ▼,Gleis ▼
+04:39,04:39,RB 18201,Oranienburg (ab 04:09),21
+04:45,04:45,RB 18300,Wünsdorf-Waldstadt (ab 03:43),15
+05:22,05:22,RB 18200,Ludwigsfelde (ab 04:38),21
+05:39,05:39,RB 18203,Oranienburg (ab 05:09),21
+06:15,06:15,RB 18305,Eberswalde Hbf (ab 05:35),21
+06:19 (+50),07:09,EC 430,Przemysl Glowny (ab 18:54),20
+06:22,06:22,RB 18202,Ludwigsfelde (ab 05:38),21
+06:39,06:39,RB 18205,Oranienburg (ab 06:09),21
+06:45,06:45,RB 18304,Wünsdorf-Waldstadt (ab 05:43),15
+07:15,07:15,RB 18307,Eberswalde Hbf (ab 06:35),21
+07:22,07:22,RB 18204,Ludwigsfelde (ab 06:38),21
+10:13,10:13,EC 248,Warszawa Wschodnia (ab 04:49),21
+11:08,11:08,EC 54,Kraków Główny (ab 04:11),21
+11:39,11:39,RB 18215,Oranienburg (ab 11:09),21
+12:03 (+1),12:04,ec 246,Warszawa Wschodnia (ab 06:49),21
+12:03 (+5),12:08,EC 246,Warszawa Wschodnia (ab 06:49),21
+12:22,12:22,RB 18214,Ludwigsfelde (ab 11:38),21
+12:25,12:25,RB 61195,Berlin Ostkreuz (ab 12:22),17
+12:35,12:35,RB 61264,Werneuchen (ab 12:04),17
+12:39,12:39,RB 18217,Oranienburg (ab 12:09),21
+12:45,12:45,RB 18316,Blankenfelde(Teltow-Fläming) (ab 12:09),15
+12:51,12:51,RB 61117,Berlin Ostkreuz (ab 12:48),15
+13:13,13:13,EC 230,Gdynia Główna (ab 07:07),21
+13:15,13:15,RB 18319,Eberswalde Hbf (ab 12:35),21
+13:22,13:22,RB 18216,Ludwigsfelde (ab 12:38),21
+13:24,13:24,RB 5166,Kostrzyn (ab 12:05),15
+13:39,13:39,RB 18219,Oranienburg (ab 13:09),21
+13:51,13:51,RB 61119,Berlin Ostkreuz (ab 13:48),15
+13:56,13:56,RB 61118,Templin Stadt (ab 12:33),17
+14:03 (+5),14:08,EC 48,Warszawa Wschodnia (ab 08:49),22
+14:22,14:22,RB 18218,Ludwigsfelde (ab 13:38),21
+14:24,14:24,RB 5168,Kostrzyn (ab 13:05),15
+14:39,14:39,RB 18221,Oranienburg (ab 14:09),21
+14:45,14:45,RB 18320,Blankenfelde(Teltow-Fläming) (ab 14:09),16
+14:51,14:51,RB 61121,Berlin Ostkreuz (ab 14:48),15
+14:56,14:56,RB 61120,Templin Stadt (ab 13:33),20
+15:08,15:08,EC 56,Przemyśl Główny (ab 05:16),21
+15:22,15:22,RB 18220,Ludwigsfelde (ab 14:38),21
+15:24,15:24,RB 5170,Kostrzyn (ab 14:05),15
+15:39,15:39,RB 18223,Oranienburg (ab 15:09),21
+15:45,15:45,RB 18322,Blankenfelde(Teltow-Fläming) (ab 15:09),16
+15:51,15:51,RB 61123,Berlin Ostkreuz (ab 15:48),15
+15:56,15:56,RB 61122,Templin Stadt (ab 14:33),20
+16:03 (+5),16:08,EC 46,Warszawa Wschodnia (ab 10:49),22
+16:22,16:22,RB 18222,Ludwigsfelde (ab 15:38),21
+16:24,16:24,RB 5172,Kostrzyn (ab 15:05),15
+16:39,16:39,RB 18225,Oranienburg (ab 16:09),21
+16:45,16:45,RB 18324,Blankenfelde(Teltow-Fläming) (ab 16:09),16
+16:51,16:51,RB 61125,Berlin Ostkreuz (ab 16:48),15
+16:56,16:56,RB 61124,Templin Stadt (ab 15:33),20
+17:22,17:22,RB 18224,Ludwigsfelde (ab 16:38),21
+17:24,17:24,RB 5174,Kostrzyn (ab 16:05),15
+17:39,17:39,RB 18227,Oranienburg (ab 17:09),21
+17:45,17:45,RB 18326,Blankenfelde(Teltow-Fläming) (ab 17:09),16
+17:56,17:56,RB 61126,Templin Stadt (ab 16:33),20
+18:03 (+5),18:08,EC 44,Warszawa Wschodnia (ab 12:49),22
+18:15,18:15,RB 18329,Eberswalde Hbf (ab 17:35),21
+18:22,18:22,RB 18226,Ludwigsfelde (ab 17:38),21
+18:24,18:24,RB 5176,Kostrzyn (ab 17:05),15
+18:35,18:35,RB 61276,Werneuchen (ab 18:04),17
+18:39,18:39,RB 18229,Oranienburg (ab 18:09),21
+18:45,18:45,RB 18328,Blankenfelde(Teltow-Fläming) (ab 18:09),16
+19:08,19:08,EC 58,Przemyśl Główny (ab 09:10),22
+19:15,19:15,RB 18331,Eberswalde Hbf (ab 18:35),21
+19:22,19:22,RB 18228,Ludwigsfelde (ab 18:38),21
+19:24,19:24,RB 5178,Kostrzyn (ab 18:05),15
+19:39,19:39,RB 18231,Oranienburg (ab 19:09),21
+19:45,19:45,RB 18330,Blankenfelde(Teltow-Fläming) (ab 19:09),15
+20:13 (+3),20:16,EC 42,Warszawa Wschodnia (ab 14:49),22
+20:15,20:15,RB 18333,Eberswalde Hbf (ab 19:35),21
+20:22,20:22,RB 18230,Ludwigsfelde (ab 19:38),21
+20:24,20:24,RB 5180,Kostrzyn (ab 19:05),15
+20:45,20:45,RB 18332,Blankenfelde(Teltow-Fläming) (ab 20:09),16
+20:51,20:51,RB 61133,Berlin Ostkreuz (ab 20:48),15
+21:08,21:08,RB 80429,Magdeburg Hbf (ab 19:01),15
+21:22,21:22,RB 18232,Ludwigsfelde (ab 20:38),21
+21:24,21:24,RB 5182,Kostrzyn (ab 20:05),15
+21:56,21:56,RB 61134,Templin Stadt (ab 20:33),17
+22:24,22:24,RB 5184,Kostrzyn (ab 21:05),15
+22:45 (+5),22:50,RE 21034,Lüneburg (ab 20:44),16
+23:24,23:24,RB 5186,Kostrzyn (ab 22:05),15
