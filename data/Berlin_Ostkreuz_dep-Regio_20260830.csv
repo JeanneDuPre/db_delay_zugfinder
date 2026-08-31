@@ -1,0 +1,252 @@
+Abfahrt ▼,Ist ▼,Zugnr. ▼,nach (Ankunft) ▼,Gleis ▼
+00:00,00:00,RE 3138,Cottbus Hbf (an 01:30),
+00:15,00:15,RB 33749,Eisenhüttenstadt (an 01:41),1
+00:15,00:15,RE 91040,Frankfurt(Oder) (an 01:18),
+00:58,00:58,RE 2,Dresden Hbf (an 20:33),
+00:58,00:58,RE 3140,Cottbus Hbf (an 02:30),13
+04:22,04:22,RB 18301,Flughafen BER (an 04:40),
+04:27,04:27,RB 33751,Frankfurt(Oder) (an 05:30),1
+04:27,04:27,RE 91052,Frankfurt(Oder) (an 05:30),
+04:41,04:41,RB 18300,Eberswalde Hbf (an 05:27),
+04:46,04:46,RB 18201,Flughafen BER (an 05:05),
+04:46,04:46,RE 73801,Frankfurt(Oder) (an 05:38),
+04:48,04:48,RB 61101,Oranienburg (an 05:21),
+05:02,05:02,RE 7,Kiel Hbf (an 22:50),
+05:09,05:09,RB 33758,Berlin Ostbahnhof (an 05:12),2
+05:18,05:18,RB 18200,Oranienburg (an 05:52),
+05:25,05:25,RE 3103,Albrechtshof (an 06:00),
+05:34,05:34,RB 33753,Frankfurt(Oder) (an 06:36),1
+05:40,05:40,RE 3102,Lübbenau(Spreewald) (an 06:32),
+05:41,05:41,RB 24,Eberswalde Hbf (an 06:27),
+05:42,05:42,RB 33718,Köln Hbf (an 10:22),2
+05:46,05:46,RB 18203,Flughafen BER (an 06:05),
+05:48,05:48,RB 61103,Oranienburg (an 06:21),
+06:02,06:02,RE 75803,Lübben(Spreewald) (an 06:56),
+06:06,06:06,RB 33760,Berlin Ostbahnhof (an 06:09),2
+06:16,06:16,RB 33713,Frankfurt(Oder) (an 07:19),1
+06:16,06:16,RE 90392,Frankfurt(Oder) (an 07:19),
+06:18,06:18,RB 18202,Oranienburg (an 06:52),
+06:22,06:22,RB 18305,Flughafen BER (an 06:40),
+06:25,06:25,RE 3105,Albrechtshof (an 07:00),
+06:40,06:40,RE 3104,Lübbenau(Spreewald) (an 07:32),
+06:41,06:41,RB 18304,Eberswalde Hbf (an 07:27),
+06:45,06:45,RB 33720,Berlin Ostbahnhof (an 06:49),2
+06:46,06:46,RB 18205,Flughafen BER (an 07:05),
+06:53,06:53,RB 33755,Frankfurt(Oder) (an 07:47),1
+06:53,06:53,RE 33755,Frankfurt(Oder) (an 07:47),
+07:04,07:04,RB 33762,Berlin Ostbahnhof (an 07:07),2
+07:16,07:16,RB 33715,Frankfurt(Oder) (an 08:20),1
+07:16,07:16,RE 90394,Frankfurt(Oder) (an 08:20),
+07:25,07:25,RE 3107,Albrechtshof (an 08:00),14
+07:34,07:34,IC 2274,Rostock Hbf (an 09:37),
+07:40,07:40,RE 3106,Lübben(Spreewald) (an 08:25),
+07:41,07:41,RB 18306,Eberswalde Hbf (an 08:27),14
+07:46,07:46,RB 33722,Köln Hbf (an 11:22),2
+07:53,07:53,RB 33757,Frankfurt(Oder) (an 08:44),1
+07:53,07:53,RE 33757,Frankfurt(Oder) (an 08:44),
+08:02,08:02,RE 75807,Lübben(Spreewald) (an 08:56),
+08:04,08:04,RB 33764,Berlin Ostbahnhof (an 08:07),2
+08:16,08:16,RB 33717,Frankfurt(Oder) (an 09:19),1
+08:16,08:16,RE 90408,Frankfurt(Oder) (an 09:19),
+08:28,08:28,IC 2173,Dresden Hbf (an 10:28),
+08:40,08:40,RE 3108,Cottbus Hbf (an 09:55),
+08:41,08:41,RB 18308,Eberswalde Hbf (an 09:27),
+08:45,08:45,RB 33724,Berlin Ostbahnhof (an 08:49),2
+08:52,08:52,RB 33759,Frankfurt(Oder) (an 09:44),1
+08:52,08:52,RE 33759,Frankfurt(Oder) (an 09:44),
+09:02,09:02,RB 75809,Lübben(Spreewald) (an 09:56),
+09:06,09:06,RB 33766,Berlin Ostbahnhof (an 09:09),2
+09:16,09:16,RB 33719,Frankfurt(Oder) (an 10:19),1
+09:16,09:16,RE 90418,Frankfurt(Oder) (an 10:19),
+09:34 (+1),09:35,IC 2272,Rostock Hbf (an 11:37),14
+09:40,09:40,RE 3110,Cottbus Hbf (an 10:56),13
+09:41,09:41,RB 18310,Eberswalde Hbf (an 10:27),
+09:45,09:45,RB 33726,Köln Messe/Deutz (an 12:18),2
+09:53,09:53,RB 33761,Frankfurt(Oder) (an 10:44),1
+09:53,09:53,RE 33761,Frankfurt(Oder) (an 10:44),
+09:59,09:59,RB 75810,Berlin Ostbahnhof (an 10:02),2
+10:02,10:02,RE 75811,Lübben(Spreewald) (an 10:56),1
+10:05,10:05,RB 33768,Köln Hbf (an 22:22),2
+10:16,10:16,RB 33721,Frankfurt(Oder) (an 11:19),
+10:16,10:16,RE 57197,Frankfurt(Oder) (an 11:19),
+10:25,10:25,RE 3113,Berlin Gesundbrunnen (an 10:36),14
+10:28 (+1),10:29,IC 2175,Dresden Hbf (an 12:28),13
+10:40,10:40,RE 3112,Lübben(Spreewald) (an 11:25),
+10:41,10:41,RB 18312,Eberswalde Hbf (an 11:27),
+10:45,10:45,RB 33728,Berlin Ostbahnhof (an 10:49),2
+10:46,10:46,RB 18213,Ludwigsfelde (an 11:24),13
+10:53,10:53,RB 33763,Frankfurt(Oder) (an 11:44),
+10:53,10:53,RE 33763,Frankfurt(Oder) (an 11:44),
+10:59,10:59,RE 75812,Berlin Ostbahnhof (an 11:02),2
+11:02,11:02,RE 75813,Lübben(Spreewald) (an 11:56),1
+11:16,11:16,RB 33723,Frankfurt(Oder) (an 12:19),1
+11:16,11:16,RE 57199,Frankfurt(Oder) (an 12:19),
+11:18,11:18,RB 18212,Oranienburg (an 11:52),14
+11:25,11:25,RE 3115,Berlin-Spandau (an 11:54),
+11:33,11:33,IC 2270,Rostock Hbf (an 13:37),14
+11:40,11:40,RE 3114,Lübben(Spreewald) (an 12:25),
+11:41,11:41,RB 18314,Eberswalde Hbf (an 12:27),14
+11:45,11:45,RB 33730,Berlin Ostbahnhof (an 11:49),2
+11:46,11:46,RB 18215,Ludwigsfelde (an 12:24),13
+11:48,11:48,RB 61115,Oranienburg (an 12:21),
+11:53,11:53,RB 33765,Frankfurt(Oder) (an 12:44),1
+11:53,11:53,RE 33765,Frankfurt(Oder) (an 12:44),
+11:59,11:59,RB 75814,Berlin Ostbahnhof (an 12:02),2
+12:02,12:02,RE 75815,Lübben(Spreewald) (an 12:56),1
+12:05,12:05,RB 33772,Berlin Ostbahnhof (an 12:08),2
+12:16,12:16,RB 33725,Frankfurt(Oder) (an 13:19),1
+12:16,12:16,RE 82766,Frankfurt(Oder) (an 13:19),
+12:18,12:18,RB 18214,Oranienburg (an 12:52),14
+12:22,12:22,RB 18317,Blankenfelde(Teltow-Fläming) (an 12:51),13
+12:25,12:25,RE 3117,Nauen (an 13:21),14
+12:28 (+2),12:30,IC 2177,Dresden Hbf (an 14:28),13
+12:40,12:40,RE 3116,Cottbus Hbf (an 13:55),13
+12:41,12:41,RB 18316,Eberswalde Hbf (an 13:27),14
+12:45,12:45,RB 33732,Berlin Ostbahnhof (an 12:49),2
+12:46,12:46,RB 18217,Ludwigsfelde (an 13:24),13
+12:48,12:48,RB 61117,Oranienburg (an 13:21),
+12:53,12:53,RB 33767,Frankfurt(Oder) (an 13:44),1
+12:53,12:53,RE 33767,Frankfurt(Oder) (an 13:44),
+12:59,12:59,RB 75816,Berlin Ostbahnhof (an 13:02),2
+13:02,13:02,RE 75817,Lübben(Spreewald) (an 13:56),1
+13:05,13:05,RB 33774,Berlin Ostbahnhof (an 13:08),2
+13:16,13:16,RB 33727,Frankfurt(Oder) (an 14:19),1
+13:16,13:16,RE 57114,Frankfurt(Oder) (an 14:19),
+13:18,13:18,RB 18216,Oranienburg (an 13:52),14
+13:22,13:22,RB 18319,Blankenfelde(Teltow-Fläming) (an 13:51),13
+13:25,13:25,RE 3119,Nauen (an 14:21),14
+13:33,13:33,IC 2178,Rostock Hbf (an 15:35),14
+13:40 (+123),15:43,RE 3118,Cottbus Hbf (an 14:56),13
+13:41,13:41,RB 18318,Eberswalde Hbf (an 14:27),14
+13:45,13:45,RB 33734,Köln Messe/Deutz (an 14:18),2
+13:46,13:46,RB 18219,Ludwigsfelde (an 14:24),13
+13:48,13:48,RB 61119,Oranienburg (an 14:21),
+13:53,13:53,RB 33769,Frankfurt(Oder) (an 14:44),1
+13:53,13:53,RE 33769,Frankfurt(Oder) (an 14:44),
+13:59 (+4),14:03,RB 75818,Berlin Ostbahnhof (an 14:02),2
+14:02,14:02,RE 75819,Lübben(Spreewald) (an 14:56),1
+14:05 (+3),14:08,RB 33776,Berlin Ostbahnhof (an 14:08),2
+14:16,14:16,RB 33729,Frankfurt(Oder) (an 15:19),1
+14:16,14:16,RE 34398,Frankfurt(Oder) (an 15:19),
+14:18,14:18,RB 18218,Oranienburg (an 14:52),14
+14:22 (+1),14:23,RB 18321,Blankenfelde(Teltow-Fläming) (an 14:51),13
+14:25,14:25,RE 3121,Nauen (an 15:21),14
+14:28 (+19),14:47,IC 2179,Dresden Hbf (an 16:28),13
+14:40,14:40,RE 3120,Cottbus Hbf (an 15:55),13
+14:41,14:41,RB 18320,Eberswalde Hbf (an 15:27),14
+14:45,14:45,RB 33736,Berlin Ostbahnhof (an 14:49),2
+14:46,14:46,RB 18221,Ludwigsfelde (an 15:24),13
+14:48,14:48,RB 61121,Oranienburg (an 15:21),
+14:54,14:54,RB 33771,Frankfurt(Oder) (an 15:44),1
+14:54,14:54,RE 33771,Frankfurt(Oder) (an 15:44),
+14:59,14:59,RB 75820,Berlin Ostbahnhof (an 15:02),2
+15:02,15:02,RB 75821,Lübben(Spreewald) (an 15:56),
+15:02,15:02,RE 75821,Lübben(Spreewald) (an 15:56),
+15:05,15:05,RB 33778,Berlin Ostbahnhof (an 15:08),2
+15:16,15:16,RB 33731,Frankfurt(Oder) (an 16:19),1
+15:16,15:16,RE 69010,Frankfurt(Oder) (an 16:19),
+15:18,15:18,RB 18220,Oranienburg (an 15:52),14
+15:22,15:22,RB 18323,Blankenfelde(Teltow-Fläming) (an 15:51),13
+15:25,15:25,RE 3123,Nauen (an 16:21),14
+15:33 (+6),15:39,IC 2176,Rostock Hbf (an 17:37),14
+15:40,15:40,RE 3122,Cottbus Hbf (an 16:55),13
+15:41,15:41,RB 18322,Eberswalde Hbf (an 16:27),14
+15:46,15:46,RB 18223,Ludwigsfelde (an 16:24),13
+15:48,15:48,RB 61123,Oranienburg (an 16:21),
+15:53,15:53,RB 33773,Frankfurt(Oder) (an 16:44),1
+15:53,15:53,RE 33773,Frankfurt(Oder) (an 16:44),
+15:59,15:59,RB 75822,Berlin Ostbahnhof (an 16:02),2
+16:02,16:02,RB 75823,Lübben(Spreewald) (an 16:56),1
+16:02,16:02,RE 75823,Lübben(Spreewald) (an 16:56),
+16:05,16:05,RB 33780,Berlin Ostbahnhof (an 16:08),2
+16:16,16:16,RB 33733,Frankfurt(Oder) (an 17:19),1
+16:16,16:16,RE 1,Vaihingen(Enz) (an 23:42),
+16:18,16:18,RB 18222,Oranienburg (an 16:52),
+16:25,16:25,RE 3125,Nauen (an 17:20),14
+16:32 (+18),16:50,IC 2271,Chemnitz Hbf (an 19:31),13
+16:40,16:40,RE 3124,Cottbus Hbf (an 17:56),13
+16:41,16:41,RB 18324,Eberswalde Hbf (an 17:27),
+16:45,16:45,RB 33740,Berlin Ostbahnhof (an 16:49),2
+16:46,16:46,RB 18225,Birkengrund (an 17:20),
+16:48,16:48,RB 61125,Oranienburg (an 17:21),
+16:53,16:53,RB 33775,Frankfurt(Oder) (an 17:44),1
+16:53,16:53,RE 33775,Frankfurt(Oder) (an 17:44),
+17:02,17:02,RE 75825,Lübben(Spreewald) (an 17:56),1
+17:05,17:05,RB 33782,Berlin Ostbahnhof (an 17:08),2
+17:16,17:16,RB 33735,Frankfurt(Oder) (an 18:19),1
+17:16,17:16,RE 90970,Frankfurt(Oder) (an 18:19),
+17:22,17:22,RB 18327,Blankenfelde(Teltow-Fläming) (an 17:51),13
+17:25,17:25,RE 3127,Nauen (an 18:21),14
+17:36 (+3),17:39,IC 2174,Rostock Hbf (an 19:37),14
+17:40,17:40,RE 3126,Cottbus Hbf (an 18:55),13
+17:42,17:42,RB 18326,Eberswalde Hbf (an 18:27),14
+17:46,17:46,RB 18227,Ludwigsfelde (an 18:24),13
+17:48,17:48,RB 61127,Templin Stadt (an 19:18),7
+17:53,17:53,RB 33777,Frankfurt(Oder) (an 18:44),1
+17:53,17:53,RE 33777,Frankfurt(Oder) (an 18:44),
+17:59 (+1),18:00,IC 2471,Dresden Hbf (an 19:54),13
+17:59,17:59,RE 75826,Berlin Ostbahnhof (an 18:02),2
+18:02,18:02,RE 75827,Lübben(Spreewald) (an 18:56),1
+18:05,18:05,RB 33784,Berlin Ostbahnhof (an 18:08),2
+18:16,18:16,RB 33737,Frankfurt(Oder) (an 19:19),1
+18:16,18:16,RE 82769,Frankfurt(Oder) (an 19:19),
+18:18,18:18,RB 18226,Oranienburg (an 18:52),
+18:22,18:22,RB 18329,Flughafen BER (an 18:40),
+18:25,18:25,RE 3129,Nauen (an 19:21),14
+18:29 (+19),18:48,IC 2273,Chemnitz Hbf (an 21:31),13
+18:40,18:40,RE 3128,Cottbus Hbf (an 19:55),13
+18:41,18:41,RB 18328,Eberswalde Hbf (an 19:27),14
+18:45,18:45,RB 33744,Berlin Ostbahnhof (an 18:49),2
+18:46,18:46,RB 18229,Ludwigsfelde (an 19:24),13
+18:53,18:53,RB 33779,Frankfurt(Oder) (an 19:47),1
+18:53,18:53,RE 33779,Frankfurt(Oder) (an 19:47),
+18:59,18:59,RB 75828,Berlin Ostbahnhof (an 19:02),2
+19:02,19:02,RE 75829,Lübben(Spreewald) (an 19:56),1
+19:05,19:05,RE 33786,Berlin Ostbahnhof (an 19:08),2
+19:16,19:16,RB 33739,Frankfurt(Oder) (an 20:19),1
+19:16,19:16,RE 26039,Frankfurt(Oder) (an 20:19),
+19:18,19:18,RB 18228,Oranienburg (an 19:52),14
+19:25,19:25,RE 3131,Nauen (an 20:20),14
+19:33 (+25),19:58,IC 2172,Rostock Hbf (an 21:37),14
+19:40,19:40,RE 3130,Cottbus Hbf (an 20:55),13
+19:41,19:41,RB 18330,Eberswalde Hbf (an 20:27),14
+19:45 (+1),19:46,RB 33746,Berlin Ostbahnhof (an 19:49),2
+19:46 (+1),19:47,RB 18231,Ludwigsfelde (an 20:24),13
+19:53,19:53,RB 33781,Frankfurt(Oder) (an 20:44),1
+19:53,19:53,RE 33781,Frankfurt(Oder) (an 20:44),
+20:02,20:02,RB 75831,Lübben(Spreewald) (an 20:56),1
+20:16,20:16,RB 33741,Frankfurt(Oder) (an 21:19),1
+20:16,20:16,RE 91002,Frankfurt(Oder) (an 21:19),
+20:18,20:18,RB 18230,Oranienburg (an 20:52),14
+20:22,20:22,RB 18333,Blankenfelde(Teltow-Fläming) (an 20:51),13
+20:25,20:25,RE 3133,Nauen (an 21:21),14
+20:28 (+1),20:29,IC 2275,Dresden Hbf (an 22:28),13
+20:35,20:35,RE 73823,Fürstenwalde(Spree) (an 21:09),1
+20:40,20:40,RE 3132,Cottbus Hbf (an 21:56),13
+20:41,20:41,RB 18332,Eberswalde Hbf (an 21:27),14
+20:50,20:50,RB 33748,Berlin Ostbahnhof (an 20:53),2
+20:54,20:54,RB 33783,Frankfurt(Oder) (an 21:45),1
+20:54,20:54,RE 33783,Frankfurt(Oder) (an 21:45),
+20:59,20:59,RB 75832,Berlin Ostbahnhof (an 21:02),2
+21:02,21:02,RE 75833,Lübbenau(Spreewald) (an 22:03),1
+21:16,21:16,RB 33743,Frankfurt(Oder) (an 22:19),1
+21:16,21:16,RE 91004,Frankfurt(Oder) (an 22:19),
+21:25,21:25,RE 3135,Nauen (an 22:21),14
+21:38,21:38,RB 33790,Berlin Ostbahnhof (an 21:42),2
+21:40,21:40,RE 3134,Cottbus Hbf (an 22:56),13
+21:41,21:41,RB 18334,Eberswalde Hbf (an 22:27),
+21:48,21:48,RB 61145,Oranienburg (an 22:21),
+21:52,21:52,RB 33785,Frankfurt(Oder) (an 22:45),1
+21:52,21:52,RE 33785,Frankfurt(Oder) (an 22:45),
+22:02,22:02,RB 75835,Lübben(Spreewald) (an 22:56),1
+22:02,22:02,RE 75835,Lübben(Spreewald) (an 22:56),
+22:18,22:18,RB 18234,Oranienburg (an 22:52),
+22:19,22:19,RB 33745,Frankfurt(Oder) (an 23:21),1
+22:19,22:19,RE 91446,Frankfurt(Oder) (an 23:21),
+22:25,22:25,RE 3137,Nauen (an 23:21),14
+22:41,22:41,RB 18336,Eberswalde Hbf (an 23:27),14
+22:41,22:41,RE 33792,Berlin Ostbahnhof (an 22:45),2
+22:49,22:49,RB 61147,Oranienburg (an 23:21),
+23:00,23:00,RE 3136,Cottbus Hbf (an 00:29),13
+23:16,23:16,RB 33747,Frankfurt(Oder) (an 00:19),1
+23:18,23:18,RB 18236,Oranienburg (an 23:52),
