@@ -1,0 +1,92 @@
+Ankunft ▼,Ist ▼,Zugnr. ▼,von (Abfahrt) ▼,Gleis ▼
+05:09,05:09,RE 62003,Baruth(Mark) (ab 04:19),4
+05:47,05:47,RE 3167,Jüterbog (ab 05:02),3
+06:11,06:11,RE 62005,Elsterwerda (ab 04:29),4
+06:39,06:39,RE 4352,Berlin Südkreuz (ab 06:34),3
+07:09 (+1),07:10,RE 62007,Elsterwerda (ab 05:29),4
+07:14 (+1),07:15,RE 3304,Lutherstadt Wittenberg Hbf (ab 05:51),3
+07:34,07:34,RE 3343,Schwedt(Oder) (ab 06:04),1
+07:45,07:45,RE 62004,Wismar (ab 04:26),1
+07:47,07:47,RE 3169,Jüterbog (ab 07:02),3
+08:12,08:12,RE 62009,Elsterwerda (ab 06:40),4
+08:15 (+48),09:03,RE 3344,Lutherstadt Wittenberg Hbf (ab 06:53),3
+08:39 (+1),08:40,RE 4354,Berlin Südkreuz (ab 08:34),3
+08:46,08:46,RE 3149,Falkenberg(Elster) (ab 07:18),3
+08:47 (+1),08:48,RE 62006,Wittenberge (ab 07:06),1
+09:09 (+1),09:10,RE 62011,Elsterwerda (ab 07:29),4
+09:11,09:11,RE 3148,Rathenow (ab 08:05),2
+09:14,09:14,RE 3306,Lutherstadt Wittenberg Hbf (ab 07:51),3
+09:34,09:34,RE 3345,Schwedt(Oder) (ab 08:04),1
+09:39 Ausfall,--:--,RE 3508,Sargans (ab 23:38),3
+09:45,09:45,RE 62008,Wismar (ab 06:21),1
+09:47,09:47,RE 3171,Jüterbog (ab 09:02),3
+10:11,10:11,RE 62013,Elsterwerda (ab 08:40),4
+10:15,10:15,RE 3346,Lutherstadt Wittenberg Hbf (ab 08:52),3
+10:39,10:39,RE 4356,Berlin Südkreuz (ab 10:34),3
+10:42 (+2),10:44,RE 3305,Stralsund Hbf (ab 07:10),2
+11:09 (+1),11:10,RE 62015,Elsterwerda (ab 09:29),4
+11:14 (+4),11:18,RE 3308,Lutherstadt Wittenberg Hbf (ab 09:51),3
+11:16 (+8),11:24,RE 4357,Rostock Hbf (ab 08:34),2
+11:34,11:34,RE 3347,Schwedt(Oder) (ab 10:04),1
+11:39 (+3),11:42,RE 3510,Berlin Südkreuz (ab 11:34),3
+11:44 (+4),11:48,RE 62012,Wismar (ab 08:21),1
+11:49 (+2),11:51,RE 3173,Jüterbog (ab 11:02),3
+12:09,12:09,RE 3170,Stendal Hbf (ab 10:47),2
+12:10,12:10,RB 18512,Berlin Hbf (ab 12:07),1
+12:11,12:11,RE 62017,Baruth(Mark) (ab 11:21),4
+12:16 (+15),12:31,RE 3509,Stralsund Hbf (ab 09:02),2
+12:19,12:19,RB 21868,Flughafen BER (ab 12:01),4
+12:25,12:25,RB 21873,Berlin Hbf (ab 12:22),1
+12:35,12:35,RB 21870,Flughafen BER (ab 12:16),4
+12:39,12:39,RE 4358,Berlin Südkreuz (ab 12:34),3
+12:40,12:40,RB 21875,Berlin Hbf (ab 12:37),1
+12:42 (+1),12:43,RE 3307,Stralsund Hbf (ab 09:10),2
+12:47 (+17),13:04,RE 62014,Wittenberge (ab 11:05),1
+12:49,12:49,RB 18515,Flughafen BER (ab 12:31),4
+13:16 (+1),13:17,RE 4359,Rostock Hbf (ab 10:34),2
+13:39,13:39,RE 3512,Berlin Südkreuz (ab 13:34),3
+13:45 (+1),13:46,RE 62016,Wismar (ab 10:21),1
+14:13,14:13,RE 62021,Baruth(Mark) (ab 13:20),4
+14:15,14:15,RE 3350,Lutherstadt Wittenberg Hbf (ab 12:52),3
+14:42 (+7),14:49,RE 3309,Stralsund Hbf (ab 11:10),2
+15:10,15:10,RB 18518,Berlin Hbf (ab 15:04),1
+15:14,15:14,RE 3312,Luckenwalde (ab 14:35),3
+15:45 (+7),15:52,RE 62020,Wismar (ab 12:21),1
+16:10,16:10,RB 18520,Berlin Hbf (ab 16:07),1
+16:14 (+11),16:25,RE 62025,Elsterwerda (ab 14:41),4
+16:15 (+4),16:19,RE 3352,Lutherstadt Wittenberg Hbf (ab 14:52),3
+16:25,16:25,RB 21905,Berlin Hbf (ab 16:22),1
+16:39 (+3),16:42,RE 4362,Berlin Südkreuz (ab 16:34),3
+16:40,16:40,RE 21907,Berlin Hbf (ab 16:37),1
+16:42 (+3),16:45,RE 3311,Stralsund Hbf (ab 13:10),2
+16:47 (+16),17:03,RE 62022,Wittenberge (ab 15:05),1
+16:55,16:55,RE 21909,Berlin Hbf (ab 16:52),1
+17:10,17:10,RB 18522,Berlin Hbf (ab 17:04),1
+17:11,17:11,RB 18334,Biesenthal (ab 22:17),2
+17:14 (+6),17:20,RE 3314,Lutherstadt Wittenberg Hbf (ab 15:51),3
+17:40,17:40,RE 3516,Berlin Südkreuz (ab 17:36),3
+17:45 (+1),17:46,RE 62024,Wismar (ab 14:21),1
+18:13 (+15),18:28,RE 62029,Elsterwerda (ab 16:41),4
+18:15 (+4),18:19,RE 3354,Lutherstadt Wittenberg Hbf (ab 16:52),3
+18:16 (+1),18:17,RE 3515,Stralsund Hbf (ab 15:02),2
+18:39 (+2),18:41,RE 4364,Berlin Südkreuz (ab 18:34),3
+18:42 (+2),18:44,RE 3313,Stralsund Hbf (ab 15:14),2
+18:47 (+1),18:48,RE 62026,Wittenberge (ab 17:05),1
+19:14 (+5),19:19,RE 3316,Lutherstadt Wittenberg Hbf (ab 17:51),3
+19:16 (+5),19:21,RE 4365,Rostock Hbf (ab 16:34),2
+19:39 (+2),19:41,RE 3518,Berlin Südkreuz (ab 19:34),3
+19:45 (+5),19:50,RE 62028,Wismar (ab 16:21),1
+20:13,20:13,RE 62033,Elsterwerda (ab 18:41),4
+20:16,20:16,RE 3517,Stralsund Hbf (ab 17:02),1
+20:39 (+1),20:40,RE 4366,Berlin Südkreuz (ab 20:34),3
+20:42 (+5),20:47,RE 3315,Stralsund Hbf (ab 17:10),2
+20:47 (+3),20:50,RE 62030,Wittenberge (ab 19:05),1
+21:09,21:09,RE 62035,Elsterwerda (ab 19:29),4
+21:14 (+4),21:18,RE 3318,Luckenwalde (ab 20:35),3
+21:16 (+1),21:17,RE 4367,Rostock Hbf (ab 18:34),2
+21:39,21:39,RE 3520,Berlin Südkreuz (ab 21:34),3
+21:45,21:45,RE 62032,Wismar (ab 18:21),1
+23:00,23:00,RE 3185,Jüterbog (ab 22:04),3
+23:09 (+1),23:10,RE 62039,Elsterwerda (ab 21:30),4
+23:37 (+3),23:40,RE 3359,Schwedt(Oder) (ab 22:04),2
+23:45,23:45,RE 62036,Wismar (ab 20:21),1
