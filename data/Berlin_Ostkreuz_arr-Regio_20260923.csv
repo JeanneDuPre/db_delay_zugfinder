@@ -1,0 +1,87 @@
+Ankunft ▼,Ist ▼,Zugnr. ▼,von (Abfahrt) ▼,Gleis ▼
+00:00,00:00,RE 73826,Frankfurt(Oder) (ab 23:07),
+00:01,00:01,RB 61138,Templin Stadt (ab 22:33),
+00:13,00:13,RB 33749,Berlin Ostbahnhof (ab 00:10),1
+00:33,00:33,RE 3141,Cottbus Hbf (ab 23:03),14
+00:35,00:35,RE 33796,Frankfurt(Oder) (ab 23:32),
+04:25,04:25,RB 33751,Berlin Ostbahnhof (ab 04:23),1
+05:40,05:40,RB 33718,Eisenhüttenstadt (ab 04:21),2
+06:14,06:14,RB 33713,Berlin Ostbahnhof (ab 06:11),1
+07:14,07:14,RB 33715,Berlin Ostbahnhof (ab 07:11),1
+07:32 (+2),07:34,IC 2274,Dresden Hbf (ab 05:35),14
+07:51,07:51,RB 33757,Berlin Ostbahnhof (ab 07:48),1
+08:14,08:14,RB 33717,Berlin Ostbahnhof (ab 08:11),1
+08:26 (+2),08:28,IC 2173,Rostock Hbf (ab 06:20),
+08:50,08:50,RB 33759,Berlin Ostbahnhof (ab 08:47),1
+09:04,09:04,RB 33766,Frankfurt(Oder) (ab 08:10),2
+09:14,09:14,RB 33719,Berlin Ostbahnhof (ab 09:11),1
+09:32,09:32,IC 2272,Chemnitz Hbf (ab 06:26),14
+09:39,09:39,RB 18310,Blankenfelde(Teltow-Fläming) (ab 09:09),14
+09:43,09:43,RB 33726,Frankfurt(Oder) (ab 08:37),2
+09:51,09:51,RB 33761,Berlin Ostbahnhof (ab 09:48),1
+10:03,10:03,RB 33768,Frankfurt(Oder) (ab 09:04),2
+10:14,10:14,RB 33721,Berlin Ostbahnhof (ab 10:11),1
+10:16,10:16,RB 18210,Ludwigsfelde (ab 09:38),14
+10:26 (+2),10:28,IC 2175,Rostock Hbf (ab 08:20),13
+10:43,10:43,RB 33728,Frankfurt(Oder) (ab 09:37),2
+11:03,11:03,RB 33770,Frankfurt(Oder) (ab 10:03),2
+11:14,11:14,RB 33723,Berlin Ostbahnhof (ab 11:11),1
+11:16,11:16,RB 18212,Ludwigsfelde (ab 10:38),14
+11:31,11:31,IC 2270,Chemnitz Hbf (ab 08:26),14
+11:43,11:43,RB 33730,Frankfurt(Oder) (ab 10:37),2
+11:51,11:51,RB 33765,Berlin Ostbahnhof (ab 11:48),1
+12:01,12:01,RB 61114,Templin Stadt (ab 10:33),7
+12:03,12:03,RB 33772,Frankfurt(Oder) (ab 11:03),2
+12:14,12:14,RB 33725,Berlin Ostbahnhof (ab 12:11),1
+12:16,12:16,RB 18214,Ludwigsfelde (ab 11:38),14
+12:26,12:26,IC 2177,Rostock Hbf (ab 10:21),13
+12:43,12:43,RB 33732,Frankfurt(Oder) (ab 11:37),2
+12:51,12:51,RB 33767,Berlin Ostbahnhof (ab 12:48),1
+13:01,13:01,RB 61116,Templin Stadt (ab 11:33),8
+13:03,13:03,RB 33774,Frankfurt(Oder) (ab 12:04),2
+13:14,13:14,RB 33727,Berlin Ostbahnhof (ab 13:11),1
+13:31 (+1),13:32,IC 2178,Dresden Hbf (ab 11:35),14
+13:43,13:43,RB 33734,Frankfurt(Oder) (ab 12:37),2
+13:51,13:51,RB 33769,Berlin Ostbahnhof (ab 13:48),1
+14:03,14:03,RB 33776,Frankfurt(Oder) (ab 13:04),2
+14:14,14:14,RB 33729,Berlin Ostbahnhof (ab 14:11),1
+14:26 (+1),14:27,IC 2179,Rostock Hbf (ab 12:22),13
+14:43,14:43,RB 33736,Frankfurt(Oder) (ab 13:37),2
+14:52,14:52,RB 33771,Berlin Ostbahnhof (ab 14:49),1
+15:03,15:03,RB 33778,Frankfurt(Oder) (ab 14:04),2
+15:14,15:14,RB 33731,Berlin Ostbahnhof (ab 15:11),1
+15:31,15:31,IC 2176,Dresden Hbf (ab 13:35),14
+16:03,16:03,RB 33780,Frankfurt(Oder) (ab 15:04),2
+16:14,16:14,RB 33733,Berlin Ostbahnhof (ab 16:11),1
+16:26 (+3),16:29,IC 2271,Rostock Hbf (ab 14:20),
+16:43,16:43,RB 33740,Frankfurt(Oder) (ab 15:37),2
+16:51,16:51,RB 33775,Berlin Ostbahnhof (ab 16:48),1
+17:03,17:03,RB 33782,Frankfurt(Oder) (ab 16:04),2
+17:14,17:14,RB 33735,Berlin Ostbahnhof (ab 17:11),1
+17:16,17:16,RB 18224,Ludwigsfelde (ab 16:38),14
+17:23,17:23,RE 3127,Cottbus Hbf (ab 16:00),14
+17:34 (+25),17:59,IC 2174,Dresden Hbf (ab 15:35),14
+18:01,18:01,RB 61126,Templin Stadt (ab 16:33),8
+18:03,18:03,RB 33784,Frankfurt(Oder) (ab 17:04),2
+18:14,18:14,RB 33737,Berlin Ostbahnhof (ab 18:11),1
+18:23,18:23,RE 3129,Cottbus Hbf (ab 17:00),14
+18:26 (+8),18:34,IC 2273,Rostock Hbf (ab 16:20),13
+18:36 Ausfall,--:--,RE 3128,Nauen (ab 17:39),13
+18:43,18:43,RB 33744,Frankfurt(Oder) (ab 17:37),2
+19:03,19:03,RE 33786,Frankfurt(Oder) (ab 18:04),2
+19:14,19:14,RB 33739,Berlin Ostbahnhof (ab 19:11),1
+19:31,19:31,IC 2172,Dresden Hbf (ab 17:35),
+19:36 Ausfall,--:--,RE 3130,Nauen (ab 18:39),13
+19:43,19:43,RB 33746,Frankfurt(Oder) (ab 18:37),2
+20:14,20:14,RB 33741,Berlin Ostbahnhof (ab 20:11),1
+20:26,20:26,IC 2275,Rostock Hbf (ab 18:20),13
+20:43,20:43,RB 33748,Frankfurt(Oder) (ab 19:41),2
+20:52,20:52,RB 33783,Berlin Ostbahnhof (ab 20:49),1
+21:14,21:14,RB 33743,Berlin Ostbahnhof (ab 21:11),1
+21:33,21:33,RE 73825,Berlin Ostbahnhof (ab 21:31),1
+21:36,21:36,RB 33790,Frankfurt(Oder) (ab 20:32),2
+21:50,21:50,RB 33785,Berlin Ostbahnhof (ab 21:47),1
+22:17,22:17,RB 33745,Berlin Ostbahnhof (ab 22:13),1
+22:39,22:39,RE 33792,Frankfurt(Oder) (ab 21:33),2
+22:50,22:50,RB 73824,Fürstenwalde(Spree) (ab 22:15),2
+23:14,23:14,RB 33747,Berlin Ostbahnhof (ab 23:11),1
