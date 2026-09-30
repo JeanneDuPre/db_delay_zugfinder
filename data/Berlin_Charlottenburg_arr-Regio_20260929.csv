@@ -1,0 +1,37 @@
+Ankunft ▼,Ist ▼,Zugnr. ▼,von (Abfahrt) ▼,Gleis ▼
+05:34,05:34,RB 18240,Potsdam Hbf (ab 04:36),2
+06:35,06:35,RB 18242,Potsdam Hbf (ab 05:36),2
+06:49,06:49,RE 73715,Burg(Magdeburg) (ab 05:27),4
+06:50,06:50,RB 18603,Nauen (ab 06:11),3
+07:04,07:04,RE 73805,Burg(Magdeburg) (ab 05:47),1
+07:34,07:34,RB 18244,Potsdam Hbf (ab 06:36),2
+07:49,07:49,RE 73717,Burg(Magdeburg) (ab 06:28),4
+07:50,07:50,RB 18605,Nauen (ab 07:11),3
+08:48,08:48,RE 73719,Burg(Magdeburg) (ab 07:28),4
+09:49,09:49,RE 73721,Burg(Magdeburg) (ab 08:28),4
+10:32 (+13),10:45,ICE 996,Kassel-Wilhelmshöhe (ab 07:49),
+10:48,10:48,RE 73723,Burg(Magdeburg) (ab 09:28),4
+10:55 (+2),10:57,RE 3613,Wittenberge (ab 08:05),
+11:48,11:48,RE 73725,Burg(Magdeburg) (ab 10:28),4
+11:50,11:50,RB 18613,Nauen (ab 11:10),3
+12:26,12:26,RE 73767,Werder(Havel) (ab 11:59),3
+12:31 (+7),12:38,ICE 994,Stuttgart Hbf (ab 06:36),4
+12:34,12:34,RB 18254,Potsdam Hbf (ab 11:36),2
+12:48,12:48,RE 73727,Burg(Magdeburg) (ab 11:28),4
+13:24 Ausfall,--:--,IC 2035,Norddeich (ab 05:39),1
+13:26,13:26,RE 73769,Werder(Havel) (ab 12:59),2
+13:34,13:34,RB 18256,Potsdam Hbf (ab 12:36),3
+13:48,13:48,RE 73729,Werder(Havel) (ab 13:22),4
+14:31 (+61),15:32,ICE 992,Frankfurt(M) Flughafen Fernbf (ab 10:09),
+14:34,14:34,RB 18258,Potsdam Hbf (ab 13:36),2
+14:50,14:50,RE 73731,Werder(Havel) (ab 14:22),4
+14:55 (+1),14:56,RE 3621,Wittenberge (ab 12:05),
+15:48,15:48,RE 73733,Werder(Havel) (ab 15:22),1
+16:31 Ausfall,--:--,ICE 798,Karlsruhe Hbf (ab 10:40),
+16:49,16:49,RE 73735,Werder(Havel) (ab 16:22),4
+17:26,17:26,RE 73777,Werder(Havel) (ab 16:59),4
+17:48,17:48,RE 73737,Werder(Havel) (ab 17:22),4
+18:04,18:04,RE 73819,Werder(Havel) (ab 17:37),1
+18:31 (+9),18:40,ICE 796,Frankfurt(M) Flughafen Fernbf (ab 14:09),4
+20:30 (+7),20:37,ICE 2842,Karlsruhe Hbf (ab 14:40),
+20:30 (+9),20:39,ICE 794,Karlsruhe Hbf (ab 14:40),4
