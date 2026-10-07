@@ -1,0 +1,72 @@
+Abfahrt ▼,Ist ▼,Zugnr. ▼,nach (Ankunft) ▼,Gleis ▼
+00:03,00:03,RE 3366,Großbeeren (an 23:53),
+00:56,00:56,RE 3363,Jüterbog (an 01:41),3
+05:03,05:03,RE 3302,Stralsund Hbf (an 08:45),4
+05:37,05:37,RE 3167,Berlin-Spandau (an 06:05),
+05:52,05:52,RE 3341,Lutherstadt Wittenberg Hbf (an 07:06),3
+06:05,06:05,RE 3342,Schwedt(Oder) (an 07:55),4
+06:37,06:37,RE 3147,Berlin-Spandau (an 07:05),
+06:54 (+4),06:58,RE 3301,Lutherstadt Wittenberg Hbf (an 08:07),3
+07:03,07:03,RE 3304,Stralsund Hbf (an 10:44),4
+07:37,07:37,RE 3169,Berlin-Spandau (an 08:05),
+07:52,07:52,RE 3343,Lutherstadt Wittenberg Hbf (an 09:06),
+08:05,08:05,RE 3344,Angermünde (an 09:23),
+08:37,08:37,RE 3149,Berlin-Spandau (an 09:05),
+08:54,08:54,RE 3303,Lutherstadt Wittenberg Hbf (an 10:07),3
+09:03,09:03,RE 3306,Stralsund Hbf (an 12:44),4
+09:37,09:37,RE 3171,Nauen (an 10:49),4
+09:52,09:52,RE 3345,Lutherstadt Wittenberg Hbf (an 11:06),3
+10:05 (+3),10:08,RE 3346,Schwedt(Oder) (an 11:55),4
+10:20,10:20,RE 3168,Jüterbog (an 10:54),3
+10:37,10:37,RE 3151,Berlin-Spandau (an 11:05),
+10:54,10:54,RE 3305,Lutherstadt Wittenberg Hbf (an 12:07),3
+11:03 (+1),11:04,RE 3308,Stralsund Hbf (an 14:44),4
+11:40,11:40,RE 3173,Nauen (an 12:49),4
+11:52 (+1),11:53,RE 3347,Lutherstadt Wittenberg Hbf (an 13:06),3
+12:06 (+3),12:09,RE 3348,Schwedt(Oder) (an 13:55),4
+12:20,12:20,RE 3170,Jüterbog (an 12:54),3
+12:37,12:37,RE 3153,Berlin-Spandau (an 13:05),
+12:54,12:54,RE 3307,Lutherstadt Wittenberg Hbf (an 14:07),3
+13:03,13:03,RE 3310,Stralsund Hbf (an 16:44),4
+13:22,13:22,RE 3152,Falkenberg(Elster) (an 14:44),3
+13:37,13:37,RB 18618,Nauen (an 14:49),4
+13:37,13:37,RE 3175,Nauen (an 14:49),4
+13:52,13:52,RE 3349,Lutherstadt Wittenberg Hbf (an 15:06),3
+14:05,14:05,RE 3350,Schwedt(Oder) (an 15:55),4
+14:20,14:20,RE 3172,Jüterbog (an 14:54),3
+14:37,14:37,RB 18620,Nauen (an 15:49),4
+14:37,14:37,RE 3155,Nauen (an 15:49),4
+14:54,14:54,RE 3309,Lutherstadt Wittenberg Hbf (an 16:07),3
+15:03 (+10),15:13,RE 3312,Stralsund Hbf (an 18:44),4
+15:22,15:22,RE 3154,Falkenberg(Elster) (an 16:45),3
+15:37,15:37,RE 3177,Nauen (an 16:49),4
+15:52 (+1),15:53,RE 3351,Lutherstadt Wittenberg Hbf (an 17:06),3
+16:05,16:05,RE 3352,Schwedt(Oder) (an 17:55),4
+16:19,16:19,RE 3174,Jüterbog (an 16:55),3
+16:37,16:37,RE 3157,Nauen (an 17:49),4
+16:54 (+2),16:56,RE 3311,Lutherstadt Wittenberg Hbf (an 18:07),3
+17:03 (+1),17:04,RE 3314,Stralsund Hbf (an 20:44),4
+17:22,17:22,RE 3156,Herzberg(Elster) (an 18:32),3
+17:37 (+37),18:14,RE 3179,Nauen (an 18:49),4
+17:51 (+2),17:53,RE 3353,Lutherstadt Wittenberg Hbf (an 19:06),3
+18:05 (+1),18:06,RE 3354,Schwedt(Oder) (an 19:55),4
+18:20,18:20,RE 3176,Jüterbog (an 18:54),3
+18:37,18:37,RE 3159,Nauen (an 19:49),4
+18:54 (+7),19:01,RE 3313,Lutherstadt Wittenberg Hbf (an 20:07),3
+19:03 (+13),19:16,RE 3316,Angermünde (an 20:22),4
+19:22,19:22,RE 3158,Herzberg(Elster) (an 20:31),3
+19:40,19:40,RE 3181,Nauen (an 20:49),4
+19:52 (+1),19:53,RE 3355,Lutherstadt Wittenberg Hbf (an 21:06),3
+20:05 (+3),20:08,RE 3356,Schwedt(Oder) (an 21:55),4
+20:20,20:20,RE 3178,Jüterbog (an 20:54),3
+20:37,20:37,RE 3161,Nauen (an 21:49),4
+20:54 (+2),20:56,RE 3315,Lutherstadt Wittenberg Hbf (an 22:07),3
+21:03,21:03,RE 3,Pasewalk (an 23:19),
+21:03 (+8),21:11,RE 3318,Pasewalk (an 23:19),4
+21:22,21:22,RE 3160,Jüterbog (an 21:56),3
+21:38,21:38,RE 3183,Berlin-Spandau (an 22:05),
+21:48,21:48,RE 3357,Jüterbog (an 22:30),3
+22:05 (+3),22:08,RE 3358,Schwedt(Oder) (an 23:56),4
+22:48,22:48,RE 3185,Berlin-Spandau (an 23:15),
+22:54 (+1),22:55,RE 3317,Lutherstadt Wittenberg Hbf (an 00:08),3
+23:49,23:49,RE 3359,Großbeeren (an 23:57),
