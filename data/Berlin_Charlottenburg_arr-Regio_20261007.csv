@@ -1,0 +1,64 @@
+Ankunft ▼,Ist ▼,Zugnr. ▼,von (Abfahrt) ▼,Gleis ▼
+04:35,04:35,RE 3702,Bad Belzig (ab 03:41),2
+05:39,05:39,RE 3704,Bad Belzig (ab 04:41),1
+05:55,05:55,RB 18243,Hennigsdorf(b Berlin) (ab 05:12),2
+06:00,06:00,RB 18242,Priort (ab 05:14),3
+06:04,06:04,RB 73803,Brandenburg Hbf (ab 05:22),1
+06:25,06:25,RE 73755,Brandenburg Hbf (ab 05:44),1
+06:49,06:49,RE 73715,Magdeburg Hbf (ab 05:01),4
+06:55,06:55,RB 18245,Hennigsdorf(b Berlin) (ab 06:12),2
+07:00,07:00,RB 18244,Priort (ab 06:14),3
+07:04,07:04,RE 73805,Magdeburg Hbf (ab 05:31),1
+07:26,07:26,RE 73757,Brandenburg Hbf (ab 06:44),1
+07:48,07:48,RE 73717,Magdeburg Hbf (ab 06:12),4
+07:55,07:55,RB 18247,Hennigsdorf(b Berlin) (ab 07:12),2
+08:00 (+1),08:01,RB 18246,Priort (ab 07:14),3
+08:04,08:04,RE 73807,Brandenburg Hbf (ab 07:22),1
+08:25,08:25,RE 73759,Brandenburg Hbf (ab 07:44),1
+08:35,08:35,RE 3710,Bad Belzig (ab 07:41),3
+08:48 (+1),08:49,RE 73719,Magdeburg Hbf (ab 07:12),4
+08:55,08:55,RB 18249,Hennigsdorf(b Berlin) (ab 08:12),2
+09:00,09:00,RB 18248,Priort (ab 08:14),3
+09:04,09:04,RE 73809,Brandenburg Hbf (ab 08:22),1
+09:25,09:25,RE 73761,Brandenburg Hbf (ab 08:44),
+09:37,09:37,RE 3712,Bad Belzig (ab 08:41),2
+09:48,09:48,RE 73721,Magdeburg Hbf (ab 08:12),4
+09:55,09:55,RB 18251,Hennigsdorf(b Berlin) (ab 09:13),
+10:00,10:00,RB 18250,Priort (ab 09:14),
+10:04,10:04,RE 73811,Brandenburg Hbf (ab 09:22),
+10:26,10:26,RE 73763,Brandenburg Hbf (ab 09:44),
+10:35,10:35,RE 3714,Bad Belzig (ab 09:41),
+10:48,10:48,RE 73723,Magdeburg Hbf (ab 09:12),
+10:54,10:54,RB 18253,Hennigsdorf(b Berlin) (ab 10:13),
+11:00,11:00,RB 18252,Priort (ab 10:14),
+11:26,11:26,RE 73765,Brandenburg Hbf (ab 10:44),
+11:39,11:39,RE 3716,Bad Belzig (ab 10:41),
+11:48,11:48,RE 73725,Magdeburg Hbf (ab 10:12),
+11:55,11:55,RB 18255,Hennigsdorf(b Berlin) (ab 11:13),
+12:00,12:00,RB 18254,Priort (ab 11:14),
+12:26,12:26,RE 73767,Brandenburg Hbf (ab 11:44),
+12:38,12:38,RE 3718,Bad Belzig (ab 11:41),
+12:48,12:48,RE 73727,Magdeburg Hbf (ab 11:12),
+12:55,12:55,RB 18257,Hennigsdorf(b Berlin) (ab 12:13),
+13:00,13:00,RB 18256,Priort (ab 12:14),3
+13:26,13:26,RE 73769,Brandenburg Hbf (ab 12:44),
+13:35,13:35,RE 3720,Bad Belzig (ab 12:41),
+13:48,13:48,RE 73729,Magdeburg Hbf (ab 12:12),
+13:55,13:55,RB 18259,Hennigsdorf(b Berlin) (ab 13:13),
+14:00,14:00,RB 18258,Priort (ab 13:14),
+14:25,14:25,RE 73771,Brandenburg Hbf (ab 13:44),
+14:35,14:35,RE 3722,Bad Belzig (ab 13:41),
+14:50,14:50,RE 73731,Magdeburg Hbf (ab 13:12),
+14:55,14:55,RB 18261,Hennigsdorf(b Berlin) (ab 14:13),
+15:00,15:00,RB 18260,Priort (ab 14:14),3
+15:07,15:07,RB 73813,Brandenburg Hbf (ab 14:22),
+15:26,15:26,RE 73773,Brandenburg Hbf (ab 14:44),
+15:38,15:38,RE 3724,Bad Belzig (ab 14:41),
+15:48,15:48,RE 73733,Magdeburg Hbf (ab 14:12),
+15:55,15:55,RB 18263,Hennigsdorf(b Berlin) (ab 15:13),2
+16:49,16:49,RE 73735,Magdeburg Hbf (ab 15:12),4
+20:00,20:00,RB 18270,Priort (ab 19:14),1
+20:55,20:55,RB 18273,Hennigsdorf(b Berlin) (ab 20:13),2
+21:00,21:00,RB 18272,Priort (ab 20:14),1
+21:55,21:55,RB 18275,Hennigsdorf(b Berlin) (ab 21:13),2
+22:00,22:00,RB 18274,Priort (ab 21:14),3

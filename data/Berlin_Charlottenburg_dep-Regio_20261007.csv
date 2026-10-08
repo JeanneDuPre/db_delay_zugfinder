@@ -1,0 +1,72 @@
+Abfahrt ▼,Ist ▼,Zugnr. ▼,nach (Ankunft) ▼,Gleis ▼
+00:06,00:06,RE 73794,Brandenburg Hbf (an 00:55),
+00:38,00:38,RE 3745,Potsdam Hbf (an 00:57),
+05:02,05:02,RB 18241,Priort (an 05:48),2
+05:06,05:06,RB 18240,Hennigsdorf(b Berlin) (an 05:46),3
+05:32,05:32,RE 73758,Brandenburg Hbf (an 06:20),4
+06:02,06:02,RB 18243,Priort (an 06:48),2
+06:06,06:06,RB 18242,Hennigsdorf(b Berlin) (an 06:46),3
+06:12,06:12,RE 73718,Magdeburg Hbf (an 07:50),4
+06:34,06:34,RE 73760,Brandenburg Hbf (an 07:24),1
+06:50,06:50,RE 73804,Brandenburg Hbf (an 07:33),1
+07:02,07:02,RB 18245,Priort (an 07:48),2
+07:06,07:06,RB 18244,Hennigsdorf(b Berlin) (an 07:46),3
+07:12,07:12,RE 73720,Magdeburg Hbf (an 08:47),4
+07:34,07:34,RE 73762,Brandenburg Hbf (an 08:27),1
+07:50,07:50,RE 73806,Brandenburg Hbf (an 08:34),1
+08:02,08:02,RB 18247,Priort (an 08:48),2
+08:06 (+1),08:07,RB 18246,Hennigsdorf(b Berlin) (an 08:46),3
+08:12,08:12,RE 73722,Magdeburg Hbf (an 09:50),4
+08:24,08:24,RE 3713,Bad Belzig (an 09:18),2
+08:34,08:34,RE 73764,Brandenburg Hbf (an 09:23),1
+08:50,08:50,RE 73808,Brandenburg Hbf (an 09:33),1
+09:02,09:02,RB 18249,Priort (an 09:48),2
+09:06,09:06,RB 18248,Hennigsdorf(b Berlin) (an 09:46),3
+09:12,09:12,RE 73724,Magdeburg-Neustadt (an 10:45),
+09:34,09:34,RE 73766,Brandenburg Hbf (an 10:27),
+09:50,09:50,RB 73810,Brandenburg Hbf (an 10:33),
+10:02,10:02,RB 18251,Potsdam Park Sanssouci (an 10:29),
+10:12,10:12,RE 73726,Magdeburg Hbf (an 11:50),
+10:34,10:34,RE 73768,Brandenburg Hbf (an 11:24),
+11:02,11:02,RB 18253,Potsdam Park Sanssouci (an 11:29),
+11:12,11:12,RE 73728,Magdeburg Hbf (an 12:48),4
+11:34,11:34,RE 73770,Brandenburg Hbf (an 12:27),
+12:02,12:02,RB 18255,Potsdam Park Sanssouci (an 12:29),
+12:12,12:12,RE 73730,Magdeburg Hbf (an 13:50),
+12:34,12:34,RE 73772,Brandenburg Hbf (an 13:24),
+13:02,13:02,RB 18257,Potsdam Park Sanssouci (an 13:29),
+13:06,13:06,RB 18256,Hennigsdorf(b Berlin) (an 13:46),3
+13:12,13:12,RE 73732,Magdeburg Hbf (an 14:50),
+13:34,13:34,RE 73774,Brandenburg Hbf (an 14:27),
+14:02,14:02,RB 18259,Potsdam Park Sanssouci (an 14:29),
+14:12,14:12,RE 73734,Magdeburg Hbf (an 15:50),4
+14:34,14:34,RE 73776,Brandenburg Hbf (an 15:24),
+14:50,14:50,RE 73812,Brandenburg Hbf (an 15:33),
+15:02,15:02,RB 18261,Potsdam Hbf (an 15:20),
+15:06,15:06,RB 18260,Hennigsdorf(b Berlin) (an 15:46),3
+15:12,15:12,RE 73736,Magdeburg Hbf (an 16:47),4
+15:34,15:34,RE 73778,Brandenburg Hbf (an 16:27),4
+15:51,15:51,RE 73814,Brandenburg Hbf (an 16:33),4
+16:02,16:02,RB 18263,Priort (an 16:48),2
+16:02,16:02,RB 21,Erfurt Hbf (an 16:43),
+16:11,16:11,RE 73738,Magdeburg Hbf (an 17:50),1
+16:34,16:34,RE 73780,Brandenburg Hbf (an 17:24),
+16:50,16:50,RE 73816,Brandenburg Hbf (an 17:33),
+17:02,17:02,RB 18265,Potsdam Hbf (an 17:20),
+17:12,17:12,RE 73740,Magdeburg Hbf (an 18:50),
+17:34,17:34,RE 73782,Brandenburg Hbf (an 18:27),
+17:51,17:51,RE 73818,Brandenburg Hbf (an 18:34),
+18:02,18:02,RB 18267,Potsdam Griebnitzsee (an 18:15),
+18:12,18:12,RE 73742,Magdeburg Hbf (an 19:50),
+19:12,19:12,RE 73744,Magdeburg Hbf (an 20:51),
+20:06,20:06,RB 18270,Hennigsdorf(b Berlin) (an 20:46),1
+20:12,20:12,RE 73746,Magdeburg Hbf (an 21:51),
+20:34,20:34,RE 73788,Brandenburg Hbf (an 21:21),
+21:02,21:02,RB 18273,Priort (an 21:48),2
+21:06,21:06,RB 18272,Hennigsdorf(b Berlin) (an 21:46),1
+21:12,21:12,RE 73748,Magdeburg Hbf (an 22:50),
+21:56,21:56,RE 1,Karlsruhe Hbf (an 21:52),
+21:56,21:56,RE 73790,Gerwisch (an 23:40),
+22:02,22:02,RB 18275,Priort (an 22:48),2
+22:06,22:06,RB 18274,Hennigsdorf(b Berlin) (an 22:46),3
+23:06,23:06,RE 73792,Magdeburg Hbf (an 00:48),
