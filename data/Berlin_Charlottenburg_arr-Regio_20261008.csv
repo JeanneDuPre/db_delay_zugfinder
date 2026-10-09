@@ -1,0 +1,38 @@
+Ankunft ▼,Ist ▼,Zugnr. ▼,von (Abfahrt) ▼,Gleis ▼
+12:55,12:55,RB 18257,Hennigsdorf(b Berlin) (ab 12:13),2
+13:00,13:00,RB 18256,Priort (ab 12:14),3
+13:26,13:26,RE 73769,Brandenburg Hbf (ab 12:44),4
+13:35,13:35,RE 3720,Bad Belzig (ab 12:41),1
+13:48,13:48,RE 73729,Magdeburg Hbf (ab 12:12),4
+13:55 (+92),15:27,RB 18259,Hennigsdorf(b Berlin) (ab 13:13),2
+14:00,14:00,RB 18258,Priort (ab 13:14),3
+14:25,14:25,RE 73771,Brandenburg Hbf (ab 13:44),1
+14:35,14:35,RE 3722,Bad Belzig (ab 13:41),4
+14:50,14:50,RE 73731,Magdeburg Hbf (ab 13:12),4
+14:55,14:55,RB 18261,Hennigsdorf(b Berlin) (ab 14:13),2
+15:00 (+7),15:07,RB 18260,Priort (ab 14:14),3
+15:07,15:07,RB 73813,Brandenburg Hbf (ab 14:22),2
+15:26,15:26,RE 73773,Brandenburg Hbf (ab 14:44),4
+15:38,15:38,RE 3724,Bad Belzig (ab 14:41),2
+15:48 (+8),15:56,RE 73733,Magdeburg Hbf (ab 14:12),1
+15:55,15:55,RB 18263,Hennigsdorf(b Berlin) (ab 15:13),2
+16:00,16:00,RB 18262,Priort (ab 15:14),3
+16:04,16:04,RE 73815,Brandenburg Hbf (ab 15:22),4
+16:49,16:49,RE 73735,Magdeburg Hbf (ab 15:12),4
+17:07,17:07,RE 73817,Brandenburg Hbf (ab 16:22),2
+17:26,17:26,RE 73777,Brandenburg Hbf (ab 16:44),4
+17:48,17:48,RE 73737,Magdeburg Hbf (ab 16:12),4
+18:04,18:04,RE 73819,Brandenburg Hbf (ab 17:22),1
+18:25,18:25,RE 73779,Brandenburg Hbf (ab 17:43),4
+18:48,18:48,RE 73739,Magdeburg Hbf (ab 17:13),4
+18:55,18:55,RB 18269,Hennigsdorf(b Berlin) (ab 18:13),2
+19:00,19:00,RB 18268,Priort (ab 18:14),3
+19:04,19:04,RE 73821,Brandenburg Hbf (ab 18:21),1
+19:25,19:25,RE 73781,Brandenburg Hbf (ab 18:44),1
+19:37,19:37,RE 3732,Bad Belzig (ab 18:41),3
+19:49,19:49,RE 73741,Magdeburg Hbf (ab 18:12),4
+20:25,20:25,RE 73783,Brandenburg Hbf (ab 19:44),1
+20:37,20:37,RE 3734,Bad Belzig (ab 19:41),3
+20:48,20:48,RE 73743,Magdeburg Hbf (ab 19:12),4
+21:26,21:26,RE 73785,Brandenburg Hbf (ab 20:44),1
+21:37,21:37,RE 3736,Bad Belzig (ab 20:41),3
