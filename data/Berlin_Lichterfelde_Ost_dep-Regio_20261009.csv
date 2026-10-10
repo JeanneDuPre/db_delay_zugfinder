@@ -1,0 +1,79 @@
+Abfahrt ▼,Ist ▼,Zugnr. ▼,nach (Ankunft) ▼,Gleis ▼
+00:03,00:03,RE 3360,Eberswalde Hbf (an 01:04),
+00:03 (+6),00:09,RE 3366,Berlin Hbf (an 00:16),4
+00:56,00:56,RE 3,Ulm Hbf (an 23:40),
+00:56,00:56,RE 3363,Halle(Saale)Hbf (an 02:59),
+01:47,01:47,RE 3362,Berlin Hbf (an 02:00),
+05:03,05:03,RE 3302,Stralsund Hbf (an 08:45),
+05:22 (+1),05:23,RE 3144,Falkenberg(Elster) (an 06:44),3
+05:37,05:37,RB 18602,Nauen (an 06:49),4
+05:37 (+1),05:38,RE 3167,Nauen (an 06:49),4
+05:52 (+1),05:53,RE 3341,Lutherstadt Wittenberg Hbf (an 07:06),3
+06:05 (+2),06:07,RE 3342,Schwedt(Oder) (an 07:55),4
+06:20,06:20,RE 3164,Jüterbog (an 06:54),3
+06:37 (+4),06:41,RE 3147,Nauen (an 07:49),4
+06:54 (+9),07:03,RE 3301,Lutherstadt Wittenberg Hbf (an 08:07),
+07:03 (+1),07:04,RE 3304,Stralsund Hbf (an 10:44),4
+07:22,07:22,RE 3146,Falkenberg(Elster) (an 08:44),3
+07:37 (+6),07:43,RE 3169,Nauen (an 08:49),4
+07:52 (+1),07:53,RE 3343,Lutherstadt Wittenberg Hbf (an 09:06),3
+08:05 (+9),08:14,RE 3344,Angermünde (an 09:23),
+08:19,08:19,RE 3166,Jüterbog (an 08:55),3
+08:37 (+1),08:38,RE 3149,Nauen (an 09:49),4
+08:54 (+3),08:57,RE 3303,Lutherstadt Wittenberg Hbf (an 10:07),3
+09:03 (+1),09:04,RE 3306,Stralsund Hbf (an 12:44),4
+09:22,09:22,RE 3148,Falkenberg(Elster) (an 10:44),3
+09:37 (+2),09:39,RE 3171,Nauen (an 10:49),4
+09:52 (+3),09:55,RE 3345,Lutherstadt Wittenberg Hbf (an 11:06),3
+10:05,10:05,RE 3346,Schwedt(Oder) (an 11:55),4
+10:20 (+1),10:21,RE 3168,Jüterbog (an 10:54),3
+10:37 (+1),10:38,RE 3151,Nauen (an 11:49),4
+10:54 (+1),10:55,RE 3305,Lutherstadt Wittenberg Hbf (an 12:07),3
+11:22,11:22,RE 3150,Falkenberg(Elster) (an 12:44),3
+11:40 (+33),12:13,RE 3173,Nauen (an 12:49),4
+11:52 (+2),11:54,RE 3347,Lutherstadt Wittenberg Hbf (an 13:06),3
+12:06 (+42),12:48,RE 3348,Schwedt(Oder) (an 13:55),4
+12:20,12:20,RE 3170,Jüterbog (an 12:54),3
+12:37 (+15),12:52,RE 3153,Nauen (an 13:49),4
+12:54 (+10),13:04,RE 3307,Lutherstadt Wittenberg Hbf (an 14:07),3
+13:03 (+1),13:04,RE 3310,Stralsund Hbf (an 16:44),4
+13:22,13:22,RE 3152,Falkenberg(Elster) (an 14:44),3
+13:37 (+9),13:46,RE 3175,Nauen (an 14:49),4
+13:52 (+3),13:55,RE 3349,Lutherstadt Wittenberg Hbf (an 15:06),3
+14:05 (+6),14:11,RE 3350,Schwedt(Oder) (an 15:55),4
+14:20,14:20,RE 3172,Jüterbog (an 14:54),3
+14:37 (+7),14:44,RE 3155,Nauen (an 15:49),4
+14:54 (+8),15:02,RE 3309,Lutherstadt Wittenberg Hbf (an 16:07),3
+15:03 (+2),15:05,RE 3312,Stralsund Hbf (an 18:44),4
+15:22,15:22,RE 3154,Falkenberg(Elster) (an 16:45),3
+15:37 (+13),15:50,RE 3177,Nauen (an 16:49),4
+15:52 (+1),15:53,RE 3351,Lutherstadt Wittenberg Hbf (an 17:06),3
+16:05 (+1),16:06,RE 3352,Schwedt(Oder) (an 17:55),4
+16:19 (+3),16:22,RE 3174,Jüterbog (an 16:55),3
+16:37 (+7),16:44,RE 3157,Nauen (an 17:49),4
+16:54 (+2),16:56,RE 3311,Lutherstadt Wittenberg Hbf (an 18:07),3
+17:03 (+4),17:07,RE 3314,Stralsund Hbf (an 20:44),4
+17:22,17:22,RE 3156,Falkenberg(Elster) (an 18:45),3
+17:37,17:37,RE 26117,Berlin-Spandau (an 18:05),
+17:37 (+23),18:00,RE 3179,Nauen (an 18:49),4
+17:51 (+1),17:52,RE 3353,Lutherstadt Wittenberg Hbf (an 19:06),3
+18:05 (+21),18:26,RE 3354,Schwedt(Oder) (an 19:55),4
+18:20,18:20,RE 3176,Jüterbog (an 18:54),3
+18:37 Ausfall,--:--,RE 3159,Nauen (an 19:49),4
+19:03 (+16),19:19,RE 3316,Wilmersdorf(Angerm) (an 20:43),4
+19:22,19:22,RE 3158,Falkenberg(Elster) (an 20:44),3
+19:40 (+3),19:43,RE 3181,Nauen (an 20:49),4
+19:52 (+2),19:54,RE 3355,Lutherstadt Wittenberg Hbf (an 21:06),3
+20:05 (+17),20:22,RE 3356,Schwedt(Oder) (an 21:55),4
+20:20 (+4),20:24,RE 3178,Jüterbog (an 20:54),3
+20:37 (+10),20:47,RE 3161,Nauen (an 21:49),4
+20:54 (+12),21:06,RE 3315,Lutherstadt Wittenberg Hbf (an 22:07),3
+21:03 (+7),21:10,RE 3318,Pasewalk (an 23:19),4
+21:22,21:22,RE 3160,Jüterbog (an 21:56),3
+21:38 (+7),21:45,RE 3183,Nauen (an 22:49),4
+21:48 (+1),21:49,RE 3357,Jüterbog (an 22:30),
+22:05 (+1),22:06,RE 3358,Schwedt(Oder) (an 23:56),4
+22:20,22:20,RE 3180,Jüterbog (an 22:54),3
+22:48 (+5),22:53,RE 3185,Berlin-Spandau (an 23:15),4
+22:54 (+7),23:01,RE 3317,Lutherstadt Wittenberg Hbf (an 00:08),3
+23:49 (+13),00:02,RE 3359,Jüterbog (an 00:35),3
