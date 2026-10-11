@@ -1,0 +1,153 @@
+Ankunft ▼,Ist ▼,Zugnr. ▼,von (Abfahrt) ▼,Gleis ▼
+00:22 (+6),00:28,RE 3319,Stralsund Hbf (ab 21:10),6
+00:23,00:23,RE 3360,Berlin-Lichterfelde Ost (ab 00:03),10
+00:44 (+4),00:48,RE 3141,Cottbus Hbf (ab 23:03),7
+01:26 (+17),01:43,RE 3361,Schwedt(Oder) (ab 00:04),7
+01:40 (+8),01:48,RE 3742,Bad Belzig (ab 00:32),10
+01:40,01:40,RE 7,Denzlingen (ab 00:20),
+02:13,02:13,RE 3364,Berlin Hbf (ab 02:09),9
+04:37,04:37,RB 21813,Eberswalde Hbf (ab 04:03),6
+04:37,04:37,RE 3369,Eberswalde Hbf (ab 04:03),6
+05:22,05:22,RE 3340,Berlin Hbf (ab 05:32),9
+05:22 (+1),05:23,RE 3341,Schwedt(Oder) (ab 04:04),
+05:27,05:27,RE 3,Groß Kiesow (ab 00:10),
+05:27,05:27,RE 3302,Falkenberg(Elster) (ab 03:40),9
+05:34,05:34,RE 92303,Cottbus Hbf (ab 04:00),
+05:50 (+5),05:55,RE 3103,Cottbus Hbf (ab 04:00),7
+06:01,06:01,ES 453,Bruxelles Midi (ab 18:06),8
+06:18,06:18,RE 3104,Nauen (ab 05:39),10
+06:22,06:22,RE 3,Ferdinandshof (ab 11:30),
+06:22,06:22,RE 3301,Angermünde (ab 05:32),6
+06:28 (+2),06:30,RE 3342,Lutherstadt Wittenberg Hbf (ab 04:52),10
+06:34 (+90),08:04,ICE 1541,Berlin S Wannsee (ab 05:55),5
+06:34 (+88),08:02,ICE 2905,Berlin S Wannsee (ab 05:55),5
+06:36,06:36,RE 3105,Cottbus Hbf (ab 04:57),7
+06:37 (+21),06:58,EC 430,Przemysl Glowny (ab 18:55),8
+07:21 (+29),07:50,ICE 904,München Hbf (ab 23:12),10
+07:21,07:21,RE 3106,Nauen (ab 06:39),10
+07:21,07:21,RE 3343,Schwedt(Oder) (ab 06:04),6
+07:28,07:28,RE 3304,Lutherstadt Wittenberg Hbf (ab 05:51),9
+07:31 (+3),07:34,D 10301,Stockholm Central (ab 16:25),
+07:31 (+3),07:34,D 301,Malmö Central (ab 21:55),
+07:38 (+6),07:44,RE 3107,Cottbus Hbf (ab 06:03),7
+08:14 (+1),08:15,ICE 698,München Hbf (ab 22:46),8
+08:19 (+4),08:23,IC 2474,Magdeburg Hbf (ab 06:40),9
+08:22,08:22,RE 3303,Stralsund Hbf (ab 05:10),6
+08:23,08:23,RE 3108,Nauen (ab 07:39),10
+08:27 (+7),08:34,RE 3344,Halle(Saale)Hbf (ab 05:46),8
+08:36 (+4),08:40,RE 3109,Cottbus Hbf (ab 07:04),7
+08:44,08:44,ICE 2812,Leipzig Hbf (ab 07:16),
+08:44,08:44,ICE 806,Leipzig Hbf (ab 07:16),8
+09:02 (+4),09:06,ICE 936,Eisenach Hbf (ab 06:37),7
+09:19,09:19,RE 3110,Nauen (ab 08:39),8
+09:21 (+1),09:22,RE 3345,Schwedt(Oder) (ab 08:04),6
+09:28 (+2),09:30,RE 3306,Lutherstadt Wittenberg Hbf (ab 07:51),9
+09:40,09:40,RE 3111,Cottbus Hbf (ab 08:04),7
+09:43,09:43,ICE 1104,München Hbf (ab 05:17),8
+10:19,10:19,RE 3112,Nauen (ab 09:39),10
+10:22,10:22,RE 3305,Stralsund Hbf (ab 07:10),
+10:25,10:25,EC 248,Warszawa Wschodnia (ab 04:49),7
+10:28 (+5),10:33,RE 3346,Lutherstadt Wittenberg Hbf (ab 08:52),9
+10:36 (+4),10:40,RE 3113,Cottbus Hbf (ab 09:03),7
+10:43 (+5),10:48,ICE 696,Frankfurt(Main)Hbf (ab 06:15),8
+10:54 (+2),10:56,ICE 839,Stralsund Hbf (ab 08:07),6
+11:02 (+17),11:19,ICE 934,Darmstadt Hbf (ab 06:37),9
+11:19,11:19,RE 3114,Nauen (ab 10:39),8
+11:21 (+2),11:23,RE 3347,Schwedt(Oder) (ab 10:04),6
+11:28 (+4),11:32,RE 3308,Lutherstadt Wittenberg Hbf (ab 09:51),9
+11:38 (+1),11:39,RE 3115,Cottbus Hbf (ab 10:03),7
+11:41 (+1),11:42,ICE 1102,München Hbf (ab 07:17),8
+11:56 (+4),12:00,ICE 1162,Stuttgart Hbf (ab 07:03),10
+12:19,12:19,RE 3116,Nauen (ab 11:39),10
+12:22,12:22,RE 3307,Stralsund Hbf (ab 09:10),6
+12:24 (+19),12:43,ICE 2823,Köln Hbf (ab 06:45),8
+12:24 (+19),12:43,ICE 553,Köln Hbf (ab 06:45),8
+12:25,12:25,EC 246,Warszawa Wschodnia (ab 06:49),7
+12:28,12:28,RE 3348,Lutherstadt Wittenberg Hbf (ab 10:52),9
+12:36,12:36,RE 3117,Cottbus Hbf (ab 11:03),7
+12:43 (+24),13:07,ICE 2830,Stuttgart Hbf (ab 06:49),8
+12:43 (+24),13:07,ICE 694,Stuttgart Hbf (ab 06:49),8
+12:54 (+6),13:00,ICE 931,Ostseebad Binz (ab 09:15),6
+13:02 (+21),13:23,ICE 932,Saarbrücken Hbf (ab 06:28),8
+13:19,13:19,RE 3118,Nauen (ab 12:39),8
+13:21,13:21,RE 3349,Schwedt(Oder) (ab 12:04),6
+13:28 (+9),13:37,RE 3310,Lutherstadt Wittenberg Hbf (ab 11:51),9
+13:38 (+4),13:42,RE 3119,Cottbus Hbf (ab 12:03),7
+14:06 (+2),14:08,ICE 1100,München Hbf (ab 09:19),8
+14:19,14:19,RE 3120,Nauen (ab 13:39),10
+14:22,14:22,RE 3309,Stralsund Hbf (ab 11:10),6
+14:24 (+14),14:38,ICE 555,Köln Hbf (ab 08:44),8
+14:25 (+56),15:21,EC 48,Warszawa Wschodnia (ab 08:49),7
+14:28 (+2),14:30,RE 3350,Lutherstadt Wittenberg Hbf (ab 12:52),9
+14:36 (+41),15:17,RE 3121,Cottbus Hbf (ab 13:03),7
+14:43 (+16),14:59,ICE 692,München Hbf (ab 06:42),8
+14:53 (+1),14:54,ICE 933,Ostseebad Binz (ab 11:24),7
+15:02 (+13),15:15,ICE 930,Frankfurt(Main)Hbf (ab 11:02),9
+15:19 (+3),15:22,RE 3122,Nauen (ab 14:39),8
+15:21 (+3),15:24,RE 3351,Schwedt(Oder) (ab 14:04),6
+15:25,15:25,GV 13427,Amsterdam Centraal (ab 07:05),
+15:28 (+2),15:30,RE 3312,Lutherstadt Wittenberg Hbf (ab 13:51),9
+15:38 (+2),15:40,RE 3123,Cottbus Hbf (ab 14:03),7
+15:47,15:47,ICE 1008,München Hbf (ab 11:18),8
+16:19 (+15),16:34,RE 3124,Nauen (ab 15:39),10
+16:22 (+2),16:24,RE 3311,Stralsund Hbf (ab 13:10),6
+16:24 (+29),16:53,ICE 2825,Köln Hbf (ab 10:44),8
+16:24 (+28),16:52,ICE 557,Köln Hbf (ab 10:44),8
+16:25 (+3),16:28,EC 46,Warszawa Wschodnia (ab 10:49),7
+16:28 (+2),16:30,RE 3352,Lutherstadt Wittenberg Hbf (ab 14:52),9
+16:39 (+31),17:10,RE 3125,Cottbus Hbf (ab 15:03),7
+16:43 (+38),17:21,ICE 690,München Hbf (ab 08:45),8
+16:54,16:54,ICE 935,Ostseebad Binz (ab 13:24),6
+17:02 (+2),17:04,ICE 838,Frankfurt(Main)Hbf (ab 13:02),10
+17:19,17:19,RE 3126,Nauen (ab 16:39),8
+17:21,17:21,RE 3353,Schwedt(Oder) (ab 16:04),6
+17:28 (+1),17:29,RE 3314,Lutherstadt Wittenberg Hbf (ab 15:51),9
+17:38 (+3),17:41,RE 3127,Cottbus Hbf (ab 16:03),7
+17:45 (+2),17:47,ICE 1006,München Hbf (ab 13:17),8
+18:19,18:19,RE 3128,Nauen (ab 17:39),10
+18:22,18:22,RE 3313,Stralsund Hbf (ab 15:14),6
+18:24 (+2),18:26,ICE 559,Köln Hbf (ab 12:44),8
+18:25,18:25,EC 44,Warszawa Wschodnia (ab 12:49),7
+18:28 (+2),18:30,RE 3354,Lutherstadt Wittenberg Hbf (ab 16:52),10
+18:36,18:36,RE 3129,Cottbus Hbf (ab 17:03),7
+18:43 (+32),19:15,ICE 598,München Hbf (ab 10:45),8
+18:54,18:54,ICE 937,Ostseebad Binz (ab 15:24),6
+18:58,18:58,RB 55781,Joachimsthal (ab 18:08),
+18:58 (+2),19:00,RB 55797,Joachimsthal (ab 18:08),
+19:03 (+27),19:30,ICE 751,Frankfurt(Main)Hbf (ab 15:02),8
+19:19,19:19,RE 3130,Nauen (ab 18:39),8
+19:21 (+1),19:22,RE 3355,Schwedt(Oder) (ab 18:04),6
+19:28 (+6),19:34,RE 3316,Lutherstadt Wittenberg Hbf (ab 17:51),9
+19:36 (+1),19:37,RE 3131,Cottbus Hbf (ab 18:03),7
+19:42 (+2),19:44,ICE 1004,München Hbf (ab 15:17),8
+19:59 (+7),20:06,ICE 1130,Frankfurt(Main)Hbf (ab 16:02),10
+20:03 (+30),20:33,ICE 1275,Hamburg Hbf (ab 17:51),8
+20:19,20:19,RE 3132,Nauen (ab 19:39),10
+20:22 (+1),20:23,RE 3315,Stralsund Hbf (ab 17:10),6
+20:24 (+1),20:25,ICE 651,Köln Hbf (ab 14:44),8
+20:25,20:25,EC 42,Warszawa Wschodnia (ab 14:49),7
+20:28 (+13),20:41,RE 3356,Lutherstadt Wittenberg Hbf (ab 18:52),9
+20:36,20:36,RE 3133,Cottbus Hbf (ab 19:03),7
+20:42 (+8),20:50,ICE 596,München Hbf (ab 12:45),8
+20:56,20:56,HBX,Berlin-Lichtenberg (ab 06:45),
+20:56,20:56,RB 80429,Goslar (ab 17:05),9
+20:56,20:56,RB 80439,Thale Hbf (ab 17:17),9
+21:03,21:03,ICE 834,Frankfurt(Main)Hbf (ab 17:02),8
+21:18,21:18,RE 3134,Nauen (ab 20:39),10
+21:21,21:21,RE 3357,Schwedt(Oder) (ab 20:04),6
+21:28 (+58),22:26,RE 3318,Züssow (ab 00:04),9
+21:32 (+58),22:30,ICE 1002,München Hbf (ab 17:19),8
+21:34,21:34,RE 3135,Cottbus Hbf (ab 20:03),7
+21:45 (+56),22:41,ICE 502,München Hbf (ab 16:47),8
+22:22 (+1),22:23,RE 3317,Stralsund Hbf (ab 19:10),6
+22:24 (+11),22:35,ICE 653,Köln Hbf (ab 16:44),8
+22:28 (+10),22:38,RE 3358,Lutherstadt Wittenberg Hbf (ab 20:52),9
+22:34,22:34,RE 3137,Cottbus Hbf (ab 21:03),7
+22:43 (+4),22:47,ICE 594,München Hbf (ab 14:45),8
+22:48,22:48,RE 3136,Vetschau (ab 00:15),
+22:56 (+10),23:06,ICE 1970,Dresden Hbf (ab 20:49),8
+23:03 (+8),23:11,ICE 832,Frankfurt(Main)Hbf (ab 19:02),8
+23:26 (+9),23:35,RE 3359,Eberswalde Hbf (ab 22:53),6
+23:28,23:28,RE 3320,Berlin Hbf (ab 23:24),9
+23:32 Ausfall,--:--,ICE 1000,München Hbf (ab 19:18),8
+23:48,23:48,RE 3138,Nauen (ab 23:08),10
