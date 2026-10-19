@@ -1,0 +1,78 @@
+Ankunft ▼,Ist ▼,Zugnr. ▼,von (Abfahrt) ▼,Gleis ▼
+00:28,00:28,RE 62038,Wismar (ab 21:21),3
+04:25 (+1),04:26,RE 62001,Berlin Hbf (ab 04:25),4
+04:34,04:34,RE 62040,Nauen (ab 04:03),3
+05:29,05:29,RE 62003,Baruth(Mark) (ab 04:18),4
+05:45 (+2),05:47,RE 3103,Cottbus Hbf (ab 04:00),4
+06:11,06:11,RE 3104,Nauen (ab 05:39),3
+06:27,06:27,RE 62002,Wittenberge (ab 05:05),3
+06:29 (+1),06:30,RE 62005,Elsterwerda (ab 04:29),4
+06:48,06:48,RE 3105,Cottbus Hbf (ab 04:57),4
+07:11,07:11,RE 3106,Nauen (ab 06:39),3
+07:26 (+2),07:28,RE 62007,Elsterwerda (ab 05:29),4
+07:27,07:27,RE 62004,Wismar (ab 04:26),3
+08:27,08:27,RE 62006,Wittenberge (ab 07:05),3
+08:29 (+1),08:30,RE 62009,Elsterwerda (ab 06:40),4
+09:24 (+2),09:26,RE 62011,Elsterwerda (ab 07:29),4
+09:26,09:26,RE 62008,Wismar (ab 06:21),3
+10:27 (+2),10:29,RE 62010,Wittenberge (ab 09:05),3
+10:29 (+2),10:31,RE 62013,Elsterwerda (ab 08:40),4
+10:52,10:52,RB 62060,Berlin Südkreuz (ab 10:38),4
+10:58,10:58,RE 3150,Nauen (ab 10:11),3
+10:59,10:59,RB 18612,Falkenberg(Elster) (ab 09:18),4
+10:59,10:59,RE 3151,Falkenberg(Elster) (ab 09:18),4
+11:26 (+10),11:36,RE 62012,Wismar (ab 08:21),3
+11:27 (+1),11:28,RE 62015,Elsterwerda (ab 09:29),4
+11:52,11:52,RB 62062,Berlin Südkreuz (ab 11:38),4
+12:01,12:01,RE 3173,Jüterbog (ab 11:02),4
+12:27 (+5),12:32,RE 62014,Wittenberge (ab 11:05),3
+12:29 (+2),12:31,RE 62017,Baruth(Mark) (ab 11:21),4
+13:27,13:27,RE 62016,Wismar (ab 10:21),3
+13:29,13:29,RE 62019,Elsterwerda (ab 11:29),4
+14:27,14:27,RB 62018,Wittenberge (ab 13:05),3
+14:29 (+6),14:35,RE 62021,Baruth(Mark) (ab 13:20),4
+15:26 (+2),15:28,RE 62020,Wismar (ab 12:21),3
+15:29,15:29,RE 62023,Elsterwerda (ab 13:29),4
+16:27 (+1),16:28,RE 62022,Wittenberge (ab 15:05),3
+16:29 (+2),16:31,RE 62025,Elsterwerda (ab 14:41),4
+17:05,17:05,RB 62073,Nauen (ab 16:33),3
+17:09,17:09,RB 18624,Falkenberg(Elster) (ab 15:18),4
+17:27 (+6),17:33,RE 62024,Wismar (ab 14:21),3
+17:29 (+1),17:30,RE 62027,Elsterwerda (ab 15:29),4
+17:52,17:52,RB 62074,Berlin Südkreuz (ab 17:38),4
+17:59,17:59,RE 3176,Nauen (ab 17:10),3
+17:59,17:59,RE 3179,Jüterbog (ab 17:02),4
+18:05,18:05,RB 62075,Nauen (ab 17:33),3
+18:27,18:27,RE 62026,Wittenberge (ab 17:05),3
+18:29 (+2),18:31,RE 62029,Elsterwerda (ab 16:41),4
+18:58,18:58,RE 3158,Nauen (ab 18:11),3
+18:59,18:59,RB 18628,Falkenberg(Elster) (ab 17:18),4
+19:27 (+91),20:58,RE 62028,Wismar (ab 16:21),3
+19:29,19:29,RE 62031,Elsterwerda (ab 17:29),4
+19:52,19:52,RB 62078,Berlin Südkreuz (ab 19:38),4
+19:59,19:59,RE 3178,Nauen (ab 19:10),3
+20:01,20:01,RB 18630,Jüterbog (ab 19:02),4
+20:01,20:01,RE 3181,Jüterbog (ab 19:02),4
+20:05,20:05,RB 62079,Nauen (ab 19:33),3
+20:27 (+3),20:30,RE 62030,Wittenberge (ab 19:05),3
+20:29 (+2),20:31,RE 62033,Elsterwerda (ab 18:41),4
+20:52,20:52,RB 62080,Berlin Südkreuz (ab 20:38),4
+20:58,20:58,RE 3160,Nauen (ab 20:11),3
+20:59,20:59,RB 18632,Falkenberg(Elster) (ab 19:18),4
+20:59,20:59,RE 3161,Falkenberg(Elster) (ab 19:18),4
+21:27 (+79),22:46,RE 62032,Wismar (ab 18:21),3
+21:29 (+2),21:31,RE 62035,Elsterwerda (ab 19:29),4
+21:46,21:46,RE 3135,Lübben(Spreewald) (ab 20:34),4
+21:52,21:52,RB 62082,Berlin Südkreuz (ab 21:38),4
+21:59,21:59,RB 18634,Jüterbog (ab 21:02),4
+21:59,21:59,RE 3183,Jüterbog (ab 21:02),4
+22:05,22:05,RB 62083,Nauen (ab 21:33),3
+22:27,22:27,RE 62034,Wittenberge (ab 21:05),3
+22:29 (+15),22:44,RE 62037,Baruth(Mark) (ab 21:20),4
+22:40,22:40,RE 3136,Nauen (ab 22:08),3
+22:47,22:47,RE 3137,Lübben(Spreewald) (ab 21:34),4
+23:06,23:06,RB 62085,Nauen (ab 22:33),3
+23:09,23:09,RB 18636,Jüterbog (ab 22:04),4
+23:27,23:27,RE 62036,Wismar (ab 20:21),3
+23:29 (+4),23:33,RE 62039,Elsterwerda (ab 21:30),4
+23:40,23:40,RE 3138,Nauen (ab 23:08),3
